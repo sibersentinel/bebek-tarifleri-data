@@ -15,7 +15,7 @@
       { "tr": "Az suda yumuşayana kadar haşlayın.", "en": "Boil until soft." },
       { "tr": "Cam rende ile püre haline getirin.", "en": "Mash into a puree." }
     ],
-    "imageUrl": "images/elmapuresi.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/sibersentinel/bebek-tarifleri-data/443e272b3f248e8012ae4b9448428cd093843c0b/images/elmapuresi.jpg"
   },
   {
     "id": "550e8400-e29b-41d4-a716-446655440002",
@@ -33,7 +33,7 @@
       { "tr": "Sebzeleri soyup buharda pişirin.", "en": "Peel and steam vegetables." },
       { "tr": "Zeytinyağı ekleyip ezin.", "en": "Add olive oil and mash." }
     ],
-    "imageUrl": "https://github.com/sibersentinel/bebek-tarifleri-data/blob/1f47d0d0aec3a37b17eb54b8eb66e9cbd31c587e/images/elmapuresi.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/sibersentinel/bebek-tarifleri-data/443e272b3f248e8012ae4b9448428cd093843c0b/images/elmapuresi.jpg"
   },
   {
     "id": "550e8400-e29b-41d4-a716-446655440003",
