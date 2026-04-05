@@ -92,7 +92,7 @@
       { "tr": "Yumuşayana kadar haşlayın.", "en": "Boil until soft." },
       { "tr": "Ezerek püre haline getirin.", "en": "Mash into puree." }
     ]
-  }
+  },
   [
   {
     "id": "sv1",
@@ -188,8 +188,7 @@
       { "tr": "Sebzeleri buharda pişirin.", "en": "Steam vegetables." },
       { "tr": "Ezerek püre yapın.", "en": "Mash." }
     ]
-  }
-[
+  },
   {
     "id": "fr1",
     "title": { "tr": "Muz Püresi", "en": "Banana Puree" },
@@ -275,7 +274,7 @@
       { "tr": "Elmayı haşla.", "en": "Boil apple." },
       { "tr": "Muzla karıştır.", "en": "Mix with banana." }
     ]
-  }
+  },
   [
   {
     "id": "th1",
@@ -367,5 +366,180 @@
       { "tr": "İrmiği pişirin.", "en": "Cook semolina." },
       { "tr": "Elma püresi ekleyin.", "en": "Add apple puree." }
     ]
-  }
-]
+  },
+  [
+  {
+    "id": "pr1",
+    "title": { "tr": "Kıymalı Sebze Püresi", "en": "Minced Meat Veggie Puree" },
+    "description": { "tr": "Güçlü büyüme için protein dolu bir öğün.", "en": "Protein-rich meal." },
+    "category": "Protein İçeren Tarifler",
+    "ingredients": [
+      { "amount": 50, "unit": { "tr": "gram", "en": "g" }, "baseName": { "tr": "kıyma", "en": "minced meat" }, "shoppingLabel": { "tr": "Kıyma", "en": "Meat" } },
+      { "amount": 0.5, "unit": { "tr": "adet", "en": "pcs" }, "baseName": { "tr": "kabak", "en": "zucchini" }, "shoppingLabel": { "tr": "Kabak", "en": "Zucchini" } }
+    ],
+    "preparationTime": 20,
+    "calories": 120,
+    "suitableAgeInMonths": 7,
+    "allergicIngredients": [],
+    "instructions": [
+      { "tr": "Kıymayı pişirin.", "en": "Cook minced meat." },
+      { "tr": "Sebzeyle karıştırıp püre yapın.", "en": "Mix with veggies and mash." }
+    ]
+  },
+  {
+    "id": "pr2",
+    "title": { "tr": "Tavuklu Sebze Püresi", "en": "Chicken Veggie Puree" },
+    "description": { "tr": "Nazik ve besleyici bir protein kaynağı.", "en": "Gentle protein meal." },
+    "category": "Protein İçeren Tarifler",
+    "ingredients": [
+      { "amount": 50, "unit": { "tr": "gram", "en": "g" }, "baseName": { "tr": "tavuk", "en": "chicken" }, "shoppingLabel": { "tr": "Tavuk", "en": "Chicken" } },
+      { "amount": 0.5, "unit": { "tr": "adet", "en": "pcs" }, "baseName": { "tr": "havuç", "en": "carrot" }, "shoppingLabel": { "tr": "Havuç", "en": "Carrot" } }
+    ],
+    "preparationTime": 20,
+    "calories": 110,
+    "suitableAgeInMonths": 7,
+    "allergicIngredients": [],
+    "instructions": [
+      { "tr": "Tavuğu haşlayın.", "en": "Boil chicken." },
+      { "tr": "Sebzeyle birlikte püre yapın.", "en": "Mash with vegetables." }
+    ]
+  },
+  {
+    "id": "pr3",
+    "title": { "tr": "Yumurtalı Kahvaltı Püresi", "en": "Egg Breakfast Puree" },
+    "description": { "tr": "Güne güçlü bir başlangıç.", "en": "Strong start." },
+    "category": "Protein İçeren Tarifler",
+    "ingredients": [
+      { "amount": 1, "unit": { "tr": "adet", "en": "pcs" }, "baseName": { "tr": "yumurta sarısı", "en": "egg yolk" }, "shoppingLabel": { "tr": "Yumurta", "en": "Egg" } }
+    ],
+    "preparationTime": 10,
+    "calories": 55,
+    "suitableAgeInMonths": 7,
+    "allergicIngredients": [{ "tr": "yumurta", "en": "egg" }],
+    "instructions": [
+      { "tr": "Yumurtayı haşlayın.", "en": "Boil egg." },
+      { "tr": "Sarısını ezin.", "en": "Mash yolk." }
+    ]
+  },
+  {
+    "id": "pr4",
+    "title": { "tr": "Mercimek Püresi", "en": "Lentil Puree" },
+    "description": { "tr": "Bitkisel protein deposu.", "en": "Plant protein." },
+    "category": "Protein İçeren Tarifler",
+    "ingredients": [
+      { "amount": 2, "unit": { "tr": "yemek kaşığı", "en": "tbsp" }, "baseName": { "tr": "kırmızı mercimek", "en": "red lentils" }, "shoppingLabel": { "tr": "Mercimek", "en": "Lentils" } }
+    ],
+    "preparationTime": 15,
+    "calories": 90,
+    "suitableAgeInMonths": 7,
+    "allergicIngredients": [],
+    "instructions": [
+      { "tr": "Mercimeği haşlayın.", "en": "Boil lentils." },
+      { "tr": "Püre yapın.", "en": "Mash." }
+    ]
+  },
+  {
+    "id": "pr5",
+    "title": { "tr": "Balık Sebze Püresi", "en": "Fish Veggie Puree" },
+    "description": { "tr": "Beyin gelişimi için harika bir destek.", "en": "Great for brain development." },
+    "category": "Protein İçeren Tarifler",
+    "ingredients": [
+      { "amount": 50, "unit": { "tr": "gram", "en": "g" }, "baseName": { "tr": "balık fileto", "en": "fish fillet" }, "shoppingLabel": { "tr": "Balık", "en": "Fish" } }
+    ],
+    "preparationTime": 20,
+    "calories": 110,
+    "suitableAgeInMonths": 8,
+    "allergicIngredients": [{ "tr": "balık", "en": "fish" }],
+    "instructions": [
+      { "tr": "Balığı pişirin.", "en": "Cook fish." },
+      { "tr": "Ezerek sebzeyle karıştırın.", "en": "Mash and mix." }
+    ]
+  },
+  [
+  {
+    "id": "pr1",
+    "title": { "tr": "Kıymalı Sebze Püresi", "en": "Minced Meat Veggie Puree" },
+    "description": { "tr": "Güçlü büyüme için protein dolu bir öğün.", "en": "Protein-rich meal." },
+    "category": "Protein İçeren Tarifler",
+    "ingredients": [
+      { "amount": 50, "unit": { "tr": "gram", "en": "g" }, "baseName": { "tr": "kıyma", "en": "minced meat" }, "shoppingLabel": { "tr": "Kıyma", "en": "Meat" } },
+      { "amount": 0.5, "unit": { "tr": "adet", "en": "pcs" }, "baseName": { "tr": "kabak", "en": "zucchini" }, "shoppingLabel": { "tr": "Kabak", "en": "Zucchini" } }
+    ],
+    "preparationTime": 20,
+    "calories": 120,
+    "suitableAgeInMonths": 7,
+    "allergicIngredients": [],
+    "instructions": [
+      { "tr": "Kıymayı pişirin.", "en": "Cook minced meat." },
+      { "tr": "Sebzeyle karıştırıp püre yapın.", "en": "Mix with veggies and mash." }
+    ]
+  },
+  {
+    "id": "pr2",
+    "title": { "tr": "Tavuklu Sebze Püresi", "en": "Chicken Veggie Puree" },
+    "description": { "tr": "Nazik ve besleyici bir protein kaynağı.", "en": "Gentle protein meal." },
+    "category": "Protein İçeren Tarifler",
+    "ingredients": [
+      { "amount": 50, "unit": { "tr": "gram", "en": "g" }, "baseName": { "tr": "tavuk", "en": "chicken" }, "shoppingLabel": { "tr": "Tavuk", "en": "Chicken" } },
+      { "amount": 0.5, "unit": { "tr": "adet", "en": "pcs" }, "baseName": { "tr": "havuç", "en": "carrot" }, "shoppingLabel": { "tr": "Havuç", "en": "Carrot" } }
+    ],
+    "preparationTime": 20,
+    "calories": 110,
+    "suitableAgeInMonths": 7,
+    "allergicIngredients": [],
+    "instructions": [
+      { "tr": "Tavuğu haşlayın.", "en": "Boil chicken." },
+      { "tr": "Sebzeyle birlikte püre yapın.", "en": "Mash with vegetables." }
+    ]
+  },
+  {
+    "id": "pr3",
+    "title": { "tr": "Yumurtalı Kahvaltı Püresi", "en": "Egg Breakfast Puree" },
+    "description": { "tr": "Güne güçlü bir başlangıç.", "en": "Strong start." },
+    "category": "Protein İçeren Tarifler",
+    "ingredients": [
+      { "amount": 1, "unit": { "tr": "adet", "en": "pcs" }, "baseName": { "tr": "yumurta sarısı", "en": "egg yolk" }, "shoppingLabel": { "tr": "Yumurta", "en": "Egg" } }
+    ],
+    "preparationTime": 10,
+    "calories": 55,
+    "suitableAgeInMonths": 7,
+    "allergicIngredients": [{ "tr": "yumurta", "en": "egg" }],
+    "instructions": [
+      { "tr": "Yumurtayı haşlayın.", "en": "Boil egg." },
+      { "tr": "Sarısını ezin.", "en": "Mash yolk." }
+    ]
+  },
+  {
+    "id": "pr4",
+    "title": { "tr": "Mercimek Püresi", "en": "Lentil Puree" },
+    "description": { "tr": "Bitkisel protein deposu.", "en": "Plant protein." },
+    "category": "Protein İçeren Tarifler",
+    "ingredients": [
+      { "amount": 2, "unit": { "tr": "yemek kaşığı", "en": "tbsp" }, "baseName": { "tr": "kırmızı mercimek", "en": "red lentils" }, "shoppingLabel": { "tr": "Mercimek", "en": "Lentils" } }
+    ],
+    "preparationTime": 15,
+    "calories": 90,
+    "suitableAgeInMonths": 7,
+    "allergicIngredients": [],
+    "instructions": [
+      { "tr": "Mercimeği haşlayın.", "en": "Boil lentils." },
+      { "tr": "Püre yapın.", "en": "Mash." }
+    ]
+  },
+  {
+    "id": "pr5",
+    "title": { "tr": "Balık Sebze Püresi", "en": "Fish Veggie Puree" },
+    "description": { "tr": "Beyin gelişimi için harika bir destek.", "en": "Great for brain development." },
+    "category": "Protein İçeren Tarifler",
+    "ingredients": [
+      { "amount": 50, "unit": { "tr": "gram", "en": "g" }, "baseName": { "tr": "balık fileto", "en": "fish fillet" }, "shoppingLabel": { "tr": "Balık", "en": "Fish" } }
+    ],
+    "preparationTime": 20,
+    "calories": 110,
+    "suitableAgeInMonths": 8,
+    "allergicIngredients": [{ "tr": "balık", "en": "fish" }],
+    "instructions": [
+      { "tr": "Balığı pişirin.", "en": "Cook fish." },
+      { "tr": "Ezerek sebzeyle karıştırın.", "en": "Mash and mix." }
+    ]
+  }]]]]]
