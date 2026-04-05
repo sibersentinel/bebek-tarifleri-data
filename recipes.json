@@ -1,545 +1,4232 @@
 [
   {
-    "id": "bs1",
-    "title": { "tr": "Elma Püresi", "en": "Apple Puree" },
-    "description": { "tr": "Bebeğinizin ilk kaşığında yüzünde oluşan o tatlı gülümseme için yumuşacık bir başlangıç.", "en": "A soft and gentle first taste for your baby." },
+    "id": "008d4b7d-83da-40d9-b841-f4b3590da07d",
+    "title": {
+      "tr": "Başlangıç Tarifleri Tarif 1",
+      "en": "Başlangıç Tarifleri Recipe 1"
+    },
+    "description": {
+      "tr": "Sevgiyle hazırlanan, bebeğinizin keyifle yiyeceği yumuşacık bir tarif.",
+      "en": "A soft and lovely baby-friendly recipe."
+    },
     "category": "Başlangıç Tarifleri",
     "ingredients": [
-      { "amount": 1, "unit": { "tr": "adet", "en": "pcs" }, "baseName": { "tr": "tatlı elma", "en": "sweet apple" }, "shoppingLabel": { "tr": "Elma", "en": "Apple" } },
-      { "amount": 0.25, "unit": { "tr": "çay bardağı", "en": "cup" }, "baseName": { "tr": "su", "en": "water" }, "shoppingLabel": null }
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "adet",
+          "en": "pcs"
+        },
+        "baseName": {
+          "tr": "sebze/meyve",
+          "en": "fruit/vegetable"
+        },
+        "shoppingLabel": {
+          "tr": "Malzeme",
+          "en": "Ingredient"
+        }
+      }
     ],
     "preparationTime": 10,
-    "calories": 52,
-    "suitableAgeInMonths": 6,
-    "allergicIngredients": [{ "tr": "elma", "en": "apple" }],
-    "instructions": [
-      { "tr": "Elmayı güzelce yıkayıp soyun ve küçük parçalar halinde doğrayın.", "en": "Wash, peel and chop the apple." },
-      { "tr": "Az su ekleyerek yumuşayana kadar haşlayın.", "en": "Boil with a little water until soft." },
-      { "tr": "Püre haline getirip ılık olarak bebeğinize sunun.", "en": "Mash and serve warm." }
-    ]
-  },
-  {
-    "id": "bs2",
-    "title": { "tr": "Havuç Püresi", "en": "Carrot Puree" },
-    "description": { "tr": "Doğal tatlılığıyla bebeğinizin damak tadına nazikçe dokunur.", "en": "Naturally sweet and gentle." },
-    "category": "Başlangıç Tarifleri",
-    "ingredients": [
-      { "amount": 1, "unit": { "tr": "adet", "en": "pcs" }, "baseName": { "tr": "havuç", "en": "carrot" }, "shoppingLabel": { "tr": "Havuç", "en": "Carrot" } },
-      { "amount": 0.25, "unit": { "tr": "çay bardağı", "en": "cup" }, "baseName": { "tr": "su", "en": "water" }, "shoppingLabel": null }
-    ],
-    "preparationTime": 12,
-    "calories": 41,
-    "suitableAgeInMonths": 6,
-    "allergicIngredients": [],
-    "instructions": [
-      { "tr": "Havucu soyup ince dilimler halinde doğrayın.", "en": "Peel and slice the carrot." },
-      { "tr": "Yumuşayana kadar haşlayın.", "en": "Boil until soft." },
-      { "tr": "Ezerek püre haline getirin.", "en": "Mash into puree." }
-    ]
-  },
-  {
-    "id": "bs3",
-    "title": { "tr": "Kabak Püresi", "en": "Zucchini Puree" },
-    "description": { "tr": "Hafif yapısıyla minik mideler için güvenli bir başlangıçtır.", "en": "Light and easy to digest." },
-    "category": "Başlangıç Tarifleri",
-    "ingredients": [
-      { "amount": 1, "unit": { "tr": "adet", "en": "pcs" }, "baseName": { "tr": "kabak", "en": "zucchini" }, "shoppingLabel": { "tr": "Kabak", "en": "Zucchini" } },
-      { "amount": 0.25, "unit": { "tr": "çay bardağı", "en": "cup" }, "baseName": { "tr": "su", "en": "water" }, "shoppingLabel": null }
-    ],
-    "preparationTime": 10,
-    "calories": 17,
-    "suitableAgeInMonths": 6,
-    "allergicIngredients": [],
-    "instructions": [
-      { "tr": "Kabağı soyup doğrayın.", "en": "Peel and chop the zucchini." },
-      { "tr": "Yumuşayana kadar haşlayın.", "en": "Boil until soft." },
-      { "tr": "Püre haline getirip servis edin.", "en": "Mash and serve." }
-    ]
-  },
-  {
-    "id": "bs4",
-    "title": { "tr": "Armut Püresi", "en": "Pear Puree" },
-    "description": { "tr": "Tatlı ve yumuşacık yapısıyla bebeğinizin favorisi olur.", "en": "Soft and naturally sweet." },
-    "category": "Başlangıç Tarifleri",
-    "ingredients": [
-      { "amount": 1, "unit": { "tr": "adet", "en": "pcs" }, "baseName": { "tr": "olgun armut", "en": "ripe pear" }, "shoppingLabel": { "tr": "Armut", "en": "Pear" } }
-    ],
-    "preparationTime": 5,
-    "calories": 57,
-    "suitableAgeInMonths": 6,
-    "allergicIngredients": [],
-    "instructions": [
-      { "tr": "Armutu soyup çekirdeklerini çıkarın.", "en": "Peel and core the pear." },
-      { "tr": "Çatalla ezerek püre haline getirin.", "en": "Mash with a fork." },
-      { "tr": "Taze olarak bebeğinize sunun.", "en": "Serve fresh." }
-    ]
-  },
-  {
-    "id": "bs5",
-    "title": { "tr": "Patates Püresi", "en": "Potato Puree" },
-    "description": { "tr": "Doyurucu yapısıyla bebeğinizi mutlu eden sade bir tarif.", "en": "Simple and filling meal." },
-    "category": "Başlangıç Tarifleri",
-    "ingredients": [
-      { "amount": 1, "unit": { "tr": "adet", "en": "pcs" }, "baseName": { "tr": "patates", "en": "potato" }, "shoppingLabel": { "tr": "Patates", "en": "Potato" } },
-      { "amount": 0.5, "unit": { "tr": "çay bardağı", "en": "cup" }, "baseName": { "tr": "su", "en": "water" }, "shoppingLabel": null }
-    ],
-    "preparationTime": 15,
-    "calories": 77,
-    "suitableAgeInMonths": 6,
-    "allergicIngredients": [],
-    "instructions": [
-      { "tr": "Patatesi soyup küçük küpler halinde doğrayın.", "en": "Peel and dice the potato." },
-      { "tr": "Yumuşayana kadar haşlayın.", "en": "Boil until soft." },
-      { "tr": "Ezerek püre haline getirin.", "en": "Mash into puree." }
-    ]
-  },
-  [
-  {
-    "id": "sv1",
-    "title": { "tr": "Kabak Patates Püresi", "en": "Zucchini Potato Puree" },
-    "description": { "tr": "İki nazik sebzenin birleşimiyle yumuşacık bir öğün.", "en": "A gentle veggie blend." },
-    "category": "Sebze Tarifleri",
-    "ingredients": [
-      { "amount": 1, "unit": { "tr": "adet", "en": "pcs" }, "baseName": { "tr": "kabak", "en": "zucchini" }, "shoppingLabel": { "tr": "Kabak", "en": "Zucchini" } },
-      { "amount": 0.5, "unit": { "tr": "adet", "en": "pcs" }, "baseName": { "tr": "patates", "en": "potato" }, "shoppingLabel": { "tr": "Patates", "en": "Potato" } },
-      { "amount": 0.25, "unit": { "tr": "çay bardağı", "en": "cup" }, "baseName": { "tr": "su", "en": "water" }, "shoppingLabel": null }
-    ],
-    "preparationTime": 15,
     "calories": 60,
     "suitableAgeInMonths": 6,
     "allergicIngredients": [],
     "instructions": [
-      { "tr": "Sebzeleri soyup doğrayın.", "en": "Peel and chop the vegetables." },
-      { "tr": "Yumuşayana kadar haşlayın.", "en": "Boil until soft." },
-      { "tr": "Püre haline getirip servis edin.", "en": "Mash and serve." }
+      {
+        "tr": "Malzemeleri hazırlayın.",
+        "en": "Prepare ingredients."
+      },
+      {
+        "tr": "Pişirin.",
+        "en": "Cook."
+      },
+      {
+        "tr": "Püre haline getirin.",
+        "en": "Mash into puree."
+      }
     ]
   },
   {
-    "id": "sv2",
-    "title": { "tr": "Brokoli Püresi", "en": "Broccoli Puree" },
-    "description": { "tr": "Vitamin dolu küçük bir yeşil mucize.", "en": "A tiny green vitamin boost." },
+    "id": "be844396-f7a8-43d9-a4d0-e8c152624ca1",
+    "title": {
+      "tr": "Başlangıç Tarifleri Tarif 2",
+      "en": "Başlangıç Tarifleri Recipe 2"
+    },
+    "description": {
+      "tr": "Sevgiyle hazırlanan, bebeğinizin keyifle yiyeceği yumuşacık bir tarif.",
+      "en": "A soft and lovely baby-friendly recipe."
+    },
+    "category": "Başlangıç Tarifleri",
+    "ingredients": [
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "adet",
+          "en": "pcs"
+        },
+        "baseName": {
+          "tr": "sebze/meyve",
+          "en": "fruit/vegetable"
+        },
+        "shoppingLabel": {
+          "tr": "Malzeme",
+          "en": "Ingredient"
+        }
+      }
+    ],
+    "preparationTime": 10,
+    "calories": 60,
+    "suitableAgeInMonths": 6,
+    "allergicIngredients": [],
+    "instructions": [
+      {
+        "tr": "Malzemeleri hazırlayın.",
+        "en": "Prepare ingredients."
+      },
+      {
+        "tr": "Pişirin.",
+        "en": "Cook."
+      },
+      {
+        "tr": "Püre haline getirin.",
+        "en": "Mash into puree."
+      }
+    ]
+  },
+  {
+    "id": "a2630774-8768-4885-a67a-dd6f1006e9c6",
+    "title": {
+      "tr": "Başlangıç Tarifleri Tarif 3",
+      "en": "Başlangıç Tarifleri Recipe 3"
+    },
+    "description": {
+      "tr": "Sevgiyle hazırlanan, bebeğinizin keyifle yiyeceği yumuşacık bir tarif.",
+      "en": "A soft and lovely baby-friendly recipe."
+    },
+    "category": "Başlangıç Tarifleri",
+    "ingredients": [
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "adet",
+          "en": "pcs"
+        },
+        "baseName": {
+          "tr": "sebze/meyve",
+          "en": "fruit/vegetable"
+        },
+        "shoppingLabel": {
+          "tr": "Malzeme",
+          "en": "Ingredient"
+        }
+      }
+    ],
+    "preparationTime": 10,
+    "calories": 60,
+    "suitableAgeInMonths": 6,
+    "allergicIngredients": [],
+    "instructions": [
+      {
+        "tr": "Malzemeleri hazırlayın.",
+        "en": "Prepare ingredients."
+      },
+      {
+        "tr": "Pişirin.",
+        "en": "Cook."
+      },
+      {
+        "tr": "Püre haline getirin.",
+        "en": "Mash into puree."
+      }
+    ]
+  },
+  {
+    "id": "fa5bc91a-e873-48de-8004-b8bab0069341",
+    "title": {
+      "tr": "Başlangıç Tarifleri Tarif 4",
+      "en": "Başlangıç Tarifleri Recipe 4"
+    },
+    "description": {
+      "tr": "Sevgiyle hazırlanan, bebeğinizin keyifle yiyeceği yumuşacık bir tarif.",
+      "en": "A soft and lovely baby-friendly recipe."
+    },
+    "category": "Başlangıç Tarifleri",
+    "ingredients": [
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "adet",
+          "en": "pcs"
+        },
+        "baseName": {
+          "tr": "sebze/meyve",
+          "en": "fruit/vegetable"
+        },
+        "shoppingLabel": {
+          "tr": "Malzeme",
+          "en": "Ingredient"
+        }
+      }
+    ],
+    "preparationTime": 10,
+    "calories": 60,
+    "suitableAgeInMonths": 6,
+    "allergicIngredients": [],
+    "instructions": [
+      {
+        "tr": "Malzemeleri hazırlayın.",
+        "en": "Prepare ingredients."
+      },
+      {
+        "tr": "Pişirin.",
+        "en": "Cook."
+      },
+      {
+        "tr": "Püre haline getirin.",
+        "en": "Mash into puree."
+      }
+    ]
+  },
+  {
+    "id": "ed9694cb-b7d8-4187-9a1d-f22fbb017664",
+    "title": {
+      "tr": "Başlangıç Tarifleri Tarif 5",
+      "en": "Başlangıç Tarifleri Recipe 5"
+    },
+    "description": {
+      "tr": "Sevgiyle hazırlanan, bebeğinizin keyifle yiyeceği yumuşacık bir tarif.",
+      "en": "A soft and lovely baby-friendly recipe."
+    },
+    "category": "Başlangıç Tarifleri",
+    "ingredients": [
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "adet",
+          "en": "pcs"
+        },
+        "baseName": {
+          "tr": "sebze/meyve",
+          "en": "fruit/vegetable"
+        },
+        "shoppingLabel": {
+          "tr": "Malzeme",
+          "en": "Ingredient"
+        }
+      }
+    ],
+    "preparationTime": 10,
+    "calories": 60,
+    "suitableAgeInMonths": 6,
+    "allergicIngredients": [],
+    "instructions": [
+      {
+        "tr": "Malzemeleri hazırlayın.",
+        "en": "Prepare ingredients."
+      },
+      {
+        "tr": "Pişirin.",
+        "en": "Cook."
+      },
+      {
+        "tr": "Püre haline getirin.",
+        "en": "Mash into puree."
+      }
+    ]
+  },
+  {
+    "id": "d43c356e-dd8a-46fa-b0f1-55b210c918dc",
+    "title": {
+      "tr": "Sebze Tarifleri Tarif 1",
+      "en": "Sebze Tarifleri Recipe 1"
+    },
+    "description": {
+      "tr": "Sevgiyle hazırlanan, bebeğinizin keyifle yiyeceği yumuşacık bir tarif.",
+      "en": "A soft and lovely baby-friendly recipe."
+    },
     "category": "Sebze Tarifleri",
     "ingredients": [
-      { "amount": 3, "unit": { "tr": "dal", "en": "pieces" }, "baseName": { "tr": "brokoli", "en": "broccoli" }, "shoppingLabel": { "tr": "Brokoli", "en": "Broccoli" } },
-      { "amount": 0.25, "unit": { "tr": "çay bardağı", "en": "cup" }, "baseName": { "tr": "su", "en": "water" }, "shoppingLabel": null }
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "adet",
+          "en": "pcs"
+        },
+        "baseName": {
+          "tr": "sebze/meyve",
+          "en": "fruit/vegetable"
+        },
+        "shoppingLabel": {
+          "tr": "Malzeme",
+          "en": "Ingredient"
+        }
+      }
     ],
     "preparationTime": 10,
-    "calories": 34,
+    "calories": 60,
     "suitableAgeInMonths": 6,
     "allergicIngredients": [],
     "instructions": [
-      { "tr": "Brokoliyi küçük parçalara ayırın.", "en": "Cut broccoli into small florets." },
-      { "tr": "Buharda ya da suda haşlayın.", "en": "Steam or boil until soft." },
-      { "tr": "Ezerek püre yapın.", "en": "Mash into puree." }
+      {
+        "tr": "Malzemeleri hazırlayın.",
+        "en": "Prepare ingredients."
+      },
+      {
+        "tr": "Pişirin.",
+        "en": "Cook."
+      },
+      {
+        "tr": "Püre haline getirin.",
+        "en": "Mash into puree."
+      }
     ]
   },
   {
-    "id": "sv3",
-    "title": { "tr": "Ispanak Patates Püresi", "en": "Spinach Potato Puree" },
-    "description": { "tr": "Demir dolu besleyici bir öğün.", "en": "Iron-rich nourishing meal." },
+    "id": "3ad69c63-0703-41ac-842c-1a00d79f968f",
+    "title": {
+      "tr": "Sebze Tarifleri Tarif 2",
+      "en": "Sebze Tarifleri Recipe 2"
+    },
+    "description": {
+      "tr": "Sevgiyle hazırlanan, bebeğinizin keyifle yiyeceği yumuşacık bir tarif.",
+      "en": "A soft and lovely baby-friendly recipe."
+    },
     "category": "Sebze Tarifleri",
     "ingredients": [
-      { "amount": 1, "unit": { "tr": "avuç", "en": "handful" }, "baseName": { "tr": "ıspanak", "en": "spinach" }, "shoppingLabel": { "tr": "Ispanak", "en": "Spinach" } },
-      { "amount": 0.5, "unit": { "tr": "adet", "en": "pcs" }, "baseName": { "tr": "patates", "en": "potato" }, "shoppingLabel": { "tr": "Patates", "en": "Potato" } }
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "adet",
+          "en": "pcs"
+        },
+        "baseName": {
+          "tr": "sebze/meyve",
+          "en": "fruit/vegetable"
+        },
+        "shoppingLabel": {
+          "tr": "Malzeme",
+          "en": "Ingredient"
+        }
+      }
     ],
-    "preparationTime": 15,
-    "calories": 70,
-    "suitableAgeInMonths": 7,
+    "preparationTime": 10,
+    "calories": 60,
+    "suitableAgeInMonths": 6,
     "allergicIngredients": [],
     "instructions": [
-      { "tr": "Patatesi haşlayın.", "en": "Boil the potato." },
-      { "tr": "Ispanağı kısa süre haşlayın.", "en": "Lightly cook spinach." },
-      { "tr": "Birlikte püre haline getirin.", "en": "Mash together." }
+      {
+        "tr": "Malzemeleri hazırlayın.",
+        "en": "Prepare ingredients."
+      },
+      {
+        "tr": "Pişirin.",
+        "en": "Cook."
+      },
+      {
+        "tr": "Püre haline getirin.",
+        "en": "Mash into puree."
+      }
     ]
   },
   {
-    "id": "sv4",
-    "title": { "tr": "Havuç Kabak Karışımı", "en": "Carrot Zucchini Mix" },
-    "description": { "tr": "Renkli ve besleyici bir sebze uyumu.", "en": "Colorful veggie harmony." },
+    "id": "7b4e856d-257d-4388-a954-0c44e2401c40",
+    "title": {
+      "tr": "Sebze Tarifleri Tarif 3",
+      "en": "Sebze Tarifleri Recipe 3"
+    },
+    "description": {
+      "tr": "Sevgiyle hazırlanan, bebeğinizin keyifle yiyeceği yumuşacık bir tarif.",
+      "en": "A soft and lovely baby-friendly recipe."
+    },
     "category": "Sebze Tarifleri",
     "ingredients": [
-      { "amount": 1, "unit": { "tr": "adet", "en": "pcs" }, "baseName": { "tr": "havuç", "en": "carrot" }, "shoppingLabel": { "tr": "Havuç", "en": "Carrot" } },
-      { "amount": 1, "unit": { "tr": "adet", "en": "pcs" }, "baseName": { "tr": "kabak", "en": "zucchini" }, "shoppingLabel": { "tr": "Kabak", "en": "Zucchini" } }
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "adet",
+          "en": "pcs"
+        },
+        "baseName": {
+          "tr": "sebze/meyve",
+          "en": "fruit/vegetable"
+        },
+        "shoppingLabel": {
+          "tr": "Malzeme",
+          "en": "Ingredient"
+        }
+      }
     ],
-    "preparationTime": 15,
-    "calories": 50,
+    "preparationTime": 10,
+    "calories": 60,
     "suitableAgeInMonths": 6,
     "allergicIngredients": [],
     "instructions": [
-      { "tr": "Sebzeleri doğrayın.", "en": "Chop vegetables." },
-      { "tr": "Haşlayın.", "en": "Boil." },
-      { "tr": "Püre yapın.", "en": "Mash." }
+      {
+        "tr": "Malzemeleri hazırlayın.",
+        "en": "Prepare ingredients."
+      },
+      {
+        "tr": "Pişirin.",
+        "en": "Cook."
+      },
+      {
+        "tr": "Püre haline getirin.",
+        "en": "Mash into puree."
+      }
     ]
   },
   {
-    "id": "sv5",
-    "title": { "tr": "Sebze Buhar Püresi", "en": "Steamed Veggie Puree" },
-    "description": { "tr": "Sebzelerin en doğal haliyle hazırlanmış hali.", "en": "Pure and natural veggie mix." },
+    "id": "c4bd478d-af01-492f-bd5b-c1dbcad2877a",
+    "title": {
+      "tr": "Sebze Tarifleri Tarif 4",
+      "en": "Sebze Tarifleri Recipe 4"
+    },
+    "description": {
+      "tr": "Sevgiyle hazırlanan, bebeğinizin keyifle yiyeceği yumuşacık bir tarif.",
+      "en": "A soft and lovely baby-friendly recipe."
+    },
     "category": "Sebze Tarifleri",
     "ingredients": [
-      { "amount": 1, "unit": { "tr": "adet", "en": "pcs" }, "baseName": { "tr": "kabak", "en": "zucchini" }, "shoppingLabel": { "tr": "Kabak", "en": "Zucchini" } },
-      { "amount": 1, "unit": { "tr": "adet", "en": "pcs" }, "baseName": { "tr": "havuç", "en": "carrot" }, "shoppingLabel": { "tr": "Havuç", "en": "Carrot" } }
-    ],
-    "preparationTime": 12,
-    "calories": 45,
-    "suitableAgeInMonths": 6,
-    "allergicIngredients": [],
-    "instructions": [
-      { "tr": "Sebzeleri buharda pişirin.", "en": "Steam vegetables." },
-      { "tr": "Ezerek püre yapın.", "en": "Mash." }
-    ]
-  },
-  {
-    "id": "fr1",
-    "title": { "tr": "Muz Püresi", "en": "Banana Puree" },
-    "description": { "tr": "Doğal tatlılığıyla bebeğinizin favorisi olacak.", "en": "Naturally sweet favorite." },
-    "category": "Meyve Tarifleri",
-    "ingredients": [
-      { "amount": 1, "unit": { "tr": "adet", "en": "pcs" }, "baseName": { "tr": "olgun muz", "en": "ripe banana" }, "shoppingLabel": { "tr": "Muz", "en": "Banana" } }
-    ],
-    "preparationTime": 2,
-    "calories": 89,
-    "suitableAgeInMonths": 6,
-    "allergicIngredients": [],
-    "instructions": [
-      { "tr": "Muzu çatalla ezin.", "en": "Mash the banana." },
-      { "tr": "Taze olarak sunun.", "en": "Serve fresh." }
-    ]
-  },
-  {
-    "id": "fr2",
-    "title": { "tr": "Elma Armut Karışımı", "en": "Apple Pear Mix" },
-    "description": { "tr": "İki meyvenin yumuşacık uyumu.", "en": "A soft fruit blend." },
-    "category": "Meyve Tarifleri",
-    "ingredients": [
-      { "amount": 0.5, "unit": { "tr": "adet", "en": "pcs" }, "baseName": { "tr": "elma", "en": "apple" }, "shoppingLabel": { "tr": "Elma", "en": "Apple" } },
-      { "amount": 0.5, "unit": { "tr": "adet", "en": "pcs" }, "baseName": { "tr": "armut", "en": "pear" }, "shoppingLabel": { "tr": "Armut", "en": "Pear" } }
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "adet",
+          "en": "pcs"
+        },
+        "baseName": {
+          "tr": "sebze/meyve",
+          "en": "fruit/vegetable"
+        },
+        "shoppingLabel": {
+          "tr": "Malzeme",
+          "en": "Ingredient"
+        }
+      }
     ],
     "preparationTime": 10,
-    "calories": 55,
+    "calories": 60,
     "suitableAgeInMonths": 6,
     "allergicIngredients": [],
     "instructions": [
-      { "tr": "Meyveleri haşlayın.", "en": "Boil fruits." },
-      { "tr": "Püre yapın.", "en": "Mash." }
+      {
+        "tr": "Malzemeleri hazırlayın.",
+        "en": "Prepare ingredients."
+      },
+      {
+        "tr": "Pişirin.",
+        "en": "Cook."
+      },
+      {
+        "tr": "Püre haline getirin.",
+        "en": "Mash into puree."
+      }
     ]
   },
   {
-    "id": "fr3",
-    "title": { "tr": "Şeftali Püresi", "en": "Peach Puree" },
-    "description": { "tr": "Yazın en yumuşak ve tatlı dokunuşu.", "en": "Soft summer taste." },
+    "id": "59aa4012-65d8-48f3-85cd-689393efe985",
+    "title": {
+      "tr": "Sebze Tarifleri Tarif 5",
+      "en": "Sebze Tarifleri Recipe 5"
+    },
+    "description": {
+      "tr": "Sevgiyle hazırlanan, bebeğinizin keyifle yiyeceği yumuşacık bir tarif.",
+      "en": "A soft and lovely baby-friendly recipe."
+    },
+    "category": "Sebze Tarifleri",
+    "ingredients": [
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "adet",
+          "en": "pcs"
+        },
+        "baseName": {
+          "tr": "sebze/meyve",
+          "en": "fruit/vegetable"
+        },
+        "shoppingLabel": {
+          "tr": "Malzeme",
+          "en": "Ingredient"
+        }
+      }
+    ],
+    "preparationTime": 10,
+    "calories": 60,
+    "suitableAgeInMonths": 6,
+    "allergicIngredients": [],
+    "instructions": [
+      {
+        "tr": "Malzemeleri hazırlayın.",
+        "en": "Prepare ingredients."
+      },
+      {
+        "tr": "Pişirin.",
+        "en": "Cook."
+      },
+      {
+        "tr": "Püre haline getirin.",
+        "en": "Mash into puree."
+      }
+    ]
+  },
+  {
+    "id": "4eb1f454-cc92-4712-8704-b5e88f6c8d28",
+    "title": {
+      "tr": "Meyve Tarifleri Tarif 1",
+      "en": "Meyve Tarifleri Recipe 1"
+    },
+    "description": {
+      "tr": "Sevgiyle hazırlanan, bebeğinizin keyifle yiyeceği yumuşacık bir tarif.",
+      "en": "A soft and lovely baby-friendly recipe."
+    },
     "category": "Meyve Tarifleri",
     "ingredients": [
-      { "amount": 1, "unit": { "tr": "adet", "en": "pcs" }, "baseName": { "tr": "şeftali", "en": "peach" }, "shoppingLabel": { "tr": "Şeftali", "en": "Peach" } }
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "adet",
+          "en": "pcs"
+        },
+        "baseName": {
+          "tr": "sebze/meyve",
+          "en": "fruit/vegetable"
+        },
+        "shoppingLabel": {
+          "tr": "Malzeme",
+          "en": "Ingredient"
+        }
+      }
     ],
-    "preparationTime": 5,
-    "calories": 39,
+    "preparationTime": 10,
+    "calories": 60,
     "suitableAgeInMonths": 6,
     "allergicIngredients": [],
     "instructions": [
-      { "tr": "Şeftaliyi soyun.", "en": "Peel peach." },
-      { "tr": "Ezerek püre yapın.", "en": "Mash." }
+      {
+        "tr": "Malzemeleri hazırlayın.",
+        "en": "Prepare ingredients."
+      },
+      {
+        "tr": "Pişirin.",
+        "en": "Cook."
+      },
+      {
+        "tr": "Püre haline getirin.",
+        "en": "Mash into puree."
+      }
     ]
   },
   {
-    "id": "fr4",
-    "title": { "tr": "Avokado Püresi", "en": "Avocado Puree" },
-    "description": { "tr": "Sağlıklı yağlarla dolu kremamsı bir lezzet.", "en": "Creamy and nutritious." },
+    "id": "369b96e2-b08a-4af1-8983-9ffd5ea98ddf",
+    "title": {
+      "tr": "Meyve Tarifleri Tarif 2",
+      "en": "Meyve Tarifleri Recipe 2"
+    },
+    "description": {
+      "tr": "Sevgiyle hazırlanan, bebeğinizin keyifle yiyeceği yumuşacık bir tarif.",
+      "en": "A soft and lovely baby-friendly recipe."
+    },
     "category": "Meyve Tarifleri",
     "ingredients": [
-      { "amount": 0.5, "unit": { "tr": "adet", "en": "pcs" }, "baseName": { "tr": "avokado", "en": "avocado" }, "shoppingLabel": { "tr": "Avokado", "en": "Avocado" } }
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "adet",
+          "en": "pcs"
+        },
+        "baseName": {
+          "tr": "sebze/meyve",
+          "en": "fruit/vegetable"
+        },
+        "shoppingLabel": {
+          "tr": "Malzeme",
+          "en": "Ingredient"
+        }
+      }
     ],
-    "preparationTime": 3,
-    "calories": 80,
+    "preparationTime": 10,
+    "calories": 60,
     "suitableAgeInMonths": 6,
     "allergicIngredients": [],
     "instructions": [
-      { "tr": "Ez.", "en": "Mash." }
+      {
+        "tr": "Malzemeleri hazırlayın.",
+        "en": "Prepare ingredients."
+      },
+      {
+        "tr": "Pişirin.",
+        "en": "Cook."
+      },
+      {
+        "tr": "Püre haline getirin.",
+        "en": "Mash into puree."
+      }
     ]
   },
   {
-    "id": "fr5",
-    "title": { "tr": "Muz Elma Karışımı", "en": "Banana Apple Mix" },
-    "description": { "tr": "Tatlı ve dengeli bir kombinasyon.", "en": "Balanced sweet mix." },
+    "id": "6e7e10b7-4e2c-4c09-ae0f-cd12ba4bc9a7",
+    "title": {
+      "tr": "Meyve Tarifleri Tarif 3",
+      "en": "Meyve Tarifleri Recipe 3"
+    },
+    "description": {
+      "tr": "Sevgiyle hazırlanan, bebeğinizin keyifle yiyeceği yumuşacık bir tarif.",
+      "en": "A soft and lovely baby-friendly recipe."
+    },
     "category": "Meyve Tarifleri",
     "ingredients": [
-      { "amount": 0.5, "unit": { "tr": "adet", "en": "pcs" }, "baseName": { "tr": "muz", "en": "banana" }, "shoppingLabel": { "tr": "Muz", "en": "Banana" } },
-      { "amount": 0.5, "unit": { "tr": "adet", "en": "pcs" }, "baseName": { "tr": "elma", "en": "apple" }, "shoppingLabel": { "tr": "Elma", "en": "Apple" } }
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "adet",
+          "en": "pcs"
+        },
+        "baseName": {
+          "tr": "sebze/meyve",
+          "en": "fruit/vegetable"
+        },
+        "shoppingLabel": {
+          "tr": "Malzeme",
+          "en": "Ingredient"
+        }
+      }
     ],
     "preparationTime": 10,
-    "calories": 70,
+    "calories": 60,
     "suitableAgeInMonths": 6,
     "allergicIngredients": [],
     "instructions": [
-      { "tr": "Elmayı haşla.", "en": "Boil apple." },
-      { "tr": "Muzla karıştır.", "en": "Mix with banana." }
-    ]
-  },
-  [
-  {
-    "id": "th1",
-    "title": { "tr": "Yulaf Lapası", "en": "Oatmeal" },
-    "description": { "tr": "Minik karnı uzun süre tok tutan sıcacık bir öğün.", "en": "Warm and filling meal." },
-    "category": "Tahıllı Tarifler",
-    "ingredients": [
-      { "amount": 2, "unit": { "tr": "yemek kaşığı", "en": "tbsp" }, "baseName": { "tr": "yulaf", "en": "oats" }, "shoppingLabel": { "tr": "Yulaf", "en": "Oats" } },
-      { "amount": 1, "unit": { "tr": "çay bardağı", "en": "cup" }, "baseName": { "tr": "su", "en": "water" }, "shoppingLabel": null }
-    ],
-    "preparationTime": 5,
-    "calories": 68,
-    "suitableAgeInMonths": 6,
-    "allergicIngredients": [{ "tr": "gluten (iz)", "en": "gluten (trace)" }],
-    "instructions": [
-      { "tr": "Yulafı su ile pişirin.", "en": "Cook oats with water." },
-      { "tr": "Kıvam alınca karıştırın.", "en": "Stir until creamy." },
-      { "tr": "Ilık şekilde sunun.", "en": "Serve warm." }
+      {
+        "tr": "Malzemeleri hazırlayın.",
+        "en": "Prepare ingredients."
+      },
+      {
+        "tr": "Pişirin.",
+        "en": "Cook."
+      },
+      {
+        "tr": "Püre haline getirin.",
+        "en": "Mash into puree."
+      }
     ]
   },
   {
-    "id": "th2",
-    "title": { "tr": "İrmik Muhallebisi", "en": "Semolina Pudding" },
-    "description": { "tr": "Anne şefkati gibi yumuşacık bir tarif.", "en": "Soft and comforting." },
-    "category": "Tahıllı Tarifler",
+    "id": "a4db3d08-f4d7-4a2c-86ba-7dec6e1c6ad6",
+    "title": {
+      "tr": "Meyve Tarifleri Tarif 4",
+      "en": "Meyve Tarifleri Recipe 4"
+    },
+    "description": {
+      "tr": "Sevgiyle hazırlanan, bebeğinizin keyifle yiyeceği yumuşacık bir tarif.",
+      "en": "A soft and lovely baby-friendly recipe."
+    },
+    "category": "Meyve Tarifleri",
     "ingredients": [
-      { "amount": 1, "unit": { "tr": "yemek kaşığı", "en": "tbsp" }, "baseName": { "tr": "irmik", "en": "semolina" }, "shoppingLabel": { "tr": "İrmik", "en": "Semolina" } },
-      { "amount": 1, "unit": { "tr": "çay bardağı", "en": "cup" }, "baseName": { "tr": "su", "en": "water" }, "shoppingLabel": null }
-    ],
-    "preparationTime": 7,
-    "calories": 80,
-    "suitableAgeInMonths": 6,
-    "allergicIngredients": [{ "tr": "gluten", "en": "gluten" }],
-    "instructions": [
-      { "tr": "İrmiği suyla pişirin.", "en": "Cook semolina with water." },
-      { "tr": "Koyulaşınca karıştırın.", "en": "Stir until thick." }
-    ]
-  },
-  {
-    "id": "th3",
-    "title": { "tr": "Pirinç Lapası", "en": "Rice Porridge" },
-    "description": { "tr": "En klasik ve güvenli ilk tahıl deneyimi.", "en": "Classic and gentle starter." },
-    "category": "Tahıllı Tarifler",
-    "ingredients": [
-      { "amount": 2, "unit": { "tr": "yemek kaşığı", "en": "tbsp" }, "baseName": { "tr": "pirinç", "en": "rice" }, "shoppingLabel": { "tr": "Pirinç", "en": "Rice" } },
-      { "amount": 1.5, "unit": { "tr": "çay bardağı", "en": "cup" }, "baseName": { "tr": "su", "en": "water" }, "shoppingLabel": null }
-    ],
-    "preparationTime": 15,
-    "calories": 90,
-    "suitableAgeInMonths": 6,
-    "allergicIngredients": [],
-    "instructions": [
-      { "tr": "Pirinci haşlayın.", "en": "Boil rice." },
-      { "tr": "Yumuşayınca ezin.", "en": "Mash when soft." }
-    ]
-  },
-  {
-    "id": "th4",
-    "title": { "tr": "Yulaf Muz Karışımı", "en": "Oat Banana Mix" },
-    "description": { "tr": "Enerji dolu ve lezzetli bir öğün.", "en": "Energy-packed combo." },
-    "category": "Tahıllı Tarifler",
-    "ingredients": [
-      { "amount": 2, "unit": { "tr": "yemek kaşığı", "en": "tbsp" }, "baseName": { "tr": "yulaf", "en": "oats" }, "shoppingLabel": { "tr": "Yulaf", "en": "Oats" } },
-      { "amount": 0.5, "unit": { "tr": "adet", "en": "pcs" }, "baseName": { "tr": "muz", "en": "banana" }, "shoppingLabel": { "tr": "Muz", "en": "Banana" } }
-    ],
-    "preparationTime": 6,
-    "calories": 100,
-    "suitableAgeInMonths": 6,
-    "allergicIngredients": [{ "tr": "gluten (iz)", "en": "gluten (trace)" }],
-    "instructions": [
-      { "tr": "Yulafı pişirin.", "en": "Cook oats." },
-      { "tr": "Muzla karıştırın.", "en": "Mix with banana." }
-    ]
-  },
-  {
-    "id": "th5",
-    "title": { "tr": "İrmik Meyve Karışımı", "en": "Semolina Fruit Mix" },
-    "description": { "tr": "Tatlı ve doyurucu bir ara öğün.", "en": "Sweet and filling." },
-    "category": "Tahıllı Tarifler",
-    "ingredients": [
-      { "amount": 1, "unit": { "tr": "yemek kaşığı", "en": "tbsp" }, "baseName": { "tr": "irmik", "en": "semolina" }, "shoppingLabel": { "tr": "İrmik", "en": "Semolina" } },
-      { "amount": 0.5, "unit": { "tr": "adet", "en": "pcs" }, "baseName": { "tr": "elma", "en": "apple" }, "shoppingLabel": { "tr": "Elma", "en": "Apple" } }
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "adet",
+          "en": "pcs"
+        },
+        "baseName": {
+          "tr": "sebze/meyve",
+          "en": "fruit/vegetable"
+        },
+        "shoppingLabel": {
+          "tr": "Malzeme",
+          "en": "Ingredient"
+        }
+      }
     ],
     "preparationTime": 10,
-    "calories": 95,
+    "calories": 60,
     "suitableAgeInMonths": 6,
-    "allergicIngredients": [{ "tr": "gluten", "en": "gluten" }],
-    "instructions": [
-      { "tr": "İrmiği pişirin.", "en": "Cook semolina." },
-      { "tr": "Elma püresi ekleyin.", "en": "Add apple puree." }
-    ]
-  },
-  [
-  {
-    "id": "pr1",
-    "title": { "tr": "Kıymalı Sebze Püresi", "en": "Minced Meat Veggie Puree" },
-    "description": { "tr": "Güçlü büyüme için protein dolu bir öğün.", "en": "Protein-rich meal." },
-    "category": "Protein İçeren Tarifler",
-    "ingredients": [
-      { "amount": 50, "unit": { "tr": "gram", "en": "g" }, "baseName": { "tr": "kıyma", "en": "minced meat" }, "shoppingLabel": { "tr": "Kıyma", "en": "Meat" } },
-      { "amount": 0.5, "unit": { "tr": "adet", "en": "pcs" }, "baseName": { "tr": "kabak", "en": "zucchini" }, "shoppingLabel": { "tr": "Kabak", "en": "Zucchini" } }
-    ],
-    "preparationTime": 20,
-    "calories": 120,
-    "suitableAgeInMonths": 7,
     "allergicIngredients": [],
     "instructions": [
-      { "tr": "Kıymayı pişirin.", "en": "Cook minced meat." },
-      { "tr": "Sebzeyle karıştırıp püre yapın.", "en": "Mix with veggies and mash." }
+      {
+        "tr": "Malzemeleri hazırlayın.",
+        "en": "Prepare ingredients."
+      },
+      {
+        "tr": "Pişirin.",
+        "en": "Cook."
+      },
+      {
+        "tr": "Püre haline getirin.",
+        "en": "Mash into puree."
+      }
     ]
   },
   {
-    "id": "pr2",
-    "title": { "tr": "Tavuklu Sebze Püresi", "en": "Chicken Veggie Puree" },
-    "description": { "tr": "Nazik ve besleyici bir protein kaynağı.", "en": "Gentle protein meal." },
-    "category": "Protein İçeren Tarifler",
+    "id": "4144b57f-d83d-41e2-91eb-61e434c64bf5",
+    "title": {
+      "tr": "Meyve Tarifleri Tarif 5",
+      "en": "Meyve Tarifleri Recipe 5"
+    },
+    "description": {
+      "tr": "Sevgiyle hazırlanan, bebeğinizin keyifle yiyeceği yumuşacık bir tarif.",
+      "en": "A soft and lovely baby-friendly recipe."
+    },
+    "category": "Meyve Tarifleri",
     "ingredients": [
-      { "amount": 50, "unit": { "tr": "gram", "en": "g" }, "baseName": { "tr": "tavuk", "en": "chicken" }, "shoppingLabel": { "tr": "Tavuk", "en": "Chicken" } },
-      { "amount": 0.5, "unit": { "tr": "adet", "en": "pcs" }, "baseName": { "tr": "havuç", "en": "carrot" }, "shoppingLabel": { "tr": "Havuç", "en": "Carrot" } }
-    ],
-    "preparationTime": 20,
-    "calories": 110,
-    "suitableAgeInMonths": 7,
-    "allergicIngredients": [],
-    "instructions": [
-      { "tr": "Tavuğu haşlayın.", "en": "Boil chicken." },
-      { "tr": "Sebzeyle birlikte püre yapın.", "en": "Mash with vegetables." }
-    ]
-  },
-  {
-    "id": "pr3",
-    "title": { "tr": "Yumurtalı Kahvaltı Püresi", "en": "Egg Breakfast Puree" },
-    "description": { "tr": "Güne güçlü bir başlangıç.", "en": "Strong start." },
-    "category": "Protein İçeren Tarifler",
-    "ingredients": [
-      { "amount": 1, "unit": { "tr": "adet", "en": "pcs" }, "baseName": { "tr": "yumurta sarısı", "en": "egg yolk" }, "shoppingLabel": { "tr": "Yumurta", "en": "Egg" } }
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "adet",
+          "en": "pcs"
+        },
+        "baseName": {
+          "tr": "sebze/meyve",
+          "en": "fruit/vegetable"
+        },
+        "shoppingLabel": {
+          "tr": "Malzeme",
+          "en": "Ingredient"
+        }
+      }
     ],
     "preparationTime": 10,
-    "calories": 55,
-    "suitableAgeInMonths": 7,
-    "allergicIngredients": [{ "tr": "yumurta", "en": "egg" }],
-    "instructions": [
-      { "tr": "Yumurtayı haşlayın.", "en": "Boil egg." },
-      { "tr": "Sarısını ezin.", "en": "Mash yolk." }
-    ]
-  },
-  {
-    "id": "pr4",
-    "title": { "tr": "Mercimek Püresi", "en": "Lentil Puree" },
-    "description": { "tr": "Bitkisel protein deposu.", "en": "Plant protein." },
-    "category": "Protein İçeren Tarifler",
-    "ingredients": [
-      { "amount": 2, "unit": { "tr": "yemek kaşığı", "en": "tbsp" }, "baseName": { "tr": "kırmızı mercimek", "en": "red lentils" }, "shoppingLabel": { "tr": "Mercimek", "en": "Lentils" } }
-    ],
-    "preparationTime": 15,
-    "calories": 90,
-    "suitableAgeInMonths": 7,
+    "calories": 60,
+    "suitableAgeInMonths": 6,
     "allergicIngredients": [],
     "instructions": [
-      { "tr": "Mercimeği haşlayın.", "en": "Boil lentils." },
-      { "tr": "Püre yapın.", "en": "Mash." }
+      {
+        "tr": "Malzemeleri hazırlayın.",
+        "en": "Prepare ingredients."
+      },
+      {
+        "tr": "Pişirin.",
+        "en": "Cook."
+      },
+      {
+        "tr": "Püre haline getirin.",
+        "en": "Mash into puree."
+      }
     ]
   },
   {
-    "id": "pr5",
-    "title": { "tr": "Balık Sebze Püresi", "en": "Fish Veggie Puree" },
-    "description": { "tr": "Beyin gelişimi için harika bir destek.", "en": "Great for brain development." },
-    "category": "Protein İçeren Tarifler",
+    "id": "3d731158-6a54-4ef7-913c-2c1f89b4eeb5",
+    "title": {
+      "tr": "Tahıllı Tarifler Tarif 1",
+      "en": "Tahıllı Tarifler Recipe 1"
+    },
+    "description": {
+      "tr": "Sevgiyle hazırlanan, bebeğinizin keyifle yiyeceği yumuşacık bir tarif.",
+      "en": "A soft and lovely baby-friendly recipe."
+    },
+    "category": "Tahıllı Tarifler",
     "ingredients": [
-      { "amount": 50, "unit": { "tr": "gram", "en": "g" }, "baseName": { "tr": "balık fileto", "en": "fish fillet" }, "shoppingLabel": { "tr": "Balık", "en": "Fish" } }
-    ],
-    "preparationTime": 20,
-    "calories": 110,
-    "suitableAgeInMonths": 8,
-    "allergicIngredients": [{ "tr": "balık", "en": "fish" }],
-    "instructions": [
-      { "tr": "Balığı pişirin.", "en": "Cook fish." },
-      { "tr": "Ezerek sebzeyle karıştırın.", "en": "Mash and mix." }
-    ]
-  },
-  [
-  {
-    "id": "pr1",
-    "title": { "tr": "Kıymalı Sebze Püresi", "en": "Minced Meat Veggie Puree" },
-    "description": { "tr": "Güçlü büyüme için protein dolu bir öğün.", "en": "Protein-rich meal." },
-    "category": "Protein İçeren Tarifler",
-    "ingredients": [
-      { "amount": 50, "unit": { "tr": "gram", "en": "g" }, "baseName": { "tr": "kıyma", "en": "minced meat" }, "shoppingLabel": { "tr": "Kıyma", "en": "Meat" } },
-      { "amount": 0.5, "unit": { "tr": "adet", "en": "pcs" }, "baseName": { "tr": "kabak", "en": "zucchini" }, "shoppingLabel": { "tr": "Kabak", "en": "Zucchini" } }
-    ],
-    "preparationTime": 20,
-    "calories": 120,
-    "suitableAgeInMonths": 7,
-    "allergicIngredients": [],
-    "instructions": [
-      { "tr": "Kıymayı pişirin.", "en": "Cook minced meat." },
-      { "tr": "Sebzeyle karıştırıp püre yapın.", "en": "Mix with veggies and mash." }
-    ]
-  },
-  {
-    "id": "pr2",
-    "title": { "tr": "Tavuklu Sebze Püresi", "en": "Chicken Veggie Puree" },
-    "description": { "tr": "Nazik ve besleyici bir protein kaynağı.", "en": "Gentle protein meal." },
-    "category": "Protein İçeren Tarifler",
-    "ingredients": [
-      { "amount": 50, "unit": { "tr": "gram", "en": "g" }, "baseName": { "tr": "tavuk", "en": "chicken" }, "shoppingLabel": { "tr": "Tavuk", "en": "Chicken" } },
-      { "amount": 0.5, "unit": { "tr": "adet", "en": "pcs" }, "baseName": { "tr": "havuç", "en": "carrot" }, "shoppingLabel": { "tr": "Havuç", "en": "Carrot" } }
-    ],
-    "preparationTime": 20,
-    "calories": 110,
-    "suitableAgeInMonths": 7,
-    "allergicIngredients": [],
-    "instructions": [
-      { "tr": "Tavuğu haşlayın.", "en": "Boil chicken." },
-      { "tr": "Sebzeyle birlikte püre yapın.", "en": "Mash with vegetables." }
-    ]
-  },
-  {
-    "id": "pr3",
-    "title": { "tr": "Yumurtalı Kahvaltı Püresi", "en": "Egg Breakfast Puree" },
-    "description": { "tr": "Güne güçlü bir başlangıç.", "en": "Strong start." },
-    "category": "Protein İçeren Tarifler",
-    "ingredients": [
-      { "amount": 1, "unit": { "tr": "adet", "en": "pcs" }, "baseName": { "tr": "yumurta sarısı", "en": "egg yolk" }, "shoppingLabel": { "tr": "Yumurta", "en": "Egg" } }
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "adet",
+          "en": "pcs"
+        },
+        "baseName": {
+          "tr": "sebze/meyve",
+          "en": "fruit/vegetable"
+        },
+        "shoppingLabel": {
+          "tr": "Malzeme",
+          "en": "Ingredient"
+        }
+      }
     ],
     "preparationTime": 10,
-    "calories": 55,
-    "suitableAgeInMonths": 7,
-    "allergicIngredients": [{ "tr": "yumurta", "en": "egg" }],
-    "instructions": [
-      { "tr": "Yumurtayı haşlayın.", "en": "Boil egg." },
-      { "tr": "Sarısını ezin.", "en": "Mash yolk." }
-    ]
-  },
-  {
-    "id": "pr4",
-    "title": { "tr": "Mercimek Püresi", "en": "Lentil Puree" },
-    "description": { "tr": "Bitkisel protein deposu.", "en": "Plant protein." },
-    "category": "Protein İçeren Tarifler",
-    "ingredients": [
-      { "amount": 2, "unit": { "tr": "yemek kaşığı", "en": "tbsp" }, "baseName": { "tr": "kırmızı mercimek", "en": "red lentils" }, "shoppingLabel": { "tr": "Mercimek", "en": "Lentils" } }
-    ],
-    "preparationTime": 15,
-    "calories": 90,
-    "suitableAgeInMonths": 7,
+    "calories": 60,
+    "suitableAgeInMonths": 6,
     "allergicIngredients": [],
     "instructions": [
-      { "tr": "Mercimeği haşlayın.", "en": "Boil lentils." },
-      { "tr": "Püre yapın.", "en": "Mash." }
+      {
+        "tr": "Malzemeleri hazırlayın.",
+        "en": "Prepare ingredients."
+      },
+      {
+        "tr": "Pişirin.",
+        "en": "Cook."
+      },
+      {
+        "tr": "Püre haline getirin.",
+        "en": "Mash into puree."
+      }
     ]
   },
   {
-    "id": "pr5",
-    "title": { "tr": "Balık Sebze Püresi", "en": "Fish Veggie Puree" },
-    "description": { "tr": "Beyin gelişimi için harika bir destek.", "en": "Great for brain development." },
+    "id": "da20b5e6-9b0b-4aa0-b2ba-d54227386bdc",
+    "title": {
+      "tr": "Tahıllı Tarifler Tarif 2",
+      "en": "Tahıllı Tarifler Recipe 2"
+    },
+    "description": {
+      "tr": "Sevgiyle hazırlanan, bebeğinizin keyifle yiyeceği yumuşacık bir tarif.",
+      "en": "A soft and lovely baby-friendly recipe."
+    },
+    "category": "Tahıllı Tarifler",
+    "ingredients": [
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "adet",
+          "en": "pcs"
+        },
+        "baseName": {
+          "tr": "sebze/meyve",
+          "en": "fruit/vegetable"
+        },
+        "shoppingLabel": {
+          "tr": "Malzeme",
+          "en": "Ingredient"
+        }
+      }
+    ],
+    "preparationTime": 10,
+    "calories": 60,
+    "suitableAgeInMonths": 6,
+    "allergicIngredients": [],
+    "instructions": [
+      {
+        "tr": "Malzemeleri hazırlayın.",
+        "en": "Prepare ingredients."
+      },
+      {
+        "tr": "Pişirin.",
+        "en": "Cook."
+      },
+      {
+        "tr": "Püre haline getirin.",
+        "en": "Mash into puree."
+      }
+    ]
+  },
+  {
+    "id": "03c6d596-aa47-496c-8b1e-95a1e14bd86b",
+    "title": {
+      "tr": "Tahıllı Tarifler Tarif 3",
+      "en": "Tahıllı Tarifler Recipe 3"
+    },
+    "description": {
+      "tr": "Sevgiyle hazırlanan, bebeğinizin keyifle yiyeceği yumuşacık bir tarif.",
+      "en": "A soft and lovely baby-friendly recipe."
+    },
+    "category": "Tahıllı Tarifler",
+    "ingredients": [
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "adet",
+          "en": "pcs"
+        },
+        "baseName": {
+          "tr": "sebze/meyve",
+          "en": "fruit/vegetable"
+        },
+        "shoppingLabel": {
+          "tr": "Malzeme",
+          "en": "Ingredient"
+        }
+      }
+    ],
+    "preparationTime": 10,
+    "calories": 60,
+    "suitableAgeInMonths": 6,
+    "allergicIngredients": [],
+    "instructions": [
+      {
+        "tr": "Malzemeleri hazırlayın.",
+        "en": "Prepare ingredients."
+      },
+      {
+        "tr": "Pişirin.",
+        "en": "Cook."
+      },
+      {
+        "tr": "Püre haline getirin.",
+        "en": "Mash into puree."
+      }
+    ]
+  },
+  {
+    "id": "515a6b2a-6252-4876-89d6-59dbac93ebd0",
+    "title": {
+      "tr": "Tahıllı Tarifler Tarif 4",
+      "en": "Tahıllı Tarifler Recipe 4"
+    },
+    "description": {
+      "tr": "Sevgiyle hazırlanan, bebeğinizin keyifle yiyeceği yumuşacık bir tarif.",
+      "en": "A soft and lovely baby-friendly recipe."
+    },
+    "category": "Tahıllı Tarifler",
+    "ingredients": [
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "adet",
+          "en": "pcs"
+        },
+        "baseName": {
+          "tr": "sebze/meyve",
+          "en": "fruit/vegetable"
+        },
+        "shoppingLabel": {
+          "tr": "Malzeme",
+          "en": "Ingredient"
+        }
+      }
+    ],
+    "preparationTime": 10,
+    "calories": 60,
+    "suitableAgeInMonths": 6,
+    "allergicIngredients": [],
+    "instructions": [
+      {
+        "tr": "Malzemeleri hazırlayın.",
+        "en": "Prepare ingredients."
+      },
+      {
+        "tr": "Pişirin.",
+        "en": "Cook."
+      },
+      {
+        "tr": "Püre haline getirin.",
+        "en": "Mash into puree."
+      }
+    ]
+  },
+  {
+    "id": "135811f0-b770-42e8-bb4b-5238dcfd103f",
+    "title": {
+      "tr": "Tahıllı Tarifler Tarif 5",
+      "en": "Tahıllı Tarifler Recipe 5"
+    },
+    "description": {
+      "tr": "Sevgiyle hazırlanan, bebeğinizin keyifle yiyeceği yumuşacık bir tarif.",
+      "en": "A soft and lovely baby-friendly recipe."
+    },
+    "category": "Tahıllı Tarifler",
+    "ingredients": [
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "adet",
+          "en": "pcs"
+        },
+        "baseName": {
+          "tr": "sebze/meyve",
+          "en": "fruit/vegetable"
+        },
+        "shoppingLabel": {
+          "tr": "Malzeme",
+          "en": "Ingredient"
+        }
+      }
+    ],
+    "preparationTime": 10,
+    "calories": 60,
+    "suitableAgeInMonths": 6,
+    "allergicIngredients": [],
+    "instructions": [
+      {
+        "tr": "Malzemeleri hazırlayın.",
+        "en": "Prepare ingredients."
+      },
+      {
+        "tr": "Pişirin.",
+        "en": "Cook."
+      },
+      {
+        "tr": "Püre haline getirin.",
+        "en": "Mash into puree."
+      }
+    ]
+  },
+  {
+    "id": "78bc71e8-9e2c-48e3-8cfc-32f2cc906465",
+    "title": {
+      "tr": "Protein İçeren Tarifler Tarif 1",
+      "en": "Protein İçeren Tarifler Recipe 1"
+    },
+    "description": {
+      "tr": "Sevgiyle hazırlanan, bebeğinizin keyifle yiyeceği yumuşacık bir tarif.",
+      "en": "A soft and lovely baby-friendly recipe."
+    },
     "category": "Protein İçeren Tarifler",
     "ingredients": [
-      { "amount": 50, "unit": { "tr": "gram", "en": "g" }, "baseName": { "tr": "balık fileto", "en": "fish fillet" }, "shoppingLabel": { "tr": "Balık", "en": "Fish" } }
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "adet",
+          "en": "pcs"
+        },
+        "baseName": {
+          "tr": "sebze/meyve",
+          "en": "fruit/vegetable"
+        },
+        "shoppingLabel": {
+          "tr": "Malzeme",
+          "en": "Ingredient"
+        }
+      }
     ],
-    "preparationTime": 20,
-    "calories": 110,
-    "suitableAgeInMonths": 8,
-    "allergicIngredients": [{ "tr": "balık", "en": "fish" }],
+    "preparationTime": 10,
+    "calories": 60,
+    "suitableAgeInMonths": 6,
+    "allergicIngredients": [],
     "instructions": [
-      { "tr": "Balığı pişirin.", "en": "Cook fish." },
-      { "tr": "Ezerek sebzeyle karıştırın.", "en": "Mash and mix." }
+      {
+        "tr": "Malzemeleri hazırlayın.",
+        "en": "Prepare ingredients."
+      },
+      {
+        "tr": "Pişirin.",
+        "en": "Cook."
+      },
+      {
+        "tr": "Püre haline getirin.",
+        "en": "Mash into puree."
+      }
     ]
-  }]]]]]
+  },
+  {
+    "id": "b424157e-f50a-4ab8-8955-5bc32be1f397",
+    "title": {
+      "tr": "Protein İçeren Tarifler Tarif 2",
+      "en": "Protein İçeren Tarifler Recipe 2"
+    },
+    "description": {
+      "tr": "Sevgiyle hazırlanan, bebeğinizin keyifle yiyeceği yumuşacık bir tarif.",
+      "en": "A soft and lovely baby-friendly recipe."
+    },
+    "category": "Protein İçeren Tarifler",
+    "ingredients": [
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "adet",
+          "en": "pcs"
+        },
+        "baseName": {
+          "tr": "sebze/meyve",
+          "en": "fruit/vegetable"
+        },
+        "shoppingLabel": {
+          "tr": "Malzeme",
+          "en": "Ingredient"
+        }
+      }
+    ],
+    "preparationTime": 10,
+    "calories": 60,
+    "suitableAgeInMonths": 6,
+    "allergicIngredients": [],
+    "instructions": [
+      {
+        "tr": "Malzemeleri hazırlayın.",
+        "en": "Prepare ingredients."
+      },
+      {
+        "tr": "Pişirin.",
+        "en": "Cook."
+      },
+      {
+        "tr": "Püre haline getirin.",
+        "en": "Mash into puree."
+      }
+    ]
+  },
+  {
+    "id": "68c3bd19-5042-44a2-a494-85e1fc22ab1a",
+    "title": {
+      "tr": "Protein İçeren Tarifler Tarif 3",
+      "en": "Protein İçeren Tarifler Recipe 3"
+    },
+    "description": {
+      "tr": "Sevgiyle hazırlanan, bebeğinizin keyifle yiyeceği yumuşacık bir tarif.",
+      "en": "A soft and lovely baby-friendly recipe."
+    },
+    "category": "Protein İçeren Tarifler",
+    "ingredients": [
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "adet",
+          "en": "pcs"
+        },
+        "baseName": {
+          "tr": "sebze/meyve",
+          "en": "fruit/vegetable"
+        },
+        "shoppingLabel": {
+          "tr": "Malzeme",
+          "en": "Ingredient"
+        }
+      }
+    ],
+    "preparationTime": 10,
+    "calories": 60,
+    "suitableAgeInMonths": 6,
+    "allergicIngredients": [],
+    "instructions": [
+      {
+        "tr": "Malzemeleri hazırlayın.",
+        "en": "Prepare ingredients."
+      },
+      {
+        "tr": "Pişirin.",
+        "en": "Cook."
+      },
+      {
+        "tr": "Püre haline getirin.",
+        "en": "Mash into puree."
+      }
+    ]
+  },
+  {
+    "id": "3e719dc6-ec6a-42ef-81a3-a02514c0d0e3",
+    "title": {
+      "tr": "Protein İçeren Tarifler Tarif 4",
+      "en": "Protein İçeren Tarifler Recipe 4"
+    },
+    "description": {
+      "tr": "Sevgiyle hazırlanan, bebeğinizin keyifle yiyeceği yumuşacık bir tarif.",
+      "en": "A soft and lovely baby-friendly recipe."
+    },
+    "category": "Protein İçeren Tarifler",
+    "ingredients": [
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "adet",
+          "en": "pcs"
+        },
+        "baseName": {
+          "tr": "sebze/meyve",
+          "en": "fruit/vegetable"
+        },
+        "shoppingLabel": {
+          "tr": "Malzeme",
+          "en": "Ingredient"
+        }
+      }
+    ],
+    "preparationTime": 10,
+    "calories": 60,
+    "suitableAgeInMonths": 6,
+    "allergicIngredients": [],
+    "instructions": [
+      {
+        "tr": "Malzemeleri hazırlayın.",
+        "en": "Prepare ingredients."
+      },
+      {
+        "tr": "Pişirin.",
+        "en": "Cook."
+      },
+      {
+        "tr": "Püre haline getirin.",
+        "en": "Mash into puree."
+      }
+    ]
+  },
+  {
+    "id": "9b4da893-62e8-4b9b-bfb7-0a4566cf7bfb",
+    "title": {
+      "tr": "Protein İçeren Tarifler Tarif 5",
+      "en": "Protein İçeren Tarifler Recipe 5"
+    },
+    "description": {
+      "tr": "Sevgiyle hazırlanan, bebeğinizin keyifle yiyeceği yumuşacık bir tarif.",
+      "en": "A soft and lovely baby-friendly recipe."
+    },
+    "category": "Protein İçeren Tarifler",
+    "ingredients": [
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "adet",
+          "en": "pcs"
+        },
+        "baseName": {
+          "tr": "sebze/meyve",
+          "en": "fruit/vegetable"
+        },
+        "shoppingLabel": {
+          "tr": "Malzeme",
+          "en": "Ingredient"
+        }
+      }
+    ],
+    "preparationTime": 10,
+    "calories": 60,
+    "suitableAgeInMonths": 6,
+    "allergicIngredients": [],
+    "instructions": [
+      {
+        "tr": "Malzemeleri hazırlayın.",
+        "en": "Prepare ingredients."
+      },
+      {
+        "tr": "Pişirin.",
+        "en": "Cook."
+      },
+      {
+        "tr": "Püre haline getirin.",
+        "en": "Mash into puree."
+      }
+    ]
+  },
+  {
+    "id": "ae05eef4-fd1f-42e8-88ad-cea85a540bfe",
+    "title": {
+      "tr": "Karışık Tarifler Tarif 1",
+      "en": "Karışık Tarifler Recipe 1"
+    },
+    "description": {
+      "tr": "Sevgiyle hazırlanan, bebeğinizin keyifle yiyeceği yumuşacık bir tarif.",
+      "en": "A soft and lovely baby-friendly recipe."
+    },
+    "category": "Karışık Tarifler",
+    "ingredients": [
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "adet",
+          "en": "pcs"
+        },
+        "baseName": {
+          "tr": "sebze/meyve",
+          "en": "fruit/vegetable"
+        },
+        "shoppingLabel": {
+          "tr": "Malzeme",
+          "en": "Ingredient"
+        }
+      }
+    ],
+    "preparationTime": 10,
+    "calories": 60,
+    "suitableAgeInMonths": 6,
+    "allergicIngredients": [],
+    "instructions": [
+      {
+        "tr": "Malzemeleri hazırlayın.",
+        "en": "Prepare ingredients."
+      },
+      {
+        "tr": "Pişirin.",
+        "en": "Cook."
+      },
+      {
+        "tr": "Püre haline getirin.",
+        "en": "Mash into puree."
+      }
+    ]
+  },
+  {
+    "id": "0dde7d12-72ed-4745-99ea-61af7b489b5d",
+    "title": {
+      "tr": "Karışık Tarifler Tarif 2",
+      "en": "Karışık Tarifler Recipe 2"
+    },
+    "description": {
+      "tr": "Sevgiyle hazırlanan, bebeğinizin keyifle yiyeceği yumuşacık bir tarif.",
+      "en": "A soft and lovely baby-friendly recipe."
+    },
+    "category": "Karışık Tarifler",
+    "ingredients": [
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "adet",
+          "en": "pcs"
+        },
+        "baseName": {
+          "tr": "sebze/meyve",
+          "en": "fruit/vegetable"
+        },
+        "shoppingLabel": {
+          "tr": "Malzeme",
+          "en": "Ingredient"
+        }
+      }
+    ],
+    "preparationTime": 10,
+    "calories": 60,
+    "suitableAgeInMonths": 6,
+    "allergicIngredients": [],
+    "instructions": [
+      {
+        "tr": "Malzemeleri hazırlayın.",
+        "en": "Prepare ingredients."
+      },
+      {
+        "tr": "Pişirin.",
+        "en": "Cook."
+      },
+      {
+        "tr": "Püre haline getirin.",
+        "en": "Mash into puree."
+      }
+    ]
+  },
+  {
+    "id": "0dfec9ee-674f-405d-ba96-3e1de5a2b6eb",
+    "title": {
+      "tr": "Karışık Tarifler Tarif 3",
+      "en": "Karışık Tarifler Recipe 3"
+    },
+    "description": {
+      "tr": "Sevgiyle hazırlanan, bebeğinizin keyifle yiyeceği yumuşacık bir tarif.",
+      "en": "A soft and lovely baby-friendly recipe."
+    },
+    "category": "Karışık Tarifler",
+    "ingredients": [
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "adet",
+          "en": "pcs"
+        },
+        "baseName": {
+          "tr": "sebze/meyve",
+          "en": "fruit/vegetable"
+        },
+        "shoppingLabel": {
+          "tr": "Malzeme",
+          "en": "Ingredient"
+        }
+      }
+    ],
+    "preparationTime": 10,
+    "calories": 60,
+    "suitableAgeInMonths": 6,
+    "allergicIngredients": [],
+    "instructions": [
+      {
+        "tr": "Malzemeleri hazırlayın.",
+        "en": "Prepare ingredients."
+      },
+      {
+        "tr": "Pişirin.",
+        "en": "Cook."
+      },
+      {
+        "tr": "Püre haline getirin.",
+        "en": "Mash into puree."
+      }
+    ]
+  },
+  {
+    "id": "f7b196b7-6e43-45a5-a265-25916bb488e6",
+    "title": {
+      "tr": "Karışık Tarifler Tarif 4",
+      "en": "Karışık Tarifler Recipe 4"
+    },
+    "description": {
+      "tr": "Sevgiyle hazırlanan, bebeğinizin keyifle yiyeceği yumuşacık bir tarif.",
+      "en": "A soft and lovely baby-friendly recipe."
+    },
+    "category": "Karışık Tarifler",
+    "ingredients": [
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "adet",
+          "en": "pcs"
+        },
+        "baseName": {
+          "tr": "sebze/meyve",
+          "en": "fruit/vegetable"
+        },
+        "shoppingLabel": {
+          "tr": "Malzeme",
+          "en": "Ingredient"
+        }
+      }
+    ],
+    "preparationTime": 10,
+    "calories": 60,
+    "suitableAgeInMonths": 6,
+    "allergicIngredients": [],
+    "instructions": [
+      {
+        "tr": "Malzemeleri hazırlayın.",
+        "en": "Prepare ingredients."
+      },
+      {
+        "tr": "Pişirin.",
+        "en": "Cook."
+      },
+      {
+        "tr": "Püre haline getirin.",
+        "en": "Mash into puree."
+      }
+    ]
+  },
+  {
+    "id": "54fbb1db-bb51-4a9b-91f6-969eeb773733",
+    "title": {
+      "tr": "Karışık Tarifler Tarif 5",
+      "en": "Karışık Tarifler Recipe 5"
+    },
+    "description": {
+      "tr": "Sevgiyle hazırlanan, bebeğinizin keyifle yiyeceği yumuşacık bir tarif.",
+      "en": "A soft and lovely baby-friendly recipe."
+    },
+    "category": "Karışık Tarifler",
+    "ingredients": [
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "adet",
+          "en": "pcs"
+        },
+        "baseName": {
+          "tr": "sebze/meyve",
+          "en": "fruit/vegetable"
+        },
+        "shoppingLabel": {
+          "tr": "Malzeme",
+          "en": "Ingredient"
+        }
+      }
+    ],
+    "preparationTime": 10,
+    "calories": 60,
+    "suitableAgeInMonths": 6,
+    "allergicIngredients": [],
+    "instructions": [
+      {
+        "tr": "Malzemeleri hazırlayın.",
+        "en": "Prepare ingredients."
+      },
+      {
+        "tr": "Pişirin.",
+        "en": "Cook."
+      },
+      {
+        "tr": "Püre haline getirin.",
+        "en": "Mash into puree."
+      }
+    ]
+  },
+  {
+    "id": "6fd8f43c-916a-459c-bb1e-0282daebe8ac",
+    "title": {
+      "tr": "Çorbalar Tarif 1",
+      "en": "Çorbalar Recipe 1"
+    },
+    "description": {
+      "tr": "Sevgiyle hazırlanan, bebeğinizin keyifle yiyeceği yumuşacık bir tarif.",
+      "en": "A soft and lovely baby-friendly recipe."
+    },
+    "category": "Çorbalar",
+    "ingredients": [
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "adet",
+          "en": "pcs"
+        },
+        "baseName": {
+          "tr": "sebze/meyve",
+          "en": "fruit/vegetable"
+        },
+        "shoppingLabel": {
+          "tr": "Malzeme",
+          "en": "Ingredient"
+        }
+      }
+    ],
+    "preparationTime": 10,
+    "calories": 60,
+    "suitableAgeInMonths": 6,
+    "allergicIngredients": [],
+    "instructions": [
+      {
+        "tr": "Malzemeleri hazırlayın.",
+        "en": "Prepare ingredients."
+      },
+      {
+        "tr": "Pişirin.",
+        "en": "Cook."
+      },
+      {
+        "tr": "Püre haline getirin.",
+        "en": "Mash into puree."
+      }
+    ]
+  },
+  {
+    "id": "a8365113-0063-4d1e-b058-fb61bf3a2968",
+    "title": {
+      "tr": "Çorbalar Tarif 2",
+      "en": "Çorbalar Recipe 2"
+    },
+    "description": {
+      "tr": "Sevgiyle hazırlanan, bebeğinizin keyifle yiyeceği yumuşacık bir tarif.",
+      "en": "A soft and lovely baby-friendly recipe."
+    },
+    "category": "Çorbalar",
+    "ingredients": [
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "adet",
+          "en": "pcs"
+        },
+        "baseName": {
+          "tr": "sebze/meyve",
+          "en": "fruit/vegetable"
+        },
+        "shoppingLabel": {
+          "tr": "Malzeme",
+          "en": "Ingredient"
+        }
+      }
+    ],
+    "preparationTime": 10,
+    "calories": 60,
+    "suitableAgeInMonths": 6,
+    "allergicIngredients": [],
+    "instructions": [
+      {
+        "tr": "Malzemeleri hazırlayın.",
+        "en": "Prepare ingredients."
+      },
+      {
+        "tr": "Pişirin.",
+        "en": "Cook."
+      },
+      {
+        "tr": "Püre haline getirin.",
+        "en": "Mash into puree."
+      }
+    ]
+  },
+  {
+    "id": "b485ad5f-38bc-48f2-a88c-684761e7692c",
+    "title": {
+      "tr": "Çorbalar Tarif 3",
+      "en": "Çorbalar Recipe 3"
+    },
+    "description": {
+      "tr": "Sevgiyle hazırlanan, bebeğinizin keyifle yiyeceği yumuşacık bir tarif.",
+      "en": "A soft and lovely baby-friendly recipe."
+    },
+    "category": "Çorbalar",
+    "ingredients": [
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "adet",
+          "en": "pcs"
+        },
+        "baseName": {
+          "tr": "sebze/meyve",
+          "en": "fruit/vegetable"
+        },
+        "shoppingLabel": {
+          "tr": "Malzeme",
+          "en": "Ingredient"
+        }
+      }
+    ],
+    "preparationTime": 10,
+    "calories": 60,
+    "suitableAgeInMonths": 6,
+    "allergicIngredients": [],
+    "instructions": [
+      {
+        "tr": "Malzemeleri hazırlayın.",
+        "en": "Prepare ingredients."
+      },
+      {
+        "tr": "Pişirin.",
+        "en": "Cook."
+      },
+      {
+        "tr": "Püre haline getirin.",
+        "en": "Mash into puree."
+      }
+    ]
+  },
+  {
+    "id": "77057653-97d0-4bd7-b06a-863f95e60b04",
+    "title": {
+      "tr": "Çorbalar Tarif 4",
+      "en": "Çorbalar Recipe 4"
+    },
+    "description": {
+      "tr": "Sevgiyle hazırlanan, bebeğinizin keyifle yiyeceği yumuşacık bir tarif.",
+      "en": "A soft and lovely baby-friendly recipe."
+    },
+    "category": "Çorbalar",
+    "ingredients": [
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "adet",
+          "en": "pcs"
+        },
+        "baseName": {
+          "tr": "sebze/meyve",
+          "en": "fruit/vegetable"
+        },
+        "shoppingLabel": {
+          "tr": "Malzeme",
+          "en": "Ingredient"
+        }
+      }
+    ],
+    "preparationTime": 10,
+    "calories": 60,
+    "suitableAgeInMonths": 6,
+    "allergicIngredients": [],
+    "instructions": [
+      {
+        "tr": "Malzemeleri hazırlayın.",
+        "en": "Prepare ingredients."
+      },
+      {
+        "tr": "Pişirin.",
+        "en": "Cook."
+      },
+      {
+        "tr": "Püre haline getirin.",
+        "en": "Mash into puree."
+      }
+    ]
+  },
+  {
+    "id": "ddafa5f9-f6fb-4890-b432-9a61b0468c42",
+    "title": {
+      "tr": "Çorbalar Tarif 5",
+      "en": "Çorbalar Recipe 5"
+    },
+    "description": {
+      "tr": "Sevgiyle hazırlanan, bebeğinizin keyifle yiyeceği yumuşacık bir tarif.",
+      "en": "A soft and lovely baby-friendly recipe."
+    },
+    "category": "Çorbalar",
+    "ingredients": [
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "adet",
+          "en": "pcs"
+        },
+        "baseName": {
+          "tr": "sebze/meyve",
+          "en": "fruit/vegetable"
+        },
+        "shoppingLabel": {
+          "tr": "Malzeme",
+          "en": "Ingredient"
+        }
+      }
+    ],
+    "preparationTime": 10,
+    "calories": 60,
+    "suitableAgeInMonths": 6,
+    "allergicIngredients": [],
+    "instructions": [
+      {
+        "tr": "Malzemeleri hazırlayın.",
+        "en": "Prepare ingredients."
+      },
+      {
+        "tr": "Pişirin.",
+        "en": "Cook."
+      },
+      {
+        "tr": "Püre haline getirin.",
+        "en": "Mash into puree."
+      }
+    ]
+  },
+  {
+    "id": "2551af7e-d949-4e75-a3a8-5fd1acb73669",
+    "title": {
+      "tr": "Kahvaltılık Tarifler Tarif 1",
+      "en": "Kahvaltılık Tarifler Recipe 1"
+    },
+    "description": {
+      "tr": "Sevgiyle hazırlanan, bebeğinizin keyifle yiyeceği yumuşacık bir tarif.",
+      "en": "A soft and lovely baby-friendly recipe."
+    },
+    "category": "Kahvaltılık Tarifler",
+    "ingredients": [
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "adet",
+          "en": "pcs"
+        },
+        "baseName": {
+          "tr": "sebze/meyve",
+          "en": "fruit/vegetable"
+        },
+        "shoppingLabel": {
+          "tr": "Malzeme",
+          "en": "Ingredient"
+        }
+      }
+    ],
+    "preparationTime": 10,
+    "calories": 60,
+    "suitableAgeInMonths": 6,
+    "allergicIngredients": [],
+    "instructions": [
+      {
+        "tr": "Malzemeleri hazırlayın.",
+        "en": "Prepare ingredients."
+      },
+      {
+        "tr": "Pişirin.",
+        "en": "Cook."
+      },
+      {
+        "tr": "Püre haline getirin.",
+        "en": "Mash into puree."
+      }
+    ]
+  },
+  {
+    "id": "e822fecc-f15a-4917-b0d1-3e7fd109d81b",
+    "title": {
+      "tr": "Kahvaltılık Tarifler Tarif 2",
+      "en": "Kahvaltılık Tarifler Recipe 2"
+    },
+    "description": {
+      "tr": "Sevgiyle hazırlanan, bebeğinizin keyifle yiyeceği yumuşacık bir tarif.",
+      "en": "A soft and lovely baby-friendly recipe."
+    },
+    "category": "Kahvaltılık Tarifler",
+    "ingredients": [
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "adet",
+          "en": "pcs"
+        },
+        "baseName": {
+          "tr": "sebze/meyve",
+          "en": "fruit/vegetable"
+        },
+        "shoppingLabel": {
+          "tr": "Malzeme",
+          "en": "Ingredient"
+        }
+      }
+    ],
+    "preparationTime": 10,
+    "calories": 60,
+    "suitableAgeInMonths": 6,
+    "allergicIngredients": [],
+    "instructions": [
+      {
+        "tr": "Malzemeleri hazırlayın.",
+        "en": "Prepare ingredients."
+      },
+      {
+        "tr": "Pişirin.",
+        "en": "Cook."
+      },
+      {
+        "tr": "Püre haline getirin.",
+        "en": "Mash into puree."
+      }
+    ]
+  },
+  {
+    "id": "6e834b08-dbc5-4047-93ac-3bb2becf9fc0",
+    "title": {
+      "tr": "Kahvaltılık Tarifler Tarif 3",
+      "en": "Kahvaltılık Tarifler Recipe 3"
+    },
+    "description": {
+      "tr": "Sevgiyle hazırlanan, bebeğinizin keyifle yiyeceği yumuşacık bir tarif.",
+      "en": "A soft and lovely baby-friendly recipe."
+    },
+    "category": "Kahvaltılık Tarifler",
+    "ingredients": [
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "adet",
+          "en": "pcs"
+        },
+        "baseName": {
+          "tr": "sebze/meyve",
+          "en": "fruit/vegetable"
+        },
+        "shoppingLabel": {
+          "tr": "Malzeme",
+          "en": "Ingredient"
+        }
+      }
+    ],
+    "preparationTime": 10,
+    "calories": 60,
+    "suitableAgeInMonths": 6,
+    "allergicIngredients": [],
+    "instructions": [
+      {
+        "tr": "Malzemeleri hazırlayın.",
+        "en": "Prepare ingredients."
+      },
+      {
+        "tr": "Pişirin.",
+        "en": "Cook."
+      },
+      {
+        "tr": "Püre haline getirin.",
+        "en": "Mash into puree."
+      }
+    ]
+  },
+  {
+    "id": "d4dfafaa-47e1-4bda-a746-af105e59d3ac",
+    "title": {
+      "tr": "Kahvaltılık Tarifler Tarif 4",
+      "en": "Kahvaltılık Tarifler Recipe 4"
+    },
+    "description": {
+      "tr": "Sevgiyle hazırlanan, bebeğinizin keyifle yiyeceği yumuşacık bir tarif.",
+      "en": "A soft and lovely baby-friendly recipe."
+    },
+    "category": "Kahvaltılık Tarifler",
+    "ingredients": [
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "adet",
+          "en": "pcs"
+        },
+        "baseName": {
+          "tr": "sebze/meyve",
+          "en": "fruit/vegetable"
+        },
+        "shoppingLabel": {
+          "tr": "Malzeme",
+          "en": "Ingredient"
+        }
+      }
+    ],
+    "preparationTime": 10,
+    "calories": 60,
+    "suitableAgeInMonths": 6,
+    "allergicIngredients": [],
+    "instructions": [
+      {
+        "tr": "Malzemeleri hazırlayın.",
+        "en": "Prepare ingredients."
+      },
+      {
+        "tr": "Pişirin.",
+        "en": "Cook."
+      },
+      {
+        "tr": "Püre haline getirin.",
+        "en": "Mash into puree."
+      }
+    ]
+  },
+  {
+    "id": "70f8414f-3015-4686-9275-69d8f6a4f285",
+    "title": {
+      "tr": "Kahvaltılık Tarifler Tarif 5",
+      "en": "Kahvaltılık Tarifler Recipe 5"
+    },
+    "description": {
+      "tr": "Sevgiyle hazırlanan, bebeğinizin keyifle yiyeceği yumuşacık bir tarif.",
+      "en": "A soft and lovely baby-friendly recipe."
+    },
+    "category": "Kahvaltılık Tarifler",
+    "ingredients": [
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "adet",
+          "en": "pcs"
+        },
+        "baseName": {
+          "tr": "sebze/meyve",
+          "en": "fruit/vegetable"
+        },
+        "shoppingLabel": {
+          "tr": "Malzeme",
+          "en": "Ingredient"
+        }
+      }
+    ],
+    "preparationTime": 10,
+    "calories": 60,
+    "suitableAgeInMonths": 6,
+    "allergicIngredients": [],
+    "instructions": [
+      {
+        "tr": "Malzemeleri hazırlayın.",
+        "en": "Prepare ingredients."
+      },
+      {
+        "tr": "Pişirin.",
+        "en": "Cook."
+      },
+      {
+        "tr": "Püre haline getirin.",
+        "en": "Mash into puree."
+      }
+    ]
+  },
+  {
+    "id": "a9f85af9-41c9-404e-b5a3-f391c32449cf",
+    "title": {
+      "tr": "Atıştırmalıklar Tarif 1",
+      "en": "Atıştırmalıklar Recipe 1"
+    },
+    "description": {
+      "tr": "Sevgiyle hazırlanan, bebeğinizin keyifle yiyeceği yumuşacık bir tarif.",
+      "en": "A soft and lovely baby-friendly recipe."
+    },
+    "category": "Atıştırmalıklar",
+    "ingredients": [
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "adet",
+          "en": "pcs"
+        },
+        "baseName": {
+          "tr": "sebze/meyve",
+          "en": "fruit/vegetable"
+        },
+        "shoppingLabel": {
+          "tr": "Malzeme",
+          "en": "Ingredient"
+        }
+      }
+    ],
+    "preparationTime": 10,
+    "calories": 60,
+    "suitableAgeInMonths": 6,
+    "allergicIngredients": [],
+    "instructions": [
+      {
+        "tr": "Malzemeleri hazırlayın.",
+        "en": "Prepare ingredients."
+      },
+      {
+        "tr": "Pişirin.",
+        "en": "Cook."
+      },
+      {
+        "tr": "Püre haline getirin.",
+        "en": "Mash into puree."
+      }
+    ]
+  },
+  {
+    "id": "dd680a3f-68a9-4f74-9cf0-d4a31195eede",
+    "title": {
+      "tr": "Atıştırmalıklar Tarif 2",
+      "en": "Atıştırmalıklar Recipe 2"
+    },
+    "description": {
+      "tr": "Sevgiyle hazırlanan, bebeğinizin keyifle yiyeceği yumuşacık bir tarif.",
+      "en": "A soft and lovely baby-friendly recipe."
+    },
+    "category": "Atıştırmalıklar",
+    "ingredients": [
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "adet",
+          "en": "pcs"
+        },
+        "baseName": {
+          "tr": "sebze/meyve",
+          "en": "fruit/vegetable"
+        },
+        "shoppingLabel": {
+          "tr": "Malzeme",
+          "en": "Ingredient"
+        }
+      }
+    ],
+    "preparationTime": 10,
+    "calories": 60,
+    "suitableAgeInMonths": 6,
+    "allergicIngredients": [],
+    "instructions": [
+      {
+        "tr": "Malzemeleri hazırlayın.",
+        "en": "Prepare ingredients."
+      },
+      {
+        "tr": "Pişirin.",
+        "en": "Cook."
+      },
+      {
+        "tr": "Püre haline getirin.",
+        "en": "Mash into puree."
+      }
+    ]
+  },
+  {
+    "id": "382b0540-de1f-4e4e-971a-fee2b591a8cd",
+    "title": {
+      "tr": "Atıştırmalıklar Tarif 3",
+      "en": "Atıştırmalıklar Recipe 3"
+    },
+    "description": {
+      "tr": "Sevgiyle hazırlanan, bebeğinizin keyifle yiyeceği yumuşacık bir tarif.",
+      "en": "A soft and lovely baby-friendly recipe."
+    },
+    "category": "Atıştırmalıklar",
+    "ingredients": [
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "adet",
+          "en": "pcs"
+        },
+        "baseName": {
+          "tr": "sebze/meyve",
+          "en": "fruit/vegetable"
+        },
+        "shoppingLabel": {
+          "tr": "Malzeme",
+          "en": "Ingredient"
+        }
+      }
+    ],
+    "preparationTime": 10,
+    "calories": 60,
+    "suitableAgeInMonths": 6,
+    "allergicIngredients": [],
+    "instructions": [
+      {
+        "tr": "Malzemeleri hazırlayın.",
+        "en": "Prepare ingredients."
+      },
+      {
+        "tr": "Pişirin.",
+        "en": "Cook."
+      },
+      {
+        "tr": "Püre haline getirin.",
+        "en": "Mash into puree."
+      }
+    ]
+  },
+  {
+    "id": "3431619b-3165-4bb9-9731-961da6fb4383",
+    "title": {
+      "tr": "Atıştırmalıklar Tarif 4",
+      "en": "Atıştırmalıklar Recipe 4"
+    },
+    "description": {
+      "tr": "Sevgiyle hazırlanan, bebeğinizin keyifle yiyeceği yumuşacık bir tarif.",
+      "en": "A soft and lovely baby-friendly recipe."
+    },
+    "category": "Atıştırmalıklar",
+    "ingredients": [
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "adet",
+          "en": "pcs"
+        },
+        "baseName": {
+          "tr": "sebze/meyve",
+          "en": "fruit/vegetable"
+        },
+        "shoppingLabel": {
+          "tr": "Malzeme",
+          "en": "Ingredient"
+        }
+      }
+    ],
+    "preparationTime": 10,
+    "calories": 60,
+    "suitableAgeInMonths": 6,
+    "allergicIngredients": [],
+    "instructions": [
+      {
+        "tr": "Malzemeleri hazırlayın.",
+        "en": "Prepare ingredients."
+      },
+      {
+        "tr": "Pişirin.",
+        "en": "Cook."
+      },
+      {
+        "tr": "Püre haline getirin.",
+        "en": "Mash into puree."
+      }
+    ]
+  },
+  {
+    "id": "e6919448-cb49-4b89-9d16-cb3cbbed3ce8",
+    "title": {
+      "tr": "Atıştırmalıklar Tarif 5",
+      "en": "Atıştırmalıklar Recipe 5"
+    },
+    "description": {
+      "tr": "Sevgiyle hazırlanan, bebeğinizin keyifle yiyeceği yumuşacık bir tarif.",
+      "en": "A soft and lovely baby-friendly recipe."
+    },
+    "category": "Atıştırmalıklar",
+    "ingredients": [
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "adet",
+          "en": "pcs"
+        },
+        "baseName": {
+          "tr": "sebze/meyve",
+          "en": "fruit/vegetable"
+        },
+        "shoppingLabel": {
+          "tr": "Malzeme",
+          "en": "Ingredient"
+        }
+      }
+    ],
+    "preparationTime": 10,
+    "calories": 60,
+    "suitableAgeInMonths": 6,
+    "allergicIngredients": [],
+    "instructions": [
+      {
+        "tr": "Malzemeleri hazırlayın.",
+        "en": "Prepare ingredients."
+      },
+      {
+        "tr": "Pişirin.",
+        "en": "Cook."
+      },
+      {
+        "tr": "Püre haline getirin.",
+        "en": "Mash into puree."
+      }
+    ]
+  },
+  {
+    "id": "041e747b-ddae-4430-bbf8-182b5530873a",
+    "title": {
+      "tr": "Tatlı Tarifler (Şekersiz) Tarif 1",
+      "en": "Tatlı Tarifler (Şekersiz) Recipe 1"
+    },
+    "description": {
+      "tr": "Sevgiyle hazırlanan, bebeğinizin keyifle yiyeceği yumuşacık bir tarif.",
+      "en": "A soft and lovely baby-friendly recipe."
+    },
+    "category": "Tatlı Tarifler (Şekersiz)",
+    "ingredients": [
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "adet",
+          "en": "pcs"
+        },
+        "baseName": {
+          "tr": "sebze/meyve",
+          "en": "fruit/vegetable"
+        },
+        "shoppingLabel": {
+          "tr": "Malzeme",
+          "en": "Ingredient"
+        }
+      }
+    ],
+    "preparationTime": 10,
+    "calories": 60,
+    "suitableAgeInMonths": 6,
+    "allergicIngredients": [],
+    "instructions": [
+      {
+        "tr": "Malzemeleri hazırlayın.",
+        "en": "Prepare ingredients."
+      },
+      {
+        "tr": "Pişirin.",
+        "en": "Cook."
+      },
+      {
+        "tr": "Püre haline getirin.",
+        "en": "Mash into puree."
+      }
+    ]
+  },
+  {
+    "id": "6ad21027-51a1-4435-8b19-5de1e205bc53",
+    "title": {
+      "tr": "Tatlı Tarifler (Şekersiz) Tarif 2",
+      "en": "Tatlı Tarifler (Şekersiz) Recipe 2"
+    },
+    "description": {
+      "tr": "Sevgiyle hazırlanan, bebeğinizin keyifle yiyeceği yumuşacık bir tarif.",
+      "en": "A soft and lovely baby-friendly recipe."
+    },
+    "category": "Tatlı Tarifler (Şekersiz)",
+    "ingredients": [
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "adet",
+          "en": "pcs"
+        },
+        "baseName": {
+          "tr": "sebze/meyve",
+          "en": "fruit/vegetable"
+        },
+        "shoppingLabel": {
+          "tr": "Malzeme",
+          "en": "Ingredient"
+        }
+      }
+    ],
+    "preparationTime": 10,
+    "calories": 60,
+    "suitableAgeInMonths": 6,
+    "allergicIngredients": [],
+    "instructions": [
+      {
+        "tr": "Malzemeleri hazırlayın.",
+        "en": "Prepare ingredients."
+      },
+      {
+        "tr": "Pişirin.",
+        "en": "Cook."
+      },
+      {
+        "tr": "Püre haline getirin.",
+        "en": "Mash into puree."
+      }
+    ]
+  },
+  {
+    "id": "2326e8a5-115e-462c-8526-b6fbab9fa393",
+    "title": {
+      "tr": "Tatlı Tarifler (Şekersiz) Tarif 3",
+      "en": "Tatlı Tarifler (Şekersiz) Recipe 3"
+    },
+    "description": {
+      "tr": "Sevgiyle hazırlanan, bebeğinizin keyifle yiyeceği yumuşacık bir tarif.",
+      "en": "A soft and lovely baby-friendly recipe."
+    },
+    "category": "Tatlı Tarifler (Şekersiz)",
+    "ingredients": [
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "adet",
+          "en": "pcs"
+        },
+        "baseName": {
+          "tr": "sebze/meyve",
+          "en": "fruit/vegetable"
+        },
+        "shoppingLabel": {
+          "tr": "Malzeme",
+          "en": "Ingredient"
+        }
+      }
+    ],
+    "preparationTime": 10,
+    "calories": 60,
+    "suitableAgeInMonths": 6,
+    "allergicIngredients": [],
+    "instructions": [
+      {
+        "tr": "Malzemeleri hazırlayın.",
+        "en": "Prepare ingredients."
+      },
+      {
+        "tr": "Pişirin.",
+        "en": "Cook."
+      },
+      {
+        "tr": "Püre haline getirin.",
+        "en": "Mash into puree."
+      }
+    ]
+  },
+  {
+    "id": "ee894a1e-f537-4caa-93db-6921bfa9026f",
+    "title": {
+      "tr": "Tatlı Tarifler (Şekersiz) Tarif 4",
+      "en": "Tatlı Tarifler (Şekersiz) Recipe 4"
+    },
+    "description": {
+      "tr": "Sevgiyle hazırlanan, bebeğinizin keyifle yiyeceği yumuşacık bir tarif.",
+      "en": "A soft and lovely baby-friendly recipe."
+    },
+    "category": "Tatlı Tarifler (Şekersiz)",
+    "ingredients": [
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "adet",
+          "en": "pcs"
+        },
+        "baseName": {
+          "tr": "sebze/meyve",
+          "en": "fruit/vegetable"
+        },
+        "shoppingLabel": {
+          "tr": "Malzeme",
+          "en": "Ingredient"
+        }
+      }
+    ],
+    "preparationTime": 10,
+    "calories": 60,
+    "suitableAgeInMonths": 6,
+    "allergicIngredients": [],
+    "instructions": [
+      {
+        "tr": "Malzemeleri hazırlayın.",
+        "en": "Prepare ingredients."
+      },
+      {
+        "tr": "Pişirin.",
+        "en": "Cook."
+      },
+      {
+        "tr": "Püre haline getirin.",
+        "en": "Mash into puree."
+      }
+    ]
+  },
+  {
+    "id": "a2aa20c4-33c1-4a2a-ad13-0153a9502e02",
+    "title": {
+      "tr": "Tatlı Tarifler (Şekersiz) Tarif 5",
+      "en": "Tatlı Tarifler (Şekersiz) Recipe 5"
+    },
+    "description": {
+      "tr": "Sevgiyle hazırlanan, bebeğinizin keyifle yiyeceği yumuşacık bir tarif.",
+      "en": "A soft and lovely baby-friendly recipe."
+    },
+    "category": "Tatlı Tarifler (Şekersiz)",
+    "ingredients": [
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "adet",
+          "en": "pcs"
+        },
+        "baseName": {
+          "tr": "sebze/meyve",
+          "en": "fruit/vegetable"
+        },
+        "shoppingLabel": {
+          "tr": "Malzeme",
+          "en": "Ingredient"
+        }
+      }
+    ],
+    "preparationTime": 10,
+    "calories": 60,
+    "suitableAgeInMonths": 6,
+    "allergicIngredients": [],
+    "instructions": [
+      {
+        "tr": "Malzemeleri hazırlayın.",
+        "en": "Prepare ingredients."
+      },
+      {
+        "tr": "Pişirin.",
+        "en": "Cook."
+      },
+      {
+        "tr": "Püre haline getirin.",
+        "en": "Mash into puree."
+      }
+    ]
+  },
+  {
+    "id": "67a14e11-f639-4d77-8f0a-bd116f78347b",
+    "title": {
+      "tr": "Alerjen İçeren Tarifler Tarif 1",
+      "en": "Alerjen İçeren Tarifler Recipe 1"
+    },
+    "description": {
+      "tr": "Sevgiyle hazırlanan, bebeğinizin keyifle yiyeceği yumuşacık bir tarif.",
+      "en": "A soft and lovely baby-friendly recipe."
+    },
+    "category": "Alerjen İçeren Tarifler",
+    "ingredients": [
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "adet",
+          "en": "pcs"
+        },
+        "baseName": {
+          "tr": "sebze/meyve",
+          "en": "fruit/vegetable"
+        },
+        "shoppingLabel": {
+          "tr": "Malzeme",
+          "en": "Ingredient"
+        }
+      }
+    ],
+    "preparationTime": 10,
+    "calories": 60,
+    "suitableAgeInMonths": 6,
+    "allergicIngredients": [],
+    "instructions": [
+      {
+        "tr": "Malzemeleri hazırlayın.",
+        "en": "Prepare ingredients."
+      },
+      {
+        "tr": "Pişirin.",
+        "en": "Cook."
+      },
+      {
+        "tr": "Püre haline getirin.",
+        "en": "Mash into puree."
+      }
+    ]
+  },
+  {
+    "id": "e9beb35b-0da2-4b96-bf4a-11164e008392",
+    "title": {
+      "tr": "Alerjen İçeren Tarifler Tarif 2",
+      "en": "Alerjen İçeren Tarifler Recipe 2"
+    },
+    "description": {
+      "tr": "Sevgiyle hazırlanan, bebeğinizin keyifle yiyeceği yumuşacık bir tarif.",
+      "en": "A soft and lovely baby-friendly recipe."
+    },
+    "category": "Alerjen İçeren Tarifler",
+    "ingredients": [
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "adet",
+          "en": "pcs"
+        },
+        "baseName": {
+          "tr": "sebze/meyve",
+          "en": "fruit/vegetable"
+        },
+        "shoppingLabel": {
+          "tr": "Malzeme",
+          "en": "Ingredient"
+        }
+      }
+    ],
+    "preparationTime": 10,
+    "calories": 60,
+    "suitableAgeInMonths": 6,
+    "allergicIngredients": [],
+    "instructions": [
+      {
+        "tr": "Malzemeleri hazırlayın.",
+        "en": "Prepare ingredients."
+      },
+      {
+        "tr": "Pişirin.",
+        "en": "Cook."
+      },
+      {
+        "tr": "Püre haline getirin.",
+        "en": "Mash into puree."
+      }
+    ]
+  },
+  {
+    "id": "4c148b73-745e-471d-b700-4cd4a3e4a2a3",
+    "title": {
+      "tr": "Alerjen İçeren Tarifler Tarif 3",
+      "en": "Alerjen İçeren Tarifler Recipe 3"
+    },
+    "description": {
+      "tr": "Sevgiyle hazırlanan, bebeğinizin keyifle yiyeceği yumuşacık bir tarif.",
+      "en": "A soft and lovely baby-friendly recipe."
+    },
+    "category": "Alerjen İçeren Tarifler",
+    "ingredients": [
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "adet",
+          "en": "pcs"
+        },
+        "baseName": {
+          "tr": "sebze/meyve",
+          "en": "fruit/vegetable"
+        },
+        "shoppingLabel": {
+          "tr": "Malzeme",
+          "en": "Ingredient"
+        }
+      }
+    ],
+    "preparationTime": 10,
+    "calories": 60,
+    "suitableAgeInMonths": 6,
+    "allergicIngredients": [],
+    "instructions": [
+      {
+        "tr": "Malzemeleri hazırlayın.",
+        "en": "Prepare ingredients."
+      },
+      {
+        "tr": "Pişirin.",
+        "en": "Cook."
+      },
+      {
+        "tr": "Püre haline getirin.",
+        "en": "Mash into puree."
+      }
+    ]
+  },
+  {
+    "id": "427afced-e849-423f-bc6e-7fdda8b9407f",
+    "title": {
+      "tr": "Alerjen İçeren Tarifler Tarif 4",
+      "en": "Alerjen İçeren Tarifler Recipe 4"
+    },
+    "description": {
+      "tr": "Sevgiyle hazırlanan, bebeğinizin keyifle yiyeceği yumuşacık bir tarif.",
+      "en": "A soft and lovely baby-friendly recipe."
+    },
+    "category": "Alerjen İçeren Tarifler",
+    "ingredients": [
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "adet",
+          "en": "pcs"
+        },
+        "baseName": {
+          "tr": "sebze/meyve",
+          "en": "fruit/vegetable"
+        },
+        "shoppingLabel": {
+          "tr": "Malzeme",
+          "en": "Ingredient"
+        }
+      }
+    ],
+    "preparationTime": 10,
+    "calories": 60,
+    "suitableAgeInMonths": 6,
+    "allergicIngredients": [],
+    "instructions": [
+      {
+        "tr": "Malzemeleri hazırlayın.",
+        "en": "Prepare ingredients."
+      },
+      {
+        "tr": "Pişirin.",
+        "en": "Cook."
+      },
+      {
+        "tr": "Püre haline getirin.",
+        "en": "Mash into puree."
+      }
+    ]
+  },
+  {
+    "id": "6182f137-b6b3-41bc-8d44-847511469b82",
+    "title": {
+      "tr": "Alerjen İçeren Tarifler Tarif 5",
+      "en": "Alerjen İçeren Tarifler Recipe 5"
+    },
+    "description": {
+      "tr": "Sevgiyle hazırlanan, bebeğinizin keyifle yiyeceği yumuşacık bir tarif.",
+      "en": "A soft and lovely baby-friendly recipe."
+    },
+    "category": "Alerjen İçeren Tarifler",
+    "ingredients": [
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "adet",
+          "en": "pcs"
+        },
+        "baseName": {
+          "tr": "sebze/meyve",
+          "en": "fruit/vegetable"
+        },
+        "shoppingLabel": {
+          "tr": "Malzeme",
+          "en": "Ingredient"
+        }
+      }
+    ],
+    "preparationTime": 10,
+    "calories": 60,
+    "suitableAgeInMonths": 6,
+    "allergicIngredients": [],
+    "instructions": [
+      {
+        "tr": "Malzemeleri hazırlayın.",
+        "en": "Prepare ingredients."
+      },
+      {
+        "tr": "Pişirin.",
+        "en": "Cook."
+      },
+      {
+        "tr": "Püre haline getirin.",
+        "en": "Mash into puree."
+      }
+    ]
+  },
+  {
+    "id": "3e16a6ef-425d-4561-9ef2-c6b91e3faf64",
+    "title": {
+      "tr": "BLW (Baby Led Weaning) Tarifleri Tarif 1",
+      "en": "BLW (Baby Led Weaning) Tarifleri Recipe 1"
+    },
+    "description": {
+      "tr": "Sevgiyle hazırlanan, bebeğinizin keyifle yiyeceği yumuşacık bir tarif.",
+      "en": "A soft and lovely baby-friendly recipe."
+    },
+    "category": "BLW (Baby Led Weaning) Tarifleri",
+    "ingredients": [
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "adet",
+          "en": "pcs"
+        },
+        "baseName": {
+          "tr": "sebze/meyve",
+          "en": "fruit/vegetable"
+        },
+        "shoppingLabel": {
+          "tr": "Malzeme",
+          "en": "Ingredient"
+        }
+      }
+    ],
+    "preparationTime": 10,
+    "calories": 60,
+    "suitableAgeInMonths": 6,
+    "allergicIngredients": [],
+    "instructions": [
+      {
+        "tr": "Malzemeleri hazırlayın.",
+        "en": "Prepare ingredients."
+      },
+      {
+        "tr": "Pişirin.",
+        "en": "Cook."
+      },
+      {
+        "tr": "Püre haline getirin.",
+        "en": "Mash into puree."
+      }
+    ]
+  },
+  {
+    "id": "f8161c39-5e65-4b84-8757-06cacfc94b36",
+    "title": {
+      "tr": "BLW (Baby Led Weaning) Tarifleri Tarif 2",
+      "en": "BLW (Baby Led Weaning) Tarifleri Recipe 2"
+    },
+    "description": {
+      "tr": "Sevgiyle hazırlanan, bebeğinizin keyifle yiyeceği yumuşacık bir tarif.",
+      "en": "A soft and lovely baby-friendly recipe."
+    },
+    "category": "BLW (Baby Led Weaning) Tarifleri",
+    "ingredients": [
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "adet",
+          "en": "pcs"
+        },
+        "baseName": {
+          "tr": "sebze/meyve",
+          "en": "fruit/vegetable"
+        },
+        "shoppingLabel": {
+          "tr": "Malzeme",
+          "en": "Ingredient"
+        }
+      }
+    ],
+    "preparationTime": 10,
+    "calories": 60,
+    "suitableAgeInMonths": 6,
+    "allergicIngredients": [],
+    "instructions": [
+      {
+        "tr": "Malzemeleri hazırlayın.",
+        "en": "Prepare ingredients."
+      },
+      {
+        "tr": "Pişirin.",
+        "en": "Cook."
+      },
+      {
+        "tr": "Püre haline getirin.",
+        "en": "Mash into puree."
+      }
+    ]
+  },
+  {
+    "id": "a060cff6-30bc-401f-916a-165d504e8e4a",
+    "title": {
+      "tr": "BLW (Baby Led Weaning) Tarifleri Tarif 3",
+      "en": "BLW (Baby Led Weaning) Tarifleri Recipe 3"
+    },
+    "description": {
+      "tr": "Sevgiyle hazırlanan, bebeğinizin keyifle yiyeceği yumuşacık bir tarif.",
+      "en": "A soft and lovely baby-friendly recipe."
+    },
+    "category": "BLW (Baby Led Weaning) Tarifleri",
+    "ingredients": [
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "adet",
+          "en": "pcs"
+        },
+        "baseName": {
+          "tr": "sebze/meyve",
+          "en": "fruit/vegetable"
+        },
+        "shoppingLabel": {
+          "tr": "Malzeme",
+          "en": "Ingredient"
+        }
+      }
+    ],
+    "preparationTime": 10,
+    "calories": 60,
+    "suitableAgeInMonths": 6,
+    "allergicIngredients": [],
+    "instructions": [
+      {
+        "tr": "Malzemeleri hazırlayın.",
+        "en": "Prepare ingredients."
+      },
+      {
+        "tr": "Pişirin.",
+        "en": "Cook."
+      },
+      {
+        "tr": "Püre haline getirin.",
+        "en": "Mash into puree."
+      }
+    ]
+  },
+  {
+    "id": "0f2e61bf-b00a-46e2-be04-ba476547f610",
+    "title": {
+      "tr": "BLW (Baby Led Weaning) Tarifleri Tarif 4",
+      "en": "BLW (Baby Led Weaning) Tarifleri Recipe 4"
+    },
+    "description": {
+      "tr": "Sevgiyle hazırlanan, bebeğinizin keyifle yiyeceği yumuşacık bir tarif.",
+      "en": "A soft and lovely baby-friendly recipe."
+    },
+    "category": "BLW (Baby Led Weaning) Tarifleri",
+    "ingredients": [
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "adet",
+          "en": "pcs"
+        },
+        "baseName": {
+          "tr": "sebze/meyve",
+          "en": "fruit/vegetable"
+        },
+        "shoppingLabel": {
+          "tr": "Malzeme",
+          "en": "Ingredient"
+        }
+      }
+    ],
+    "preparationTime": 10,
+    "calories": 60,
+    "suitableAgeInMonths": 6,
+    "allergicIngredients": [],
+    "instructions": [
+      {
+        "tr": "Malzemeleri hazırlayın.",
+        "en": "Prepare ingredients."
+      },
+      {
+        "tr": "Pişirin.",
+        "en": "Cook."
+      },
+      {
+        "tr": "Püre haline getirin.",
+        "en": "Mash into puree."
+      }
+    ]
+  },
+  {
+    "id": "7dea22d9-4660-43d8-8ea1-3f7e364df28e",
+    "title": {
+      "tr": "BLW (Baby Led Weaning) Tarifleri Tarif 5",
+      "en": "BLW (Baby Led Weaning) Tarifleri Recipe 5"
+    },
+    "description": {
+      "tr": "Sevgiyle hazırlanan, bebeğinizin keyifle yiyeceği yumuşacık bir tarif.",
+      "en": "A soft and lovely baby-friendly recipe."
+    },
+    "category": "BLW (Baby Led Weaning) Tarifleri",
+    "ingredients": [
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "adet",
+          "en": "pcs"
+        },
+        "baseName": {
+          "tr": "sebze/meyve",
+          "en": "fruit/vegetable"
+        },
+        "shoppingLabel": {
+          "tr": "Malzeme",
+          "en": "Ingredient"
+        }
+      }
+    ],
+    "preparationTime": 10,
+    "calories": 60,
+    "suitableAgeInMonths": 6,
+    "allergicIngredients": [],
+    "instructions": [
+      {
+        "tr": "Malzemeleri hazırlayın.",
+        "en": "Prepare ingredients."
+      },
+      {
+        "tr": "Pişirin.",
+        "en": "Cook."
+      },
+      {
+        "tr": "Püre haline getirin.",
+        "en": "Mash into puree."
+      }
+    ]
+  },
+  {
+    "id": "7e525c1b-268e-472f-b5a2-4eaa38473306",
+    "title": {
+      "tr": "Pratik/Hızlı Tarifler Tarif 1",
+      "en": "Pratik/Hızlı Tarifler Recipe 1"
+    },
+    "description": {
+      "tr": "Sevgiyle hazırlanan, bebeğinizin keyifle yiyeceği yumuşacık bir tarif.",
+      "en": "A soft and lovely baby-friendly recipe."
+    },
+    "category": "Pratik/Hızlı Tarifler",
+    "ingredients": [
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "adet",
+          "en": "pcs"
+        },
+        "baseName": {
+          "tr": "sebze/meyve",
+          "en": "fruit/vegetable"
+        },
+        "shoppingLabel": {
+          "tr": "Malzeme",
+          "en": "Ingredient"
+        }
+      }
+    ],
+    "preparationTime": 10,
+    "calories": 60,
+    "suitableAgeInMonths": 6,
+    "allergicIngredients": [],
+    "instructions": [
+      {
+        "tr": "Malzemeleri hazırlayın.",
+        "en": "Prepare ingredients."
+      },
+      {
+        "tr": "Pişirin.",
+        "en": "Cook."
+      },
+      {
+        "tr": "Püre haline getirin.",
+        "en": "Mash into puree."
+      }
+    ]
+  },
+  {
+    "id": "b7f5147f-fa07-47fa-bd5d-d368d77a2f76",
+    "title": {
+      "tr": "Pratik/Hızlı Tarifler Tarif 2",
+      "en": "Pratik/Hızlı Tarifler Recipe 2"
+    },
+    "description": {
+      "tr": "Sevgiyle hazırlanan, bebeğinizin keyifle yiyeceği yumuşacık bir tarif.",
+      "en": "A soft and lovely baby-friendly recipe."
+    },
+    "category": "Pratik/Hızlı Tarifler",
+    "ingredients": [
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "adet",
+          "en": "pcs"
+        },
+        "baseName": {
+          "tr": "sebze/meyve",
+          "en": "fruit/vegetable"
+        },
+        "shoppingLabel": {
+          "tr": "Malzeme",
+          "en": "Ingredient"
+        }
+      }
+    ],
+    "preparationTime": 10,
+    "calories": 60,
+    "suitableAgeInMonths": 6,
+    "allergicIngredients": [],
+    "instructions": [
+      {
+        "tr": "Malzemeleri hazırlayın.",
+        "en": "Prepare ingredients."
+      },
+      {
+        "tr": "Pişirin.",
+        "en": "Cook."
+      },
+      {
+        "tr": "Püre haline getirin.",
+        "en": "Mash into puree."
+      }
+    ]
+  },
+  {
+    "id": "4ccddf5e-4482-4f34-b218-f12400fa88b4",
+    "title": {
+      "tr": "Pratik/Hızlı Tarifler Tarif 3",
+      "en": "Pratik/Hızlı Tarifler Recipe 3"
+    },
+    "description": {
+      "tr": "Sevgiyle hazırlanan, bebeğinizin keyifle yiyeceği yumuşacık bir tarif.",
+      "en": "A soft and lovely baby-friendly recipe."
+    },
+    "category": "Pratik/Hızlı Tarifler",
+    "ingredients": [
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "adet",
+          "en": "pcs"
+        },
+        "baseName": {
+          "tr": "sebze/meyve",
+          "en": "fruit/vegetable"
+        },
+        "shoppingLabel": {
+          "tr": "Malzeme",
+          "en": "Ingredient"
+        }
+      }
+    ],
+    "preparationTime": 10,
+    "calories": 60,
+    "suitableAgeInMonths": 6,
+    "allergicIngredients": [],
+    "instructions": [
+      {
+        "tr": "Malzemeleri hazırlayın.",
+        "en": "Prepare ingredients."
+      },
+      {
+        "tr": "Pişirin.",
+        "en": "Cook."
+      },
+      {
+        "tr": "Püre haline getirin.",
+        "en": "Mash into puree."
+      }
+    ]
+  },
+  {
+    "id": "b3a9378b-26fd-4b49-b888-d9cb638979f2",
+    "title": {
+      "tr": "Pratik/Hızlı Tarifler Tarif 4",
+      "en": "Pratik/Hızlı Tarifler Recipe 4"
+    },
+    "description": {
+      "tr": "Sevgiyle hazırlanan, bebeğinizin keyifle yiyeceği yumuşacık bir tarif.",
+      "en": "A soft and lovely baby-friendly recipe."
+    },
+    "category": "Pratik/Hızlı Tarifler",
+    "ingredients": [
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "adet",
+          "en": "pcs"
+        },
+        "baseName": {
+          "tr": "sebze/meyve",
+          "en": "fruit/vegetable"
+        },
+        "shoppingLabel": {
+          "tr": "Malzeme",
+          "en": "Ingredient"
+        }
+      }
+    ],
+    "preparationTime": 10,
+    "calories": 60,
+    "suitableAgeInMonths": 6,
+    "allergicIngredients": [],
+    "instructions": [
+      {
+        "tr": "Malzemeleri hazırlayın.",
+        "en": "Prepare ingredients."
+      },
+      {
+        "tr": "Pişirin.",
+        "en": "Cook."
+      },
+      {
+        "tr": "Püre haline getirin.",
+        "en": "Mash into puree."
+      }
+    ]
+  },
+  {
+    "id": "6ece696a-c760-4505-a221-09e073e90971",
+    "title": {
+      "tr": "Pratik/Hızlı Tarifler Tarif 5",
+      "en": "Pratik/Hızlı Tarifler Recipe 5"
+    },
+    "description": {
+      "tr": "Sevgiyle hazırlanan, bebeğinizin keyifle yiyeceği yumuşacık bir tarif.",
+      "en": "A soft and lovely baby-friendly recipe."
+    },
+    "category": "Pratik/Hızlı Tarifler",
+    "ingredients": [
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "adet",
+          "en": "pcs"
+        },
+        "baseName": {
+          "tr": "sebze/meyve",
+          "en": "fruit/vegetable"
+        },
+        "shoppingLabel": {
+          "tr": "Malzeme",
+          "en": "Ingredient"
+        }
+      }
+    ],
+    "preparationTime": 10,
+    "calories": 60,
+    "suitableAgeInMonths": 6,
+    "allergicIngredients": [],
+    "instructions": [
+      {
+        "tr": "Malzemeleri hazırlayın.",
+        "en": "Prepare ingredients."
+      },
+      {
+        "tr": "Pişirin.",
+        "en": "Cook."
+      },
+      {
+        "tr": "Püre haline getirin.",
+        "en": "Mash into puree."
+      }
+    ]
+  },
+  {
+    "id": "9fb1e072-f3eb-45cc-9ada-13c1c3d9e7f3",
+    "title": {
+      "tr": "Mevsimsel Tarifler Tarif 1",
+      "en": "Mevsimsel Tarifler Recipe 1"
+    },
+    "description": {
+      "tr": "Sevgiyle hazırlanan, bebeğinizin keyifle yiyeceği yumuşacık bir tarif.",
+      "en": "A soft and lovely baby-friendly recipe."
+    },
+    "category": "Mevsimsel Tarifler",
+    "ingredients": [
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "adet",
+          "en": "pcs"
+        },
+        "baseName": {
+          "tr": "sebze/meyve",
+          "en": "fruit/vegetable"
+        },
+        "shoppingLabel": {
+          "tr": "Malzeme",
+          "en": "Ingredient"
+        }
+      }
+    ],
+    "preparationTime": 10,
+    "calories": 60,
+    "suitableAgeInMonths": 6,
+    "allergicIngredients": [],
+    "instructions": [
+      {
+        "tr": "Malzemeleri hazırlayın.",
+        "en": "Prepare ingredients."
+      },
+      {
+        "tr": "Pişirin.",
+        "en": "Cook."
+      },
+      {
+        "tr": "Püre haline getirin.",
+        "en": "Mash into puree."
+      }
+    ]
+  },
+  {
+    "id": "41a424eb-3359-4b82-b6cf-62ff039062d3",
+    "title": {
+      "tr": "Mevsimsel Tarifler Tarif 2",
+      "en": "Mevsimsel Tarifler Recipe 2"
+    },
+    "description": {
+      "tr": "Sevgiyle hazırlanan, bebeğinizin keyifle yiyeceği yumuşacık bir tarif.",
+      "en": "A soft and lovely baby-friendly recipe."
+    },
+    "category": "Mevsimsel Tarifler",
+    "ingredients": [
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "adet",
+          "en": "pcs"
+        },
+        "baseName": {
+          "tr": "sebze/meyve",
+          "en": "fruit/vegetable"
+        },
+        "shoppingLabel": {
+          "tr": "Malzeme",
+          "en": "Ingredient"
+        }
+      }
+    ],
+    "preparationTime": 10,
+    "calories": 60,
+    "suitableAgeInMonths": 6,
+    "allergicIngredients": [],
+    "instructions": [
+      {
+        "tr": "Malzemeleri hazırlayın.",
+        "en": "Prepare ingredients."
+      },
+      {
+        "tr": "Pişirin.",
+        "en": "Cook."
+      },
+      {
+        "tr": "Püre haline getirin.",
+        "en": "Mash into puree."
+      }
+    ]
+  },
+  {
+    "id": "71bead73-1715-450b-8d8f-ff7c983bd6b9",
+    "title": {
+      "tr": "Mevsimsel Tarifler Tarif 3",
+      "en": "Mevsimsel Tarifler Recipe 3"
+    },
+    "description": {
+      "tr": "Sevgiyle hazırlanan, bebeğinizin keyifle yiyeceği yumuşacık bir tarif.",
+      "en": "A soft and lovely baby-friendly recipe."
+    },
+    "category": "Mevsimsel Tarifler",
+    "ingredients": [
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "adet",
+          "en": "pcs"
+        },
+        "baseName": {
+          "tr": "sebze/meyve",
+          "en": "fruit/vegetable"
+        },
+        "shoppingLabel": {
+          "tr": "Malzeme",
+          "en": "Ingredient"
+        }
+      }
+    ],
+    "preparationTime": 10,
+    "calories": 60,
+    "suitableAgeInMonths": 6,
+    "allergicIngredients": [],
+    "instructions": [
+      {
+        "tr": "Malzemeleri hazırlayın.",
+        "en": "Prepare ingredients."
+      },
+      {
+        "tr": "Pişirin.",
+        "en": "Cook."
+      },
+      {
+        "tr": "Püre haline getirin.",
+        "en": "Mash into puree."
+      }
+    ]
+  },
+  {
+    "id": "5e751182-367a-4302-8388-0824bae86fff",
+    "title": {
+      "tr": "Mevsimsel Tarifler Tarif 4",
+      "en": "Mevsimsel Tarifler Recipe 4"
+    },
+    "description": {
+      "tr": "Sevgiyle hazırlanan, bebeğinizin keyifle yiyeceği yumuşacık bir tarif.",
+      "en": "A soft and lovely baby-friendly recipe."
+    },
+    "category": "Mevsimsel Tarifler",
+    "ingredients": [
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "adet",
+          "en": "pcs"
+        },
+        "baseName": {
+          "tr": "sebze/meyve",
+          "en": "fruit/vegetable"
+        },
+        "shoppingLabel": {
+          "tr": "Malzeme",
+          "en": "Ingredient"
+        }
+      }
+    ],
+    "preparationTime": 10,
+    "calories": 60,
+    "suitableAgeInMonths": 6,
+    "allergicIngredients": [],
+    "instructions": [
+      {
+        "tr": "Malzemeleri hazırlayın.",
+        "en": "Prepare ingredients."
+      },
+      {
+        "tr": "Pişirin.",
+        "en": "Cook."
+      },
+      {
+        "tr": "Püre haline getirin.",
+        "en": "Mash into puree."
+      }
+    ]
+  },
+  {
+    "id": "c63a4c08-4a01-442c-840a-e12b18fa8e63",
+    "title": {
+      "tr": "Mevsimsel Tarifler Tarif 5",
+      "en": "Mevsimsel Tarifler Recipe 5"
+    },
+    "description": {
+      "tr": "Sevgiyle hazırlanan, bebeğinizin keyifle yiyeceği yumuşacık bir tarif.",
+      "en": "A soft and lovely baby-friendly recipe."
+    },
+    "category": "Mevsimsel Tarifler",
+    "ingredients": [
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "adet",
+          "en": "pcs"
+        },
+        "baseName": {
+          "tr": "sebze/meyve",
+          "en": "fruit/vegetable"
+        },
+        "shoppingLabel": {
+          "tr": "Malzeme",
+          "en": "Ingredient"
+        }
+      }
+    ],
+    "preparationTime": 10,
+    "calories": 60,
+    "suitableAgeInMonths": 6,
+    "allergicIngredients": [],
+    "instructions": [
+      {
+        "tr": "Malzemeleri hazırlayın.",
+        "en": "Prepare ingredients."
+      },
+      {
+        "tr": "Pişirin.",
+        "en": "Cook."
+      },
+      {
+        "tr": "Püre haline getirin.",
+        "en": "Mash into puree."
+      }
+    ]
+  },
+  {
+    "id": "18b8ef27-b9fb-49b1-b7fc-4d602c445555",
+    "title": {
+      "tr": "Sindirimi Kolay Tarifler Tarif 1",
+      "en": "Sindirimi Kolay Tarifler Recipe 1"
+    },
+    "description": {
+      "tr": "Sevgiyle hazırlanan, bebeğinizin keyifle yiyeceği yumuşacık bir tarif.",
+      "en": "A soft and lovely baby-friendly recipe."
+    },
+    "category": "Sindirimi Kolay Tarifler",
+    "ingredients": [
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "adet",
+          "en": "pcs"
+        },
+        "baseName": {
+          "tr": "sebze/meyve",
+          "en": "fruit/vegetable"
+        },
+        "shoppingLabel": {
+          "tr": "Malzeme",
+          "en": "Ingredient"
+        }
+      }
+    ],
+    "preparationTime": 10,
+    "calories": 60,
+    "suitableAgeInMonths": 6,
+    "allergicIngredients": [],
+    "instructions": [
+      {
+        "tr": "Malzemeleri hazırlayın.",
+        "en": "Prepare ingredients."
+      },
+      {
+        "tr": "Pişirin.",
+        "en": "Cook."
+      },
+      {
+        "tr": "Püre haline getirin.",
+        "en": "Mash into puree."
+      }
+    ]
+  },
+  {
+    "id": "82d8f326-eefc-4f56-b223-0c72ed0fb6ba",
+    "title": {
+      "tr": "Sindirimi Kolay Tarifler Tarif 2",
+      "en": "Sindirimi Kolay Tarifler Recipe 2"
+    },
+    "description": {
+      "tr": "Sevgiyle hazırlanan, bebeğinizin keyifle yiyeceği yumuşacık bir tarif.",
+      "en": "A soft and lovely baby-friendly recipe."
+    },
+    "category": "Sindirimi Kolay Tarifler",
+    "ingredients": [
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "adet",
+          "en": "pcs"
+        },
+        "baseName": {
+          "tr": "sebze/meyve",
+          "en": "fruit/vegetable"
+        },
+        "shoppingLabel": {
+          "tr": "Malzeme",
+          "en": "Ingredient"
+        }
+      }
+    ],
+    "preparationTime": 10,
+    "calories": 60,
+    "suitableAgeInMonths": 6,
+    "allergicIngredients": [],
+    "instructions": [
+      {
+        "tr": "Malzemeleri hazırlayın.",
+        "en": "Prepare ingredients."
+      },
+      {
+        "tr": "Pişirin.",
+        "en": "Cook."
+      },
+      {
+        "tr": "Püre haline getirin.",
+        "en": "Mash into puree."
+      }
+    ]
+  },
+  {
+    "id": "f5a60527-5451-4432-af33-c890f8cd97b1",
+    "title": {
+      "tr": "Sindirimi Kolay Tarifler Tarif 3",
+      "en": "Sindirimi Kolay Tarifler Recipe 3"
+    },
+    "description": {
+      "tr": "Sevgiyle hazırlanan, bebeğinizin keyifle yiyeceği yumuşacık bir tarif.",
+      "en": "A soft and lovely baby-friendly recipe."
+    },
+    "category": "Sindirimi Kolay Tarifler",
+    "ingredients": [
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "adet",
+          "en": "pcs"
+        },
+        "baseName": {
+          "tr": "sebze/meyve",
+          "en": "fruit/vegetable"
+        },
+        "shoppingLabel": {
+          "tr": "Malzeme",
+          "en": "Ingredient"
+        }
+      }
+    ],
+    "preparationTime": 10,
+    "calories": 60,
+    "suitableAgeInMonths": 6,
+    "allergicIngredients": [],
+    "instructions": [
+      {
+        "tr": "Malzemeleri hazırlayın.",
+        "en": "Prepare ingredients."
+      },
+      {
+        "tr": "Pişirin.",
+        "en": "Cook."
+      },
+      {
+        "tr": "Püre haline getirin.",
+        "en": "Mash into puree."
+      }
+    ]
+  },
+  {
+    "id": "a917b579-5d41-45e0-bdd6-386cead7b014",
+    "title": {
+      "tr": "Sindirimi Kolay Tarifler Tarif 4",
+      "en": "Sindirimi Kolay Tarifler Recipe 4"
+    },
+    "description": {
+      "tr": "Sevgiyle hazırlanan, bebeğinizin keyifle yiyeceği yumuşacık bir tarif.",
+      "en": "A soft and lovely baby-friendly recipe."
+    },
+    "category": "Sindirimi Kolay Tarifler",
+    "ingredients": [
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "adet",
+          "en": "pcs"
+        },
+        "baseName": {
+          "tr": "sebze/meyve",
+          "en": "fruit/vegetable"
+        },
+        "shoppingLabel": {
+          "tr": "Malzeme",
+          "en": "Ingredient"
+        }
+      }
+    ],
+    "preparationTime": 10,
+    "calories": 60,
+    "suitableAgeInMonths": 6,
+    "allergicIngredients": [],
+    "instructions": [
+      {
+        "tr": "Malzemeleri hazırlayın.",
+        "en": "Prepare ingredients."
+      },
+      {
+        "tr": "Pişirin.",
+        "en": "Cook."
+      },
+      {
+        "tr": "Püre haline getirin.",
+        "en": "Mash into puree."
+      }
+    ]
+  },
+  {
+    "id": "36886379-df52-4a1f-93b2-7311fc7802d4",
+    "title": {
+      "tr": "Sindirimi Kolay Tarifler Tarif 5",
+      "en": "Sindirimi Kolay Tarifler Recipe 5"
+    },
+    "description": {
+      "tr": "Sevgiyle hazırlanan, bebeğinizin keyifle yiyeceği yumuşacık bir tarif.",
+      "en": "A soft and lovely baby-friendly recipe."
+    },
+    "category": "Sindirimi Kolay Tarifler",
+    "ingredients": [
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "adet",
+          "en": "pcs"
+        },
+        "baseName": {
+          "tr": "sebze/meyve",
+          "en": "fruit/vegetable"
+        },
+        "shoppingLabel": {
+          "tr": "Malzeme",
+          "en": "Ingredient"
+        }
+      }
+    ],
+    "preparationTime": 10,
+    "calories": 60,
+    "suitableAgeInMonths": 6,
+    "allergicIngredients": [],
+    "instructions": [
+      {
+        "tr": "Malzemeleri hazırlayın.",
+        "en": "Prepare ingredients."
+      },
+      {
+        "tr": "Pişirin.",
+        "en": "Cook."
+      },
+      {
+        "tr": "Püre haline getirin.",
+        "en": "Mash into puree."
+      }
+    ]
+  },
+  {
+    "id": "2efb75a3-2524-4981-8a71-7631229f603c",
+    "title": {
+      "tr": "Kilo Aldırıcı Tarifler Tarif 1",
+      "en": "Kilo Aldırıcı Tarifler Recipe 1"
+    },
+    "description": {
+      "tr": "Sevgiyle hazırlanan, bebeğinizin keyifle yiyeceği yumuşacık bir tarif.",
+      "en": "A soft and lovely baby-friendly recipe."
+    },
+    "category": "Kilo Aldırıcı Tarifler",
+    "ingredients": [
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "adet",
+          "en": "pcs"
+        },
+        "baseName": {
+          "tr": "sebze/meyve",
+          "en": "fruit/vegetable"
+        },
+        "shoppingLabel": {
+          "tr": "Malzeme",
+          "en": "Ingredient"
+        }
+      }
+    ],
+    "preparationTime": 10,
+    "calories": 60,
+    "suitableAgeInMonths": 6,
+    "allergicIngredients": [],
+    "instructions": [
+      {
+        "tr": "Malzemeleri hazırlayın.",
+        "en": "Prepare ingredients."
+      },
+      {
+        "tr": "Pişirin.",
+        "en": "Cook."
+      },
+      {
+        "tr": "Püre haline getirin.",
+        "en": "Mash into puree."
+      }
+    ]
+  },
+  {
+    "id": "ee7b40ab-6f09-4c86-8357-0e8ada1f08d3",
+    "title": {
+      "tr": "Kilo Aldırıcı Tarifler Tarif 2",
+      "en": "Kilo Aldırıcı Tarifler Recipe 2"
+    },
+    "description": {
+      "tr": "Sevgiyle hazırlanan, bebeğinizin keyifle yiyeceği yumuşacık bir tarif.",
+      "en": "A soft and lovely baby-friendly recipe."
+    },
+    "category": "Kilo Aldırıcı Tarifler",
+    "ingredients": [
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "adet",
+          "en": "pcs"
+        },
+        "baseName": {
+          "tr": "sebze/meyve",
+          "en": "fruit/vegetable"
+        },
+        "shoppingLabel": {
+          "tr": "Malzeme",
+          "en": "Ingredient"
+        }
+      }
+    ],
+    "preparationTime": 10,
+    "calories": 60,
+    "suitableAgeInMonths": 6,
+    "allergicIngredients": [],
+    "instructions": [
+      {
+        "tr": "Malzemeleri hazırlayın.",
+        "en": "Prepare ingredients."
+      },
+      {
+        "tr": "Pişirin.",
+        "en": "Cook."
+      },
+      {
+        "tr": "Püre haline getirin.",
+        "en": "Mash into puree."
+      }
+    ]
+  },
+  {
+    "id": "c0dbc3a1-7b55-4dce-aaf9-516de1c2a166",
+    "title": {
+      "tr": "Kilo Aldırıcı Tarifler Tarif 3",
+      "en": "Kilo Aldırıcı Tarifler Recipe 3"
+    },
+    "description": {
+      "tr": "Sevgiyle hazırlanan, bebeğinizin keyifle yiyeceği yumuşacık bir tarif.",
+      "en": "A soft and lovely baby-friendly recipe."
+    },
+    "category": "Kilo Aldırıcı Tarifler",
+    "ingredients": [
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "adet",
+          "en": "pcs"
+        },
+        "baseName": {
+          "tr": "sebze/meyve",
+          "en": "fruit/vegetable"
+        },
+        "shoppingLabel": {
+          "tr": "Malzeme",
+          "en": "Ingredient"
+        }
+      }
+    ],
+    "preparationTime": 10,
+    "calories": 60,
+    "suitableAgeInMonths": 6,
+    "allergicIngredients": [],
+    "instructions": [
+      {
+        "tr": "Malzemeleri hazırlayın.",
+        "en": "Prepare ingredients."
+      },
+      {
+        "tr": "Pişirin.",
+        "en": "Cook."
+      },
+      {
+        "tr": "Püre haline getirin.",
+        "en": "Mash into puree."
+      }
+    ]
+  },
+  {
+    "id": "970d5a83-337e-4206-806f-e6ca285d559f",
+    "title": {
+      "tr": "Kilo Aldırıcı Tarifler Tarif 4",
+      "en": "Kilo Aldırıcı Tarifler Recipe 4"
+    },
+    "description": {
+      "tr": "Sevgiyle hazırlanan, bebeğinizin keyifle yiyeceği yumuşacık bir tarif.",
+      "en": "A soft and lovely baby-friendly recipe."
+    },
+    "category": "Kilo Aldırıcı Tarifler",
+    "ingredients": [
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "adet",
+          "en": "pcs"
+        },
+        "baseName": {
+          "tr": "sebze/meyve",
+          "en": "fruit/vegetable"
+        },
+        "shoppingLabel": {
+          "tr": "Malzeme",
+          "en": "Ingredient"
+        }
+      }
+    ],
+    "preparationTime": 10,
+    "calories": 60,
+    "suitableAgeInMonths": 6,
+    "allergicIngredients": [],
+    "instructions": [
+      {
+        "tr": "Malzemeleri hazırlayın.",
+        "en": "Prepare ingredients."
+      },
+      {
+        "tr": "Pişirin.",
+        "en": "Cook."
+      },
+      {
+        "tr": "Püre haline getirin.",
+        "en": "Mash into puree."
+      }
+    ]
+  },
+  {
+    "id": "29191b10-6605-471d-b152-a3d825af80d0",
+    "title": {
+      "tr": "Kilo Aldırıcı Tarifler Tarif 5",
+      "en": "Kilo Aldırıcı Tarifler Recipe 5"
+    },
+    "description": {
+      "tr": "Sevgiyle hazırlanan, bebeğinizin keyifle yiyeceği yumuşacık bir tarif.",
+      "en": "A soft and lovely baby-friendly recipe."
+    },
+    "category": "Kilo Aldırıcı Tarifler",
+    "ingredients": [
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "adet",
+          "en": "pcs"
+        },
+        "baseName": {
+          "tr": "sebze/meyve",
+          "en": "fruit/vegetable"
+        },
+        "shoppingLabel": {
+          "tr": "Malzeme",
+          "en": "Ingredient"
+        }
+      }
+    ],
+    "preparationTime": 10,
+    "calories": 60,
+    "suitableAgeInMonths": 6,
+    "allergicIngredients": [],
+    "instructions": [
+      {
+        "tr": "Malzemeleri hazırlayın.",
+        "en": "Prepare ingredients."
+      },
+      {
+        "tr": "Pişirin.",
+        "en": "Cook."
+      },
+      {
+        "tr": "Püre haline getirin.",
+        "en": "Mash into puree."
+      }
+    ]
+  },
+  {
+    "id": "41d78aa8-89cd-40bc-a609-a78845c3af31",
+    "title": {
+      "tr": "Bağışıklık Destekleyici Tarifler Tarif 1",
+      "en": "Bağışıklık Destekleyici Tarifler Recipe 1"
+    },
+    "description": {
+      "tr": "Sevgiyle hazırlanan, bebeğinizin keyifle yiyeceği yumuşacık bir tarif.",
+      "en": "A soft and lovely baby-friendly recipe."
+    },
+    "category": "Bağışıklık Destekleyici Tarifler",
+    "ingredients": [
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "adet",
+          "en": "pcs"
+        },
+        "baseName": {
+          "tr": "sebze/meyve",
+          "en": "fruit/vegetable"
+        },
+        "shoppingLabel": {
+          "tr": "Malzeme",
+          "en": "Ingredient"
+        }
+      }
+    ],
+    "preparationTime": 10,
+    "calories": 60,
+    "suitableAgeInMonths": 6,
+    "allergicIngredients": [],
+    "instructions": [
+      {
+        "tr": "Malzemeleri hazırlayın.",
+        "en": "Prepare ingredients."
+      },
+      {
+        "tr": "Pişirin.",
+        "en": "Cook."
+      },
+      {
+        "tr": "Püre haline getirin.",
+        "en": "Mash into puree."
+      }
+    ]
+  },
+  {
+    "id": "aebc12b4-a6c8-4f28-a8f2-c0043ca1009b",
+    "title": {
+      "tr": "Bağışıklık Destekleyici Tarifler Tarif 2",
+      "en": "Bağışıklık Destekleyici Tarifler Recipe 2"
+    },
+    "description": {
+      "tr": "Sevgiyle hazırlanan, bebeğinizin keyifle yiyeceği yumuşacık bir tarif.",
+      "en": "A soft and lovely baby-friendly recipe."
+    },
+    "category": "Bağışıklık Destekleyici Tarifler",
+    "ingredients": [
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "adet",
+          "en": "pcs"
+        },
+        "baseName": {
+          "tr": "sebze/meyve",
+          "en": "fruit/vegetable"
+        },
+        "shoppingLabel": {
+          "tr": "Malzeme",
+          "en": "Ingredient"
+        }
+      }
+    ],
+    "preparationTime": 10,
+    "calories": 60,
+    "suitableAgeInMonths": 6,
+    "allergicIngredients": [],
+    "instructions": [
+      {
+        "tr": "Malzemeleri hazırlayın.",
+        "en": "Prepare ingredients."
+      },
+      {
+        "tr": "Pişirin.",
+        "en": "Cook."
+      },
+      {
+        "tr": "Püre haline getirin.",
+        "en": "Mash into puree."
+      }
+    ]
+  },
+  {
+    "id": "ef9e83f1-619b-4698-97b1-f3b9d1e80baf",
+    "title": {
+      "tr": "Bağışıklık Destekleyici Tarifler Tarif 3",
+      "en": "Bağışıklık Destekleyici Tarifler Recipe 3"
+    },
+    "description": {
+      "tr": "Sevgiyle hazırlanan, bebeğinizin keyifle yiyeceği yumuşacık bir tarif.",
+      "en": "A soft and lovely baby-friendly recipe."
+    },
+    "category": "Bağışıklık Destekleyici Tarifler",
+    "ingredients": [
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "adet",
+          "en": "pcs"
+        },
+        "baseName": {
+          "tr": "sebze/meyve",
+          "en": "fruit/vegetable"
+        },
+        "shoppingLabel": {
+          "tr": "Malzeme",
+          "en": "Ingredient"
+        }
+      }
+    ],
+    "preparationTime": 10,
+    "calories": 60,
+    "suitableAgeInMonths": 6,
+    "allergicIngredients": [],
+    "instructions": [
+      {
+        "tr": "Malzemeleri hazırlayın.",
+        "en": "Prepare ingredients."
+      },
+      {
+        "tr": "Pişirin.",
+        "en": "Cook."
+      },
+      {
+        "tr": "Püre haline getirin.",
+        "en": "Mash into puree."
+      }
+    ]
+  },
+  {
+    "id": "d74e5cdc-094b-40d8-aa1e-545dad2742e8",
+    "title": {
+      "tr": "Bağışıklık Destekleyici Tarifler Tarif 4",
+      "en": "Bağışıklık Destekleyici Tarifler Recipe 4"
+    },
+    "description": {
+      "tr": "Sevgiyle hazırlanan, bebeğinizin keyifle yiyeceği yumuşacık bir tarif.",
+      "en": "A soft and lovely baby-friendly recipe."
+    },
+    "category": "Bağışıklık Destekleyici Tarifler",
+    "ingredients": [
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "adet",
+          "en": "pcs"
+        },
+        "baseName": {
+          "tr": "sebze/meyve",
+          "en": "fruit/vegetable"
+        },
+        "shoppingLabel": {
+          "tr": "Malzeme",
+          "en": "Ingredient"
+        }
+      }
+    ],
+    "preparationTime": 10,
+    "calories": 60,
+    "suitableAgeInMonths": 6,
+    "allergicIngredients": [],
+    "instructions": [
+      {
+        "tr": "Malzemeleri hazırlayın.",
+        "en": "Prepare ingredients."
+      },
+      {
+        "tr": "Pişirin.",
+        "en": "Cook."
+      },
+      {
+        "tr": "Püre haline getirin.",
+        "en": "Mash into puree."
+      }
+    ]
+  },
+  {
+    "id": "eeedda31-11b3-4f20-84a8-036d6b00af4b",
+    "title": {
+      "tr": "Bağışıklık Destekleyici Tarifler Tarif 5",
+      "en": "Bağışıklık Destekleyici Tarifler Recipe 5"
+    },
+    "description": {
+      "tr": "Sevgiyle hazırlanan, bebeğinizin keyifle yiyeceği yumuşacık bir tarif.",
+      "en": "A soft and lovely baby-friendly recipe."
+    },
+    "category": "Bağışıklık Destekleyici Tarifler",
+    "ingredients": [
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "adet",
+          "en": "pcs"
+        },
+        "baseName": {
+          "tr": "sebze/meyve",
+          "en": "fruit/vegetable"
+        },
+        "shoppingLabel": {
+          "tr": "Malzeme",
+          "en": "Ingredient"
+        }
+      }
+    ],
+    "preparationTime": 10,
+    "calories": 60,
+    "suitableAgeInMonths": 6,
+    "allergicIngredients": [],
+    "instructions": [
+      {
+        "tr": "Malzemeleri hazırlayın.",
+        "en": "Prepare ingredients."
+      },
+      {
+        "tr": "Pişirin.",
+        "en": "Cook."
+      },
+      {
+        "tr": "Püre haline getirin.",
+        "en": "Mash into puree."
+      }
+    ]
+  },
+  {
+    "id": "9db16b8f-5aa4-41a2-ad14-d58f98708fa3",
+    "title": {
+      "tr": "Gaz Yapmayan Tarifler Tarif 1",
+      "en": "Gaz Yapmayan Tarifler Recipe 1"
+    },
+    "description": {
+      "tr": "Sevgiyle hazırlanan, bebeğinizin keyifle yiyeceği yumuşacık bir tarif.",
+      "en": "A soft and lovely baby-friendly recipe."
+    },
+    "category": "Gaz Yapmayan Tarifler",
+    "ingredients": [
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "adet",
+          "en": "pcs"
+        },
+        "baseName": {
+          "tr": "sebze/meyve",
+          "en": "fruit/vegetable"
+        },
+        "shoppingLabel": {
+          "tr": "Malzeme",
+          "en": "Ingredient"
+        }
+      }
+    ],
+    "preparationTime": 10,
+    "calories": 60,
+    "suitableAgeInMonths": 6,
+    "allergicIngredients": [],
+    "instructions": [
+      {
+        "tr": "Malzemeleri hazırlayın.",
+        "en": "Prepare ingredients."
+      },
+      {
+        "tr": "Pişirin.",
+        "en": "Cook."
+      },
+      {
+        "tr": "Püre haline getirin.",
+        "en": "Mash into puree."
+      }
+    ]
+  },
+  {
+    "id": "9dfaf3e9-367f-411a-867d-39b739d00f19",
+    "title": {
+      "tr": "Gaz Yapmayan Tarifler Tarif 2",
+      "en": "Gaz Yapmayan Tarifler Recipe 2"
+    },
+    "description": {
+      "tr": "Sevgiyle hazırlanan, bebeğinizin keyifle yiyeceği yumuşacık bir tarif.",
+      "en": "A soft and lovely baby-friendly recipe."
+    },
+    "category": "Gaz Yapmayan Tarifler",
+    "ingredients": [
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "adet",
+          "en": "pcs"
+        },
+        "baseName": {
+          "tr": "sebze/meyve",
+          "en": "fruit/vegetable"
+        },
+        "shoppingLabel": {
+          "tr": "Malzeme",
+          "en": "Ingredient"
+        }
+      }
+    ],
+    "preparationTime": 10,
+    "calories": 60,
+    "suitableAgeInMonths": 6,
+    "allergicIngredients": [],
+    "instructions": [
+      {
+        "tr": "Malzemeleri hazırlayın.",
+        "en": "Prepare ingredients."
+      },
+      {
+        "tr": "Pişirin.",
+        "en": "Cook."
+      },
+      {
+        "tr": "Püre haline getirin.",
+        "en": "Mash into puree."
+      }
+    ]
+  },
+  {
+    "id": "46d19da0-e238-4638-915c-46a4c63c20d7",
+    "title": {
+      "tr": "Gaz Yapmayan Tarifler Tarif 3",
+      "en": "Gaz Yapmayan Tarifler Recipe 3"
+    },
+    "description": {
+      "tr": "Sevgiyle hazırlanan, bebeğinizin keyifle yiyeceği yumuşacık bir tarif.",
+      "en": "A soft and lovely baby-friendly recipe."
+    },
+    "category": "Gaz Yapmayan Tarifler",
+    "ingredients": [
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "adet",
+          "en": "pcs"
+        },
+        "baseName": {
+          "tr": "sebze/meyve",
+          "en": "fruit/vegetable"
+        },
+        "shoppingLabel": {
+          "tr": "Malzeme",
+          "en": "Ingredient"
+        }
+      }
+    ],
+    "preparationTime": 10,
+    "calories": 60,
+    "suitableAgeInMonths": 6,
+    "allergicIngredients": [],
+    "instructions": [
+      {
+        "tr": "Malzemeleri hazırlayın.",
+        "en": "Prepare ingredients."
+      },
+      {
+        "tr": "Pişirin.",
+        "en": "Cook."
+      },
+      {
+        "tr": "Püre haline getirin.",
+        "en": "Mash into puree."
+      }
+    ]
+  },
+  {
+    "id": "60fce5fc-545f-400a-aefa-b305f013df1c",
+    "title": {
+      "tr": "Gaz Yapmayan Tarifler Tarif 4",
+      "en": "Gaz Yapmayan Tarifler Recipe 4"
+    },
+    "description": {
+      "tr": "Sevgiyle hazırlanan, bebeğinizin keyifle yiyeceği yumuşacık bir tarif.",
+      "en": "A soft and lovely baby-friendly recipe."
+    },
+    "category": "Gaz Yapmayan Tarifler",
+    "ingredients": [
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "adet",
+          "en": "pcs"
+        },
+        "baseName": {
+          "tr": "sebze/meyve",
+          "en": "fruit/vegetable"
+        },
+        "shoppingLabel": {
+          "tr": "Malzeme",
+          "en": "Ingredient"
+        }
+      }
+    ],
+    "preparationTime": 10,
+    "calories": 60,
+    "suitableAgeInMonths": 6,
+    "allergicIngredients": [],
+    "instructions": [
+      {
+        "tr": "Malzemeleri hazırlayın.",
+        "en": "Prepare ingredients."
+      },
+      {
+        "tr": "Pişirin.",
+        "en": "Cook."
+      },
+      {
+        "tr": "Püre haline getirin.",
+        "en": "Mash into puree."
+      }
+    ]
+  },
+  {
+    "id": "4a0e1352-b7a6-4739-b1ca-048772648760",
+    "title": {
+      "tr": "Gaz Yapmayan Tarifler Tarif 5",
+      "en": "Gaz Yapmayan Tarifler Recipe 5"
+    },
+    "description": {
+      "tr": "Sevgiyle hazırlanan, bebeğinizin keyifle yiyeceği yumuşacık bir tarif.",
+      "en": "A soft and lovely baby-friendly recipe."
+    },
+    "category": "Gaz Yapmayan Tarifler",
+    "ingredients": [
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "adet",
+          "en": "pcs"
+        },
+        "baseName": {
+          "tr": "sebze/meyve",
+          "en": "fruit/vegetable"
+        },
+        "shoppingLabel": {
+          "tr": "Malzeme",
+          "en": "Ingredient"
+        }
+      }
+    ],
+    "preparationTime": 10,
+    "calories": 60,
+    "suitableAgeInMonths": 6,
+    "allergicIngredients": [],
+    "instructions": [
+      {
+        "tr": "Malzemeleri hazırlayın.",
+        "en": "Prepare ingredients."
+      },
+      {
+        "tr": "Pişirin.",
+        "en": "Cook."
+      },
+      {
+        "tr": "Püre haline getirin.",
+        "en": "Mash into puree."
+      }
+    ]
+  }
+]
