@@ -33,4 +33,175 @@
       "en": "Add Vitamin C with meat dishes.\nDo not give molasses and yogurt together."
     }
   }
+  {
+    "id": "info_003",
+    "title": {
+      "tr": "Tuz ve Şeker",
+      "en": "Salt and Sugar"
+    },
+    "category": {
+      "tr": "Güvenlik",
+      "en": "Safety"
+    },
+    "colorHex": "#FFB74D",
+    "imageUrl": "https://raw.githubusercontent.com/sibersentinel/bebek-tarifleri-data/main/images/2.jpg",
+    "description": {
+      "tr": "1 yaşına kadar tuz ve şeker eklemeyin.\nBebeğin böbrekleri henüz hazır değildir.",
+      "en": "Avoid salt and sugar until age 1.\nBaby's kidneys are not fully developed."
+    }
+  },
+  {
+    "id": "info_004",
+    "title": {
+      "tr": "Su Tüketimi",
+      "en": "Water Intake"
+    },
+    "category": {
+      "tr": "Beslenme",
+      "en": "Nutrition"
+    },
+    "colorHex": "#4FC3F7",
+    "imageUrl": "https://raw.githubusercontent.com/sibersentinel/bebek-tarifleri-data/main/images/3.jpg",
+    "description": {
+      "tr": "Ek gıdaya başladıktan sonra su verin.\nÖğün aralarında küçük miktarlar yeterlidir.",
+      "en": "Offer water after starting solids.\nSmall amounts between meals are enough."
+    }
+  },
+  {
+    "id": "info_005",
+    "title": {
+      "tr": "Püre Kıvamı",
+      "en": "Puree Texture"
+    },
+    "category": {
+      "tr": "Hazırlık",
+      "en": "Preparation"
+    },
+    "colorHex": "#81C784",
+    "imageUrl": "https://raw.githubusercontent.com/sibersentinel/bebek-tarifleri-data/main/images/4.jpg",
+    "description": {
+      "tr": "İlk aylarda pürüzsüz püre tercih edin.\nZamanla kıvamı artırarak geçiş yapın.",
+      "en": "Start with smooth purees.\nGradually increase texture over time."
+    }
+  },
+  {
+    "id": "info_006",
+    "title": {
+      "tr": "Bal Kullanımı",
+      "en": "Honey Warning"
+    },
+    "category": {
+      "tr": "Güvenlik",
+      "en": "Safety"
+    },
+    "colorHex": "#E57373",
+    "imageUrl": "https://raw.githubusercontent.com/sibersentinel/bebek-tarifleri-data/main/images/5.jpg",
+    "description": {
+      "tr": "1 yaşından önce bal vermeyin.\nBotulizm riski oluşturabilir.",
+      "en": "Do not give honey before age 1.\nIt may cause botulism."
+    }
+  },
+  {
+    "id": "info_007",
+    "title": {
+      "tr": "Alerjen Gıdalar",
+      "en": "Allergenic Foods"
+    },
+    "category": {
+      "tr": "Güvenlik",
+      "en": "Safety"
+    },
+    "colorHex": "#BA68C8",
+    "imageUrl": "https://raw.githubusercontent.com/sibersentinel/bebek-tarifleri-data/main/images/6.jpg",
+    "description": {
+      "tr": "Yumurta, süt ve kuruyemişleri dikkatli verin.\nAz miktarla başlayın.",
+      "en": "Introduce eggs, milk, and nuts carefully.\nStart with small amounts."
+    }
+  },
+  {
+    "id": "info_008",
+    "title": {
+      "tr": "Sebze Önceliği",
+      "en": "Vegetable First"
+    },
+    "category": {
+      "tr": "Beslenme",
+      "en": "Nutrition"
+    },
+    "colorHex": "#AED581",
+    "imageUrl": "https://raw.githubusercontent.com/sibersentinel/bebek-tarifleri-data/main/images/7.jpg",
+    "description": {
+      "tr": "Önce sebzelerle başlayın.\nTatlıya alışmadan sağlıklı tercih gelişir.",
+      "en": "Start with vegetables first.\nPrevents early preference for sweet foods."
+    }
+  },
+  {
+    "id": "info_009",
+    "title": {
+      "tr": "Parmak Gıdalar",
+      "en": "Finger Foods"
+    },
+    "category": {
+      "tr": "Gelişim",
+      "en": "Development"
+    },
+    "colorHex": "#FFD54F",
+    "imageUrl": "https://raw.githubusercontent.com/sibersentinel/bebek-tarifleri-data/main/images/8.jpg",
+    "description": {
+      "tr": "8. aydan sonra parmak gıdalar verin.\nMotor gelişimi destekler.",
+      "en": "Offer finger foods after 8 months.\nSupports motor development."
+    }
+  },
+  {
+    "id": "info_010",
+    "title": {
+      "tr": "Yoğurt Seçimi",
+      "en": "Yogurt Choice"
+    },
+    "category": {
+      "tr": "Beslenme",
+      "en": "Nutrition"
+    },
+    "colorHex": "#90CAF9",
+    "imageUrl": "https://raw.githubusercontent.com/sibersentinel/bebek-tarifleri-data/main/images/9.jpg",
+    "description": {
+      "tr": "Ev yapımı yoğurt tercih edin.\nKatkı maddesi içermemelidir.",
+      "en": "Prefer homemade yogurt.\nAvoid additives."
+    }
+  },
+  {
+    "id": "info_011",
+    "title": {
+      "tr": "Öğün Düzeni",
+      "en": "Meal Routine"
+    },
+    "category": {
+      "tr": "Gelişim",
+      "en": "Development"
+    },
+    "colorHex": "#A1887F",
+    "imageUrl": "https://raw.githubusercontent.com/sibersentinel/bebek-tarifleri-data/main/images/10.jpg",
+    "description": {
+      "tr": "Her gün benzer saatlerde besleyin.\nRutin oluşturmak önemlidir.",
+      "en": "Feed at consistent times daily.\nRoutine is important."
+    }
+  },
+  {
+    "id": "info_012",
+    "title": {
+      "tr": "Zorlamayın",
+      "en": "Do Not Force"
+    },
+    "category": {
+      "tr": "Davranış",
+      "en": "Behavior"
+    },
+    "colorHex": "#F48FB1",
+    "imageUrl": "https://raw.githubusercontent.com/sibersentinel/bebek-tarifleri-data/main/images/11.jpg",
+    "description": {
+      "tr": "Bebek istemiyorsa zorlamayın.\nİştah zamanla gelişir.",
+      "en": "Do not force feeding.\nAppetite develops over time."
+    }
+  }
 ]
+
