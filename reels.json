@@ -1,172 +1,307 @@
 [
   {
-    "id": "info_003",
-    "title": {
-      "tr": "Tuz ve Şeker",
-      "en": "Salt and Sugar"
-    },
-    "category": {
-      "tr": "Güvenlik",
-      "en": "Safety"
-    },
-    "colorHex": "#FFB74D",
-    "imageUrl": "https://raw.githubusercontent.com/sibersentinel/bebek-tarifleri-data/main/images/2.jpg",
+    "id": "info_101",
+    "title": {"tr": "3 Gün Kuralı", "en": "3-Day Rule"},
+    "category": {"tr": "Güvenlik", "en": "Safety"},
+    "colorHex": "#FF8A8A",
     "description": {
-      "tr": "1 yaşına kadar tuz ve şeker eklemeyin.\nBebeğin böbrekleri henüz hazır değildir.",
-      "en": "Avoid salt and sugar until age 1.\nBaby's kidneys are not fully developed."
+      "tr": "Yeni besinleri tek tek verin.\n3 gün boyunca reaksiyon gözlemleyin.",
+      "en": "Introduce foods one by one.\nObserve for 3 days for reactions."
     }
   },
   {
-    "id": "info_004",
-    "title": {
-      "tr": "Su Tüketimi",
-      "en": "Water Intake"
-    },
-    "category": {
-      "tr": "Beslenme",
-      "en": "Nutrition"
-    },
-    "colorHex": "#4FC3F7",
-    "imageUrl": "https://raw.githubusercontent.com/sibersentinel/bebek-tarifleri-data/main/images/3.jpg",
+    "id": "info_102",
+    "title": {"tr": "Bal Vermeyin", "en": "No Honey"},
+    "category": {"tr": "Güvenlik", "en": "Safety"},
+    "colorHex": "#FF8A8A",
     "description": {
-      "tr": "Ek gıdaya başladıktan sonra su verin.\nÖğün aralarında küçük miktarlar yeterlidir.",
-      "en": "Offer water after starting solids.\nSmall amounts between meals are enough."
+      "tr": "1 yaşından önce bal vermeyin.\nBotulizm riski vardır.",
+      "en": "Do not give honey before age 1.\nRisk of botulism."
     }
   },
   {
-    "id": "info_005",
-    "title": {
-      "tr": "Püre Kıvamı",
-      "en": "Puree Texture"
-    },
-    "category": {
-      "tr": "Hazırlık",
-      "en": "Preparation"
-    },
+    "id": "info_103",
+    "title": {"tr": "Tuzdan Kaçının", "en": "Avoid Salt"},
+    "category": {"tr": "Güvenlik", "en": "Safety"},
+    "colorHex": "#FF8A8A",
+    "description": {
+      "tr": "Bebek yemeklerine tuz eklemeyin.\nBöbrekler gelişmemiştir.",
+      "en": "Do not add salt.\nKidneys are not mature yet."
+    }
+  },
+  {
+    "id": "info_104",
+    "title": {"tr": "Boğulma Riski", "en": "Choking Risk"},
+    "category": {"tr": "Güvenlik", "en": "Safety"},
+    "colorHex": "#FF8A8A",
+    "description": {
+      "tr": "Sert ve yuvarlak gıdalardan kaçının.\nKüçük parçalara bölün.",
+      "en": "Avoid hard round foods.\nCut into small pieces."
+    }
+  },
+  {
+    "id": "info_105",
+    "title": {"tr": "Hijyen Önemli", "en": "Hygiene Matters"},
+    "category": {"tr": "Güvenlik", "en": "Safety"},
+    "colorHex": "#FF8A8A",
+    "description": {
+      "tr": "Ellerinizi ve malzemeleri temiz tutun.\nGıdaları iyi yıkayın.",
+      "en": "Keep hands and tools clean.\nWash foods properly."
+    }
+  },
+
+  {
+    "id": "info_106",
+    "title": {"tr": "Demir Kaynakları", "en": "Iron Sources"},
+    "category": {"tr": "Beslenme", "en": "Nutrition"},
+    "colorHex": "#4A90E2",
+    "description": {
+      "tr": "Kırmızı et ve yumurta demir içerir.\nDüzenli tüketim önemlidir.",
+      "en": "Meat and eggs contain iron.\nRegular intake is important."
+    }
+  },
+  {
+    "id": "info_107",
+    "title": {"tr": "C Vitamini Desteği", "en": "Vitamin C Support"},
+    "category": {"tr": "Beslenme", "en": "Nutrition"},
+    "colorHex": "#4A90E2",
+    "description": {
+      "tr": "Demir emilimi için C vitamini ekleyin.\nSebzelerle birlikte verin.",
+      "en": "Add vitamin C for iron absorption.\nServe with vegetables."
+    }
+  },
+  {
+    "id": "info_108",
+    "title": {"tr": "Sebze Önceliği", "en": "Vegetables First"},
+    "category": {"tr": "Beslenme", "en": "Nutrition"},
+    "colorHex": "#4A90E2",
+    "description": {
+      "tr": "Önce sebzelerle başlayın.\nTatlıya alışmayı geciktirir.",
+      "en": "Start with vegetables.\nDelays sweet preference."
+    }
+  },
+  {
+    "id": "info_109",
+    "title": {"tr": "Ev Yoğurdu", "en": "Homemade Yogurt"},
+    "category": {"tr": "Beslenme", "en": "Nutrition"},
+    "colorHex": "#4A90E2",
+    "description": {
+      "tr": "Katkısız yoğurt tercih edin.\nEv yapımı en sağlıklısıdır.",
+      "en": "Choose additive-free yogurt.\nHomemade is best."
+    }
+  },
+  {
+    "id": "info_110",
+    "title": {"tr": "Su Tüketimi", "en": "Water Intake"},
+    "category": {"tr": "Beslenme", "en": "Nutrition"},
+    "colorHex": "#4A90E2",
+    "description": {
+      "tr": "Ek gıdayla birlikte su verin.\nAz miktar yeterlidir.",
+      "en": "Offer water with solids.\nSmall amounts are enough."
+    }
+  },
+
+  {
+    "id": "info_111",
+    "title": {"tr": "Parmak Gıdalar", "en": "Finger Foods"},
+    "category": {"tr": "Gelişim", "en": "Development"},
     "colorHex": "#81C784",
-    "imageUrl": "https://raw.githubusercontent.com/sibersentinel/bebek-tarifleri-data/main/images/4.jpg",
     "description": {
-      "tr": "İlk aylarda pürüzsüz püre tercih edin.\nZamanla kıvamı artırarak geçiş yapın.",
-      "en": "Start with smooth purees.\nGradually increase texture over time."
+      "tr": "8. aydan sonra parmak gıdalar verin.\nMotor becerileri geliştirir.",
+      "en": "Introduce finger foods after 8 months.\nImproves motor skills."
     }
   },
   {
-    "id": "info_006",
-    "title": {
-      "tr": "Bal Kullanımı",
-      "en": "Honey Warning"
-    },
-    "category": {
-      "tr": "Güvenlik",
-      "en": "Safety"
-    },
-    "colorHex": "#E57373",
-    "imageUrl": "https://raw.githubusercontent.com/sibersentinel/bebek-tarifleri-data/main/images/5.jpg",
+    "id": "info_112",
+    "title": {"tr": "Kendi Kendine Yeme", "en": "Self Feeding"},
+    "category": {"tr": "Gelişim", "en": "Development"},
+    "colorHex": "#81C784",
     "description": {
-      "tr": "1 yaşından önce bal vermeyin.\nBotulizm riski oluşturabilir.",
-      "en": "Do not give honey before age 1.\nIt may cause botulism."
+      "tr": "Bebeğin kendi yemesine izin verin.\nÖzgüveni artırır.",
+      "en": "Let baby self-feed.\nBuilds confidence."
     }
   },
   {
-    "id": "info_007",
-    "title": {
-      "tr": "Alerjen Gıdalar",
-      "en": "Allergenic Foods"
-    },
-    "category": {
-      "tr": "Güvenlik",
-      "en": "Safety"
-    },
-    "colorHex": "#BA68C8",
-    "imageUrl": "https://raw.githubusercontent.com/sibersentinel/bebek-tarifleri-data/main/images/6.jpg",
+    "id": "info_113",
+    "title": {"tr": "Çiğneme Gelişimi", "en": "Chewing Development"},
+    "category": {"tr": "Gelişim", "en": "Development"},
+    "colorHex": "#81C784",
     "description": {
-      "tr": "Yumurta, süt ve kuruyemişleri dikkatli verin.\nAz miktarla başlayın.",
-      "en": "Introduce eggs, milk, and nuts carefully.\nStart with small amounts."
+      "tr": "Kıvamı zamanla artırın.\nÇiğneme becerisi gelişir.",
+      "en": "Increase texture gradually.\nSupports chewing."
     }
   },
   {
-    "id": "info_008",
-    "title": {
-      "tr": "Sebze Önceliği",
-      "en": "Vegetable First"
-    },
-    "category": {
-      "tr": "Beslenme",
-      "en": "Nutrition"
-    },
-    "colorHex": "#AED581",
-    "imageUrl": "https://raw.githubusercontent.com/sibersentinel/bebek-tarifleri-data/main/images/7.jpg",
+    "id": "info_114",
+    "title": {"tr": "Kaşık Kullanımı", "en": "Spoon Use"},
+    "category": {"tr": "Gelişim", "en": "Development"},
+    "colorHex": "#81C784",
     "description": {
-      "tr": "Önce sebzelerle başlayın.\nTatlıya alışmadan sağlıklı tercih gelişir.",
-      "en": "Start with vegetables first.\nPrevents early preference for sweet foods."
+      "tr": "Kaşıkla denemelerine izin verin.\nEl-göz koordinasyonu gelişir.",
+      "en": "Allow spoon practice.\nImproves coordination."
     }
   },
   {
-    "id": "info_009",
-    "title": {
-      "tr": "Parmak Gıdalar",
-      "en": "Finger Foods"
-    },
-    "category": {
-      "tr": "Gelişim",
-      "en": "Development"
-    },
+    "id": "info_115",
+    "title": {"tr": "Sabır Süreci", "en": "Patience Process"},
+    "category": {"tr": "Gelişim", "en": "Development"},
+    "colorHex": "#81C784",
+    "description": {
+      "tr": "Yeme öğrenme süreci zaman alır.\nSabırlı olun.",
+      "en": "Eating skills take time.\nBe patient."
+    }
+  },
+
+  {
+    "id": "info_116",
+    "title": {"tr": "Püre Kıvamı", "en": "Puree Texture"},
+    "category": {"tr": "Hazırlık", "en": "Preparation"},
     "colorHex": "#FFD54F",
-    "imageUrl": "https://raw.githubusercontent.com/sibersentinel/bebek-tarifleri-data/main/images/8.jpg",
     "description": {
-      "tr": "8. aydan sonra parmak gıdalar verin.\nMotor gelişimi destekler.",
-      "en": "Offer finger foods after 8 months.\nSupports motor development."
+      "tr": "Başta pürüzsüz püre yapın.\nZamanla yoğunlaştırın.",
+      "en": "Start smooth.\nThicken over time."
     }
   },
   {
-    "id": "info_010",
-    "title": {
-      "tr": "Yoğurt Seçimi",
-      "en": "Yogurt Choice"
-    },
-    "category": {
-      "tr": "Beslenme",
-      "en": "Nutrition"
-    },
-    "colorHex": "#90CAF9",
-    "imageUrl": "https://raw.githubusercontent.com/sibersentinel/bebek-tarifleri-data/main/images/9.jpg",
+    "id": "info_117",
+    "title": {"tr": "Buharda Pişirme", "en": "Steaming"},
+    "category": {"tr": "Hazırlık", "en": "Preparation"},
+    "colorHex": "#FFD54F",
     "description": {
-      "tr": "Ev yapımı yoğurt tercih edin.\nKatkı maddesi içermemelidir.",
-      "en": "Prefer homemade yogurt.\nAvoid additives."
+      "tr": "Sebzeleri buharda pişirin.\nBesin değeri korunur.",
+      "en": "Steam vegetables.\nPreserves nutrients."
     }
   },
   {
-    "id": "info_011",
-    "title": {
-      "tr": "Öğün Düzeni",
-      "en": "Meal Routine"
-    },
-    "category": {
-      "tr": "Gelişim",
-      "en": "Development"
-    },
-    "colorHex": "#A1887F",
-    "imageUrl": "https://raw.githubusercontent.com/sibersentinel/bebek-tarifleri-data/main/images/10.jpg",
+    "id": "info_118",
+    "title": {"tr": "Taze Hazırlık", "en": "Fresh Prep"},
+    "category": {"tr": "Hazırlık", "en": "Preparation"},
+    "colorHex": "#FFD54F",
     "description": {
-      "tr": "Her gün benzer saatlerde besleyin.\nRutin oluşturmak önemlidir.",
-      "en": "Feed at consistent times daily.\nRoutine is important."
+      "tr": "Yemekleri taze hazırlayın.\nBekletmeden tüketin.",
+      "en": "Prepare fresh meals.\nConsume immediately."
     }
   },
   {
-    "id": "info_012",
-    "title": {
-      "tr": "Zorlamayın",
-      "en": "Do Not Force"
-    },
-    "category": {
-      "tr": "Davranış",
-      "en": "Behavior"
-    },
+    "id": "info_119",
+    "title": {"tr": "Saklama", "en": "Storage"},
+    "category": {"tr": "Hazırlık", "en": "Preparation"},
+    "colorHex": "#FFD54F",
+    "description": {
+      "tr": "Artan yemekleri uygun saklayın.\nTekrar ısıtırken dikkat edin.",
+      "en": "Store leftovers properly.\nReheat carefully."
+    }
+  },
+  {
+    "id": "info_120",
+    "title": {"tr": "Blender Kullanımı", "en": "Blender Use"},
+    "category": {"tr": "Hazırlık", "en": "Preparation"},
+    "colorHex": "#FFD54F",
+    "description": {
+      "tr": "Kıvam için blender kullanın.\nAşırı ezmemeye dikkat edin.",
+      "en": "Use blender for texture.\nAvoid over-processing."
+    }
+  },
+
+  {
+    "id": "info_121",
+    "title": {"tr": "Zorlamayın", "en": "Do Not Force"},
+    "category": {"tr": "Davranış", "en": "Behavior"},
     "colorHex": "#F48FB1",
-    "imageUrl": "https://raw.githubusercontent.com/sibersentinel/bebek-tarifleri-data/main/images/11.jpg",
     "description": {
-      "tr": "Bebek istemiyorsa zorlamayın.\nİştah zamanla gelişir.",
-      "en": "Do not force feeding.\nAppetite develops over time."
+      "tr": "Bebek istemiyorsa zorlamayın.\nİştah değişebilir.",
+      "en": "Do not force feeding.\nAppetite varies."
+    }
+  },
+  {
+    "id": "info_122",
+    "title": {"tr": "Pozitif Ortam", "en": "Positive Environment"},
+    "category": {"tr": "Davranış", "en": "Behavior"},
+    "colorHex": "#F48FB1",
+    "description": {
+      "tr": "Yemek saatini keyifli hale getirin.\nBaskıdan kaçının.",
+      "en": "Make mealtime enjoyable.\nAvoid pressure."
+    }
+  },
+  {
+    "id": "info_123",
+    "title": {"tr": "Tekrar Deneme", "en": "Retry Foods"},
+    "category": {"tr": "Davranış", "en": "Behavior"},
+    "colorHex": "#F48FB1",
+    "description": {
+      "tr": "Reddedilen gıdayı tekrar sunun.\nZamanla kabul edebilir.",
+      "en": "Retry rejected foods.\nAcceptance may improve."
+    }
+  },
+  {
+    "id": "info_124",
+    "title": {"tr": "Dikkat Dağıtmayın", "en": "No Distractions"},
+    "category": {"tr": "Davranış", "en": "Behavior"},
+    "colorHex": "#F48FB1",
+    "description": {
+      "tr": "Ekransız besleyin.\nYemeğe odaklanması önemli.",
+      "en": "Avoid screens.\nFocus on eating."
+    }
+  },
+  {
+    "id": "info_125",
+    "title": {"tr": "Örnek Olun", "en": "Be a Role Model"},
+    "category": {"tr": "Davranış", "en": "Behavior"},
+    "colorHex": "#F48FB1",
+    "description": {
+      "tr": "Siz de sağlıklı beslenin.\nBebek sizi taklit eder.",
+      "en": "Eat healthy yourself.\nBaby imitates you."
+    }
+  },
+
+  {
+    "id": "info_126",
+    "title": {"tr": "Öğün Saatleri", "en": "Meal Times"},
+    "category": {"tr": "Rutin", "en": "Routine"},
+    "colorHex": "#A1887F",
+    "description": {
+      "tr": "Belirli saatlerde besleyin.\nRutin oluşturur.",
+      "en": "Feed at set times.\nBuilds routine."
+    }
+  },
+  {
+    "id": "info_127",
+    "title": {"tr": "Ara Öğünler", "en": "Snacks"},
+    "category": {"tr": "Rutin", "en": "Routine"},
+    "colorHex": "#A1887F",
+    "description": {
+      "tr": "Ara öğünleri abartmayın.\nAna öğün iştahını etkiler.",
+      "en": "Limit snacks.\nAffects main meals."
+    }
+  },
+  {
+    "id": "info_128",
+    "title": {"tr": "Açlık Sinyali", "en": "Hunger Cues"},
+    "category": {"tr": "Rutin", "en": "Routine"},
+    "colorHex": "#A1887F",
+    "description": {
+      "tr": "Bebeğin açlık sinyallerini izleyin.\nZorla beslemeyin.",
+      "en": "Watch hunger cues.\nAvoid force feeding."
+    }
+  },
+  {
+    "id": "info_129",
+    "title": {"tr": "Gece Beslenmesi", "en": "Night Feeding"},
+    "category": {"tr": "Rutin", "en": "Routine"},
+    "colorHex": "#A1887F",
+    "description": {
+      "tr": "Gece beslenmesi zamanla azalır.\nRutin oluşturun.",
+      "en": "Night feeding decreases.\nBuild routine."
+    }
+  },
+  {
+    "id": "info_130",
+    "title": {"tr": "Sabah Kahvaltısı", "en": "Breakfast Habit"},
+    "category": {"tr": "Rutin", "en": "Routine"},
+    "colorHex": "#A1887F",
+    "description": {
+      "tr": "Güne kahvaltıyla başlayın.\nEnerji sağlar.",
+      "en": "Start with breakfast.\nProvides energy."
     }
   }
 ]
