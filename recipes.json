@@ -276,4 +276,96 @@
       { "tr": "Muzla karıştır.", "en": "Mix with banana." }
     ]
   }
+  [
+  {
+    "id": "th1",
+    "title": { "tr": "Yulaf Lapası", "en": "Oatmeal" },
+    "description": { "tr": "Minik karnı uzun süre tok tutan sıcacık bir öğün.", "en": "Warm and filling meal." },
+    "category": "Tahıllı Tarifler",
+    "ingredients": [
+      { "amount": 2, "unit": { "tr": "yemek kaşığı", "en": "tbsp" }, "baseName": { "tr": "yulaf", "en": "oats" }, "shoppingLabel": { "tr": "Yulaf", "en": "Oats" } },
+      { "amount": 1, "unit": { "tr": "çay bardağı", "en": "cup" }, "baseName": { "tr": "su", "en": "water" }, "shoppingLabel": null }
+    ],
+    "preparationTime": 5,
+    "calories": 68,
+    "suitableAgeInMonths": 6,
+    "allergicIngredients": [{ "tr": "gluten (iz)", "en": "gluten (trace)" }],
+    "instructions": [
+      { "tr": "Yulafı su ile pişirin.", "en": "Cook oats with water." },
+      { "tr": "Kıvam alınca karıştırın.", "en": "Stir until creamy." },
+      { "tr": "Ilık şekilde sunun.", "en": "Serve warm." }
+    ]
+  },
+  {
+    "id": "th2",
+    "title": { "tr": "İrmik Muhallebisi", "en": "Semolina Pudding" },
+    "description": { "tr": "Anne şefkati gibi yumuşacık bir tarif.", "en": "Soft and comforting." },
+    "category": "Tahıllı Tarifler",
+    "ingredients": [
+      { "amount": 1, "unit": { "tr": "yemek kaşığı", "en": "tbsp" }, "baseName": { "tr": "irmik", "en": "semolina" }, "shoppingLabel": { "tr": "İrmik", "en": "Semolina" } },
+      { "amount": 1, "unit": { "tr": "çay bardağı", "en": "cup" }, "baseName": { "tr": "su", "en": "water" }, "shoppingLabel": null }
+    ],
+    "preparationTime": 7,
+    "calories": 80,
+    "suitableAgeInMonths": 6,
+    "allergicIngredients": [{ "tr": "gluten", "en": "gluten" }],
+    "instructions": [
+      { "tr": "İrmiği suyla pişirin.", "en": "Cook semolina with water." },
+      { "tr": "Koyulaşınca karıştırın.", "en": "Stir until thick." }
+    ]
+  },
+  {
+    "id": "th3",
+    "title": { "tr": "Pirinç Lapası", "en": "Rice Porridge" },
+    "description": { "tr": "En klasik ve güvenli ilk tahıl deneyimi.", "en": "Classic and gentle starter." },
+    "category": "Tahıllı Tarifler",
+    "ingredients": [
+      { "amount": 2, "unit": { "tr": "yemek kaşığı", "en": "tbsp" }, "baseName": { "tr": "pirinç", "en": "rice" }, "shoppingLabel": { "tr": "Pirinç", "en": "Rice" } },
+      { "amount": 1.5, "unit": { "tr": "çay bardağı", "en": "cup" }, "baseName": { "tr": "su", "en": "water" }, "shoppingLabel": null }
+    ],
+    "preparationTime": 15,
+    "calories": 90,
+    "suitableAgeInMonths": 6,
+    "allergicIngredients": [],
+    "instructions": [
+      { "tr": "Pirinci haşlayın.", "en": "Boil rice." },
+      { "tr": "Yumuşayınca ezin.", "en": "Mash when soft." }
+    ]
+  },
+  {
+    "id": "th4",
+    "title": { "tr": "Yulaf Muz Karışımı", "en": "Oat Banana Mix" },
+    "description": { "tr": "Enerji dolu ve lezzetli bir öğün.", "en": "Energy-packed combo." },
+    "category": "Tahıllı Tarifler",
+    "ingredients": [
+      { "amount": 2, "unit": { "tr": "yemek kaşığı", "en": "tbsp" }, "baseName": { "tr": "yulaf", "en": "oats" }, "shoppingLabel": { "tr": "Yulaf", "en": "Oats" } },
+      { "amount": 0.5, "unit": { "tr": "adet", "en": "pcs" }, "baseName": { "tr": "muz", "en": "banana" }, "shoppingLabel": { "tr": "Muz", "en": "Banana" } }
+    ],
+    "preparationTime": 6,
+    "calories": 100,
+    "suitableAgeInMonths": 6,
+    "allergicIngredients": [{ "tr": "gluten (iz)", "en": "gluten (trace)" }],
+    "instructions": [
+      { "tr": "Yulafı pişirin.", "en": "Cook oats." },
+      { "tr": "Muzla karıştırın.", "en": "Mix with banana." }
+    ]
+  },
+  {
+    "id": "th5",
+    "title": { "tr": "İrmik Meyve Karışımı", "en": "Semolina Fruit Mix" },
+    "description": { "tr": "Tatlı ve doyurucu bir ara öğün.", "en": "Sweet and filling." },
+    "category": "Tahıllı Tarifler",
+    "ingredients": [
+      { "amount": 1, "unit": { "tr": "yemek kaşığı", "en": "tbsp" }, "baseName": { "tr": "irmik", "en": "semolina" }, "shoppingLabel": { "tr": "İrmik", "en": "Semolina" } },
+      { "amount": 0.5, "unit": { "tr": "adet", "en": "pcs" }, "baseName": { "tr": "elma", "en": "apple" }, "shoppingLabel": { "tr": "Elma", "en": "Apple" } }
+    ],
+    "preparationTime": 10,
+    "calories": 95,
+    "suitableAgeInMonths": 6,
+    "allergicIngredients": [{ "tr": "gluten", "en": "gluten" }],
+    "instructions": [
+      { "tr": "İrmiği pişirin.", "en": "Cook semolina." },
+      { "tr": "Elma püresi ekleyin.", "en": "Add apple puree." }
+    ]
+  }
 ]
