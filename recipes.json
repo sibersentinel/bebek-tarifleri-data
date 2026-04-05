@@ -1,174 +1,83 @@
 [
   {
-    "id": "550e8400-e29b-41d4-a716-446655440001",
-    "title": { "tr": "Elma Püresi", "en": "Apple Puree" },
-    "description": { "tr": "Hafif ve sindirimi kolay bir başlangıç.", "en": "Light and easy-to-digest starter." },
-    "category": "Meyve",
+    "id": "A1B2C3D4-E5F6-4G7H-8I9J-K0L1M2N3O4P5",
+    "title": {
+      "tr": "Buharda Havuç Ve Patatesli Başlangıç",
+      "en": "Steamed Carrot And Potato Starter"
+    },
+    "description": {
+      "tr": "Bebeğinizin ek gıdaya ilk adımı için mükemmel, yumuşak ve sindirimi kolay bir tarif.",
+      "en": "A perfect, soft and easy-to-digest recipe for your baby's first step into solid food."
+    },
+    "category": "Başlangıç Tarifleri",
     "ingredients": [
-      { "amount": 1, "unit": { "tr": "adet", "en": "pcs" }, "baseName": { "tr": "tatlı elma", "en": "sweet apple" }, "shoppingLabel": { "tr": "Elma", "en": "Apple" } },
-      { "amount": 0.25, "unit": { "tr": "çay bardağı", "en": "cup" }, "baseName": { "tr": "su", "en": "water" }, "shoppingLabel": null }
+      {
+        "amount": 0.5,
+        "unit": { "tr": "adet", "en": "piece" },
+        "baseName": { "tr": "Havuç", "en": "Carrot" },
+        "shoppingLabel": { "tr": "havuç", "en": "carrot" }
+      },
+      {
+        "amount": 0.5,
+        "unit": { "tr": "küçük adet", "en": "small piece" },
+        "baseName": { "tr": "Patates", "en": "Potato" },
+        "shoppingLabel": { "tr": "patates", "en": "potato" }
+      },
+      {
+        "amount": 1.0,
+        "unit": { "tr": "tatlı kaşığı", "en": "teaspoon" },
+        "baseName": { "tr": "Zeytinyağı", "en": "Olive Oil" },
+        "shoppingLabel": { "tr": "zeytinyağı", "en": "olive oil" }
+      }
     ],
-    "preparationTime": 10, "calories": 52, "suitableAgeInMonths": 6,
-    "allergicIngredients": [{ "tr": "elma", "en": "apple" }],
-    "instructions": [
-      { "tr": "Elmayı soyup ufak ufak doğrayın.", "en": "Peel and chop the apple." },
-      { "tr": "Az suda yumuşayana kadar haşlayın.", "en": "Boil until soft." },
-      { "tr": "Cam rende ile püre haline getirin.", "en": "Mash into a puree." }
-    ],
-    "imageUrl": "https://raw.githubusercontent.com/sibersentinel/bebek-tarifleri-data/443e272b3f248e8012ae4b9448428cd093843c0b/images/1.jpg"
-  },
-  {
-    "id": "550e8400-e29b-41d4-a716-446655440002",
-    "title": { "tr": "Havuçlu Patates Püresi", "en": "Carrot Potato Puree" },
-    "description": { "tr": "Doyurucu ve enerji veren bir öğün.", "en": "A filling and energy-giving meal." },
-    "category": "Sebze",
-    "ingredients": [
-      { "amount": 1, "unit": { "tr": "küçük", "en": "small" }, "baseName": { "tr": "patates", "en": "potato" }, "shoppingLabel": { "tr": "Patates", "en": "Potato" } },
-      { "amount": 0.5, "unit": { "tr": "adet", "en": "pcs" }, "baseName": { "tr": "havuç", "en": "carrot" }, "shoppingLabel": { "tr": "Havuç", "en": "Carrot" } },
-      { "amount": 1, "unit": { "tr": "tatlı kaşığı", "en": "tsp" }, "baseName": { "tr": "zeytinyağı", "en": "olive oil" }, "shoppingLabel": { "tr": "Zeytinyağı", "en": "Olive Oil" } }
-    ],
-    "preparationTime": 20, "calories": 115, "suitableAgeInMonths": 6,
-    "allergicIngredients": [{ "tr": "havuç", "en": "carrot" }],
-    "instructions": [
-      { "tr": "Sebzeleri soyup buharda pişirin.", "en": "Peel and steam vegetables." },
-      { "tr": "Zeytinyağı ekleyip ezin.", "en": "Add olive oil and mash." }
-    ],
-    "imageUrl": "https://raw.githubusercontent.com/sibersentinel/bebek-tarifleri-data/443e272b3f248e8012ae4b9448428cd093843c0b/images/elmapuresi.jpg"
-  },
-  {
-    "id": "550e8400-e29b-41d4-a716-446655440003",
-    "title": { "tr": "Yumurtalı Avokado Ezmesi", "en": "Egg & Avocado Mash" },
-    "description": { "tr": "Omega-3 ve protein deposu kahvaltı.", "en": "A breakfast rich in Omega-3 and protein." },
-    "category": "Kahvaltı",
-    "ingredients": [
-      { "amount": 0.5, "unit": { "tr": "adet", "en": "pcs" }, "baseName": { "tr": "avokado", "en": "avocado" }, "shoppingLabel": { "tr": "Avokado", "en": "Avocado" } },
-      { "amount": 1, "unit": { "tr": "adet", "en": "pcs" }, "baseName": { "tr": "yumurta sarısı", "en": "egg yolk" }, "shoppingLabel": { "tr": "Yumurta", "en": "Egg" } }
-    ],
-    "preparationTime": 8, "calories": 145, "suitableAgeInMonths": 7,
-    "allergicIngredients": [{ "tr": "yumurta", "en": "egg" }],
-    "instructions": [
-      { "tr": "Yumurtayı haşlayıp sadece sarısını alın.", "en": "Boil the egg and take the yolk." },
-      { "tr": "Avokadoyu ezin ve sarısı ile karıştırın.", "en": "Mash avocado and mix with yolk." }
-    ],
-    "imageUrl": "https://raw.githubusercontent.com/sibersentinel/bebek-tarifleri-data/443e272b3f248e8012ae4b9448428cd093843c0b/images/2.jpg"
-  },
-  {
-    "id": "550e8400-e29b-41d4-a716-446655440004",
-    "title": { "tr": "Kıymalı Sebze Çorbası", "en": "Minced Meat Veggie Soup" },
-    "description": { "tr": "Bebekler için ilk etli çorba alternatifi.", "en": "The first soup with meat for babies." },
-    "category": "Çorba",
-    "ingredients": [
-      { "amount": 1, "unit": { "tr": "yemek kaşığı", "en": "tbsp" }, "baseName": { "tr": "kuzu kıyma", "en": "minced lamb" }, "shoppingLabel": { "tr": "Kıyma", "en": "Minced Meat" } },
-      { "amount": 1, "unit": { "tr": "küçük", "en": "small" }, "baseName": { "tr": "kabak", "en": "zucchini" }, "shoppingLabel": { "tr": "Kabak", "en": "Zucchini" } }
-    ],
-    "preparationTime": 25, "calories": 130, "suitableAgeInMonths": 8,
-    "allergicIngredients": [{ "tr": "et", "en": "meat" }],
-    "instructions": [
-      { "tr": "Kıymayı az suda pişirin.", "en": "Cook minced meat in water." },
-      { "tr": "Kabakları ekleyip haşlamaya devam edin.", "en": "Add zucchini and boil." },
-      { "tr": "Blendardan geçirin.", "en": "Blend until smooth." }
-    ],
-    "imageUrl": ""
-  },
-  {
-    "id": "550e8400-e29b-41d4-a716-446655440005",
-    "title": { "tr": "Yoğurtlu Yulaf Lapası", "en": "Oatmeal with Yogurt" },
-    "description": { "tr": "Ara öğünler için hafif ve tok tutan lapa.", "en": "Light and filling porridge for snacks." },
-    "category": "Ara Öğün",
-    "ingredients": [
-      { "amount": 2, "unit": { "tr": "yemek kaşığı", "en": "tbsp" }, "baseName": { "tr": "yulaf", "en": "oats" }, "shoppingLabel": { "tr": "Yulaf", "en": "Oats" } },
-      { "amount": 3, "unit": { "tr": "yemek kaşığı", "en": "tbsp" }, "baseName": { "tr": "yoğurt", "en": "yogurt" }, "shoppingLabel": { "tr": "Yoğurt", "en": "Yogurt" } }
-    ],
-    "preparationTime": 5, "calories": 95, "suitableAgeInMonths": 7,
-    "allergicIngredients": [{ "tr": "yoğurt", "en": "yogurt" }],
-    "instructions": [
-      { "tr": "Yulafı su ile pişirin.", "en": "Cook oats with water." },
-      { "tr": "Ilıdıktan sonra yoğurtla karıştırın.", "en": "Mix with yogurt after cooling." }
-    ],
-    "imageUrl": ""
-  },
-  {
-    "id": "550e8400-e29b-41d4-a716-446655440006",
-    "title": { "tr": "Balıklı Patates Ezmesi", "en": "Fish & Potato Mash" },
-    "description": { "tr": "Bebekler için güvenli balık tarifi.", "en": "A safe fish recipe for babies." },
-    "category": "Ana Öğün",
-    "ingredients": [
-      { "amount": 50, "unit": { "tr": "gram", "en": "g" }, "baseName": { "tr": "mezgit fleto", "en": "haddock fillet" }, "shoppingLabel": { "tr": "Balık", "en": "Fish" } },
-      { "amount": 1, "unit": { "tr": "adet", "en": "pcs" }, "baseName": { "tr": "patates", "en": "potato" }, "shoppingLabel": { "tr": "Patates", "en": "Potato" } }
-    ],
-    "preparationTime": 30, "calories": 160, "suitableAgeInMonths": 9,
-    "allergicIngredients": [{ "tr": "balık", "en": "fish" }],
-    "instructions": [
-      { "tr": "Balığı ve patatesi buharda pişirin.", "en": "Steam fish and potato." },
-      { "tr": "Kılçık kontrolü yapıp birlikte ezin.", "en": "Check for bones and mash together." }
-    ],
-    "imageUrl": ""
-  },
-  {
-    "id": "550e8400-e29b-41d4-a716-446655440007",
-    "title": { "tr": "Pekmezli İrmik Muhallebisi", "en": "Semolina Pudding with Molasses" },
-    "description": { "tr": "Tatlı krizlerine sağlıklı ve doğal çözüm.", "en": "Natural solution for sweet cravings." },
-    "category": "Tatlı",
-    "ingredients": [
-      { "amount": 1, "unit": { "tr": "yemek kaşığı", "en": "tbsp" }, "baseName": { "tr": "irmik", "en": "semolina" }, "shoppingLabel": { "tr": "İrmik", "en": "Semolina" } },
-      { "amount": 1, "unit": { "tr": "tatlı kaşığı", "en": "tsp" }, "baseName": { "tr": "üzüm pekmezi", "en": "molasses" }, "shoppingLabel": { "tr": "Pekmez", "en": "Molasses" } }
-    ],
-    "preparationTime": 12, "calories": 110, "suitableAgeInMonths": 8,
+    "preparationTime": 15,
+    "calories": 45,
+    "suitableAgeInMonths": 6,
     "allergicIngredients": [],
     "instructions": [
-      { "tr": "İrmiği su ile pişirin.", "en": "Cook semolina with water." },
-      { "tr": "Ocaktan alınca pekmezi ekleyin.", "en": "Add molasses after removing from heat." }
+      {
+        "tr": "Havuç ve patatesleri soyup küçük küpler halinde doğrayın.",
+        "en": "Peel and dice carrots and potatoes into small cubes."
+      },
+      {
+        "tr": "Buharda (veya az suda) iyice yumuşayana kadar yaklaşık 12-15 dakika pişirin.",
+        "en": "Steam (or cook in little water) for about 12-15 minutes until very soft."
+      },
+      {
+        "tr": "Üzerine zeytinyağı ekleyerek çatal yardımıyla püre haline getirin.",
+        "en": "Add olive oil and mash with a fork into a puree."
+      }
     ],
     "imageUrl": ""
   },
   {
-    "id": "550e8400-e29b-41d4-a716-446655440008",
-    "title": { "tr": "Balkabağı Çorbası", "en": "Pumpkin Soup" },
-    "description": { "tr": "Vitamin ve mineral deposu, sindirime yardımcı.", "en": "Rich in vitamins, aids digestion." },
-    "category": "Çorba",
+    "id": "B2C3D4E5-F6G7-5H8I-9J0K-L1M2N3O4P5Q6",
+    "title": {
+      "tr": "Vitamin Deposu Bal Kabağı Çorbası",
+      "en": "Vitamin Boost Pumpkin Soup"
+    },
+    "description": {
+      "tr": "Bağışıklığı destekleyen, tatlımsı tadıyla bebeklerin sevdiği bir şifa deposu.",
+      "en": "Immune-boosting and popular with babies for its sweet taste."
+    },
+    "category": "Çorbalar",
     "ingredients": [
-      { "amount": 1, "unit": { "tr": "dilim", "en": "slice" }, "baseName": { "tr": "balkabağı", "en": "pumpkin" }, "shoppingLabel": { "tr": "Balkabağı", "en": "Pumpkin" } },
-      { "amount": 1, "unit": { "tr": "adet", "en": "pcs" }, "baseName": { "tr": "soğan", "en": "onion" }, "shoppingLabel": { "tr": "Soğan", "en": "Onion" } }
+      {
+        "amount": 100.0,
+        "unit": { "tr": "gram", "en": "grams" },
+        "baseName": { "tr": "Bal Kabağı", "en": "Pumpkin" },
+        "shoppingLabel": { "tr": "balkabağı", "en": "pumpkin" }
+      }
     ],
-    "preparationTime": 22, "calories": 85, "suitableAgeInMonths": 6,
+    "preparationTime": 20,
+    "calories": 65,
+    "suitableAgeInMonths": 7,
     "allergicIngredients": [],
     "instructions": [
-      { "tr": "Sebzeleri haşlayın.", "en": "Boil the vegetables." },
-      { "tr": "Pürüzsüz olana kadar blenderdan geçirin.", "en": "Blend until smooth." }
-    ],
-    "imageUrl": ""
-  },
-  {
-    "id": "550e8400-e29b-41d4-a716-446655440009",
-    "title": { "tr": "Muzlu Labne Ezmesi", "en": "Banana & Labneh Mash" },
-    "description": { "tr": "7. aydan sonra lezzetli bir kahvaltı.", "en": "A delicious breakfast after month 7." },
-    "category": "Kahvaltı",
-    "ingredients": [
-      { "amount": 0.5, "unit": { "tr": "adet", "en": "pcs" }, "baseName": { "tr": "olgun muz", "en": "ripe banana" }, "shoppingLabel": { "tr": "Muz", "en": "Banana" } },
-      { "amount": 1, "unit": { "tr": "tatlı kaşığı", "en": "tsp" }, "baseName": { "tr": "bebek labnesi", "en": "baby labneh" }, "shoppingLabel": { "tr": "Labne", "en": "Labneh" } }
-    ],
-    "preparationTime": 5, "calories": 105, "suitableAgeInMonths": 7,
-    "allergicIngredients": [{ "tr": "peynir", "en": "cheese" }],
-    "instructions": [
-      { "tr": "Muzu çatal ile ezin.", "en": "Mash the banana with a fork." },
-      { "tr": "Labne ile karıştırarak servis edin.", "en": "Mix with labneh and serve." }
-    ],
-    "imageUrl": ""
-  },
-  {
-    "id": "550e8400-e29b-41d4-a716-446655440010",
-    "title": { "tr": "Kinoalı Sebze Püresi", "en": "Quinoa & Veggie Puree" },
-    "description": { "tr": "Süper gıda kinoa ile besleyici öğün.", "en": "A nutritious meal with superfood quinoa." },
-    "category": "Ana Öğün",
-    "ingredients": [
-      { "amount": 1, "unit": { "tr": "yemek kaşığı", "en": "tbsp" }, "baseName": { "tr": "kinoa", "en": "quinoa" }, "shoppingLabel": { "tr": "Kinoa", "en": "Quinoa" } },
-      { "amount": 1, "unit": { "tr": "adet", "en": "pcs" }, "baseName": { "tr": "brokoli", "en": "broccoli" }, "shoppingLabel": { "tr": "Brokoli", "en": "Broccoli" } }
-    ],
-    "preparationTime": 25, "calories": 140, "suitableAgeInMonths": 8,
-    "allergicIngredients": [],
-    "instructions": [
-      { "tr": "Kinoayı iyice yıkayıp haşlayın.", "en": "Wash and boil quinoa." },
-      { "tr": "Buharda pişmiş brokoli ile karıştırıp ezin.", "en": "Mash and mix with steamed broccoli." }
+      {
+        "tr": "Kabağı yumuşayana kadar pişirin ve pürüzsüz kıvam alana kadar ezin.",
+        "en": "Cook the pumpkin until soft and blend until smooth."
+      }
     ],
     "imageUrl": ""
   }
