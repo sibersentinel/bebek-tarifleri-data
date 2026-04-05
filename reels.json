@@ -1,0 +1,13 @@
+[
+  {
+    "id": "A1B2C3D4-...-UUID",
+    "title": "Sample Reel 1",
+    "imageUrl": "https://example.com/image1.jpg",
+    "description": "Short description"
+  },
+  {
+    "id": "E5F6G7H8-...-UUID",
+    "title": "Sample Reel 2",
+    "imageUrl": "https://example.com/image2.jpg"
+  }
+]
