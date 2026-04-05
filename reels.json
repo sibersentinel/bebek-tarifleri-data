@@ -2,12 +2,12 @@
   {
     "id": "A1B2C3D4-...-UUID",
     "title": "Sample Reel 1",
-    "imageUrl": "https://example.com/image1.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/sibersentinel/bebek-tarifleri-data/443e272b3f248e8012ae4b9448428cd093843c0b/images/1.jpg",
     "description": "Short description"
   },
   {
     "id": "E5F6G7H8-...-UUID",
     "title": "Sample Reel 2",
-    "imageUrl": "https://example.com/image2.jpg"
+    "imageUrl": "https://raw.githubusercontent.com/sibersentinel/bebek-tarifleri-data/443e272b3f248e8012ae4b9448428cd093843c0b/images/1.jpg"
   }
 ]
