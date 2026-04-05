@@ -1,39 +1,5 @@
 [
   {
-    "id": "info_001",
-    "title": {
-      "tr": "3 Gün Kuralı",
-      "en": "3-Day Rule"
-    },
-    "category": {
-      "tr": "Güvenlik",
-      "en": "Safety"
-    },
-    "colorHex": "#FF8A8A",
-    "imageUrl": "https://raw.githubusercontent.com/sibersentinel/bebek-tarifleri-data/main/images/1.jpg",
-    "description": {
-      "tr": "Her yeni besini tek başına verin.\nAlerjik reaksiyon için 3 gün gözlemleyin.\nBebeğiniz tepki vermezse listeye ekleyin.",
-      "en": "Introduce each new food individually.\nObserve for 3 days for allergic reactions.\nAdd to menu if no reaction occurs."
-    }
-  },
-  {
-    "id": "info_002",
-    "title": {
-      "tr": "Demir Emilimi",
-      "en": "Iron Absorption"
-    },
-    "category": {
-      "tr": "Beslenme",
-      "en": "Nutrition"
-    },
-    "colorHex": "#4A90E2",
-    "imageUrl": "https://raw.githubusercontent.com/sibersentinel/bebek-tarifleri-data/main/images/1.jpg",
-    "description": {
-      "tr": "Etli yemeklerin yanına C vitamini ekleyin.\nPekmez ile yoğurdu aynı anda vermeyin.",
-      "en": "Add Vitamin C with meat dishes.\nDo not give molasses and yogurt together."
-    }
-  }
-  {
     "id": "info_003",
     "title": {
       "tr": "Tuz ve Şeker",
@@ -204,4 +170,3 @@
     }
   }
 ]
-
