@@ -1,18 +1,82 @@
 [
   {
-    "id": "info_001",
-    "title": "3 Gün Kuralı",
+    "id": "info_005",
+    "title": "Tek Gıda Kuralı",
     "category": "Güvenlik",
-    "colorHex": "#FF8A8A",
-    "imageUrl": "https://raw.githubusercontent.com/sibersentinel/bebek-tarifleri-data/main/images/1.jpg",
-    "description": "Her yeni besini tek başına verin.\nAlerjik reaksiyon için 3 gün gözlemleyin.\nBebeğiniz tepki vermezse listeye ekleyin."
+    "colorHex": "#FFB347",
+    "imageUrl": "https://raw.githubusercontent.com/sibersentinel/bebek-tarifleri-data/main/images/4.jpg",
+    "description": "Yeni gıdaları tek tek deneyin.\nKarışım vermeden önce ayrı ayrı tanıtın.\nOlası alerjileri kolayca fark edin."
   },
   {
-    "id": "info_002",
-    "title": "Demir Emilimi",
+    "id": "info_006",
+    "title": "İlk Tatlar",
     "category": "Beslenme",
-    "colorHex": "#4A90E2",
-    "imageUrl": "https://raw.githubusercontent.com/sibersentinel/bebek-tarifleri-data/main/images/1.jpg",
-    "description": "Etli yemeklerin yanına C vitamini ekleyin.\nPekmez ile yoğurdu aynı anda vermeyin.\nYumurta sarısı iyi bir demir kaynağıdır."
+    "colorHex": "#6EC6FF",
+    "imageUrl": "https://raw.githubusercontent.com/sibersentinel/bebek-tarifleri-data/main/images/5.jpg",
+    "description": "Sebzelerle başlayın.\nTatlı gıdalara erken geçmeyin.\nDoğal tatlara alışmasını destekleyin."
+  },
+  {
+    "id": "info_007",
+    "title": "Püre Kıvamı",
+    "category": "Beslenme",
+    "colorHex": "#FFD580",
+    "imageUrl": "https://raw.githubusercontent.com/sibersentinel/bebek-tarifleri-data/main/images/6.jpg",
+    "description": "Başlangıçta pürüzsüz püre hazırlayın.\nZamanla kıvamı artırın.\nBebeğin çiğneme becerisini destekleyin."
+  },
+  {
+    "id": "info_008",
+    "title": "Tuz ve Şeker",
+    "category": "Sağlık",
+    "colorHex": "#FF6F61",
+    "imageUrl": "https://raw.githubusercontent.com/sibersentinel/bebek-tarifleri-data/main/images/7.jpg",
+    "description": "1 yaşına kadar tuz eklemeyin.\nŞekerden tamamen kaçının.\nDoğal besinlerle tatlandırın."
+  },
+  {
+    "id": "info_009",
+    "title": "Alerji Takibi",
+    "category": "Güvenlik",
+    "colorHex": "#FF9999",
+    "imageUrl": "https://raw.githubusercontent.com/sibersentinel/bebek-tarifleri-data/main/images/8.jpg",
+    "description": "Yeni gıda sonrası döküntüleri gözlemleyin.\nKusma veya ishali takip edin.\nŞüphede doktora başvurun."
+  },
+  {
+    "id": "info_010",
+    "title": "Parmak Gıdalar",
+    "category": "Gelişim",
+    "colorHex": "#77DD77",
+    "imageUrl": "https://raw.githubusercontent.com/sibersentinel/bebek-tarifleri-data/main/images/9.jpg",
+    "description": "Yumuşak parçalar sunun.\nKendi kendine yemeyi teşvik edin.\nMotor gelişimi destekleyin."
+  },
+  {
+    "id": "info_011",
+    "title": "Demir Kaynakları",
+    "category": "Beslenme",
+    "colorHex": "#C0392B",
+    "imageUrl": "https://raw.githubusercontent.com/sibersentinel/bebek-tarifleri-data/main/images/10.jpg",
+    "description": "Kırmızı et ve yumurta verin.\nBaklagilleri menüye ekleyin.\nDemir eksikliğini önleyin."
+  },
+  {
+    "id": "info_012",
+    "title": "Su Sunumu",
+    "category": "Beslenme",
+    "colorHex": "#5DADE2",
+    "imageUrl": "https://raw.githubusercontent.com/sibersentinel/bebek-tarifleri-data/main/images/11.jpg",
+    "description": "Yemeklerden sonra su verin.\nBiberon yerine bardak deneyin.\nSu alışkanlığı kazandırın."
+  },
+  {
+    "id": "info_013",
+    "title": "Besin Çeşitliliği",
+    "category": "Beslenme",
+    "colorHex": "#F7DC6F",
+    "imageUrl": "https://raw.githubusercontent.com/sibersentinel/bebek-tarifleri-data/main/images/12.jpg",
+    "description": "Farklı sebze ve meyveler sunun.\nTek tipe bağlı kalmayın.\nDengeli beslenmeyi öğretin."
+  },
+  {
+    "id": "info_014",
+    "title": "Zorlamadan Besleme",
+    "category": "Gelişim",
+    "colorHex": "#AF7AC5",
+    "imageUrl": "https://raw.githubusercontent.com/sibersentinel/bebek-tarifleri-data/main/images/13.jpg",
+    "description": "Bebeği yemeye zorlamayın.\nAçlık sinyallerini takip edin.\nPozitif beslenme alışkanlığı oluşturun."
   }
 ]
