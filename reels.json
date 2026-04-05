@@ -1,13 +1,18 @@
 [
   {
-    "id": "A1B2C3D4-...-UUID",
-    "title": "Sample Reel 1",
-    "imageUrl": "https://raw.githubusercontent.com/sibersentinel/bebek-tarifleri-data/443e272b3f248e8012ae4b9448428cd093843c0b/images/1.jpg",
-    "description": "Short description"
+    "id": "info_001",
+    "title": "3 Gün Kuralı",
+    "category": "Güvenlik",
+    "colorHex": "#FF8A8A",
+    "imageUrl": "https://raw.githubusercontent.com/sibersentinel/bebek-tarifleri-data/main/images/1.jpg",
+    "description": "Her yeni besini tek başına verin.\nAlerjik reaksiyon için 3 gün gözlemleyin.\nBebeğiniz tepki vermezse listeye ekleyin."
   },
   {
-    "id": "E5F6G7H8-...-UUID",
-    "title": "Sample Reel 2",
-    "imageUrl": "https://raw.githubusercontent.com/sibersentinel/bebek-tarifleri-data/443e272b3f248e8012ae4b9448428cd093843c0b/images/1.jpg"
+    "id": "info_002",
+    "title": "Demir Emilimi",
+    "category": "Beslenme",
+    "colorHex": "#4A90E2",
+    "imageUrl": "https://raw.githubusercontent.com/sibersentinel/bebek-tarifleri-data/main/images/1.jpg",
+    "description": "Etli yemeklerin yanına C vitamini ekleyin.\nPekmez ile yoğurdu aynı anda vermeyin.\nYumurta sarısı iyi bir demir kaynağıdır."
   }
 ]
