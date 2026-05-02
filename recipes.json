@@ -74,5 +74,43 @@
       { "tr": "İrmiği ekleyip 2-3 dakika daha karıştırarak pişirmeye devam edin.", "en": "Add semolina and continue cooking for 2-3 minutes while stirring." },
       { "tr": "Ilındıktan sonra bebişinize servis yapın.", "en": "Serve to your baby once it has cooled down." }
     ]
+  },
+  {
+    "id": "r103",
+    "title": {
+      "tr": "yeni Havuçlu İrmik Lapası",
+      "en": "Carrot Semolina Porridge"
+    },
+    "description": {
+      "tr": "A vitamini deposu, hafif tatlımsı tadıyla bebeklerin sevdiği bir tarif.",
+      "en": "Rich in Vitamin A, a favorite for babies with its slightly sweet taste."
+    },
+    "category": 1,
+    "suitableAgeInMonths": 6,
+    "preparationTime": 12,
+    "calories": 95,
+    "imageUrl": "https://images.unsplash.com/photo-1590301157890-4810ed352733",
+    "ingredients": [
+      {
+        "amount": 1,
+        "unit": { "tr": "orta boy", "en": "medium" },
+        "baseName": { "tr": "havuç", "en": "carrot" },
+        "shoppingLabel": { "tr": "Havuç", "en": "Carrot" }
+      },
+      {
+        "amount": 1,
+        "unit": { "tr": "tatlı kaşığı", "en": "tsp" },
+        "baseName": { "tr": "irmik", "en": "semolina" },
+        "shoppingLabel": { "tr": "İrmik", "en": "Semolina" }
+      }
+    ],
+    "allergicIngredients": [
+      { "tr": "irmik", "en": "semolina" }
+    ],
+    "instructions": [
+      { "tr": "Havuçları rendeleyip az suda yumuşayana kadar pişirin.", "en": "Grate carrots and cook in a little water until soft." },
+      { "tr": "İrmiği ekleyip 2-3 dakika daha karıştırarak pişirmeye devam edin.", "en": "Add semolina and continue cooking for 2-3 minutes while stirring." },
+      { "tr": "Ilındıktan sonra bebişinize servis yapın.", "en": "Serve to your baby once it has cooled down." }
+    ]
   }
 ]
