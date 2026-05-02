@@ -113,7 +113,6 @@
       { "tr": "Ilındıktan sonra bebişinize servis yapın.", "en": "Serve to your baby once it has cooled down." }
     ]
   },
-  [
   {
     "id": "r201",
     "title": {
@@ -288,5 +287,4 @@
       { "tr": "Püre haline getirip servis edin.", "en": "Blend into puree and serve." }
     ]
   }
-]
 ]
