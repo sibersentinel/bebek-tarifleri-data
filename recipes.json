@@ -36,3 +36,41 @@
     { "tr": "Haşlanan pirinç ve kabağı birleştirip püre haline getirin.", "en": "Combine boiled rice and zucchini and blend into a puree." }
   ]
 }
+{
+  "id": "r102",
+  "title": {
+    "tr": "deneme Pirinç Lapası",
+    "en": "Zucchini Rice Porridge"
+  },
+  "description": {
+    "tr": "İlk ek gıdaya geçiş için sindirimi kolay ve besleyici bir başlangıç.",
+    "en": "Easy to digest and nutritious starter for the first transition to solid food."
+  },
+  "category": 1, 
+  "suitableAgeInMonths": 6,
+  "preparationTime": 15,
+  "calories": 85,
+  "imageUrl": "https://images.unsplash.com/photo-1598103442097-8b74394b95c6",
+  "ingredients": [
+    {
+      "amount": 0.5,
+      "unit": { "tr": "adet", "en": "pcs" },
+      "baseName": { "tr": "taze kabak", "en": "fresh zucchini" },
+      "shoppingLabel": { "tr": "Kabak", "en": "Zucchini" }
+    },
+    {
+      "amount": 1,
+      "unit": { "tr": "yemek kaşığı", "en": "tbsp" },
+      "baseName": { "tr": "pirinç", "en": "rice" },
+      "shoppingLabel": { "tr": "Pirinç", "en": "Rice" }
+    }
+  ],
+  "allergicIngredients": [
+    { "tr": "pirinç", "en": "rice" }
+  ],
+  "instructions": [
+    { "tr": "Pirinçleri iyice yıkayıp yumuşayana kadar haşlayın.", "en": "Wash the rice thoroughly and boil until soft." },
+    { "tr": "Kabağın kabuklarını soyup buharda pişirin.", "en": "Peel the zucchini and steam it." },
+    { "tr": "Haşlanan pirinç ve kabağı birleştirip püre haline getirin.", "en": "Combine boiled rice and zucchini and blend into a puree." }
+  ]
+}
