@@ -8,10 +8,10 @@
     "tr": "İlk ek gıdaya geçiş için sindirimi kolay ve besleyici bir başlangıç.",
     "en": "Easy to digest and nutritious starter for the first transition to solid food."
   },
-  "category": 2, 
+  "category": 3, 
   "suitableAgeInMonths": 6,
   "preparationTime": 15,
-  "calories": 85,
+  "calories": 83,
   "imageUrl": "https://images.unsplash.com/photo-1598103442097-8b74394b95c6",
   "ingredients": [
     {
