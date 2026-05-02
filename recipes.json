@@ -193,7 +193,7 @@
     "suitableAgeInMonths": 6,
     "preparationTime": 15,
     "calories": 70,
-    "imageUrl": "https://raw.githubusercontent.com/sibersentinel/bebek-tarifleri-data/main/images/1.png",
+    "imageUrl": "https://raw.githubusercontent.com/sibersentinel/bebek-tarifleri-data/main/images/1.jpg",
     "ingredients": [
       {
         "amount": 0.5,
@@ -229,7 +229,7 @@
     "suitableAgeInMonths": 6,
     "preparationTime": 5,
     "calories": 110,
-    "imageUrl": "https://raw.githubusercontent.com/sibersentinel/bebek-tarifleri-data/main/images/2.png",
+    "imageUrl": "https://raw.githubusercontent.com/sibersentinel/bebek-tarifleri-data/main/images/2.jpg",
     "ingredients": [
       {
         "amount": 0.5,
