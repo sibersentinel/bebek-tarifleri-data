@@ -1,0 +1,97 @@
+[
+  {
+    "id": "baslangic_001",
+    "title": { "tr": "Elma Püresi", "en": "Apple Puree" },
+    "description": { "tr": "İlk ek gıdaya geçiş için ideal, hafif ve alerji riski çok düşük.", "en": "Ideal for the first transition to solid food, light and very low allergy risk." },
+    "category": 1,
+    "ingredients": [
+      { "amount": 1, "unit": { "tr": "adet", "en": "pcs" }, "baseName": { "tr": "tatlı elma", "en": "sweet apple" }, "shoppingLabel": { "tr": "Elma", "en": "Apple" } }
+    ],
+    "preparationTime": 10,
+    "calories": 52,
+    "suitableAgeInMonths": 6,
+    "allergicIngredients": [ { "tr": "elma", "en": "apple" } ],
+    "instructions": [
+      { "tr": "Elmanın kabuklarını soyup ufak ufak doğrayın.", "en": "Peel the apple and chop it into small pieces." },
+      { "tr": "Az suda yumuşayana kadar haşlayın.", "en": "Boil in a small amount of water until soft." },
+      { "tr": "Çatalla veya cam rende ile püre haline getirin.", "en": "Mash it with a fork or a glass grater into a puree." }
+    ],
+    "imageUrl": ""
+  },
+  {
+    "id": "baslangic_002",
+    "title": { "tr": "Havuç Püresi", "en": "Carrot Puree" },
+    "description": { "tr": "Tatlımsı tadıyla bebeklerin sevdiği bir başlangıç.", "en": "A starter that babies love with its sweet taste." },
+    "category": 1,
+    "ingredients": [
+      { "amount": 1, "unit": { "tr": "orta boy", "en": "medium" }, "baseName": { "tr": "havuç", "en": "carrot" }, "shoppingLabel": { "tr": "Havuç", "en": "Carrot" } }
+    ],
+    "preparationTime": 15,
+    "calories": 40,
+    "suitableAgeInMonths": 6,
+    "allergicIngredients": [],
+    "instructions": [
+      { "tr": "Havuçu yıkayıp soyun.", "en": "Wash and peel the carrot." },
+      { "tr": "Buharda yumuşayana kadar pişirin.", "en": "Steam until soft." },
+      { "tr": "Ezerek püre kıvamına getirin.", "en": "Mash into a puree consistency." }
+    ],
+    "imageUrl": ""
+  },
+  {
+    "id": "baslangic_003",
+    "title": { "tr": "Kabak Püresi", "en": "Zucchini Puree" },
+    "description": { "tr": "Sindirimi en kolay sebzelerden biri.", "en": "One of the easiest vegetables to digest." },
+    "category": 1,
+    "ingredients": [
+      { "amount": 1, "unit": { "tr": "küçük", "en": "small" }, "baseName": { "tr": "kabak", "en": "zucchini" }, "shoppingLabel": { "tr": "Kabak", "en": "Zucchini" } }
+    ],
+    "preparationTime": 12,
+    "calories": 20,
+    "suitableAgeInMonths": 6,
+    "allergicIngredients": [],
+    "instructions": [
+      { "tr": "Kabağın kabuklarını ince soyun.", "en": "Peel the zucchini thinly." },
+      { "tr": "Az suda haşlayın veya buharda pişirin.", "en": "Boil in a little water or steam." },
+      { "tr": "Püre haline getirin.", "en": "Make it into a puree." }
+    ],
+    "imageUrl": ""
+  },
+  {
+    "id": "baslangic_004",
+    "title": { "tr": "Balkabağı Püresi", "en": "Pumpkin Puree" },
+    "description": { "tr": "Beta-karoten zengini, tatlı ve besleyici.", "en": "Rich in beta-carotene, sweet and nutritious." },
+    "category": 1,
+    "ingredients": [
+      { "amount": 1, "unit": { "tr": "dilim", "en": "slice" }, "baseName": { "tr": "balkabağı", "en": "pumpkin" }, "shoppingLabel": { "tr": "Balkabağı", "en": "Pumpkin" } }
+    ],
+    "preparationTime": 20,
+    "calories": 45,
+    "suitableAgeInMonths": 6,
+    "allergicIngredients": [],
+    "instructions": [
+      { "tr": "Balkabağını küp küp doğrayın.", "en": "Dice the pumpkin." },
+      { "tr": "Yumuşayana kadar haşlayın.", "en": "Boil until soft." },
+      { "tr": "Pürüzsüz olana kadar ezin.", "en": "Mash until smooth." }
+    ],
+    "imageUrl": ""
+  },
+  {
+    "id": "baslangic_005",
+    "title": { "tr": "Patates Püresi", "en": "Potato Puree" },
+    "description": { "tr": "Tok tutucu ve enerji veren ilk sebze.", "en": "The first vegetable that is filling and gives energy." },
+    "category": 1,
+    "ingredients": [
+      { "amount": 1, "unit": { "tr": "küçük", "en": "small" }, "baseName": { "tr": "patates", "en": "potato" }, "shoppingLabel": { "tr": "Patates", "en": "Potato" } }
+    ],
+    "preparationTime": 20,
+    "calories": 80,
+    "suitableAgeInMonths": 6,
+    "allergicIngredients": [],
+    "instructions": [
+      { "tr": "Patatesi haşlayın.", "en": "Boil the potato." },
+      { "tr": "Kabuklarını soyup ezin.", "en": "Peel and mash it." },
+      { "tr": "İsteğe bağlı anne sütü ile kıvamını açabilirsiniz.", "en": "Optional: you can thin the consistency with breast milk." }
+    ],
+    "imageUrl": ""
+  }
+]

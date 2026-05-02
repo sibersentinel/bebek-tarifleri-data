@@ -1,0 +1,91 @@
+[
+  {
+    "id": "sindirim_001",
+    "title": { "tr": "Lifli Kabak Püresi", "en": "Fibrous Zucchini Puree" },
+    "description": { "tr": "Bağırsakları çalıştıran, yumuşak sebze püresi.", "en": "Soft vegetable puree that moves the intestines." },
+    "category": 15,
+    "ingredients": [
+      { "amount": 1, "unit": { "tr": "adet", "en": "pcs" }, "baseName": { "tr": "kabak", "en": "zucchini" }, "shoppingLabel": { "tr": "Kabak", "en": "Zucchini" } },
+      { "amount": 1, "unit": { "tr": "tatlı kaşığı", "en": "tsp" }, "baseName": { "tr": "zeytinyağı", "en": "olive oil" }, "shoppingLabel": { "tr": "Zeytinyağı", "en": "Olive Oil" } }
+    ],
+    "preparationTime": 15,
+    "calories": 45,
+    "suitableAgeInMonths": 6,
+    "allergicIngredients": [],
+    "instructions": [
+      { "tr": "Kabağı buharda pişirin.", "en": "Steam the zucchini." },
+      { "tr": "Zeytinyağı ekleyip ezin.", "en": "Add olive oil and mash." }
+    ],
+    "imageUrl": ""
+  },
+  {
+    "id": "sindirim_002",
+    "title": { "tr": "Armut ve Yulaf", "en": "Pear and Oats" },
+    "description": { "tr": "Kabızlık için birebir, doğal çözüm.", "en": "Natural solution, perfect for constipation." },
+    "category": 15,
+    "ingredients": [
+      { "amount": 1, "unit": { "tr": "adet", "en": "pcs" }, "baseName": { "tr": "armut", "en": "pear" }, "shoppingLabel": { "tr": "Armut", "en": "Pear" } },
+      { "amount": 1, "unit": { "tr": "yemek kaşığı", "en": "tbsp" }, "baseName": { "tr": "yulaf", "en": "oats" }, "shoppingLabel": { "tr": "Yulaf", "en": "Oats" } }
+    ],
+    "preparationTime": 12,
+    "calories": 110,
+    "suitableAgeInMonths": 7,
+    "allergicIngredients": [ { "tr": "yulaf", "en": "oats" } ],
+    "instructions": [
+      { "tr": "Yulafı pişirin, armudu rendeleyip içine ekleyin.", "en": "Cook the oats, grate the pear and add it in." }
+    ],
+    "imageUrl": ""
+  },
+  {
+    "id": "sindirim_003",
+    "title": { "tr": "Probiyotikli Yoğurt", "en": "Probiotic Yogurt" },
+    "description": { "tr": "Bağırsak florasını destekleyen ev yoğurdu.", "en": "Homemade yogurt that supports intestinal flora." },
+    "category": 15,
+    "ingredients": [
+      { "amount": 1, "unit": { "tr": "kase", "en": "bowl" }, "baseName": { "tr": "ev yoğurdu", "en": "homemade yogurt" }, "shoppingLabel": { "tr": "Yoğurt", "en": "Yogurt" } }
+    ],
+    "preparationTime": 5,
+    "calories": 60,
+    "suitableAgeInMonths": 6,
+    "allergicIngredients": [ { "tr": "süt", "en": "milk" } ],
+    "instructions": [
+      { "tr": "Oda sıcaklığındaki taze yoğurdu sade olarak yedirin.", "en": "Feed the fresh yogurt at room temperature plain." }
+    ],
+    "imageUrl": ""
+  },
+  {
+    "id": "sindirim_004",
+    "title": { "tr": "Rezene Çayı (Bebek)", "en": "Fennel Tea (Baby)" },
+    "description": { "tr": "Gaz sancısını hafifleten, sindirim rahatlatıcı.", "en": "Digestive soothing, alleviating gas pain." },
+    "category": 15,
+    "ingredients": [
+      { "amount": 0.5, "unit": { "tr": "tatlı kaşığı", "en": "tsp" }, "baseName": { "tr": "rezene tohumu", "en": "fennel seeds" }, "shoppingLabel": null }
+    ],
+    "preparationTime": 10,
+    "calories": 0,
+    "suitableAgeInMonths": 6,
+    "allergicIngredients": [],
+    "instructions": [
+      { "tr": "Tohumları sıcak suda 5 dakika demleyip süzün.", "en": "Steep the seeds in hot water for 5 minutes and strain." },
+      { "tr": "Ilıyınca birkaç kaşık verin.", "en": "Give a few spoons when warm." }
+    ],
+    "imageUrl": ""
+  },
+  {
+    "id": "sindirim_005",
+    "title": { "tr": "Haşlanmış Elma Suyu", "en": "Boiled Apple Juice" },
+    "description": { "tr": "Mideyi yormayan, sindirimi destekleyici sıvı.", "en": "Supportive liquid for digestion, not tiring the stomach." },
+    "category": 15,
+    "ingredients": [
+      { "amount": 1, "unit": { "tr": "adet", "en": "pcs" }, "baseName": { "tr": "elma", "en": "apple" }, "shoppingLabel": { "tr": "Elma", "en": "Apple" } }
+    ],
+    "preparationTime": 15,
+    "calories": 30,
+    "suitableAgeInMonths": 6,
+    "allergicIngredients": [],
+    "instructions": [
+      { "tr": "Elmayı haşlayıp suyunu süzün.", "en": "Boil the apple and strain the juice." }
+    ],
+    "imageUrl": ""
+  }
+]

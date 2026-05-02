@@ -1,0 +1,93 @@
+[
+  {
+    "id": "kilo_001",
+    "title": { "tr": "Pekmezli Cevizli Muhallebi", "en": "Semolina Pudding with Molasses and Walnuts" },
+    "description": { "tr": "Yüksek enerjili, besleyici ve kilo alımını destekleyen öğün.", "en": "High energy, nutritious and weight gain supportive meal." },
+    "category": 16,
+    "ingredients": [
+      { "amount": 1, "unit": { "tr": "yemek kaşığı", "en": "tbsp" }, "baseName": { "tr": "irmik", "en": "semolina" }, "shoppingLabel": { "tr": "İrmik", "en": "Semolina" } },
+      { "amount": 1, "unit": { "tr": "tatlı kaşığı", "en": "tsp" }, "baseName": { "tr": "ceviz içi", "en": "walnuts" }, "shoppingLabel": { "tr": "Ceviz", "en": "Walnut" } },
+      { "amount": 1, "unit": { "tr": "tatlı kaşığı", "en": "tsp" }, "baseName": { "tr": "pekmez", "en": "molasses" }, "shoppingLabel": { "tr": "Pekmez", "en": "Molasses" } }
+    ],
+    "preparationTime": 15,
+    "calories": 180,
+    "suitableAgeInMonths": 9,
+    "allergicIngredients": [ { "tr": "irmik", "en": "semolina" }, { "tr": "ceviz", "en": "walnut" } ],
+    "instructions": [
+      { "tr": "İrmiği pişirin, içine ceviz ve pekmez ekleyip karıştırın.", "en": "Cook the semolina, add walnuts and molasses and mix." }
+    ],
+    "imageUrl": ""
+  },
+  {
+    "id": "kilo_002",
+    "title": { "tr": "Tereyağlı Patates Püresi", "en": "Potato Puree with Butter" },
+    "description": { "tr": "Sağlıklı yağlarla zenginleştirilmiş patates.", "en": "Potatoes enriched with healthy fats." },
+    "category": 16,
+    "ingredients": [
+      { "amount": 1, "unit": { "tr": "küçük", "en": "small" }, "baseName": { "tr": "patates", "en": "potato" }, "shoppingLabel": { "tr": "Patates", "en": "Potato" } },
+      { "amount": 1, "unit": { "tr": "tatlı kaşığı", "en": "tsp" }, "baseName": { "tr": "köy tereyağı", "en": "village butter" }, "shoppingLabel": { "tr": "Tereyağı", "en": "Butter" } }
+    ],
+    "preparationTime": 20,
+    "calories": 145,
+    "suitableAgeInMonths": 8,
+    "allergicIngredients": [ { "tr": "süt", "en": "milk" } ],
+    "instructions": [
+      { "tr": "Sıcak patatesi tereyağı ile birlikte pürüzsüz olana kadar ezin.", "en": "Mash the hot potato with butter until smooth." }
+    ],
+    "imageUrl": ""
+  },
+  {
+    "id": "kilo_003",
+    "title": { "tr": "Muzlu Bebe Bisküvili Karışım", "en": "Banana and Baby Biscuit Mix" },
+    "description": { "tr": "Doyurucu ve kilo aldırıcı klasik ara öğün.", "en": "Filling and weight-gaining classic snack." },
+    "category": 16,
+    "ingredients": [
+      { "amount": 1, "unit": { "tr": "adet", "en": "pcs" }, "baseName": { "tr": "muz", "en": "banana" }, "shoppingLabel": { "tr": "Muz", "en": "Banana" } },
+      { "amount": 3, "unit": { "tr": "adet", "en": "pcs" }, "baseName": { "tr": "ev yapımı bebe bisküvisi", "en": "homemade baby biscuits" }, "shoppingLabel": null }
+    ],
+    "preparationTime": 5,
+    "calories": 190,
+    "suitableAgeInMonths": 8,
+    "allergicIngredients": [ { "tr": "buğday", "en": "wheat" } ],
+    "instructions": [
+      { "tr": "Muzu ve bisküvileri az su veya anne sütü ile ezin.", "en": "Mash the banana and biscuits with a little water or breast milk." }
+    ],
+    "imageUrl": ""
+  },
+  {
+    "id": "kilo_004",
+    "title": { "tr": "Tahıllı Sebze Püresi", "en": "Cereal Vegetable Puree" },
+    "description": { "tr": "Pirinç ve sebzenin kalori dengesi.", "en": "Calorie balance of rice and vegetables." },
+    "category": 16,
+    "ingredients": [
+      { "amount": 1, "unit": { "tr": "tatlı kaşığı", "en": "tsp" }, "baseName": { "tr": "pirinç", "en": "rice" }, "shoppingLabel": { "tr": "Pirinç", "en": "Rice" } },
+      { "amount": 1, "unit": { "tr": "dilim", "en": "slice" }, "baseName": { "tr": "balkabağı", "en": "pumpkin" }, "shoppingLabel": { "tr": "Balkabağı", "en": "Pumpkin" } }
+    ],
+    "preparationTime": 25,
+    "calories": 130,
+    "suitableAgeInMonths": 7,
+    "allergicIngredients": [],
+    "instructions": [
+      { "tr": "Malzemeleri haşlayıp püre yapın, içine zeytinyağı ekleyin.", "en": "Boil and puree the ingredients, add olive oil." }
+    ],
+    "imageUrl": ""
+  },
+  {
+    "id": "kilo_005",
+    "title": { "tr": "Avokadolu Yoğurt", "en": "Avocado Yogurt" },
+    "description": { "tr": "Sağlıklı yağlar içeren besleyici karışım.", "en": "Nutritious mixture containing healthy fats." },
+    "category": 16,
+    "ingredients": [
+      { "amount": 0.5, "unit": { "tr": "adet", "en": "pcs" }, "baseName": { "tr": "avokado", "en": "avocado" }, "shoppingLabel": { "tr": "Avokado", "en": "Avocado" } },
+      { "amount": 2, "unit": { "tr": "yemek kaşığı", "en": "tbsp" }, "baseName": { "tr": "süzme yoğurt", "en": "strained yogurt" }, "shoppingLabel": { "tr": "Yoğurt", "en": "Yogurt" } }
+    ],
+    "preparationTime": 5,
+    "calories": 160,
+    "suitableAgeInMonths": 8,
+    "allergicIngredients": [ { "tr": "süt", "en": "milk" } ],
+    "instructions": [
+      { "tr": "Avokadoyu ezip yoğurtla karıştırın.", "en": "Mash the avocado and mix with yogurt." }
+    ],
+    "imageUrl": ""
+  }
+]

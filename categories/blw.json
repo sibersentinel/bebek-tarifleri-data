@@ -1,0 +1,95 @@
+[
+  {
+    "id": "blw_001",
+    "title": { "tr": "Parmak Havuçlar", "en": "Finger Carrots" },
+    "description": { "tr": "Bebeğinizin kavrayabileceği boyutta, yumuşak sebze çubukları.", "en": "Soft vegetable sticks sized for your baby to grasp." },
+    "category": 12,
+    "ingredients": [
+      { "amount": 1, "unit": { "tr": "adet", "en": "pcs" }, "baseName": { "tr": "havuç", "en": "carrot" }, "shoppingLabel": { "tr": "Havuç", "en": "Carrot" } }
+    ],
+    "preparationTime": 15,
+    "calories": 40,
+    "suitableAgeInMonths": 6,
+    "allergicIngredients": [],
+    "instructions": [
+      { "tr": "Havucu parmak uzunluğunda ve kalınlığında kesin.", "en": "Cut the carrot into finger-length and finger-thick pieces." },
+      { "tr": "Buharda, çatalla kolayca ezilecek ama dağılmayacak kadar pişirin.", "en": "Steam until soft enough to be easily mashed with a fork but not falling apart." }
+    ],
+    "imageUrl": ""
+  },
+  {
+    "id": "blw_002",
+    "title": { "tr": "Mücver (Fırında)", "en": "Zucchini Fritters (Baked)" },
+    "description": { "tr": "Elde tutması kolay, besleyici sebze köfteleri.", "en": "Easy to hold, nutritious vegetable patties." },
+    "category": 12,
+    "ingredients": [
+      { "amount": 1, "unit": { "tr": "küçük", "en": "small" }, "baseName": { "tr": "kabak", "en": "zucchini" }, "shoppingLabel": { "tr": "Kabak", "en": "Zucchini" } },
+      { "amount": 1, "unit": { "tr": "adet", "en": "pcs" }, "baseName": { "tr": "yumurta sarısı", "en": "egg yolk" }, "shoppingLabel": { "tr": "Yumurta", "en": "Egg" } }
+    ],
+    "preparationTime": 25,
+    "calories": 120,
+    "suitableAgeInMonths": 8,
+    "allergicIngredients": [ { "tr": "yumurta", "en": "egg" } ],
+    "instructions": [
+      { "tr": "Kabağı rendeleyip suyunu sıkın.", "en": "Grate the zucchini and squeeze out the water." },
+      { "tr": "Yumurta sarısı ve az unla karıştırıp şekil verin.", "en": "Mix with egg yolk and a little flour and shape." },
+      { "tr": "Fırında pişirin.", "en": "Bake in the oven." }
+    ],
+    "imageUrl": ""
+  },
+  {
+    "id": "blw_003",
+    "title": { "tr": "Muzlu Pankek", "en": "Banana Pancakes" },
+    "description": { "tr": "Sadece 2 malzeme ile BLW dostu kahvaltı.", "en": "BLW-friendly breakfast with only 2 ingredients." },
+    "category": 12,
+    "ingredients": [
+      { "amount": 1, "unit": { "tr": "adet", "en": "pcs" }, "baseName": { "tr": "muz", "en": "banana" }, "shoppingLabel": { "tr": "Muz", "en": "Banana" } },
+      { "amount": 1, "unit": { "tr": "adet", "en": "pcs" }, "baseName": { "tr": "yumurta sarısı", "en": "egg yolk" }, "shoppingLabel": { "tr": "Yumurta", "en": "Egg" } }
+    ],
+    "preparationTime": 10,
+    "calories": 140,
+    "suitableAgeInMonths": 7,
+    "allergicIngredients": [ { "tr": "yumurta", "en": "egg" } ],
+    "instructions": [
+      { "tr": "Muzu ezip yumurta sarısı ile çırpın.", "en": "Mash the banana and whisk with egg yolk." },
+      { "tr": "Tavada küçük yuvarlaklar halinde pişirin.", "en": "Cook in small rounds in a pan." }
+    ],
+    "imageUrl": ""
+  },
+  {
+    "id": "blw_004",
+    "title": { "tr": "Haşlanmış Brokoli Ağaçları", "en": "Boiled Broccoli Trees" },
+    "description": { "tr": "Sapından tutarak yemek için mükemmel form.", "en": "Perfect form for eating by holding the stem." },
+    "category": 12,
+    "ingredients": [
+      { "amount": 3, "unit": { "tr": "çiçek", "en": "florets" }, "baseName": { "tr": "brokoli", "en": "broccoli" }, "shoppingLabel": { "tr": "Brokoli", "en": "Broccoli" } }
+    ],
+    "preparationTime": 10,
+    "calories": 30,
+    "suitableAgeInMonths": 6,
+    "allergicIngredients": [],
+    "instructions": [
+      { "tr": "Brokolileri sapları uzun kalacak şekilde ayırın.", "en": "Separate the broccoli so the stems stay long." },
+      { "tr": "Buharda yumuşayana kadar haşlayın.", "en": "Steam until soft." }
+    ],
+    "imageUrl": ""
+  },
+  {
+    "id": "blw_005",
+    "title": { "tr": "Köfte (Bebek)", "en": "Meatballs (Baby)" },
+    "description": { "tr": "Baharatsız, yumuşak kuzu köfteleri.", "en": "Soft lamb meatballs, without spices." },
+    "category": 12,
+    "ingredients": [
+      { "amount": 50, "unit": { "tr": "gram", "en": "g" }, "baseName": { "tr": "kuzu kıyma", "en": "lamb mince" }, "shoppingLabel": { "tr": "Kıyma", "en": "Minced Meat" } }
+    ],
+    "preparationTime": 20,
+    "calories": 160,
+    "suitableAgeInMonths": 9,
+    "allergicIngredients": [],
+    "instructions": [
+      { "tr": "Kıymayı çok az ekmek içi ile yoğurun.", "en": "Knead the minced meat with a very small amount of bread crumbs." },
+      { "tr": "Parmak şeklinde köfteler yapıp fırında veya az yağlı tavada pişirin.", "en": "Make finger-shaped meatballs and cook in the oven or in a low-fat pan." }
+    ],
+    "imageUrl": ""
+  }
+]
