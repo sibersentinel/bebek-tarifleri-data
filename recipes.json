@@ -1,207 +1,38 @@
-[
-  {
-    "id": "recipe_pear_001",
-    "title": {
-      "tr": "Armut Püresi",
-      "en": "Pear Puree"
-    },
-    "description": {
-      "tr": "Sindirim dostu ve hafif yapısıyla ek gıdaya geçiş için ideal bir başlangıç.",
-      "en": "A digestion-friendly and gentle start for introducing solid foods."
-    },
-    "category": "1",
-    "ingredients": [
-      {
-        "amount": 1,
-        "unit": { "tr": "adet", "en": "pcs" },
-        "baseName": { "tr": "olgun armut", "en": "ripe pear" },
-        "shoppingLabel": { "tr": "Armut", "en": "Pear" }
-      },
-      {
-        "amount": 50,
-        "unit": { "tr": "ml", "en": "ml" },
-        "baseName": {
-          "tr": "su (yarım çay bardağı)",
-          "en": "water (half tea glass)"
-        },
-        "shoppingLabel": null
-      }
-    ],
-    "preparationTime": 10,
-    "calories": 57,
-    "suitableAgeInMonths": 6,
-    "allergicIngredients": [
-      { "tr": "armut", "en": "pear" }
-    ],
-    "instructions": [
-      { "tr": "Armutu soyup küçük parçalar halinde doğrayın.", "en": "Peel the pear and cut into small pieces." },
-      { "tr": "Yarım çay bardağı su ile yumuşayana kadar pişirin.", "en": "Cook with half a tea glass of water until soft." },
-      { "tr": "Pürüzsüz hale gelene kadar ezin.", "en": "Mash until smooth." }
-    ],
-    "imageUrl": "https://resmim.net/cdn/2026/04/08/CHDQUn.jpg"
+{
+  "id": "r101",
+  "title": {
+    "tr": "Kabaklı Pirinç Lapası",
+    "en": "Zucchini Rice Porridge"
   },
-  {
-    "id": "recipe_carrot_001",
-    "title": {
-      "tr": "Havuç Püresi",
-      "en": "Carrot Puree"
-    },
-    "description": {
-      "tr": "Vitamin açısından zengin ve tatlı aromasıyla bebeklerin sevdiği bir başlangıç.",
-      "en": "A vitamin-rich and naturally sweet puree loved by babies."
-    },
-    "category": "Sebze Tarifleri",
-    "ingredients": [
-      {
-        "amount": 1,
-        "unit": { "tr": "adet", "en": "pcs" },
-        "baseName": { "tr": "havuç", "en": "carrot" },
-        "shoppingLabel": { "tr": "Havuç", "en": "Carrot" }
-      },
-      {
-        "amount": 100,
-        "unit": { "tr": "ml", "en": "ml" },
-        "baseName": {
-          "tr": "su (1 çay bardağı)",
-          "en": "water (1 tea glass)"
-        },
-        "shoppingLabel": null
-      }
-    ],
-    "preparationTime": 15,
-    "calories": 41,
-    "suitableAgeInMonths": 6,
-    "allergicIngredients": [
-      { "tr": "havuç", "en": "carrot" }
-    ],
-    "instructions": [
-      { "tr": "Havucu soyup küçük dilimler halinde doğrayın.", "en": "Peel and slice the carrot." },
-      { "tr": "1 çay bardağı su ile yumuşayana kadar haşlayın.", "en": "Boil with 1 tea glass of water until soft." },
-      { "tr": "Püre haline getirin.", "en": "Blend or mash into puree." }
-    ],
-    "imageUrl": "https://images.unsplash.com/photo-1567306226416-28f0efdc88ce?q=80&w=1000&auto=format&fit=crop"
+  "description": {
+    "tr": "İlk ek gıdaya geçiş için sindirimi kolay ve besleyici bir başlangıç.",
+    "en": "Easy to digest and nutritious starter for the first transition to solid food."
   },
-  {
-    "id": "recipe_potato_001",
-    "title": {
-      "tr": "Patates Püresi",
-      "en": "Potato Puree"
+  "category": 1, 
+  "suitableAgeInMonths": 6,
+  "preparationTime": 15,
+  "calories": 85,
+  "imageUrl": "https://images.unsplash.com/photo-1598103442097-8b74394b95c6",
+  "ingredients": [
+    {
+      "amount": 0.5,
+      "unit": { "tr": "adet", "en": "pcs" },
+      "baseName": { "tr": "taze kabak", "en": "fresh zucchini" },
+      "shoppingLabel": { "tr": "Kabak", "en": "Zucchini" }
     },
-    "description": {
-      "tr": "Doyurucu ve yumuşak dokusuyla bebekler için güvenli bir ilk sebze.",
-      "en": "A filling and soft-textured safe first vegetable for babies."
-    },
-    "category": "Sebze Tarifleri",
-    "ingredients": [
-      {
-        "amount": 1,
-        "unit": { "tr": "adet", "en": "pcs" },
-        "baseName": { "tr": "patates", "en": "potato" },
-        "shoppingLabel": { "tr": "Patates", "en": "Potato" }
-      },
-      {
-        "amount": 100,
-        "unit": { "tr": "ml", "en": "ml" },
-        "baseName": {
-          "tr": "su (1 çay bardağı)",
-          "en": "water (1 tea glass)"
-        },
-        "shoppingLabel": null
-      }
-    ],
-    "preparationTime": 15,
-    "calories": 77,
-    "suitableAgeInMonths": 6,
-    "allergicIngredients": [
-      { "tr": "patates", "en": "potato" }
-    ],
-    "instructions": [
-      { "tr": "Patatesi soyup küçük küpler halinde doğrayın.", "en": "Peel and dice the potato." },
-      { "tr": "1 çay bardağı su ile yumuşayana kadar haşlayın.", "en": "Boil with 1 tea glass of water until soft." },
-      { "tr": "Pürüzsüz bir kıvam elde edene kadar ezin.", "en": "Mash until smooth." }
-    ],
-    "imageUrl": ""
-  },
-  {
-    "id": "recipe_zucchini_001",
-    "title": {
-      "tr": "Kabak Püresi",
-      "en": "Zucchini Puree"
-    },
-    "description": {
-      "tr": "Hafif ve kolay sindirilebilir yapısıyla hassas mideler için uygundur.",
-      "en": "Light and easy to digest, suitable for sensitive stomachs."
-    },
-    "category": "Sebze Tarifleri",
-    "ingredients": [
-      {
-        "amount": 1,
-        "unit": { "tr": "adet", "en": "pcs" },
-        "baseName": { "tr": "kabak", "en": "zucchini" },
-        "shoppingLabel": { "tr": "Kabak", "en": "Zucchini" }
-      },
-      {
-        "amount": 50,
-        "unit": { "tr": "ml", "en": "ml" },
-        "baseName": {
-          "tr": "su (yarım çay bardağı)",
-          "en": "water (half tea glass)"
-        },
-        "shoppingLabel": null
-      }
-    ],
-    "preparationTime": 10,
-    "calories": 17,
-    "suitableAgeInMonths": 6,
-    "allergicIngredients": [
-      { "tr": "kabak", "en": "zucchini" }
-    ],
-    "instructions": [
-      { "tr": "Kabağı soyup küçük parçalar halinde doğrayın.", "en": "Peel and chop the zucchini." },
-      { "tr": "Yarım çay bardağı su ile yumuşayana kadar pişirin.", "en": "Cook with half a tea glass of water until soft." },
-      { "tr": "Püre haline getirin.", "en": "Mash into puree." }
-    ],
-    "imageUrl": ""
-  },
-  {
-    "id": "recipe_pumpkin_001",
-    "title": {
-      "tr": "Balkabağı Püresi",
-      "en": "Pumpkin Puree"
-    },
-    "description": {
-      "tr": "Tatlı aroması ve yumuşak yapısıyla bebeklerin kolayca kabul ettiği bir tarif.",
-      "en": "A naturally sweet and soft puree easily accepted by babies."
-    },
-    "category": "Sebze Tarifleri",
-    "ingredients": [
-      {
-        "amount": 1,
-        "unit": { "tr": "dilim", "en": "slice" },
-        "baseName": { "tr": "balkabağı", "en": "pumpkin" },
-        "shoppingLabel": { "tr": "Balkabağı", "en": "Pumpkin" }
-      },
-      {
-        "amount": 50,
-        "unit": { "tr": "ml", "en": "ml" },
-        "baseName": {
-          "tr": "su (yarım çay bardağı)",
-          "en": "water (half tea glass)"
-        },
-        "shoppingLabel": null
-      }
-    ],
-    "preparationTime": 15,
-    "calories": 26,
-    "suitableAgeInMonths": 6,
-    "allergicIngredients": [
-      { "tr": "balkabağı", "en": "pumpkin" }
-    ],
-    "instructions": [
-      { "tr": "Balkabağını küçük parçalar halinde doğrayın.", "en": "Cut the pumpkin into small pieces." },
-      { "tr": "Yarım çay bardağı su ile yumuşayana kadar pişirin.", "en": "Cook with half a tea glass of water until soft." },
-      { "tr": "Püre haline getirin.", "en": "Mash into a smooth puree." }
-    ],
-    "imageUrl": ""
-  }
-]
+    {
+      "amount": 1,
+      "unit": { "tr": "yemek kaşığı", "en": "tbsp" },
+      "baseName": { "tr": "pirinç", "en": "rice" },
+      "shoppingLabel": { "tr": "Pirinç", "en": "Rice" }
+    }
+  ],
+  "allergicIngredients": [
+    { "tr": "pirinç", "en": "rice" }
+  ],
+  "instructions": [
+    { "tr": "Pirinçleri iyice yıkayıp yumuşayana kadar haşlayın.", "en": "Wash the rice thoroughly and boil until soft." },
+    { "tr": "Kabağın kabuklarını soyup buharda pişirin.", "en": "Peel the zucchini and steam it." },
+    { "tr": "Haşlanan pirinç ve kabağı birleştirip püre haline getirin.", "en": "Combine boiled rice and zucchini and blend into a puree." }
+  ]
+}
