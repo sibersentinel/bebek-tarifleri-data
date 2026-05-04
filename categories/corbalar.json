@@ -1,0 +1,547 @@
+[
+  {
+    "id": "corba_001",
+    "title": {
+      "tr": "Sarı Mercimek Çorbası",
+      "en": "Yellow Lentil Soup"
+    },
+    "description": {
+      "tr": "Protein kaynağı, sindirimi kolay mercimek çorbası.",
+      "en": "Protein source, easy to digest lentil soup."
+    },
+    "category": 7,
+    "ingredients": [
+      {
+        "amount": 2,
+        "unit": {
+          "tr": "yemek kaşığı",
+          "en": "tbsp"
+        },
+        "baseName": {
+          "tr": "sarı mercimek",
+          "en": "yellow lentils"
+        },
+        "shoppingLabel": {
+          "tr": "Sarı Mercimek",
+          "en": "Yellow Lentils"
+        }
+      },
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "dilim",
+          "en": "slice"
+        },
+        "baseName": {
+          "tr": "havuç",
+          "en": "carrot"
+        },
+        "shoppingLabel": {
+          "tr": "Havuç",
+          "en": "Carrot"
+        }
+      }
+    ],
+    "preparationTime": 30,
+    "calories": 120,
+    "suitableAgeInMonths": 8,
+    "allergicIngredients": [
+      {
+        "tr": "mercimek",
+        "en": "lentils"
+      }
+    ],
+    "instructions": [
+      {
+        "tr": "Mercimek ve havucu iyice pişirin.",
+        "en": "Cook the lentils and carrot thoroughly."
+      },
+      {
+        "tr": "Blenderdan geçirip pürüzsüz servis edin.",
+        "en": "Blend and serve smooth."
+      }
+    ],
+    "imageUrl": ""
+  },
+  {
+    "id": "corba_002",
+    "title": {
+      "tr": "Yoğurt Çorbası (Yayla)",
+      "en": "Yogurt Soup"
+    },
+    "description": {
+      "tr": "Kalsiyum deposu, iştah açıcı çorba.",
+      "en": "Calcium store, appetizing soup."
+    },
+    "category": 7,
+    "ingredients": [
+      {
+        "amount": 2,
+        "unit": {
+          "tr": "yemek kaşığı",
+          "en": "tbsp"
+        },
+        "baseName": {
+          "tr": "yoğurt",
+          "en": "yogurt"
+        },
+        "shoppingLabel": {
+          "tr": "Yoğurt",
+          "en": "Yogurt"
+        }
+      },
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "tatlı kaşığı",
+          "en": "tsp"
+        },
+        "baseName": {
+          "tr": "pirinç",
+          "en": "rice"
+        },
+        "shoppingLabel": {
+          "tr": "Pirinç",
+          "en": "Rice"
+        }
+      }
+    ],
+    "preparationTime": 20,
+    "calories": 95,
+    "suitableAgeInMonths": 8,
+    "allergicIngredients": [
+      {
+        "tr": "yoğurt",
+        "en": "yogurt"
+      }
+    ],
+    "instructions": [
+      {
+        "tr": "Pirinçleri haşlayın.",
+        "en": "Boil the rice."
+      },
+      {
+        "tr": "Yoğurtla terbiyesini yapıp yavaşça ekleyin.",
+        "en": "Make the dressing with yogurt and add slowly."
+      }
+    ],
+    "imageUrl": ""
+  },
+  {
+    "id": "corba_003",
+    "title": {
+      "tr": "Şehriyeli Tavuk Suyu Çorbası",
+      "en": "Chicken Broth Soup with Noodles"
+    },
+    "description": {
+      "tr": "Şifa deposu, kış günleri için ideal.",
+      "en": "Healing store, ideal for winter days."
+    },
+    "category": 7,
+    "ingredients": [
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "çay bardağı",
+          "en": "cup"
+        },
+        "baseName": {
+          "tr": "tavuk suyu",
+          "en": "chicken broth"
+        },
+        "shoppingLabel": null
+      },
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "tatlı kaşığı",
+          "en": "tsp"
+        },
+        "baseName": {
+          "tr": "yıldız şehriye",
+          "en": "star noodles"
+        },
+        "shoppingLabel": {
+          "tr": "Şehriye",
+          "en": "Noodles"
+        }
+      }
+    ],
+    "preparationTime": 20,
+    "calories": 80,
+    "suitableAgeInMonths": 8,
+    "allergicIngredients": [
+      {
+        "tr": "tavuk",
+        "en": "chicken"
+      }
+    ],
+    "instructions": [
+      {
+        "tr": "Tavuk suyunda şehriyeleri pişirin.",
+        "en": "Cook the noodles in chicken broth."
+      },
+      {
+        "tr": "Şehriyeler iyice yumuşayınca altını kapatın.",
+        "en": "Turn off the heat when the noodles are thoroughly soft."
+      }
+    ],
+    "imageUrl": ""
+  },
+  {
+    "id": "corba_004",
+    "title": {
+      "tr": "Tarhana Çorbası",
+      "en": "Tarhana Soup"
+    },
+    "description": {
+      "tr": "Probiyotik zengini, geleneksel bebek çorbası.",
+      "en": "Probiotic-rich, traditional baby soup."
+    },
+    "category": 7,
+    "ingredients": [
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "yemek kaşığı",
+          "en": "tbsp"
+        },
+        "baseName": {
+          "tr": "bebek tarhanası",
+          "en": "baby tarhana"
+        },
+        "shoppingLabel": {
+          "tr": "Tarhana",
+          "en": "Tarhana"
+        }
+      },
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "çay bardağı",
+          "en": "cup"
+        },
+        "baseName": {
+          "tr": "su veya süt",
+          "en": "water or milk"
+        },
+        "shoppingLabel": null
+      }
+    ],
+    "preparationTime": 15,
+    "calories": 110,
+    "suitableAgeInMonths": 8,
+    "allergicIngredients": [
+      {
+        "tr": "yoğurt",
+        "en": "yogurt"
+      },
+      {
+        "tr": "buğday",
+        "en": "wheat"
+      }
+    ],
+    "instructions": [
+      {
+        "tr": "Tarhanayı su ile karıştırarak pişirin.",
+        "en": "Cook the tarhana by mixing with water."
+      },
+      {
+        "tr": "Koyu kıvamlı olursa su ekleyip açın.",
+        "en": "If it's thick, open it by adding water."
+      }
+    ],
+    "imageUrl": ""
+  },
+  {
+    "id": "corba_005",
+    "title": {
+      "tr": "Domates Çorbası",
+      "en": "Tomato Soup"
+    },
+    "description": {
+      "tr": "C vitamini kaynağı, lezzetli başlangıç.",
+      "en": "Source of vitamin C, delicious starter."
+    },
+    "category": 7,
+    "ingredients": [
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "küçük",
+          "en": "small"
+        },
+        "baseName": {
+          "tr": "domates",
+          "en": "tomato"
+        },
+        "shoppingLabel": {
+          "tr": "Domates",
+          "en": "Tomato"
+        }
+      }
+    ],
+    "preparationTime": 15,
+    "calories": 40,
+    "suitableAgeInMonths": 10,
+    "allergicIngredients": [
+      {
+        "tr": "domates",
+        "en": "tomato"
+      }
+    ],
+    "instructions": [
+      {
+        "tr": "Domatesin kabuğunu soyup rendeleyin.",
+        "en": "Peel and grate the tomato."
+      },
+      {
+        "tr": "Az suda pişirip süzgeçten geçirin.",
+        "en": "Cook in a little water and pass through a sieve."
+      }
+    ],
+    "imageUrl": ""
+  },
+  {
+    "id": "corba_006",
+    "title": {
+      "tr": "Balkabağı Çorbası",
+      "en": "Pumpkin Soup"
+    },
+    "description": {
+      "tr": "Beta-karoten deposu, tatlımsı çorba.",
+      "en": "Beta-carotene store, sweetish soup."
+    },
+    "category": 7,
+    "ingredients": [
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "dilim",
+          "en": "slice"
+        },
+        "baseName": {
+          "tr": "balkabağı",
+          "en": "pumpkin"
+        },
+        "shoppingLabel": {
+          "tr": "Balkabağı",
+          "en": "Pumpkin"
+        }
+      }
+    ],
+    "preparationTime": 20,
+    "calories": 85,
+    "suitableAgeInMonths": 6,
+    "allergicIngredients": [],
+    "instructions": [
+      {
+        "tr": "Haşlayıp blenderdan geçirin.",
+        "en": "Boil and blend."
+      }
+    ],
+    "imageUrl": ""
+  },
+  {
+    "id": "corba_007",
+    "title": {
+      "tr": "Sebzeli Tavuk Suyu",
+      "en": "Chicken Broth with Veggies"
+    },
+    "description": {
+      "tr": "Zengin mineralli besleyici su.",
+      "en": "Rich mineral nutritious broth."
+    },
+    "category": 7,
+    "ingredients": [
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "bardak",
+          "en": "cup"
+        },
+        "baseName": {
+          "tr": "tavuk suyu",
+          "en": "chicken broth"
+        },
+        "shoppingLabel": null
+      }
+    ],
+    "preparationTime": 15,
+    "calories": 60,
+    "suitableAgeInMonths": 7,
+    "allergicIngredients": [
+      {
+        "tr": "tavuk",
+        "en": "chicken"
+      }
+    ],
+    "instructions": [
+      {
+        "tr": "Sebzelerle kaynatıp süzün.",
+        "en": "Boil with vegetables and strain."
+      }
+    ],
+    "imageUrl": ""
+  },
+  {
+    "id": "corba_008",
+    "title": {
+      "tr": "Sütlü Brokoli Çorbası",
+      "en": "Creamy Broccoli Soup"
+    },
+    "description": {
+      "tr": "Yumuşak içimli yeşil çorba.",
+      "en": "Smooth-drinking green soup."
+    },
+    "category": 7,
+    "ingredients": [
+      {
+        "amount": 2,
+        "unit": {
+          "tr": "çiçek",
+          "en": "florets"
+        },
+        "baseName": {
+          "tr": "brokoli",
+          "en": "broccoli"
+        },
+        "shoppingLabel": {
+          "tr": "Brokoli",
+          "en": "Broccoli"
+        }
+      }
+    ],
+    "preparationTime": 20,
+    "calories": 110,
+    "suitableAgeInMonths": 12,
+    "allergicIngredients": [
+      {
+        "tr": "süt",
+        "en": "milk"
+      }
+    ],
+    "instructions": [
+      {
+        "tr": "Süt ve brokoli ile pişirip ezin.",
+        "en": "Cook with milk and broccoli and mash."
+      }
+    ],
+    "imageUrl": ""
+  },
+  {
+    "id": "corba_009",
+    "title": {
+      "tr": "Pirinçli Ispanak Çorbası",
+      "en": "Spinach Soup with Rice"
+    },
+    "description": {
+      "tr": "Demir deposu ve doyurucu.",
+      "en": "Iron store and filling."
+    },
+    "category": 7,
+    "ingredients": [
+      {
+        "amount": 5,
+        "unit": {
+          "tr": "yaprak",
+          "en": "leaves"
+        },
+        "baseName": {
+          "tr": "ıspanak",
+          "en": "spinach"
+        },
+        "shoppingLabel": {
+          "tr": "Ispanak",
+          "en": "Spinach"
+        }
+      },
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "tatlı kaşığı",
+          "en": "tsp"
+        },
+        "baseName": {
+          "tr": "pirinç",
+          "en": "rice"
+        },
+        "shoppingLabel": {
+          "tr": "Pirinç",
+          "en": "Rice"
+        }
+      }
+    ],
+    "preparationTime": 20,
+    "calories": 75,
+    "suitableAgeInMonths": 8,
+    "allergicIngredients": [],
+    "instructions": [
+      {
+        "tr": "Birlikte pişirip blenderdan geçirin.",
+        "en": "Cook together and blend."
+      }
+    ],
+    "imageUrl": ""
+  },
+  {
+    "id": "corba_010",
+    "title": {
+      "tr": "Kıymalı Şehriye",
+      "en": "Noodle Soup with Mince"
+    },
+    "description": {
+      "tr": "Tam bir öğün yerine geçen çorba.",
+      "en": "A soup that replaces a full meal."
+    },
+    "category": 7,
+    "ingredients": [
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "yemek kaşığı",
+          "en": "tbsp"
+        },
+        "baseName": {
+          "tr": "kıyma",
+          "en": "minced meat"
+        },
+        "shoppingLabel": {
+          "tr": "Kıyma",
+          "en": "Minced Meat"
+        }
+      },
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "tatlı kaşığı",
+          "en": "tsp"
+        },
+        "baseName": {
+          "tr": "arpa şehriye",
+          "en": "barley noodles"
+        },
+        "shoppingLabel": {
+          "tr": "Şehriye",
+          "en": "Noodles"
+        }
+      }
+    ],
+    "preparationTime": 25,
+    "calories": 140,
+    "suitableAgeInMonths": 9,
+    "allergicIngredients": [
+      {
+        "tr": "buğday",
+        "en": "wheat"
+      }
+    ],
+    "instructions": [
+      {
+        "tr": "Kıymayı kavurup şehriyelerle pişirin.",
+        "en": "Saute mince and cook with noodles."
+      }
+    ],
+    "imageUrl": ""
+  }
+]

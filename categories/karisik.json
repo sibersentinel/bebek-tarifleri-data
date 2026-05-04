@@ -1,0 +1,640 @@
+[
+  {
+    "id": "karisik_001",
+    "title": {
+      "tr": "Gökkuşağı Püresi",
+      "en": "Rainbow Puree"
+    },
+    "description": {
+      "tr": "Birçok sebzenin bir arada olduğu vitamin bombası.",
+      "en": "A vitamin bomb with many vegetables together."
+    },
+    "category": 6,
+    "ingredients": [
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "dilim",
+          "en": "slice"
+        },
+        "baseName": {
+          "tr": "balkabağı",
+          "en": "pumpkin"
+        },
+        "shoppingLabel": {
+          "tr": "Balkabağı",
+          "en": "Pumpkin"
+        }
+      },
+      {
+        "amount": 0.5,
+        "unit": {
+          "tr": "adet",
+          "en": "pcs"
+        },
+        "baseName": {
+          "tr": "havuç",
+          "en": "carrot"
+        },
+        "shoppingLabel": {
+          "tr": "Havuç",
+          "en": "Carrot"
+        }
+      },
+      {
+        "amount": 0.5,
+        "unit": {
+          "tr": "küçük",
+          "en": "small"
+        },
+        "baseName": {
+          "tr": "patates",
+          "en": "potato"
+        },
+        "shoppingLabel": {
+          "tr": "Patates",
+          "en": "Potato"
+        }
+      }
+    ],
+    "preparationTime": 25,
+    "calories": 130,
+    "suitableAgeInMonths": 7,
+    "allergicIngredients": [],
+    "instructions": [
+      {
+        "tr": "Tüm sebzeleri haşlayın.",
+        "en": "Boil all the vegetables."
+      },
+      {
+        "tr": "Az zeytinyağı ile birlikte püre yapın.",
+        "en": "Make a puree with a little olive oil."
+      }
+    ],
+    "imageUrl": ""
+  },
+  {
+    "id": "karisik_002",
+    "title": {
+      "tr": "Pirinçli Ispanak Yemeği",
+      "en": "Spinach with Rice"
+    },
+    "description": {
+      "tr": "Hem sebze hem tahıl dengeli bir öğün.",
+      "en": "A balanced meal with both vegetables and grains."
+    },
+    "category": 6,
+    "ingredients": [
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "avuç",
+          "en": "handful"
+        },
+        "baseName": {
+          "tr": "ıspanak",
+          "en": "spinach"
+        },
+        "shoppingLabel": {
+          "tr": "Ispanak",
+          "en": "Spinach"
+        }
+      },
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "tatlı kaşığı",
+          "en": "tsp"
+        },
+        "baseName": {
+          "tr": "pirinç",
+          "en": "rice"
+        },
+        "shoppingLabel": {
+          "tr": "Pirinç",
+          "en": "Rice"
+        }
+      }
+    ],
+    "preparationTime": 20,
+    "calories": 90,
+    "suitableAgeInMonths": 8,
+    "allergicIngredients": [],
+    "instructions": [
+      {
+        "tr": "Yıkanmış pirinç ve ıspanağı az suda pişirin.",
+        "en": "Cook washed rice and spinach in a little water."
+      },
+      {
+        "tr": "Yumuşayınca ezip yedirin.",
+        "en": "Mash and feed when soft."
+      }
+    ],
+    "imageUrl": ""
+  },
+  {
+    "id": "karisik_003",
+    "title": {
+      "tr": "Kıymalı Bezelye",
+      "en": "Peas with Minced Meat"
+    },
+    "description": {
+      "tr": "Yüksek proteinli ve lifli karışım.",
+      "en": "High protein and fiber mixture."
+    },
+    "category": 6,
+    "ingredients": [
+      {
+        "amount": 2,
+        "unit": {
+          "tr": "yemek kaşığı",
+          "en": "tbsp"
+        },
+        "baseName": {
+          "tr": "bezelye",
+          "en": "peas"
+        },
+        "shoppingLabel": {
+          "tr": "Bezelye",
+          "en": "Peas"
+        }
+      },
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "yemek kaşığı",
+          "en": "tbsp"
+        },
+        "baseName": {
+          "tr": "kıyma",
+          "en": "minced meat"
+        },
+        "shoppingLabel": {
+          "tr": "Kıyma",
+          "en": "Minced Meat"
+        }
+      }
+    ],
+    "preparationTime": 25,
+    "calories": 150,
+    "suitableAgeInMonths": 8,
+    "allergicIngredients": [],
+    "instructions": [
+      {
+        "tr": "Kıymayı ve bezelyeleri birlikte pişirin.",
+        "en": "Cook the minced meat and peas together."
+      },
+      {
+        "tr": "Süzgeçten geçirerek püre yapın.",
+        "en": "Pass through a sieve and make a puree."
+      }
+    ],
+    "imageUrl": ""
+  },
+  {
+    "id": "karisik_004",
+    "title": {
+      "tr": "Brokoli ve İrmik",
+      "en": "Broccoli and Semolina"
+    },
+    "description": {
+      "tr": "Farklı dokuları tanımak için güzel bir seçenek.",
+      "en": "A good option for getting to know different textures."
+    },
+    "category": 6,
+    "ingredients": [
+      {
+        "amount": 2,
+        "unit": {
+          "tr": "çiçek",
+          "en": "florets"
+        },
+        "baseName": {
+          "tr": "brokoli",
+          "en": "broccoli"
+        },
+        "shoppingLabel": {
+          "tr": "Brokoli",
+          "en": "Broccoli"
+        }
+      },
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "tatlı kaşığı",
+          "en": "tsp"
+        },
+        "baseName": {
+          "tr": "irmik",
+          "en": "semolina"
+        },
+        "shoppingLabel": {
+          "tr": "İrmik",
+          "en": "Semolina"
+        }
+      }
+    ],
+    "preparationTime": 15,
+    "calories": 75,
+    "suitableAgeInMonths": 7,
+    "allergicIngredients": [
+      {
+        "tr": "irmik",
+        "en": "semolina"
+      }
+    ],
+    "instructions": [
+      {
+        "tr": "İrmiği su ile pişirirken brokolileri de ekleyin.",
+        "en": "Add broccoli while cooking semolina with water."
+      },
+      {
+        "tr": "Birlikte ezip servis edin.",
+        "en": "Mash together and serve."
+      }
+    ],
+    "imageUrl": ""
+  },
+  {
+    "id": "karisik_005",
+    "title": {
+      "tr": "Muzlu Yoğurtlu Yulaf",
+      "en": "Oatmeal with Banana and Yogurt"
+    },
+    "description": {
+      "tr": "Ara öğünlerin vazgeçilmezi, doyurucu ve tatlı.",
+      "en": "Indispensable for snacks, filling and sweet."
+    },
+    "category": 6,
+    "ingredients": [
+      {
+        "amount": 0.5,
+        "unit": {
+          "tr": "adet",
+          "en": "pcs"
+        },
+        "baseName": {
+          "tr": "muz",
+          "en": "banana"
+        },
+        "shoppingLabel": {
+          "tr": "Muz",
+          "en": "Banana"
+        }
+      },
+      {
+        "amount": 2,
+        "unit": {
+          "tr": "yemek kaşığı",
+          "en": "tbsp"
+        },
+        "baseName": {
+          "tr": "yoğurt",
+          "en": "yogurt"
+        },
+        "shoppingLabel": {
+          "tr": "Yoğurt",
+          "en": "Yogurt"
+        }
+      },
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "tatlı kaşığı",
+          "en": "tsp"
+        },
+        "baseName": {
+          "tr": "yulaf",
+          "en": "oats"
+        },
+        "shoppingLabel": {
+          "tr": "Yulaf",
+          "en": "Oat Flour"
+        }
+      }
+    ],
+    "preparationTime": 10,
+    "calories": 110,
+    "suitableAgeInMonths": 8,
+    "allergicIngredients": [
+      {
+        "tr": "yoğurt",
+        "en": "yogurt"
+      },
+      {
+        "tr": "yulaf",
+        "en": "oats"
+      }
+    ],
+    "instructions": [
+      {
+        "tr": "Yulafı az suda haşlayıp yumuşatın.",
+        "en": "Boil and soften the oats in a little water."
+      },
+      {
+        "tr": "Muz ve yoğurtla karıştırın.",
+        "en": "Mix with banana and yogurt."
+      }
+    ],
+    "imageUrl": ""
+  },
+  {
+    "id": "karisik_006",
+    "title": {
+      "tr": "Tavuklu Sebze Sote",
+      "en": "Chicken Vegetable Saute"
+    },
+    "description": {
+      "tr": "Yumuşak tavuk ve mevsim sebzeleri.",
+      "en": "Soft chicken and seasonal vegetables."
+    },
+    "category": 6,
+    "ingredients": [
+      {
+        "amount": 30,
+        "unit": {
+          "tr": "gram",
+          "en": "g"
+        },
+        "baseName": {
+          "tr": "tavuk",
+          "en": "chicken"
+        },
+        "shoppingLabel": {
+          "tr": "Tavuk",
+          "en": "Chicken"
+        }
+      },
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "küçük",
+          "en": "small"
+        },
+        "baseName": {
+          "tr": "kabak",
+          "en": "zucchini"
+        },
+        "shoppingLabel": {
+          "tr": "Kabak",
+          "en": "Zucchini"
+        }
+      }
+    ],
+    "preparationTime": 25,
+    "calories": 140,
+    "suitableAgeInMonths": 9,
+    "allergicIngredients": [
+      {
+        "tr": "tavuk",
+        "en": "chicken"
+      }
+    ],
+    "instructions": [
+      {
+        "tr": "Küçük parçalar halinde pişirip ezin.",
+        "en": "Cook in small pieces and mash."
+      }
+    ],
+    "imageUrl": ""
+  },
+  {
+    "id": "karisik_007",
+    "title": {
+      "tr": "Bulgurlu Pazı",
+      "en": "Chard with Bulgur"
+    },
+    "description": {
+      "tr": "Doyurucu ve sağlıklı yeşil öğün.",
+      "en": "Filling and healthy green meal."
+    },
+    "category": 6,
+    "ingredients": [
+      {
+        "amount": 3,
+        "unit": {
+          "tr": "yaprak",
+          "en": "leaves"
+        },
+        "baseName": {
+          "tr": "pazı",
+          "en": "chard"
+        },
+        "shoppingLabel": {
+          "tr": "Pazı",
+          "en": "Chard"
+        }
+      },
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "tatlı kaşığı",
+          "en": "tsp"
+        },
+        "baseName": {
+          "tr": "bulgur",
+          "en": "bulgur"
+        },
+        "shoppingLabel": {
+          "tr": "Bulgur",
+          "en": "Bulgur"
+        }
+      }
+    ],
+    "preparationTime": 20,
+    "calories": 95,
+    "suitableAgeInMonths": 8,
+    "allergicIngredients": [
+      {
+        "tr": "bulgur",
+        "en": "bulgur"
+      }
+    ],
+    "instructions": [
+      {
+        "tr": "Birlikte pişirip yoğurtla servis edin.",
+        "en": "Cook together and serve with yogurt."
+      }
+    ],
+    "imageUrl": ""
+  },
+  {
+    "id": "karisik_008",
+    "title": {
+      "tr": "Peynirli Domatesli Makarna",
+      "en": "Pasta with Cheese and Tomato"
+    },
+    "description": {
+      "tr": "Bebeklerin en sevdiği ikili.",
+      "en": "Babies favorite duo."
+    },
+    "category": 6,
+    "ingredients": [
+      {
+        "amount": 0.5,
+        "unit": {
+          "tr": "çay bardağı",
+          "en": "cup"
+        },
+        "baseName": {
+          "tr": "bebek makarnası",
+          "en": "baby pasta"
+        },
+        "shoppingLabel": {
+          "tr": "Makarna",
+          "en": "Pasta"
+        }
+      },
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "yemek kaşığı",
+          "en": "tbsp"
+        },
+        "baseName": {
+          "tr": "lor peyniri",
+          "en": "curd cheese"
+        },
+        "shoppingLabel": {
+          "tr": "Peynir",
+          "en": "Cheese"
+        }
+      }
+    ],
+    "preparationTime": 15,
+    "calories": 160,
+    "suitableAgeInMonths": 10,
+    "allergicIngredients": [
+      {
+        "tr": "buğday",
+        "en": "wheat"
+      },
+      {
+        "tr": "süt",
+        "en": "milk"
+      }
+    ],
+    "instructions": [
+      {
+        "tr": "Makarnayı haşlayıp peynirle karıştırın.",
+        "en": "Boil pasta and mix with cheese."
+      }
+    ],
+    "imageUrl": ""
+  },
+  {
+    "id": "karisik_009",
+    "title": {
+      "tr": "Kıymalı Karnabahar",
+      "en": "Cauliflower with Minced Meat"
+    },
+    "description": {
+      "tr": "Kış aylarının besleyici öğünü.",
+      "en": "Nutritious meal of winter months."
+    },
+    "category": 6,
+    "ingredients": [
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "yemek kaşığı",
+          "en": "tbsp"
+        },
+        "baseName": {
+          "tr": "kıyma",
+          "en": "minced meat"
+        },
+        "shoppingLabel": {
+          "tr": "Kıyma",
+          "en": "Minced Meat"
+        }
+      },
+      {
+        "amount": 2,
+        "unit": {
+          "tr": "çiçek",
+          "en": "florets"
+        },
+        "baseName": {
+          "tr": "karnabahar",
+          "en": "cauliflower"
+        },
+        "shoppingLabel": {
+          "tr": "Karnabahar",
+          "en": "Cauliflower"
+        }
+      }
+    ],
+    "preparationTime": 20,
+    "calories": 130,
+    "suitableAgeInMonths": 8,
+    "allergicIngredients": [],
+    "instructions": [
+      {
+        "tr": "Küçük parçalar halinde pişirip çatalla ezin.",
+        "en": "Cook in small pieces and mash with a fork."
+      }
+    ],
+    "imageUrl": ""
+  },
+  {
+    "id": "karisik_010",
+    "title": {
+      "tr": "Elmalı Tarçınlı Yulaf",
+      "en": "Oatmeal with Apple and Cinnamon"
+    },
+    "description": {
+      "tr": "Lezzetli ve kokulu sabah kahvaltısı.",
+      "en": "Delicious and fragrant morning breakfast."
+    },
+    "category": 6,
+    "ingredients": [
+      {
+        "amount": 2,
+        "unit": {
+          "tr": "yemek kaşığı",
+          "en": "tbsp"
+        },
+        "baseName": {
+          "tr": "yulaf",
+          "en": "oats"
+        },
+        "shoppingLabel": {
+          "tr": "Yulaf",
+          "en": "Oats"
+        }
+      },
+      {
+        "amount": 0.5,
+        "unit": {
+          "tr": "adet",
+          "en": "pcs"
+        },
+        "baseName": {
+          "tr": "elma",
+          "en": "apple"
+        },
+        "shoppingLabel": {
+          "tr": "Elma",
+          "en": "Apple"
+        }
+      }
+    ],
+    "preparationTime": 12,
+    "calories": 120,
+    "suitableAgeInMonths": 8,
+    "allergicIngredients": [
+      {
+        "tr": "yulaf",
+        "en": "oats"
+      }
+    ],
+    "instructions": [
+      {
+        "tr": "Pişirip üzerine bir fiske tarçın ekleyin.",
+        "en": "Cook and add a pinch of cinnamon on top."
+      }
+    ],
+    "imageUrl": ""
+  }
+]

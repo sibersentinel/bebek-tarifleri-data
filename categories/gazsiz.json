@@ -1,0 +1,488 @@
+[
+  {
+    "id": "gazsiz_001",
+    "title": {
+      "tr": "Kimyonlu Havuç Püresi",
+      "en": "Carrot Puree with Cumin"
+    },
+    "description": {
+      "tr": "Kimyonun gaz giderici etkisiyle rahatlatıcı püre.",
+      "en": "Soothing puree with the gas-relieving effect of cumin."
+    },
+    "category": 18,
+    "ingredients": [
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "adet",
+          "en": "pcs"
+        },
+        "baseName": {
+          "tr": "havuç",
+          "en": "carrot"
+        },
+        "shoppingLabel": {
+          "tr": "Havuç",
+          "en": "Carrot"
+        }
+      },
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "fiske",
+          "en": "pinch"
+        },
+        "baseName": {
+          "tr": "kimyon",
+          "en": "cumin"
+        },
+        "shoppingLabel": null
+      }
+    ],
+    "preparationTime": 15,
+    "calories": 42,
+    "suitableAgeInMonths": 6,
+    "allergicIngredients": [],
+    "instructions": [
+      {
+        "tr": "Havucu haşlayın, ezin ve içine bir fiske kimyon ekleyin.",
+        "en": "Boil the carrot, mash it and add a pinch of cumin."
+      }
+    ],
+    "imageUrl": ""
+  },
+  {
+    "id": "gazsiz_002",
+    "title": {
+      "tr": "Dereotlu Kabak Ezmesi",
+      "en": "Zucchini Mash with Dill"
+    },
+    "description": {
+      "tr": "Sindirim dostu dereotu ve hafif kabak.",
+      "en": "Digestive-friendly dill and light zucchini."
+    },
+    "category": 18,
+    "ingredients": [
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "küçük",
+          "en": "small"
+        },
+        "baseName": {
+          "tr": "kabak",
+          "en": "zucchini"
+        },
+        "shoppingLabel": {
+          "tr": "Kabak",
+          "en": "Zucchini"
+        }
+      },
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "dal",
+          "en": "sprig"
+        },
+        "baseName": {
+          "tr": "dereotu",
+          "en": "dill"
+        },
+        "shoppingLabel": null
+      }
+    ],
+    "preparationTime": 12,
+    "calories": 25,
+    "suitableAgeInMonths": 6,
+    "allergicIngredients": [],
+    "instructions": [
+      {
+        "tr": "Kabağı buharda pişirin, ince kıyılmış dereotu ile karıştırın.",
+        "en": "Steam the zucchini, mix with finely chopped dill."
+      }
+    ],
+    "imageUrl": ""
+  },
+  {
+    "id": "gazsiz_003",
+    "title": {
+      "tr": "Fırınlanmış Rezene",
+      "en": "Baked Fennel"
+    },
+    "description": {
+      "tr": "Doğal gaz giderici rezenenin en lezzetli hali.",
+      "en": "The most delicious state of natural gas-relieving fennel."
+    },
+    "category": 18,
+    "ingredients": [
+      {
+        "amount": 0.5,
+        "unit": {
+          "tr": "adet",
+          "en": "pcs"
+        },
+        "baseName": {
+          "tr": "rezene kökü",
+          "en": "fennel root"
+        },
+        "shoppingLabel": {
+          "tr": "Rezene",
+          "en": "Fennel"
+        }
+      }
+    ],
+    "preparationTime": 20,
+    "calories": 30,
+    "suitableAgeInMonths": 8,
+    "allergicIngredients": [],
+    "instructions": [
+      {
+        "tr": "Rezene kökünü dilimleyip fırında yumuşayana kadar pişirin.",
+        "en": "Slice the fennel root and bake in the oven until soft."
+      },
+      {
+        "tr": "Püre haline getirip servis edin.",
+        "en": "Make it into a puree and serve."
+      }
+    ],
+    "imageUrl": ""
+  },
+  {
+    "id": "gazsiz_004",
+    "title": {
+      "tr": "Patatesli Taze Nane",
+      "en": "Potato with Fresh Mint"
+    },
+    "description": {
+      "tr": "Mideyi rahatlatan nane ferahlığı.",
+      "en": "Mint freshness that soothes the stomach."
+    },
+    "category": 18,
+    "ingredients": [
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "küçük",
+          "en": "small"
+        },
+        "baseName": {
+          "tr": "patates",
+          "en": "potato"
+        },
+        "shoppingLabel": {
+          "tr": "Patates",
+          "en": "Potato"
+        }
+      },
+      {
+        "amount": 2,
+        "unit": {
+          "tr": "yaprak",
+          "en": "leaves"
+        },
+        "baseName": {
+          "tr": "taze nane",
+          "en": "fresh mint"
+        },
+        "shoppingLabel": null
+      }
+    ],
+    "preparationTime": 20,
+    "calories": 85,
+    "suitableAgeInMonths": 7,
+    "allergicIngredients": [],
+    "instructions": [
+      {
+        "tr": "Patatesi haşlayın, içine ince kıyılmış nane ekleyerek ezin.",
+        "en": "Boil the potato, mash it by adding finely chopped mint."
+      }
+    ],
+    "imageUrl": ""
+  },
+  {
+    "id": "gazsiz_005",
+    "title": {
+      "tr": "Sade Pirinç Lapası",
+      "en": "Plain Rice Porridge"
+    },
+    "description": {
+      "tr": "En az gaz yapan tahıl seçeneği.",
+      "en": "The grain option that produces the least gas."
+    },
+    "category": 18,
+    "ingredients": [
+      {
+        "amount": 2,
+        "unit": {
+          "tr": "yemek kaşığı",
+          "en": "tbsp"
+        },
+        "baseName": {
+          "tr": "pirinç",
+          "en": "rice"
+        },
+        "shoppingLabel": {
+          "tr": "Pirinç",
+          "en": "Rice"
+        }
+      }
+    ],
+    "preparationTime": 20,
+    "calories": 90,
+    "suitableAgeInMonths": 6,
+    "allergicIngredients": [],
+    "instructions": [
+      {
+        "tr": "Pirinçleri iyice yumuşayıp lapa olana kadar suyla pişirin.",
+        "en": "Cook the rice with water until it is thoroughly soft and becomes a porridge."
+      }
+    ],
+    "imageUrl": ""
+  },
+  {
+    "id": "gazsiz_006",
+    "title": {
+      "tr": "Naneli Yoğurt",
+      "en": "Minty Yogurt"
+    },
+    "description": {
+      "tr": "Mideyi ferahlatan karışım.",
+      "en": "Mixture that refreshes the stomach."
+    },
+    "category": 18,
+    "ingredients": [
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "kase",
+          "en": "bowl"
+        },
+        "baseName": {
+          "tr": "yoğurt",
+          "en": "yogurt"
+        },
+        "shoppingLabel": {
+          "tr": "Yoğurt",
+          "en": "Yogurt"
+        }
+      },
+      {
+        "amount": 2,
+        "unit": {
+          "tr": "yaprak",
+          "en": "leaves"
+        },
+        "baseName": {
+          "tr": "taze nane",
+          "en": "fresh mint"
+        },
+        "shoppingLabel": null
+      }
+    ],
+    "preparationTime": 3,
+    "calories": 65,
+    "suitableAgeInMonths": 8,
+    "allergicIngredients": [
+      {
+        "tr": "süt",
+        "en": "milk"
+      }
+    ],
+    "instructions": [
+      {
+        "tr": "Naneyi incecik kıyıp yoğurda ekleyin.",
+        "en": "Chop mint finely and add to yogurt."
+      }
+    ],
+    "imageUrl": ""
+  },
+  {
+    "id": "gazsiz_007",
+    "title": {
+      "tr": "Dereotlu Lor",
+      "en": "Curd with Dill"
+    },
+    "description": {
+      "tr": "Gaz yapmayan kahvaltılık.",
+      "en": "Breakfast item that doesn t produce gas."
+    },
+    "category": 18,
+    "ingredients": [
+      {
+        "amount": 2,
+        "unit": {
+          "tr": "yemek kaşığı",
+          "en": "tbsp"
+        },
+        "baseName": {
+          "tr": "lor peyniri",
+          "en": "curd cheese"
+        },
+        "shoppingLabel": {
+          "tr": "Peynir",
+          "en": "Cheese"
+        }
+      },
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "dal",
+          "en": "sprig"
+        },
+        "baseName": {
+          "tr": "dereotu",
+          "en": "dill"
+        },
+        "shoppingLabel": null
+      }
+    ],
+    "preparationTime": 5,
+    "calories": 75,
+    "suitableAgeInMonths": 8,
+    "allergicIngredients": [
+      {
+        "tr": "süt",
+        "en": "milk"
+      }
+    ],
+    "instructions": [
+      {
+        "tr": "Dereotunu lorla karıştırın.",
+        "en": "Mix dill with curd."
+      }
+    ],
+    "imageUrl": ""
+  },
+  {
+    "id": "gazsiz_008",
+    "title": {
+      "tr": "Rezene Tohumlu Elma",
+      "en": "Apple with Fennel Seeds"
+    },
+    "description": {
+      "tr": "Hem tatlı hem rahatlatıcı.",
+      "en": "Both sweet and soothing."
+    },
+    "category": 18,
+    "ingredients": [
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "adet",
+          "en": "pcs"
+        },
+        "baseName": {
+          "tr": "elma",
+          "en": "apple"
+        },
+        "shoppingLabel": {
+          "tr": "Elma",
+          "en": "Apple"
+        }
+      }
+    ],
+    "preparationTime": 15,
+    "calories": 55,
+    "suitableAgeInMonths": 7,
+    "allergicIngredients": [],
+    "instructions": [
+      {
+        "tr": "Elmayı rezeneli suda haşlayıp ezin.",
+        "en": "Boil apple in fennel water and mash."
+      }
+    ],
+    "imageUrl": ""
+  },
+  {
+    "id": "gazsiz_009",
+    "title": {
+      "tr": "Haşlanmış Pirinç ve Kabak",
+      "en": "Boiled Rice and Zucchini"
+    },
+    "description": {
+      "tr": "En hafif öğle yemeği.",
+      "en": "Lightest lunch."
+    },
+    "category": 18,
+    "ingredients": [
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "küçük",
+          "en": "small"
+        },
+        "baseName": {
+          "tr": "kabak",
+          "en": "zucchini"
+        },
+        "shoppingLabel": {
+          "tr": "Kabak",
+          "en": "Zucchini"
+        }
+      },
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "tatlı kaşığı",
+          "en": "tsp"
+        },
+        "baseName": {
+          "tr": "pirinç",
+          "en": "rice"
+        },
+        "shoppingLabel": {
+          "tr": "Pirinç",
+          "en": "Rice"
+        }
+      }
+    ],
+    "preparationTime": 20,
+    "calories": 70,
+    "suitableAgeInMonths": 6,
+    "allergicIngredients": [],
+    "instructions": [
+      {
+        "tr": "Birlikte haşlayıp püre yapın.",
+        "en": "Boil together and make a puree."
+      }
+    ],
+    "imageUrl": ""
+  },
+  {
+    "id": "gazsiz_010",
+    "title": {
+      "tr": "Zencefil Çayı (Çok Az)",
+      "en": "Ginger Tea (Very Little)"
+    },
+    "description": {
+      "tr": "Bulantı ve gaz için destek.",
+      "en": "Support for nausea and gas."
+    },
+    "category": 18,
+    "ingredients": [
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "ince dilim",
+          "en": "thin slice"
+        },
+        "baseName": {
+          "tr": "taze zencefil",
+          "en": "fresh ginger"
+        },
+        "shoppingLabel": null
+      }
+    ],
+    "preparationTime": 10,
+    "calories": 2,
+    "suitableAgeInMonths": 12,
+    "allergicIngredients": [],
+    "instructions": [
+      {
+        "tr": "Sıcak suda demleyip 1-2 kaşık verin.",
+        "en": "Steep in hot water and give 1-2 spoons."
+      }
+    ],
+    "imageUrl": ""
+  }
+]

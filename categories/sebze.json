@@ -1,0 +1,493 @@
+[
+  {
+    "id": "sebze_001",
+    "title": {
+      "tr": "Bezelye Püresi",
+      "en": "Pea Puree"
+    },
+    "description": {
+      "tr": "Protein ve lif kaynağı, tatlı bezelyeler.",
+      "en": "A source of protein and fiber, sweet peas."
+    },
+    "category": 2,
+    "ingredients": [
+      {
+        "amount": 0.5,
+        "unit": {
+          "tr": "su bardağı",
+          "en": "cup"
+        },
+        "baseName": {
+          "tr": "taze bezelye",
+          "en": "fresh peas"
+        },
+        "shoppingLabel": {
+          "tr": "Bezelye",
+          "en": "Peas"
+        }
+      }
+    ],
+    "preparationTime": 15,
+    "calories": 60,
+    "suitableAgeInMonths": 6,
+    "allergicIngredients": [],
+    "instructions": [
+      {
+        "tr": "Bezelyeleri haşlayın.",
+        "en": "Boil the peas."
+      },
+      {
+        "tr": "Zarlarından ayırmak için süzgeçten geçirin.",
+        "en": "Pass through a sieve to separate from the skins."
+      },
+      {
+        "tr": "Püre haline getirin.",
+        "en": "Make it into a puree."
+      }
+    ],
+    "imageUrl": ""
+  },
+  {
+    "id": "sebze_002",
+    "title": {
+      "tr": "Brokoli ve Patates",
+      "en": "Broccoli and Potato"
+    },
+    "description": {
+      "tr": "Vitamin deposu brokoli ile doyurucu patates.",
+      "en": "Vitamin storage broccoli and filling potato."
+    },
+    "category": 2,
+    "ingredients": [
+      {
+        "amount": 2,
+        "unit": {
+          "tr": "çiçek",
+          "en": "florets"
+        },
+        "baseName": {
+          "tr": "brokoli",
+          "en": "broccoli"
+        },
+        "shoppingLabel": {
+          "tr": "Brokoli",
+          "en": "Broccoli"
+        }
+      },
+      {
+        "amount": 0.5,
+        "unit": {
+          "tr": "adet",
+          "en": "pcs"
+        },
+        "baseName": {
+          "tr": "patates",
+          "en": "potato"
+        },
+        "shoppingLabel": {
+          "tr": "Patates",
+          "en": "Potato"
+        }
+      }
+    ],
+    "preparationTime": 20,
+    "calories": 85,
+    "suitableAgeInMonths": 7,
+    "allergicIngredients": [],
+    "instructions": [
+      {
+        "tr": "Sebzeleri buharda pişirin.",
+        "en": "Steam the vegetables."
+      },
+      {
+        "tr": "Yumuşayınca çatalla ezin.",
+        "en": "Mash with a fork when soft."
+      },
+      {
+        "tr": "Zeytinyağı ekleyerek karıştırın.",
+        "en": "Mix by adding olive oil."
+      }
+    ],
+    "imageUrl": ""
+  },
+  {
+    "id": "sebze_003",
+    "title": {
+      "tr": "Ispanaklı Yoğurt",
+      "en": "Spinach with Yogurt"
+    },
+    "description": {
+      "tr": "Demir zengini ıspanak ve kalsiyum kaynağı yoğurt.",
+      "en": "Iron-rich spinach and calcium source yogurt."
+    },
+    "category": 2,
+    "ingredients": [
+      {
+        "amount": 5,
+        "unit": {
+          "tr": "yaprak",
+          "en": "leaves"
+        },
+        "baseName": {
+          "tr": "ıspanak",
+          "en": "spinach"
+        },
+        "shoppingLabel": {
+          "tr": "Ispanak",
+          "en": "Spinach"
+        }
+      },
+      {
+        "amount": 2,
+        "unit": {
+          "tr": "yemek kaşığı",
+          "en": "tbsp"
+        },
+        "baseName": {
+          "tr": "ev yoğurdu",
+          "en": "homemade yogurt"
+        },
+        "shoppingLabel": {
+          "tr": "Yoğurt",
+          "en": "Yogurt"
+        }
+      }
+    ],
+    "preparationTime": 10,
+    "calories": 45,
+    "suitableAgeInMonths": 8,
+    "allergicIngredients": [
+      {
+        "tr": "yoğurt",
+        "en": "yogurt"
+      }
+    ],
+    "instructions": [
+      {
+        "tr": "Ispanakları soteleyin veya haşlayın.",
+        "en": "Saute or boil the spinach."
+      },
+      {
+        "tr": "İnce ince kıyın.",
+        "en": "Chop finely."
+      },
+      {
+        "tr": "Yoğurtla karıştırıp servis edin.",
+        "en": "Mix with yogurt and serve."
+      }
+    ],
+    "imageUrl": ""
+  },
+  {
+    "id": "sebze_004",
+    "title": {
+      "tr": "Karnabahar Püresi",
+      "en": "Cauliflower Puree"
+    },
+    "description": {
+      "tr": "Hafif ve lezzetli bir kış sebzesi.",
+      "en": "A light and delicious winter vegetable."
+    },
+    "category": 2,
+    "ingredients": [
+      {
+        "amount": 3,
+        "unit": {
+          "tr": "çiçek",
+          "en": "florets"
+        },
+        "baseName": {
+          "tr": "karnabahar",
+          "en": "cauliflower"
+        },
+        "shoppingLabel": {
+          "tr": "Karnabahar",
+          "en": "Cauliflower"
+        }
+      }
+    ],
+    "preparationTime": 15,
+    "calories": 30,
+    "suitableAgeInMonths": 7,
+    "allergicIngredients": [],
+    "instructions": [
+      {
+        "tr": "Karnabaharları buharda haşlayın.",
+        "en": "Steam the cauliflower."
+      },
+      {
+        "tr": "Pürüzsüz olana kadar blenderdan geçirin.",
+        "en": "Blend until smooth."
+      }
+    ],
+    "imageUrl": ""
+  },
+  {
+    "id": "sebze_005",
+    "title": {
+      "tr": "Taze Fasulye Ezmesi",
+      "en": "Green Bean Mash"
+    },
+    "description": {
+      "tr": "Lifli yapısıyla bağırsak dostu.",
+      "en": "Gut-friendly with its fibrous structure."
+    },
+    "category": 2,
+    "ingredients": [
+      {
+        "amount": 5,
+        "unit": {
+          "tr": "adet",
+          "en": "pcs"
+        },
+        "baseName": {
+          "tr": "taze fasulye",
+          "en": "green beans"
+        },
+        "shoppingLabel": {
+          "tr": "Taze Fasulye",
+          "en": "Green Beans"
+        }
+      }
+    ],
+    "preparationTime": 25,
+    "calories": 35,
+    "suitableAgeInMonths": 8,
+    "allergicIngredients": [],
+    "instructions": [
+      {
+        "tr": "Fasulyelerin kılçıklarını temizleyin.",
+        "en": "Remove the strings from the beans."
+      },
+      {
+        "tr": "İyice haşlayın.",
+        "en": "Boil thoroughly."
+      },
+      {
+        "tr": "Ezerek püre haline getirin.",
+        "en": "Mash into a puree."
+      }
+    ],
+    "imageUrl": ""
+  },
+  {
+    "id": "sebze_006",
+    "title": {
+      "tr": "Yer Elması Püresi",
+      "en": "Jerusalem Artichoke Puree"
+    },
+    "description": {
+      "tr": "İnulin kaynağı, bağırsak dostu.",
+      "en": "Source of inulin, gut-friendly."
+    },
+    "category": 2,
+    "ingredients": [
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "adet",
+          "en": "pcs"
+        },
+        "baseName": {
+          "tr": "yer elması",
+          "en": "jerusalem artichoke"
+        },
+        "shoppingLabel": {
+          "tr": "Yer Elması",
+          "en": "Jerusalem Artichoke"
+        }
+      }
+    ],
+    "preparationTime": 20,
+    "calories": 70,
+    "suitableAgeInMonths": 8,
+    "allergicIngredients": [],
+    "instructions": [
+      {
+        "tr": "Yer elmasını haşlayıp ezin.",
+        "en": "Boil and mash the jerusalem artichoke."
+      }
+    ],
+    "imageUrl": ""
+  },
+  {
+    "id": "sebze_007",
+    "title": {
+      "tr": "Pazı ve Patates",
+      "en": "Chard and Potato"
+    },
+    "description": {
+      "tr": "Demir zengini pazı yaprakları.",
+      "en": "Iron-rich chard leaves."
+    },
+    "category": 2,
+    "ingredients": [
+      {
+        "amount": 3,
+        "unit": {
+          "tr": "yaprak",
+          "en": "leaves"
+        },
+        "baseName": {
+          "tr": "pazı",
+          "en": "chard"
+        },
+        "shoppingLabel": {
+          "tr": "Pazı",
+          "en": "Chard"
+        }
+      },
+      {
+        "amount": 0.5,
+        "unit": {
+          "tr": "adet",
+          "en": "pcs"
+        },
+        "baseName": {
+          "tr": "patates",
+          "en": "potato"
+        },
+        "shoppingLabel": {
+          "tr": "Patates",
+          "en": "Potato"
+        }
+      }
+    ],
+    "preparationTime": 15,
+    "calories": 80,
+    "suitableAgeInMonths": 8,
+    "allergicIngredients": [],
+    "instructions": [
+      {
+        "tr": "Birlikte haşlayıp püre yapın.",
+        "en": "Boil together and make a puree."
+      }
+    ],
+    "imageUrl": ""
+  },
+  {
+    "id": "sebze_008",
+    "title": {
+      "tr": "Enginar Kalbi Püresi",
+      "en": "Artichoke Heart Puree"
+    },
+    "description": {
+      "tr": "Karaciğer dostu enginar.",
+      "en": "Liver-friendly artichoke."
+    },
+    "category": 2,
+    "ingredients": [
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "adet",
+          "en": "pcs"
+        },
+        "baseName": {
+          "tr": "enginar",
+          "en": "artichoke"
+        },
+        "shoppingLabel": {
+          "tr": "Enginar",
+          "en": "Artichoke"
+        }
+      }
+    ],
+    "preparationTime": 25,
+    "calories": 50,
+    "suitableAgeInMonths": 8,
+    "allergicIngredients": [],
+    "instructions": [
+      {
+        "tr": "Limonlu suda haşlayıp ezin.",
+        "en": "Boil in lemon water and mash."
+      }
+    ],
+    "imageUrl": ""
+  },
+  {
+    "id": "sebze_009",
+    "title": {
+      "tr": "Kereviz Püresi",
+      "en": "Celery Puree"
+    },
+    "description": {
+      "tr": "Aromatik ve besleyici kök sebze.",
+      "en": "Aromatic and nutritious root vegetable."
+    },
+    "category": 2,
+    "ingredients": [
+      {
+        "amount": 0.5,
+        "unit": {
+          "tr": "dilim",
+          "en": "slice"
+        },
+        "baseName": {
+          "tr": "kereviz",
+          "en": "celery"
+        },
+        "shoppingLabel": {
+          "tr": "Kereviz",
+          "en": "Celery"
+        }
+      }
+    ],
+    "preparationTime": 20,
+    "calories": 40,
+    "suitableAgeInMonths": 8,
+    "allergicIngredients": [
+      {
+        "tr": "kereviz",
+        "en": "celery"
+      }
+    ],
+    "instructions": [
+      {
+        "tr": "Kerevizi haşlayıp püre yapın.",
+        "en": "Boil the celery and make a puree."
+      }
+    ],
+    "imageUrl": ""
+  },
+  {
+    "id": "sebze_010",
+    "title": {
+      "tr": "Bamya Ezmesi",
+      "en": "Okra Mash"
+    },
+    "description": {
+      "tr": "Lifli ve sağlıklı bamya.",
+      "en": "Fibrous and healthy okra."
+    },
+    "category": 2,
+    "ingredients": [
+      {
+        "amount": 5,
+        "unit": {
+          "tr": "adet",
+          "en": "pcs"
+        },
+        "baseName": {
+          "tr": "bamya",
+          "en": "okra"
+        },
+        "shoppingLabel": {
+          "tr": "Bamya",
+          "en": "Okra"
+        }
+      }
+    ],
+    "preparationTime": 20,
+    "calories": 30,
+    "suitableAgeInMonths": 9,
+    "allergicIngredients": [],
+    "instructions": [
+      {
+        "tr": "Bamyaları haşlayıp çekirdeklerini süzerek ezin.",
+        "en": "Boil the okra and mash by straining the seeds."
+      }
+    ],
+    "imageUrl": ""
+  }
+]

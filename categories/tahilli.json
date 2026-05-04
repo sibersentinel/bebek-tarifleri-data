@@ -1,0 +1,539 @@
+[
+  {
+    "id": "tahilli_001",
+    "title": {
+      "tr": "Yulaf Lapası",
+      "en": "Oatmeal Porridge"
+    },
+    "description": {
+      "tr": "Lifli ve doyurucu bir kahvaltı alternatifi.",
+      "en": "A fibrous and filling breakfast alternative."
+    },
+    "category": 4,
+    "ingredients": [
+      {
+        "amount": 2,
+        "unit": {
+          "tr": "yemek kaşığı",
+          "en": "tbsp"
+        },
+        "baseName": {
+          "tr": "yulaf unu",
+          "en": "oat flour"
+        },
+        "shoppingLabel": {
+          "tr": "Yulaf Unu",
+          "en": "Oat Flour"
+        }
+      },
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "çay bardağı",
+          "en": "cup"
+        },
+        "baseName": {
+          "tr": "su",
+          "en": "water"
+        },
+        "shoppingLabel": null
+      }
+    ],
+    "preparationTime": 8,
+    "calories": 110,
+    "suitableAgeInMonths": 6,
+    "allergicIngredients": [
+      {
+        "tr": "yulaf",
+        "en": "oats"
+      }
+    ],
+    "instructions": [
+      {
+        "tr": "Yulaf ununu su ile karıştırarak pişirin.",
+        "en": "Cook oat flour by mixing with water."
+      },
+      {
+        "tr": "Muhallebi kıvamına gelince ocaktan alın.",
+        "en": "Remove from heat when it reaches a pudding consistency."
+      }
+    ],
+    "imageUrl": ""
+  },
+  {
+    "id": "tahilli_002",
+    "title": {
+      "tr": "Pirinç Unlu Muhallebi",
+      "en": "Rice Flour Pudding"
+    },
+    "description": {
+      "tr": "Klasik ve hafif bir öğün.",
+      "en": "A classic and light meal."
+    },
+    "category": 4,
+    "ingredients": [
+      {
+        "amount": 1.5,
+        "unit": {
+          "tr": "yemek kaşığı",
+          "en": "tbsp"
+        },
+        "baseName": {
+          "tr": "pirinç unu",
+          "en": "rice flour"
+        },
+        "shoppingLabel": {
+          "tr": "Pirinç Unu",
+          "en": "Rice Flour"
+        }
+      },
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "su bardağı",
+          "en": "cup"
+        },
+        "baseName": {
+          "tr": "su",
+          "en": "water"
+        },
+        "shoppingLabel": null
+      }
+    ],
+    "preparationTime": 10,
+    "calories": 95,
+    "suitableAgeInMonths": 6,
+    "allergicIngredients": [],
+    "instructions": [
+      {
+        "tr": "Malzemeleri tencerede karıştırıp pişirin.",
+        "en": "Mix and cook the ingredients in a pot."
+      },
+      {
+        "tr": "Sürekli karıştırarak pürüzsüz olmasını sağlayın.",
+        "en": "Stir constantly to ensure it is smooth."
+      }
+    ],
+    "imageUrl": ""
+  },
+  {
+    "id": "tahilli_003",
+    "title": {
+      "tr": "İrmikli Meyve Püresi",
+      "en": "Semolina Fruit Puree"
+    },
+    "description": {
+      "tr": "Meyvelerin tadıyla irmik birleşiyor.",
+      "en": "Semolina meets the taste of fruits."
+    },
+    "category": 4,
+    "ingredients": [
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "tatlı kaşığı",
+          "en": "tsp"
+        },
+        "baseName": {
+          "tr": "irmik",
+          "en": "semolina"
+        },
+        "shoppingLabel": {
+          "tr": "İrmik",
+          "en": "Semolina"
+        }
+      },
+      {
+        "amount": 0.5,
+        "unit": {
+          "tr": "çay bardağı",
+          "en": "cup"
+        },
+        "baseName": {
+          "tr": "su",
+          "en": "water"
+        },
+        "shoppingLabel": null
+      },
+      {
+        "amount": 0.5,
+        "unit": {
+          "tr": "adet",
+          "en": "pcs"
+        },
+        "baseName": {
+          "tr": "elma",
+          "en": "apple"
+        },
+        "shoppingLabel": {
+          "tr": "Elma",
+          "en": "Apple"
+        }
+      }
+    ],
+    "preparationTime": 12,
+    "calories": 80,
+    "suitableAgeInMonths": 7,
+    "allergicIngredients": [
+      {
+        "tr": "irmik",
+        "en": "semolina"
+      }
+    ],
+    "instructions": [
+      {
+        "tr": "İrmiği su ile pişirin.",
+        "en": "Cook the semolina with water."
+      },
+      {
+        "tr": "Elmayı rendeleyip pişen irmiğe ekleyin.",
+        "en": "Grate the apple and add to the cooked semolina."
+      }
+    ],
+    "imageUrl": ""
+  },
+  {
+    "id": "tahilli_004",
+    "title": {
+      "tr": "Tam Buğday Unlu Pankek",
+      "en": "Whole Wheat Pancake"
+    },
+    "description": {
+      "tr": "Bebişlerin kendi kendine yiyebileceği bir tarif.",
+      "en": "A recipe that babies can eat by themselves."
+    },
+    "category": 4,
+    "ingredients": [
+      {
+        "amount": 2,
+        "unit": {
+          "tr": "yemek kaşığı",
+          "en": "tbsp"
+        },
+        "baseName": {
+          "tr": "tam buğday unu",
+          "en": "whole wheat flour"
+        },
+        "shoppingLabel": {
+          "tr": "Tam Buğday Unu",
+          "en": "Whole Wheat Flour"
+        }
+      },
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "adet",
+          "en": "pcs"
+        },
+        "baseName": {
+          "tr": "yumurta sarısı",
+          "en": "egg yolk"
+        },
+        "shoppingLabel": {
+          "tr": "Yumurta",
+          "en": "Egg"
+        }
+      }
+    ],
+    "preparationTime": 15,
+    "calories": 140,
+    "suitableAgeInMonths": 8,
+    "allergicIngredients": [
+      {
+        "tr": "buğday",
+        "en": "wheat"
+      },
+      {
+        "tr": "yumurta",
+        "en": "egg"
+      }
+    ],
+    "instructions": [
+      {
+        "tr": "Tüm malzemeleri çırpın.",
+        "en": "Whisk all ingredients."
+      },
+      {
+        "tr": "Yapışmaz tavada arkalı önlü pişirin.",
+        "en": "Cook on both sides in a non-stick pan."
+      }
+    ],
+    "imageUrl": ""
+  },
+  {
+    "id": "tahilli_005",
+    "title": {
+      "tr": "Bulgur Pilavı (Lapa)",
+      "en": "Bulgur Rice (Porridge)"
+    },
+    "description": {
+      "tr": "Sebze suyuyla zenginleştirilmiş bulgur.",
+      "en": "Bulgur enriched with vegetable broth."
+    },
+    "category": 4,
+    "ingredients": [
+      {
+        "amount": 2,
+        "unit": {
+          "tr": "yemek kaşığı",
+          "en": "tbsp"
+        },
+        "baseName": {
+          "tr": "ince bulgur",
+          "en": "fine bulgur"
+        },
+        "shoppingLabel": {
+          "tr": "Bulgur",
+          "en": "Bulgur"
+        }
+      },
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "çay bardağı",
+          "en": "cup"
+        },
+        "baseName": {
+          "tr": "sebze suyu",
+          "en": "vegetable broth"
+        },
+        "shoppingLabel": null
+      }
+    ],
+    "preparationTime": 20,
+    "calories": 120,
+    "suitableAgeInMonths": 9,
+    "allergicIngredients": [
+      {
+        "tr": "bulgur",
+        "en": "bulgur"
+      }
+    ],
+    "instructions": [
+      {
+        "tr": "Bulguru sebze suyuyla suyunu çekene kadar pişirin.",
+        "en": "Cook the bulgur with vegetable broth until the water is absorbed."
+      },
+      {
+        "tr": "İyice yumuşadığından emin olun.",
+        "en": "Make sure it is thoroughly soft."
+      }
+    ],
+    "imageUrl": ""
+  },
+  {
+    "id": "tahilli_006",
+    "title": {
+      "tr": "Kinoa Püresi",
+      "en": "Quinoa Puree"
+    },
+    "description": {
+      "tr": "Yüksek proteinli süper tahıl.",
+      "en": "High protein super grain."
+    },
+    "category": 4,
+    "ingredients": [
+      {
+        "amount": 2,
+        "unit": {
+          "tr": "yemek kaşığı",
+          "en": "tbsp"
+        },
+        "baseName": {
+          "tr": "kinoa",
+          "en": "quinoa"
+        },
+        "shoppingLabel": {
+          "tr": "Kinoa",
+          "en": "Quinoa"
+        }
+      }
+    ],
+    "preparationTime": 20,
+    "calories": 130,
+    "suitableAgeInMonths": 8,
+    "allergicIngredients": [],
+    "instructions": [
+      {
+        "tr": "Kinoayı iyice haşlayıp sebzelerle karıştırın.",
+        "en": "Boil quinoa thoroughly and mix with vegetables."
+      }
+    ],
+    "imageUrl": ""
+  },
+  {
+    "id": "tahilli_007",
+    "title": {
+      "tr": "Mısır Unlu Kaçamak",
+      "en": "Corn Flour Porridge"
+    },
+    "description": {
+      "tr": "Geleneksel ve doyurucu.",
+      "en": "Traditional and filling."
+    },
+    "category": 4,
+    "ingredients": [
+      {
+        "amount": 2,
+        "unit": {
+          "tr": "yemek kaşığı",
+          "en": "tbsp"
+        },
+        "baseName": {
+          "tr": "mısır unu",
+          "en": "corn flour"
+        },
+        "shoppingLabel": {
+          "tr": "Mısır Unu",
+          "en": "Corn Flour"
+        }
+      }
+    ],
+    "preparationTime": 10,
+    "calories": 115,
+    "suitableAgeInMonths": 8,
+    "allergicIngredients": [
+      {
+        "tr": "mısır",
+        "en": "corn"
+      }
+    ],
+    "instructions": [
+      {
+        "tr": "Mısır ununu suyla muhallebi yapın.",
+        "en": "Make a pudding with corn flour and water."
+      }
+    ],
+    "imageUrl": ""
+  },
+  {
+    "id": "tahilli_008",
+    "title": {
+      "tr": "Arpa Şehriye Pilavı",
+      "en": "Barley Noodle Rice"
+    },
+    "description": {
+      "tr": "Yumuşak ve lezzetli tahıl.",
+      "en": "Soft and delicious grain."
+    },
+    "category": 4,
+    "ingredients": [
+      {
+        "amount": 2,
+        "unit": {
+          "tr": "yemek kaşığı",
+          "en": "tbsp"
+        },
+        "baseName": {
+          "tr": "arpa şehriye",
+          "en": "barley noodles"
+        },
+        "shoppingLabel": {
+          "tr": "Şehriye",
+          "en": "Noodles"
+        }
+      }
+    ],
+    "preparationTime": 15,
+    "calories": 100,
+    "suitableAgeInMonths": 9,
+    "allergicIngredients": [
+      {
+        "tr": "buğday",
+        "en": "wheat"
+      }
+    ],
+    "instructions": [
+      {
+        "tr": "Şehriyeleri haşlayıp ezin.",
+        "en": "Boil and mash the noodles."
+      }
+    ],
+    "imageUrl": ""
+  },
+  {
+    "id": "tahilli_009",
+    "title": {
+      "tr": "Yulaf Kepeği Lapası",
+      "en": "Oat Bran Porridge"
+    },
+    "description": {
+      "tr": "Yoğun lif kaynağı.",
+      "en": "Intense fiber source."
+    },
+    "category": 4,
+    "ingredients": [
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "yemek kaşığı",
+          "en": "tbsp"
+        },
+        "baseName": {
+          "tr": "yulaf kepeği",
+          "en": "oat bran"
+        },
+        "shoppingLabel": {
+          "tr": "Yulaf",
+          "en": "Oats"
+        }
+      }
+    ],
+    "preparationTime": 8,
+    "calories": 80,
+    "suitableAgeInMonths": 10,
+    "allergicIngredients": [
+      {
+        "tr": "yulaf",
+        "en": "oats"
+      }
+    ],
+    "instructions": [
+      {
+        "tr": "Süt veya su ile pişirin.",
+        "en": "Cook with milk or water."
+      }
+    ],
+    "imageUrl": ""
+  },
+  {
+    "id": "tahilli_010",
+    "title": {
+      "tr": "Karabuğday (Greçka)",
+      "en": "Buckwheat"
+    },
+    "description": {
+      "tr": "Glutensiz ve besleyici.",
+      "en": "Gluten-free and nutritious."
+    },
+    "category": 4,
+    "ingredients": [
+      {
+        "amount": 2,
+        "unit": {
+          "tr": "yemek kaşığı",
+          "en": "tbsp"
+        },
+        "baseName": {
+          "tr": "karabuğday",
+          "en": "buckwheat"
+        },
+        "shoppingLabel": {
+          "tr": "Karabuğday",
+          "en": "Buckwheat"
+        }
+      }
+    ],
+    "preparationTime": 20,
+    "calories": 120,
+    "suitableAgeInMonths": 8,
+    "allergicIngredients": [],
+    "instructions": [
+      {
+        "tr": "Haşlayıp sebze sularına ekleyin.",
+        "en": "Boil and add to vegetable broths."
+      }
+    ],
+    "imageUrl": ""
+  }
+]

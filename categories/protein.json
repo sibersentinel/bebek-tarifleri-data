@@ -1,0 +1,476 @@
+[
+  {
+    "id": "protein_001",
+    "title": {
+      "tr": "Haşlanmış Yumurta Sarısı",
+      "en": "Boiled Egg Yolk"
+    },
+    "description": {
+      "tr": "Bebekler için en değerli protein kaynaklarından biri.",
+      "en": "One of the most valuable protein sources for babies."
+    },
+    "category": 5,
+    "ingredients": [
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "adet",
+          "en": "pcs"
+        },
+        "baseName": {
+          "tr": "yumurta sarısı",
+          "en": "egg yolk"
+        },
+        "shoppingLabel": {
+          "tr": "Yumurta",
+          "en": "Egg"
+        }
+      }
+    ],
+    "preparationTime": 10,
+    "calories": 55,
+    "suitableAgeInMonths": 6,
+    "allergicIngredients": [
+      {
+        "tr": "yumurta",
+        "en": "egg"
+      }
+    ],
+    "instructions": [
+      {
+        "tr": "Yumurtayı tam pişecek şekilde haşlayın.",
+        "en": "Boil the egg so it's fully cooked."
+      },
+      {
+        "tr": "Beyazından tamamen ayırıp sadece sarısını ezin.",
+        "en": "Separate completely from the white and mash only the yolk."
+      }
+    ],
+    "imageUrl": ""
+  },
+  {
+    "id": "protein_002",
+    "title": {
+      "tr": "Kıymalı Sebze Ezmesi",
+      "en": "Vegetable Mash with Minced Meat"
+    },
+    "description": {
+      "tr": "Demir ve protein deposu doyurucu bir öğün.",
+      "en": "A filling meal that is a storage of iron and protein."
+    },
+    "category": 5,
+    "ingredients": [
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "yemek kaşığı",
+          "en": "tbsp"
+        },
+        "baseName": {
+          "tr": "çift çekilmiş kuzu kıyma",
+          "en": "double ground lamb mince"
+        },
+        "shoppingLabel": {
+          "tr": "Kıyma",
+          "en": "Minced Meat"
+        }
+      },
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "küçük",
+          "en": "small"
+        },
+        "baseName": {
+          "tr": "patates",
+          "en": "potato"
+        },
+        "shoppingLabel": {
+          "tr": "Patates",
+          "en": "Potato"
+        }
+      }
+    ],
+    "preparationTime": 25,
+    "calories": 160,
+    "suitableAgeInMonths": 7,
+    "allergicIngredients": [],
+    "instructions": [
+      {
+        "tr": "Kıymayı az suda pişirin.",
+        "en": "Cook the minced meat in a little water."
+      },
+      {
+        "tr": "Haşlanmış patatesle karıştırıp ezin.",
+        "en": "Mix with boiled potatoes and mash."
+      }
+    ],
+    "imageUrl": ""
+  },
+  {
+    "id": "protein_003",
+    "title": {
+      "tr": "Tavuklu Şehriye Çorbası",
+      "en": "Chicken Noodle Soup"
+    },
+    "description": {
+      "tr": "Bağışıklık güçlendirici tavuk suyu ve tavuk eti.",
+      "en": "Immunity-boosting chicken broth and chicken meat."
+    },
+    "category": 5,
+    "ingredients": [
+      {
+        "amount": 0.5,
+        "unit": {
+          "tr": "çay bardağı",
+          "en": "cup"
+        },
+        "baseName": {
+          "tr": "didiklenmiş tavuk",
+          "en": "shredded chicken"
+        },
+        "shoppingLabel": {
+          "tr": "Tavuk Göğsü",
+          "en": "Chicken Breast"
+        }
+      }
+    ],
+    "preparationTime": 30,
+    "calories": 140,
+    "suitableAgeInMonths": 8,
+    "allergicIngredients": [
+      {
+        "tr": "tavuk",
+        "en": "chicken"
+      }
+    ],
+    "instructions": [
+      {
+        "tr": "Tavuğu iyice haşlayıp didikleyin.",
+        "en": "Boil the chicken thoroughly and shred it."
+      },
+      {
+        "tr": "Çorba içinde küçük parçalar halinde servis edin.",
+        "en": "Serve in small pieces inside the soup."
+      }
+    ],
+    "imageUrl": ""
+  },
+  {
+    "id": "protein_004",
+    "title": {
+      "tr": "Kuzu Ciğer Ezmesi",
+      "en": "Lamb Liver Mash"
+    },
+    "description": {
+      "tr": "Haftada bir önerilen yüksek demir kaynağı.",
+      "en": "High iron source recommended once a week."
+    },
+    "category": 5,
+    "ingredients": [
+      {
+        "amount": 30,
+        "unit": {
+          "tr": "gram",
+          "en": "g"
+        },
+        "baseName": {
+          "tr": "kuzu ciğeri",
+          "en": "lamb liver"
+        },
+        "shoppingLabel": {
+          "tr": "Kuzu Ciğeri",
+          "en": "Lamb Liver"
+        }
+      }
+    ],
+    "preparationTime": 20,
+    "calories": 110,
+    "suitableAgeInMonths": 9,
+    "allergicIngredients": [],
+    "instructions": [
+      {
+        "tr": "Ciğeri zarlarından ayırıp haşlayın veya soteleyin.",
+        "en": "Separate the liver from its membranes and boil or saute it."
+      },
+      {
+        "tr": "Püre haline getirip sebzelerle karıştırın.",
+        "en": "Make it into a puree and mix with vegetables."
+      }
+    ],
+    "imageUrl": ""
+  },
+  {
+    "id": "protein_005",
+    "title": {
+      "tr": "Balık Buğulama",
+      "en": "Steamed Fish"
+    },
+    "description": {
+      "tr": "Omega-3 deposu, taze ve kılçıksız balık.",
+      "en": "Omega-3 store, fresh and boneless fish."
+    },
+    "category": 5,
+    "ingredients": [
+      {
+        "amount": 50,
+        "unit": {
+          "tr": "gram",
+          "en": "g"
+        },
+        "baseName": {
+          "tr": "mevsim balığı",
+          "en": "seasonal fish"
+        },
+        "shoppingLabel": {
+          "tr": "Balık",
+          "en": "Fish"
+        }
+      }
+    ],
+    "preparationTime": 15,
+    "calories": 100,
+    "suitableAgeInMonths": 10,
+    "allergicIngredients": [
+      {
+        "tr": "balık",
+        "en": "fish"
+      }
+    ],
+    "instructions": [
+      {
+        "tr": "Balığı buharda pişirin.",
+        "en": "Steam the fish."
+      },
+      {
+        "tr": "Kılçıklarını çok dikkatli bir şekilde temizleyin.",
+        "en": "Clean the bones very carefully."
+      },
+      {
+        "tr": "Limon sıkarak servis edin.",
+        "en": "Serve with a squeeze of lemon."
+      }
+    ],
+    "imageUrl": ""
+  },
+  {
+    "id": "protein_006",
+    "title": {
+      "tr": "Hindi Eti Ezmesi",
+      "en": "Turkey Meat Mash"
+    },
+    "description": {
+      "tr": "Yağsız ve sağlıklı beyaz et.",
+      "en": "Lean and healthy white meat."
+    },
+    "category": 5,
+    "ingredients": [
+      {
+        "amount": 30,
+        "unit": {
+          "tr": "gram",
+          "en": "g"
+        },
+        "baseName": {
+          "tr": "hindi göğsü",
+          "en": "turkey breast"
+        },
+        "shoppingLabel": {
+          "tr": "Hindi Eti",
+          "en": "Turkey Meat"
+        }
+      }
+    ],
+    "preparationTime": 25,
+    "calories": 110,
+    "suitableAgeInMonths": 8,
+    "allergicIngredients": [],
+    "instructions": [
+      {
+        "tr": "Hindiyi haşlayıp ezin.",
+        "en": "Boil and mash the turkey."
+      }
+    ],
+    "imageUrl": ""
+  },
+  {
+    "id": "protein_007",
+    "title": {
+      "tr": "Kuru Fasulye Püresi",
+      "en": "White Bean Puree"
+    },
+    "description": {
+      "tr": "Bitkisel protein kaynağı.",
+      "en": "Plant-based protein source."
+    },
+    "category": 5,
+    "ingredients": [
+      {
+        "amount": 2,
+        "unit": {
+          "tr": "yemek kaşığı",
+          "en": "tbsp"
+        },
+        "baseName": {
+          "tr": "kuru fasulye",
+          "en": "white beans"
+        },
+        "shoppingLabel": {
+          "tr": "Kuru Fasulye",
+          "en": "White Beans"
+        }
+      }
+    ],
+    "preparationTime": 40,
+    "calories": 130,
+    "suitableAgeInMonths": 10,
+    "allergicIngredients": [],
+    "instructions": [
+      {
+        "tr": "Fasulyeleri haşlayıp kabuklarını soyarak ezin.",
+        "en": "Boil the beans and mash by peeling the skins."
+      }
+    ],
+    "imageUrl": ""
+  },
+  {
+    "id": "protein_008",
+    "title": {
+      "tr": "Nohut Ezmesi (Humus Bebek)",
+      "en": "Chickpea Mash (Baby Hummus)"
+    },
+    "description": {
+      "tr": "Bebekler için baharatsız humus.",
+      "en": "Hummus without spices for babies."
+    },
+    "category": 5,
+    "ingredients": [
+      {
+        "amount": 2,
+        "unit": {
+          "tr": "yemek kaşığı",
+          "en": "tbsp"
+        },
+        "baseName": {
+          "tr": "nohut",
+          "en": "chickpeas"
+        },
+        "shoppingLabel": {
+          "tr": "Nohut",
+          "en": "Chickpeas"
+        }
+      }
+    ],
+    "preparationTime": 30,
+    "calories": 140,
+    "suitableAgeInMonths": 10,
+    "allergicIngredients": [],
+    "instructions": [
+      {
+        "tr": "Nohutları haşlayıp kabuklarını soyun ve ezin.",
+        "en": "Boil the chickpeas, peel the skins and mash."
+      }
+    ],
+    "imageUrl": ""
+  },
+  {
+    "id": "protein_009",
+    "title": {
+      "tr": "Kırmızı Mercimek Köftesi",
+      "en": "Red Lentil Patties"
+    },
+    "description": {
+      "tr": "Elde tutması kolay protein.",
+      "en": "Easy-to-hold protein."
+    },
+    "category": 5,
+    "ingredients": [
+      {
+        "amount": 2,
+        "unit": {
+          "tr": "yemek kaşığı",
+          "en": "tbsp"
+        },
+        "baseName": {
+          "tr": "kırmızı mercimek",
+          "en": "red lentils"
+        },
+        "shoppingLabel": {
+          "tr": "Mercimek",
+          "en": "Lentils"
+        }
+      }
+    ],
+    "preparationTime": 25,
+    "calories": 120,
+    "suitableAgeInMonths": 10,
+    "allergicIngredients": [],
+    "instructions": [
+      {
+        "tr": "Mercimeği pişirip bulgurla yoğurun ve şekil verin.",
+        "en": "Cook the lentils, knead with bulgur and shape."
+      }
+    ],
+    "imageUrl": ""
+  },
+  {
+    "id": "protein_010",
+    "title": {
+      "tr": "Somonlu Patates",
+      "en": "Salmon with Potato"
+    },
+    "description": {
+      "tr": "Omega-3 ve enerji deposu.",
+      "en": "Omega-3 and energy storage."
+    },
+    "category": 5,
+    "ingredients": [
+      {
+        "amount": 30,
+        "unit": {
+          "tr": "gram",
+          "en": "g"
+        },
+        "baseName": {
+          "tr": "somon",
+          "en": "salmon"
+        },
+        "shoppingLabel": {
+          "tr": "Somon",
+          "en": "Salmon"
+        }
+      },
+      {
+        "amount": 0.5,
+        "unit": {
+          "tr": "adet",
+          "en": "pcs"
+        },
+        "baseName": {
+          "tr": "patates",
+          "en": "potato"
+        },
+        "shoppingLabel": {
+          "tr": "Patates",
+          "en": "Potato"
+        }
+      }
+    ],
+    "preparationTime": 20,
+    "calories": 150,
+    "suitableAgeInMonths": 10,
+    "allergicIngredients": [
+      {
+        "tr": "balık",
+        "en": "fish"
+      }
+    ],
+    "instructions": [
+      {
+        "tr": "Buharda pişirip ezin.",
+        "en": "Steam and mash."
+      }
+    ],
+    "imageUrl": ""
+  }
+]

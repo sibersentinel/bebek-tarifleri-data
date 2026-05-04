@@ -1,0 +1,482 @@
+[
+  {
+    "id": "bagisiklik_001",
+    "title": {
+      "tr": "Zencefilli Elma Püresi",
+      "en": "Ginger Apple Puree"
+    },
+    "description": {
+      "tr": "Vücut direncini artıran, hafif baharatlı meyve püresi.",
+      "en": "Slightly spicy fruit puree that increases body resistance."
+    },
+    "category": 17,
+    "ingredients": [
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "adet",
+          "en": "pcs"
+        },
+        "baseName": {
+          "tr": "elma",
+          "en": "apple"
+        },
+        "shoppingLabel": {
+          "tr": "Elma",
+          "en": "Apple"
+        }
+      },
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "fiske",
+          "en": "pinch"
+        },
+        "baseName": {
+          "tr": "taze zencefil",
+          "en": "fresh ginger"
+        },
+        "shoppingLabel": null
+      }
+    ],
+    "preparationTime": 15,
+    "calories": 55,
+    "suitableAgeInMonths": 8,
+    "allergicIngredients": [],
+    "instructions": [
+      {
+        "tr": "Elmayı ve zencefili haşlayıp püre yapın.",
+        "en": "Boil the apple and ginger and make a puree."
+      }
+    ],
+    "imageUrl": ""
+  },
+  {
+    "id": "bagisiklik_002",
+    "title": {
+      "tr": "Kırmızı Pancar Çorbası",
+      "en": "Red Beet Soup"
+    },
+    "description": {
+      "tr": "Kan yapıcı ve bağışıklık güçlendirici pancar.",
+      "en": "Blood-making and immunity-boosting beet."
+    },
+    "category": 17,
+    "ingredients": [
+      {
+        "amount": 0.5,
+        "unit": {
+          "tr": "adet",
+          "en": "pcs"
+        },
+        "baseName": {
+          "tr": "kırmızı pancar",
+          "en": "red beet"
+        },
+        "shoppingLabel": {
+          "tr": "Pancar",
+          "en": "Beet"
+        }
+      },
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "adet",
+          "en": "pcs"
+        },
+        "baseName": {
+          "tr": "patates",
+          "en": "potato"
+        },
+        "shoppingLabel": {
+          "tr": "Patates",
+          "en": "Potato"
+        }
+      }
+    ],
+    "preparationTime": 35,
+    "calories": 90,
+    "suitableAgeInMonths": 9,
+    "allergicIngredients": [],
+    "instructions": [
+      {
+        "tr": "Pancarı ve patatesi haşlayıp blenderdan geçirin.",
+        "en": "Boil the beet and potato and blend."
+      }
+    ],
+    "imageUrl": ""
+  },
+  {
+    "id": "bagisiklik_003",
+    "title": {
+      "tr": "Sarımsaklı Yoğurtlu Ispanak",
+      "en": "Spinach with Garlic and Yogurt"
+    },
+    "description": {
+      "tr": "Doğal antibiyotik sarımsak ve demir deposu ıspanak.",
+      "en": "Natural antibiotic garlic and iron storage spinach."
+    },
+    "category": 17,
+    "ingredients": [
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "avuç",
+          "en": "handful"
+        },
+        "baseName": {
+          "tr": "ıspanak",
+          "en": "spinach"
+        },
+        "shoppingLabel": {
+          "tr": "Ispanak",
+          "en": "Spinach"
+        }
+      },
+      {
+        "amount": 0.25,
+        "unit": {
+          "tr": "diş",
+          "en": "clove"
+        },
+        "baseName": {
+          "tr": "sarımsak",
+          "en": "garlic"
+        },
+        "shoppingLabel": {
+          "tr": "Sarımsak",
+          "en": "Garlic"
+        }
+      }
+    ],
+    "preparationTime": 10,
+    "calories": 50,
+    "suitableAgeInMonths": 10,
+    "allergicIngredients": [
+      {
+        "tr": "yoğurt",
+        "en": "yogurt"
+      }
+    ],
+    "instructions": [
+      {
+        "tr": "Ispanakları haşlayın, sarımsaklı yoğurtla karıştırın.",
+        "en": "Boil the spinach, mix with garlic yogurt."
+      }
+    ],
+    "imageUrl": ""
+  },
+  {
+    "id": "bagisiklik_004",
+    "title": {
+      "tr": "Kemik Suyu Çorbası",
+      "en": "Bone Broth Soup"
+    },
+    "description": {
+      "tr": "Gelişim için en önemli destekleyici.",
+      "en": "The most important supporter for development."
+    },
+    "category": 17,
+    "ingredients": [
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "çay bardağı",
+          "en": "cup"
+        },
+        "baseName": {
+          "tr": "ilikli kemik suyu",
+          "en": "bone marrow broth"
+        },
+        "shoppingLabel": null
+      }
+    ],
+    "preparationTime": 15,
+    "calories": 70,
+    "suitableAgeInMonths": 7,
+    "allergicIngredients": [],
+    "instructions": [
+      {
+        "tr": "Kemik suyuna bir miktar pirinç veya şehriye ekleyerek pişirin.",
+        "en": "Cook by adding some rice or noodles to the bone broth."
+      }
+    ],
+    "imageUrl": ""
+  },
+  {
+    "id": "bagisiklik_005",
+    "title": {
+      "tr": "C Vitaminli Karışım",
+      "en": "Vitamin C Mixture"
+    },
+    "description": {
+      "tr": "Portakal ve havuç ile enerji ve direnç.",
+      "en": "Energy and resistance with orange and carrot."
+    },
+    "category": 17,
+    "ingredients": [
+      {
+        "amount": 0.5,
+        "unit": {
+          "tr": "çay bardağı",
+          "en": "cup"
+        },
+        "baseName": {
+          "tr": "taze portakal suyu",
+          "en": "fresh orange juice"
+        },
+        "shoppingLabel": {
+          "tr": "Portakal",
+          "en": "Orange"
+        }
+      },
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "adet",
+          "en": "pcs"
+        },
+        "baseName": {
+          "tr": "havuç",
+          "en": "carrot"
+        },
+        "shoppingLabel": {
+          "tr": "Havuç",
+          "en": "Carrot"
+        }
+      }
+    ],
+    "preparationTime": 10,
+    "calories": 65,
+    "suitableAgeInMonths": 12,
+    "allergicIngredients": [
+      {
+        "tr": "portakal",
+        "en": "orange"
+      }
+    ],
+    "instructions": [
+      {
+        "tr": "Havucu rendeleyin ve portakal suyu ile karıştırın.",
+        "en": "Grate the carrot and mix with orange juice."
+      }
+    ],
+    "imageUrl": ""
+  },
+  {
+    "id": "bagisiklik_006",
+    "title": {
+      "tr": "Sarımsaklı Yoğurt",
+      "en": "Garlic Yogurt"
+    },
+    "description": {
+      "tr": "Doğal antibiyotik desteği.",
+      "en": "Natural antibiotic support."
+    },
+    "category": 17,
+    "ingredients": [
+      {
+        "amount": 0.25,
+        "unit": {
+          "tr": "diş",
+          "en": "clove"
+        },
+        "baseName": {
+          "tr": "sarımsak",
+          "en": "garlic"
+        },
+        "shoppingLabel": {
+          "tr": "Sarımsak",
+          "en": "Garlic"
+        }
+      }
+    ],
+    "preparationTime": 2,
+    "calories": 50,
+    "suitableAgeInMonths": 10,
+    "allergicIngredients": [
+      {
+        "tr": "süt",
+        "en": "milk"
+      }
+    ],
+    "instructions": [
+      {
+        "tr": "Sarımsağı ezip yoğurda karıştırın.",
+        "en": "Mash garlic and mix with yogurt."
+      }
+    ],
+    "imageUrl": ""
+  },
+  {
+    "id": "bagisiklik_007",
+    "title": {
+      "tr": "Kuşburnu Çayı",
+      "en": "Rosehip Tea"
+    },
+    "description": {
+      "tr": "C vitamini deposu içecek.",
+      "en": "Drink that is vitamin C storage."
+    },
+    "category": 17,
+    "ingredients": [
+      {
+        "amount": 5,
+        "unit": {
+          "tr": "adet",
+          "en": "pcs"
+        },
+        "baseName": {
+          "tr": "kuşburnu",
+          "en": "rosehip"
+        },
+        "shoppingLabel": null
+      }
+    ],
+    "preparationTime": 15,
+    "calories": 10,
+    "suitableAgeInMonths": 12,
+    "allergicIngredients": [],
+    "instructions": [
+      {
+        "tr": "İyice demleyip süzerek verin.",
+        "en": "Steep thoroughly and give by straining."
+      }
+    ],
+    "imageUrl": ""
+  },
+  {
+    "id": "bagisiklik_008",
+    "title": {
+      "tr": "Balık Suyu Çorbası",
+      "en": "Fish Broth Soup"
+    },
+    "description": {
+      "tr": "Hücre yenileyici ve besleyici.",
+      "en": "Cell renewing and nutritious."
+    },
+    "category": 17,
+    "ingredients": [
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "bardak",
+          "en": "cup"
+        },
+        "baseName": {
+          "tr": "balık suyu",
+          "en": "fish broth"
+        },
+        "shoppingLabel": null
+      }
+    ],
+    "preparationTime": 20,
+    "calories": 70,
+    "suitableAgeInMonths": 12,
+    "allergicIngredients": [
+      {
+        "tr": "balık",
+        "en": "fish"
+      }
+    ],
+    "instructions": [
+      {
+        "tr": "Sebzelerle pişirip süzün.",
+        "en": "Cook with vegetables and strain."
+      }
+    ],
+    "imageUrl": ""
+  },
+  {
+    "id": "bagisiklik_009",
+    "title": {
+      "tr": "Brokoli ve Havuç Suyu",
+      "en": "Broccoli and Carrot Juice"
+    },
+    "description": {
+      "tr": "Sıvı vitamin bombası.",
+      "en": "Liquid vitamin bomb."
+    },
+    "category": 17,
+    "ingredients": [
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "adet",
+          "en": "pcs"
+        },
+        "baseName": {
+          "tr": "havuç",
+          "en": "carrot"
+        },
+        "shoppingLabel": {
+          "tr": "Havuç",
+          "en": "Carrot"
+        }
+      },
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "dal",
+          "en": "sprig"
+        },
+        "baseName": {
+          "tr": "brokoli",
+          "en": "broccoli"
+        },
+        "shoppingLabel": {
+          "tr": "Brokoli",
+          "en": "Broccoli"
+        }
+      }
+    ],
+    "preparationTime": 10,
+    "calories": 45,
+    "suitableAgeInMonths": 12,
+    "allergicIngredients": [],
+    "instructions": [
+      {
+        "tr": "Katı meyve sıkacağından geçirin.",
+        "en": "Pass through a juicer."
+      }
+    ],
+    "imageUrl": ""
+  },
+  {
+    "id": "bagisiklik_010",
+    "title": {
+      "tr": "İlikli Kemik Suyu Lapası",
+      "en": "Bone Marrow Broth Porridge"
+    },
+    "description": {
+      "tr": "Kemik gelişimi için birebir.",
+      "en": "Perfect for bone development."
+    },
+    "category": 17,
+    "ingredients": [
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "fincan",
+          "en": "cup"
+        },
+        "baseName": {
+          "tr": "ilikli kemik suyu",
+          "en": "bone marrow broth"
+        },
+        "shoppingLabel": null
+      }
+    ],
+    "preparationTime": 15,
+    "calories": 100,
+    "suitableAgeInMonths": 7,
+    "allergicIngredients": [],
+    "instructions": [
+      {
+        "tr": "İçine az pirinç atıp pişirin.",
+        "en": "Add some rice and cook."
+      }
+    ],
+    "imageUrl": ""
+  }
+]

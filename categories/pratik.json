@@ -1,0 +1,513 @@
+[
+  {
+    "id": "pratik_001",
+    "title": {
+      "tr": "Çatalla Ezilmiş Muz",
+      "en": "Fork-Mashed Banana"
+    },
+    "description": {
+      "tr": "Hazırlaması saniyeler süren en pratik öğün.",
+      "en": "The most practical meal that takes seconds to prepare."
+    },
+    "category": 13,
+    "ingredients": [
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "adet",
+          "en": "pcs"
+        },
+        "baseName": {
+          "tr": "muz",
+          "en": "banana"
+        },
+        "shoppingLabel": {
+          "tr": "Muz",
+          "en": "Banana"
+        }
+      }
+    ],
+    "preparationTime": 2,
+    "calories": 90,
+    "suitableAgeInMonths": 6,
+    "allergicIngredients": [],
+    "instructions": [
+      {
+        "tr": "Muzu soyun.",
+        "en": "Peel the banana."
+      },
+      {
+        "tr": "Bir kasede çatalla iyice ezin.",
+        "en": "Mash thoroughly with a fork in a bowl."
+      }
+    ],
+    "imageUrl": ""
+  },
+  {
+    "id": "pratik_002",
+    "title": {
+      "tr": "Yoğurtlu Ekmek İçi",
+      "en": "Yogurt with Bread Crumbs"
+    },
+    "description": {
+      "tr": "Acil durumlar için doyurucu ve hızlı çözüm.",
+      "en": "A filling and fast solution for emergencies."
+    },
+    "category": 13,
+    "ingredients": [
+      {
+        "amount": 3,
+        "unit": {
+          "tr": "yemek kaşığı",
+          "en": "tbsp"
+        },
+        "baseName": {
+          "tr": "yoğurt",
+          "en": "yogurt"
+        },
+        "shoppingLabel": {
+          "tr": "Yoğurt",
+          "en": "Yogurt"
+        }
+      },
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "dilim",
+          "en": "slice"
+        },
+        "baseName": {
+          "tr": "ekmek içi",
+          "en": "bread crumbs"
+        },
+        "shoppingLabel": null
+      }
+    ],
+    "preparationTime": 3,
+    "calories": 110,
+    "suitableAgeInMonths": 7,
+    "allergicIngredients": [
+      {
+        "tr": "yoğurt",
+        "en": "yogurt"
+      },
+      {
+        "tr": "buğday",
+        "en": "wheat"
+      }
+    ],
+    "instructions": [
+      {
+        "tr": "Ekmeğin iç kısmını küçük parçalara bölün.",
+        "en": "Break the inner part of the bread into small pieces."
+      },
+      {
+        "tr": "Yoğurtla karıştırıp yumuşamasını bekleyin.",
+        "en": "Mix with yogurt and wait for it to soften."
+      }
+    ],
+    "imageUrl": ""
+  },
+  {
+    "id": "pratik_003",
+    "title": {
+      "tr": "Hızlı Sebze Çorbası",
+      "en": "Quick Vegetable Soup"
+    },
+    "description": {
+      "tr": "Dondurulmuş sebzelerle 10 dakikada hazır.",
+      "en": "Ready in 10 minutes with frozen vegetables."
+    },
+    "category": 13,
+    "ingredients": [
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "avuç",
+          "en": "handful"
+        },
+        "baseName": {
+          "tr": "karışık dondurulmuş sebze",
+          "en": "mixed frozen vegetables"
+        },
+        "shoppingLabel": null
+      }
+    ],
+    "preparationTime": 10,
+    "calories": 60,
+    "suitableAgeInMonths": 8,
+    "allergicIngredients": [],
+    "instructions": [
+      {
+        "tr": "Sebzeleri sıcak suda haşlayın.",
+        "en": "Boil the vegetables in hot water."
+      },
+      {
+        "tr": "Blenderdan geçirip servis edin.",
+        "en": "Blend and serve."
+      }
+    ],
+    "imageUrl": ""
+  },
+  {
+    "id": "pratik_004",
+    "title": {
+      "tr": "Peynirli Avokado Ezmesi",
+      "en": "Avocado Mash with Cheese"
+    },
+    "description": {
+      "tr": "Pişirme gerektirmeyen, vitaminli kahvaltı.",
+      "en": "Vitamin-rich breakfast that does not require cooking."
+    },
+    "category": 13,
+    "ingredients": [
+      {
+        "amount": 0.5,
+        "unit": {
+          "tr": "adet",
+          "en": "pcs"
+        },
+        "baseName": {
+          "tr": "avokado",
+          "en": "avocado"
+        },
+        "shoppingLabel": {
+          "tr": "Avokado",
+          "en": "Avocado"
+        }
+      },
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "tatlı kaşığı",
+          "en": "tsp"
+        },
+        "baseName": {
+          "tr": "lor peyniri",
+          "en": "curd cheese"
+        },
+        "shoppingLabel": {
+          "tr": "Peynir",
+          "en": "Cheese"
+        }
+      }
+    ],
+    "preparationTime": 4,
+    "calories": 100,
+    "suitableAgeInMonths": 7,
+    "allergicIngredients": [
+      {
+        "tr": "süt",
+        "en": "milk"
+      }
+    ],
+    "instructions": [
+      {
+        "tr": "Avokadoyu ezin.",
+        "en": "Mash the avocado."
+      },
+      {
+        "tr": "Lor peyniri ile karıştırıp servis edin.",
+        "en": "Mix with curd cheese and serve."
+      }
+    ],
+    "imageUrl": ""
+  },
+  {
+    "id": "pratik_005",
+    "title": {
+      "tr": "Meyveli Yoğurt",
+      "en": "Fruit Yogurt"
+    },
+    "description": {
+      "tr": "Dışarıdaki paketli ürünlere en hızlı alternatif.",
+      "en": "The fastest alternative to packaged products outside."
+    },
+    "category": 13,
+    "ingredients": [
+      {
+        "amount": 0.5,
+        "unit": {
+          "tr": "çay bardağı",
+          "en": "cup"
+        },
+        "baseName": {
+          "tr": "yoğurt",
+          "en": "yogurt"
+        },
+        "shoppingLabel": {
+          "tr": "Yoğurt",
+          "en": "Yogurt"
+        }
+      },
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "yemek kaşığı",
+          "en": "tbsp"
+        },
+        "baseName": {
+          "tr": "meyve püresi",
+          "en": "fruit puree"
+        },
+        "shoppingLabel": null
+      }
+    ],
+    "preparationTime": 2,
+    "calories": 80,
+    "suitableAgeInMonths": 6,
+    "allergicIngredients": [
+      {
+        "tr": "süt",
+        "en": "milk"
+      }
+    ],
+    "instructions": [
+      {
+        "tr": "Yoğurdu ve meyve püresini karıştırın.",
+        "en": "Mix the yogurt and fruit puree."
+      }
+    ],
+    "imageUrl": ""
+  },
+  {
+    "id": "pratik_006",
+    "title": {
+      "tr": "Hazır Lor Peyniri",
+      "en": "Ready Curd Cheese"
+    },
+    "description": {
+      "tr": "Saniyeler içinde hazır protein.",
+      "en": "Ready protein in seconds."
+    },
+    "category": 13,
+    "ingredients": [
+      {
+        "amount": 2,
+        "unit": {
+          "tr": "yemek kaşığı",
+          "en": "tbsp"
+        },
+        "baseName": {
+          "tr": "lor peyniri",
+          "en": "curd cheese"
+        },
+        "shoppingLabel": {
+          "tr": "Peynir",
+          "en": "Cheese"
+        }
+      }
+    ],
+    "preparationTime": 1,
+    "calories": 70,
+    "suitableAgeInMonths": 7,
+    "allergicIngredients": [
+      {
+        "tr": "süt",
+        "en": "milk"
+      }
+    ],
+    "instructions": [
+      {
+        "tr": "Tabağa alıp direkt servis edin.",
+        "en": "Put on a plate and serve directly."
+      }
+    ],
+    "imageUrl": ""
+  },
+  {
+    "id": "pratik_007",
+    "title": {
+      "tr": "Ezilmiş Şeftali",
+      "en": "Mashed Peach"
+    },
+    "description": {
+      "tr": "Mevsiminde en hızlı meyve öğünü.",
+      "en": "Fastest fruit meal in season."
+    },
+    "category": 13,
+    "ingredients": [
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "adet",
+          "en": "pcs"
+        },
+        "baseName": {
+          "tr": "şeftali",
+          "en": "peach"
+        },
+        "shoppingLabel": {
+          "tr": "Şeftali",
+          "en": "Peach"
+        }
+      }
+    ],
+    "preparationTime": 3,
+    "calories": 40,
+    "suitableAgeInMonths": 6,
+    "allergicIngredients": [],
+    "instructions": [
+      {
+        "tr": "Çatalla ezip suyunu süzmeden verin.",
+        "en": "Mash with a fork and give without straining the juice."
+      }
+    ],
+    "imageUrl": ""
+  },
+  {
+    "id": "pratik_008",
+    "title": {
+      "tr": "Cevizli Pekmez",
+      "en": "Molasses with Walnut"
+    },
+    "description": {
+      "tr": "Karıştır ve yedir, enerji bombası.",
+      "en": "Mix and feed, energy bomb."
+    },
+    "category": 13,
+    "ingredients": [
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "tatlı kaşığı",
+          "en": "tsp"
+        },
+        "baseName": {
+          "tr": "pekmez",
+          "en": "molasses"
+        },
+        "shoppingLabel": {
+          "tr": "Pekmez",
+          "en": "Molasses"
+        }
+      },
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "adet",
+          "en": "pcs"
+        },
+        "baseName": {
+          "tr": "ceviz",
+          "en": "walnut"
+        },
+        "shoppingLabel": {
+          "tr": "Ceviz",
+          "en": "Walnut"
+        }
+      }
+    ],
+    "preparationTime": 2,
+    "calories": 90,
+    "suitableAgeInMonths": 10,
+    "allergicIngredients": [
+      {
+        "tr": "ceviz",
+        "en": "walnut"
+      }
+    ],
+    "instructions": [
+      {
+        "tr": "Cevizi ezip pekmeze karıştırın.",
+        "en": "Mash walnut and mix with molasses."
+      }
+    ],
+    "imageUrl": ""
+  },
+  {
+    "id": "pratik_009",
+    "title": {
+      "tr": "Domates Suyu ve Ekmek",
+      "en": "Tomato Juice and Bread"
+    },
+    "description": {
+      "tr": "Yazın en pratik doyurucu öğünü.",
+      "en": "Practical filling meal of summer."
+    },
+    "category": 13,
+    "ingredients": [
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "adet",
+          "en": "pcs"
+        },
+        "baseName": {
+          "tr": "domates",
+          "en": "tomato"
+        },
+        "shoppingLabel": {
+          "tr": "Domates",
+          "en": "Tomato"
+        }
+      }
+    ],
+    "preparationTime": 5,
+    "calories": 80,
+    "suitableAgeInMonths": 12,
+    "allergicIngredients": [
+      {
+        "tr": "domates",
+        "en": "tomato"
+      },
+      {
+        "tr": "buğday",
+        "en": "wheat"
+      }
+    ],
+    "instructions": [
+      {
+        "tr": "Domatesi rendeleyip ekmek içiyle karıştırın.",
+        "en": "Grate tomato and mix with bread crumbs."
+      }
+    ],
+    "imageUrl": ""
+  },
+  {
+    "id": "pratik_010",
+    "title": {
+      "tr": "Sütlü Bisküvi",
+      "en": "Milky Biscuits"
+    },
+    "description": {
+      "tr": "Geleneksel hızlı çözüm.",
+      "en": "Traditional fast solution."
+    },
+    "category": 13,
+    "ingredients": [
+      {
+        "amount": 3,
+        "unit": {
+          "tr": "adet",
+          "en": "pcs"
+        },
+        "baseName": {
+          "tr": "bebe bisküvisi",
+          "en": "baby biscuits"
+        },
+        "shoppingLabel": null
+      }
+    ],
+    "preparationTime": 2,
+    "calories": 120,
+    "suitableAgeInMonths": 12,
+    "allergicIngredients": [
+      {
+        "tr": "süt",
+        "en": "milk"
+      },
+      {
+        "tr": "buğday",
+        "en": "wheat"
+      }
+    ],
+    "instructions": [
+      {
+        "tr": "Sütte bisküvileri ezip verin.",
+        "en": "Mash biscuits in milk and give."
+      }
+    ],
+    "imageUrl": ""
+  }
+]

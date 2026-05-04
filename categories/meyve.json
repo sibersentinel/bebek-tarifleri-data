@@ -1,0 +1,441 @@
+[
+  {
+    "id": "meyve_001",
+    "title": {
+      "tr": "Armut Püresi",
+      "en": "Pear Puree"
+    },
+    "description": {
+      "tr": "Bağırsak hareketlerini düzenleyen tatlı armut.",
+      "en": "Sweet pear that regulates bowel movements."
+    },
+    "category": 3,
+    "ingredients": [
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "orta boy",
+          "en": "medium"
+        },
+        "baseName": {
+          "tr": "armut",
+          "en": "pear"
+        },
+        "shoppingLabel": {
+          "tr": "Armut",
+          "en": "Pear"
+        }
+      }
+    ],
+    "preparationTime": 10,
+    "calories": 58,
+    "suitableAgeInMonths": 6,
+    "allergicIngredients": [],
+    "instructions": [
+      {
+        "tr": "Armudu soyup çekirdeklerini çıkarın.",
+        "en": "Peel the pear and remove the seeds."
+      },
+      {
+        "tr": "Buharda 5 dakika pişirin.",
+        "en": "Steam for 5 minutes."
+      },
+      {
+        "tr": "Cam rendede rendeleyin.",
+        "en": "Grate with a glass grater."
+      }
+    ],
+    "imageUrl": ""
+  },
+  {
+    "id": "meyve_002",
+    "title": {
+      "tr": "Muzlu Avokado",
+      "en": "Banana Avocado"
+    },
+    "description": {
+      "tr": "Sağlıklı yağlar ve enerji bir arada.",
+      "en": "Healthy fats and energy together."
+    },
+    "category": 3,
+    "ingredients": [
+      {
+        "amount": 0.5,
+        "unit": {
+          "tr": "adet",
+          "en": "pcs"
+        },
+        "baseName": {
+          "tr": "muz",
+          "en": "banana"
+        },
+        "shoppingLabel": {
+          "tr": "Muz",
+          "en": "Banana"
+        }
+      },
+      {
+        "amount": 0.25,
+        "unit": {
+          "tr": "adet",
+          "en": "pcs"
+        },
+        "baseName": {
+          "tr": "avokado",
+          "en": "avocado"
+        },
+        "shoppingLabel": {
+          "tr": "Avokado",
+          "en": "Avocado"
+        }
+      }
+    ],
+    "preparationTime": 5,
+    "calories": 120,
+    "suitableAgeInMonths": 7,
+    "allergicIngredients": [],
+    "instructions": [
+      {
+        "tr": "Muzu ve avokadoyu bir kasede çatalla ezin.",
+        "en": "Mash the banana and avocado in a bowl with a fork."
+      },
+      {
+        "tr": "Homojen bir kıvam alana kadar karıştırın.",
+        "en": "Mix until you get a homogeneous consistency."
+      }
+    ],
+    "imageUrl": ""
+  },
+  {
+    "id": "meyve_003",
+    "title": {
+      "tr": "Şeftali Suyu",
+      "en": "Peach Juice"
+    },
+    "description": {
+      "tr": "Yaz aylarının serinletici ve vitaminli meyvesi.",
+      "en": "Refreshing and vitamin-rich fruit of summer months."
+    },
+    "category": 3,
+    "ingredients": [
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "adet",
+          "en": "pcs"
+        },
+        "baseName": {
+          "tr": "şeftali",
+          "en": "peach"
+        },
+        "shoppingLabel": {
+          "tr": "Şeftali",
+          "en": "Peach"
+        }
+      }
+    ],
+    "preparationTime": 8,
+    "calories": 40,
+    "suitableAgeInMonths": 6,
+    "allergicIngredients": [],
+    "instructions": [
+      {
+        "tr": "Şeftalinin kabuklarını soyun.",
+        "en": "Peel the peach."
+      },
+      {
+        "tr": "Tülbentten veya ince süzgeçten geçirerek suyunu sıkın.",
+        "en": "Squeeze the juice by passing it through a cheesecloth or a fine sieve."
+      }
+    ],
+    "imageUrl": ""
+  },
+  {
+    "id": "meyve_004",
+    "title": {
+      "tr": "Kayısı Kurusu Püresi",
+      "en": "Dried Apricot Puree"
+    },
+    "description": {
+      "tr": "Kabızlık için doğal çözüm.",
+      "en": "Natural solution for constipation."
+    },
+    "category": 3,
+    "ingredients": [
+      {
+        "amount": 3,
+        "unit": {
+          "tr": "adet",
+          "en": "pcs"
+        },
+        "baseName": {
+          "tr": "gün kurusu kayısı",
+          "en": "dried apricot"
+        },
+        "shoppingLabel": {
+          "tr": "Kayısı",
+          "en": "Apricot"
+        }
+      }
+    ],
+    "preparationTime": 15,
+    "calories": 50,
+    "suitableAgeInMonths": 7,
+    "allergicIngredients": [],
+    "instructions": [
+      {
+        "tr": "Kayısıları sıcak suda 1 saat bekletin.",
+        "en": "Soak the apricots in hot water for 1 hour."
+      },
+      {
+        "tr": "Yumuşayınca haşlayıp ezin.",
+        "en": "When soft, boil and mash."
+      }
+    ],
+    "imageUrl": ""
+  },
+  {
+    "id": "meyve_005",
+    "title": {
+      "tr": "Erik Marmelatı",
+      "en": "Plum Marmalade"
+    },
+    "description": {
+      "tr": "Mayhoş tadıyla iştah açıcı.",
+      "en": "Appetizing with its tart taste."
+    },
+    "category": 3,
+    "ingredients": [
+      {
+        "amount": 2,
+        "unit": {
+          "tr": "adet",
+          "en": "pcs"
+        },
+        "baseName": {
+          "tr": "mürdüm eriği",
+          "en": "plum"
+        },
+        "shoppingLabel": {
+          "tr": "Erik",
+          "en": "Plum"
+        }
+      }
+    ],
+    "preparationTime": 20,
+    "calories": 30,
+    "suitableAgeInMonths": 8,
+    "allergicIngredients": [],
+    "instructions": [
+      {
+        "tr": "Eriklerin çekirdeklerini çıkarıp az suda pişirin.",
+        "en": "Remove the seeds from the plums and cook in a little water."
+      },
+      {
+        "tr": "Süzgeçten geçirip püre yapın.",
+        "en": "Pass through a sieve and make a puree."
+      }
+    ],
+    "imageUrl": ""
+  },
+  {
+    "id": "meyve_006",
+    "title": {
+      "tr": "Kavun Püresi",
+      "en": "Melon Puree"
+    },
+    "description": {
+      "tr": "Sulu ve serinletici yaz meyvesi.",
+      "en": "Juicy and refreshing summer fruit."
+    },
+    "category": 3,
+    "ingredients": [
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "dilim",
+          "en": "slice"
+        },
+        "baseName": {
+          "tr": "kavun",
+          "en": "melon"
+        },
+        "shoppingLabel": {
+          "tr": "Kavun",
+          "en": "Melon"
+        }
+      }
+    ],
+    "preparationTime": 5,
+    "calories": 35,
+    "suitableAgeInMonths": 8,
+    "allergicIngredients": [],
+    "instructions": [
+      {
+        "tr": "Kavunu çatalla ezin.",
+        "en": "Mash the melon with a fork."
+      }
+    ],
+    "imageUrl": ""
+  },
+  {
+    "id": "meyve_007",
+    "title": {
+      "tr": "Vişne Kompostosu",
+      "en": "Sour Cherry Compote"
+    },
+    "description": {
+      "tr": "İştah açıcı ve vitaminli.",
+      "en": "Appetizing and vitamin-rich."
+    },
+    "category": 3,
+    "ingredients": [
+      {
+        "amount": 10,
+        "unit": {
+          "tr": "adet",
+          "en": "pcs"
+        },
+        "baseName": {
+          "tr": "vişne",
+          "en": "sour cherry"
+        },
+        "shoppingLabel": {
+          "tr": "Vişne",
+          "en": "Sour Cherry"
+        }
+      }
+    ],
+    "preparationTime": 15,
+    "calories": 45,
+    "suitableAgeInMonths": 10,
+    "allergicIngredients": [],
+    "instructions": [
+      {
+        "tr": "Vişneleri haşlayıp suyunu verin.",
+        "en": "Boil the cherries and give the juice."
+      }
+    ],
+    "imageUrl": ""
+  },
+  {
+    "id": "meyve_008",
+    "title": {
+      "tr": "Yaban Mersini Ezmesi",
+      "en": "Blueberry Mash"
+    },
+    "description": {
+      "tr": "Antioksidan deposu küçük meyveler.",
+      "en": "Small fruits that are antioxidant storage."
+    },
+    "category": 3,
+    "ingredients": [
+      {
+        "amount": 10,
+        "unit": {
+          "tr": "adet",
+          "en": "pcs"
+        },
+        "baseName": {
+          "tr": "yaban mersini",
+          "en": "blueberries"
+        },
+        "shoppingLabel": {
+          "tr": "Yaban Mersini",
+          "en": "Blueberries"
+        }
+      }
+    ],
+    "preparationTime": 5,
+    "calories": 50,
+    "suitableAgeInMonths": 10,
+    "allergicIngredients": [],
+    "instructions": [
+      {
+        "tr": "Yaban mersinlerini ezip süzgeçten geçirin.",
+        "en": "Mash and strain the blueberries."
+      }
+    ],
+    "imageUrl": ""
+  },
+  {
+    "id": "meyve_009",
+    "title": {
+      "tr": "Mango Püresi",
+      "en": "Mango Puree"
+    },
+    "description": {
+      "tr": "Tropikal ve tatlı bir lezzet.",
+      "en": "A tropical and sweet flavor."
+    },
+    "category": 3,
+    "ingredients": [
+      {
+        "amount": 0.5,
+        "unit": {
+          "tr": "adet",
+          "en": "pcs"
+        },
+        "baseName": {
+          "tr": "mango",
+          "en": "mango"
+        },
+        "shoppingLabel": {
+          "tr": "Mango",
+          "en": "Mango"
+        }
+      }
+    ],
+    "preparationTime": 5,
+    "calories": 60,
+    "suitableAgeInMonths": 8,
+    "allergicIngredients": [],
+    "instructions": [
+      {
+        "tr": "Mangoyu blenderdan geçirin.",
+        "en": "Blend the mango."
+      }
+    ],
+    "imageUrl": ""
+  },
+  {
+    "id": "meyve_010",
+    "title": {
+      "tr": "İncir Ezmesi",
+      "en": "Fig Mash"
+    },
+    "description": {
+      "tr": "Yüksek lifli ve enerji verici.",
+      "en": "High fiber and energizing."
+    },
+    "category": 3,
+    "ingredients": [
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "adet",
+          "en": "pcs"
+        },
+        "baseName": {
+          "tr": "taze incir",
+          "en": "fresh fig"
+        },
+        "shoppingLabel": {
+          "tr": "İncir",
+          "en": "Fig"
+        }
+      }
+    ],
+    "preparationTime": 5,
+    "calories": 75,
+    "suitableAgeInMonths": 12,
+    "allergicIngredients": [],
+    "instructions": [
+      {
+        "tr": "İncirin kabuklarını soyup ezin.",
+        "en": "Peel and mash the fig."
+      }
+    ],
+    "imageUrl": ""
+  }
+]
