@@ -6,8 +6,8 @@
       "en": "Finger Carrots"
     },
     "description": {
-      "tr": "Bebeğinizin kavrayabileceği boyutta, yumuşak sebze çubukları.",
-      "en": "Soft vegetable sticks sized for your baby to grasp."
+      "tr": "Bebeğinizin parmaklarıyla kavrayıp kendi kendine yeme becerisini geliştirecek, yumuşacık havuç çubukları.",
+      "en": "Soft carrot sticks that your baby can grasp with their fingers, developing their self-feeding skills."
     },
     "category": 12,
     "ingredients": [
@@ -33,12 +33,12 @@
     "allergicIngredients": [],
     "instructions": [
       {
-        "tr": "Havucu parmak uzunluğunda ve kalınlığında kesin.",
-        "en": "Cut the carrot into finger-length and finger-thick pieces."
+        "tr": "Havucu bebeğinizin avucunda tutabileceği parmak uzunluğunda ve kalınlığında şeritlere bölelim.",
+        "en": "Cut the carrot into strips the length and thickness of a finger so your baby can hold it in their palm."
       },
       {
-        "tr": "Buharda, çatalla kolayca ezilecek ama dağılmayacak kadar pişirin.",
-        "en": "Steam until soft enough to be easily mashed with a fork but not falling apart."
+        "tr": "Buharda, çatalla kolayca ezilecek ama elinde tuttuğunda dağılmayacak kıvamda pişirelim.",
+        "en": "Steam until soft enough to be easily mashed with a fork but firm enough not to fall apart when held."
       }
     ],
     "imageUrl": ""
@@ -50,8 +50,8 @@
       "en": "Zucchini Fritters (Baked)"
     },
     "description": {
-      "tr": "Elde tutması kolay, besleyici sebze köfteleri.",
-      "en": "Easy to hold, nutritious vegetable patties."
+      "tr": "Fırında pişmiş, elde tutulabilir formuyla bebişlerinizin bayılarak yiyeceği az unlu sebze mücveri.",
+      "en": "Oven-baked, easy-to-hold vegetable fritters made with minimal flour that babies will love."
     },
     "category": 12,
     "ingredients": [
@@ -97,16 +97,16 @@
     ],
     "instructions": [
       {
-        "tr": "Kabağı rendeleyip suyunu sıkın.",
-        "en": "Grate the zucchini and squeeze out the water."
+        "tr": "Kabağı rendeleyelim ve sulanmaması için suyunu avucumuzla iyice sıkalım.",
+        "en": "Grate the zucchini and squeeze out all its juice thoroughly with your palms to prevent sogginess."
       },
       {
-        "tr": "Yumurta sarısı ve az unla karıştırıp şekil verin.",
-        "en": "Mix with egg yolk and a little flour and shape."
+        "tr": "Yumurta sarısı ve az miktarda un ile karıştırıp şekil vererek yağlı kağıt serili tepsiye dizelim.",
+        "en": "Mix with egg yolk and a small amount of flour, shape, and place on a tray lined with baking paper."
       },
       {
-        "tr": "Fırında pişirin.",
-        "en": "Bake in the oven."
+        "tr": "180 derecede üzerleri altın sarısı olana dek fırınlayalım.",
+        "en": "Bake at 180°C (350°F) until golden brown."
       }
     ],
     "imageUrl": ""
@@ -118,8 +118,8 @@
       "en": "Banana Pancakes"
     },
     "description": {
-      "tr": "Sadece 2 malzeme ile BLW dostu kahvaltı.",
-      "en": "BLW-friendly breakfast with only 2 ingredients."
+      "tr": "Sadece muz ve yumurta sarısı kullanarak hazırlayabileceğiniz, yumuşacık ve BLW dostu tatlı pankekler.",
+      "en": "Soft, BLW-friendly sweet pancakes that you can prepare using only banana and egg yolk."
     },
     "category": 12,
     "ingredients": [
@@ -165,12 +165,12 @@
     ],
     "instructions": [
       {
-        "tr": "Muzu ezip yumurta sarısı ile çırpın.",
-        "en": "Mash the banana and whisk with egg yolk."
+        "tr": "Olgun muzu çatalın arkasıyla pürüzsüzce ezip yumurta sarısı ile köpürene kadar çırpalım.",
+        "en": "Mash a ripe banana smoothly with the back of a fork and whisk with egg yolk until frothy."
       },
       {
-        "tr": "Tavada küçük yuvarlaklar halinde pişirin.",
-        "en": "Cook in small rounds in a pan."
+        "tr": "Yapışmaz tavada küçük yuvarlaklar halinde arkalı önlü kısık ateşte pişirelim.",
+        "en": "Cook in a non-stick pan as small rounds over low heat, browning both sides gently."
       }
     ],
     "imageUrl": ""
@@ -182,8 +182,8 @@
       "en": "Boiled Broccoli Trees"
     },
     "description": {
-      "tr": "Sapından tutarak yemek için mükemmel form.",
-      "en": "Perfect form for eating by holding the stem."
+      "tr": "Miniklerin sapından tutup ağaç gibi kemirebileceği, yemesi son derece eğlenceli brokoli çiçekleri.",
+      "en": "Broccoli florets that are highly entertaining to eat as little ones hold them by the stem like little trees."
     },
     "category": 12,
     "ingredients": [
@@ -209,12 +209,12 @@
     "allergicIngredients": [],
     "instructions": [
       {
-        "tr": "Brokolileri sapları uzun kalacak şekilde ayırın.",
-        "en": "Separate the broccoli so the stems stay long."
+        "tr": "Brokolileri sapları uzun ve bebeğin kavramasına uygun olacak şekilde ayıralım.",
+        "en": "Separate the broccoli florets, leaving the stems long enough for your baby to grasp easily."
       },
       {
-        "tr": "Buharda yumuşayana kadar haşlayın.",
-        "en": "Steam until soft."
+        "tr": "Buharda, rengini kaybetmeden yumuşayana kadar haşlayalım.",
+        "en": "Steam until tender while keeping their bright green color."
       }
     ],
     "imageUrl": ""
@@ -226,8 +226,8 @@
       "en": "Meatballs (Baby)"
     },
     "description": {
-      "tr": "Baharatsız, yumuşak kuzu köfteleri.",
-      "en": "Soft lamb meatballs, without spices."
+      "tr": "Baharatsız, yumuşak yapısıyla bebişlerinizin elleriyle tutup çiğneme refleksini geliştirecek kuzu köftesi.",
+      "en": "Spice-free, soft lamb meatballs designed for babies to hold and practice their chewing reflex."
     },
     "category": 12,
     "ingredients": [
@@ -253,12 +253,12 @@
     "allergicIngredients": [],
     "instructions": [
       {
-        "tr": "Kıymayı çok az ekmek içi ile yoğurun.",
-        "en": "Knead the minced meat with a very small amount of bread crumbs."
+        "tr": "Kuzu kıymasını çok az ufalanmış ekmek içi ve rendelenip suyu sıkılmış az soğanla yoğuralım.",
+        "en": "Knead minced lamb with a tiny amount of breadcrumbs and a bit of grated, drained onion."
       },
       {
-        "tr": "Parmak şeklinde köfteler yapıp fırında veya az yağlı tavada pişirin.",
-        "en": "Make finger-shaped meatballs and cook in the oven or in a low-fat pan."
+        "tr": "Parmak şeklinde köfteler yapıp fırında veya çok az zeytinyağlı tavada kurutmadan pişirelim.",
+        "en": "Shape into finger-sized meatballs and bake or pan-fry without letting them dry out."
       }
     ],
     "imageUrl": ""
@@ -270,8 +270,8 @@
       "en": "Potato Spears"
     },
     "description": {
-      "tr": "Fırınlanmış yumuşak patates dilimleri.",
-      "en": "Baked soft potato slices."
+      "tr": "Fırında az zeytinyağı ile pişmiş, dışı hafif kıtır içi yumuşacık parmak patates dilimleri.",
+      "en": "Baked potato spears with a touch of olive oil, slightly crispy on the outside and soft on the inside."
     },
     "category": 12,
     "ingredients": [
@@ -297,8 +297,12 @@
     "allergicIngredients": [],
     "instructions": [
       {
-        "tr": "Elma dilim yapıp fırında pişirin.",
-        "en": "Make apple slices and bake in the oven."
+        "tr": "Patatesleri elma dilimi şeklinde doğrayıp az zeytinyağı ile harmanlayalım.",
+        "en": "Cut potatoes into wedges and toss with a little olive oil."
+      },
+      {
+        "tr": "Fırında içi yumuşacık olana kadar pişirelim ve ılık servis edelim.",
+        "en": "Bake until the inside is perfectly soft and serve warm."
       }
     ],
     "imageUrl": ""
@@ -310,8 +314,8 @@
       "en": "Avocado Wedges"
     },
     "description": {
-      "tr": "Kavraması kolay, yumuşak avokado.",
-      "en": "Easy to grasp, soft avocado."
+      "tr": "Sağlıklı yağlar açısından çok zengin, kavraması kolay ve ağızda eriyen taze avokado dilimleri.",
+      "en": "Fresh avocado wedges rich in healthy fats, easy to hold, and melt-in-the-mouth soft."
     },
     "category": 12,
     "ingredients": [
@@ -337,8 +341,12 @@
     "allergicIngredients": [],
     "instructions": [
       {
-        "tr": "Kabuklarını soyup uzunlamasına kesin.",
-        "en": "Peel and cut lengthwise."
+        "tr": "Olgun avokadonun kabuklarını soyup uzunlamasına, bebeğin eline sığacak dilimler halinde keselim.",
+        "en": "Peel a ripe avocado and cut it lengthwise into wedges that fit your baby's hand."
+      },
+      {
+        "tr": "Dilerseniz kaymaması için üzerine azıcık bebek bisküvisi tozu serpiştirip verelim.",
+        "en": "Optionally, sprinkle a little baby biscuit powder on top to prevent slipping."
       }
     ],
     "imageUrl": ""
@@ -350,8 +358,8 @@
       "en": "Cheese Omelet Strips"
     },
     "description": {
-      "tr": "Şerit şeklinde kesilmiş yumuşak omlet.",
-      "en": "Soft omelet cut into strips."
+      "tr": "Peynir dolgulu, şeritler halinde kesilmiş ve minik ellerin kavramasına uygun yumuşak kahvaltılık omlet.",
+      "en": "Soft breakfast omelet with cheese filling, cut into strips that are easy for tiny hands to grab."
     },
     "category": 12,
     "ingredients": [
@@ -382,8 +390,12 @@
     ],
     "instructions": [
       {
-        "tr": "Pişirip parmak genişliğinde dilimleyin.",
-        "en": "Cook and slice into finger-width strips."
+        "tr": "Yumurta sarısını çırpıp içine lor peyniri ekleyerek tavada pişirelim.",
+        "en": "Whisk egg yolk, mix in curd cheese, and cook in a pan."
+      },
+      {
+        "tr": "Pişen omleti parmak genişliğinde şeritler halinde dilimleyip servis edelim.",
+        "en": "Cut the cooked omelet into finger-wide strips and serve."
       }
     ],
     "imageUrl": ""
@@ -395,8 +407,8 @@
       "en": "Boiled Chicken Drumstick"
     },
     "description": {
-      "tr": "Kemikli tavuk eti ile çiğneme alıştırması.",
-      "en": "Chewing practice with bone-in chicken meat."
+      "tr": "Haşlanmış tavuk bageti ile bebeğinizin kendi kendine beslenme ve çiğneme alıştırmaları yapması için doğal bir yöntem.",
+      "en": "A natural way for your baby to practice self-feeding and chewing with a boiled chicken drumstick."
     },
     "category": 12,
     "ingredients": [
@@ -427,8 +439,12 @@
     ],
     "instructions": [
       {
-        "tr": "İyice haşlayıp derisini ayırarak verin.",
-        "en": "Boil thoroughly and give by removing the skin."
+        "tr": "Tavuk bagetini tencerede eti kemiğinden kolayca ayrılacak kadar iyice haşlayalım.",
+        "en": "Boil the chicken drumstick in a pot until the meat separates easily from the bone."
+      },
+      {
+        "tr": "Derisini ve küçük kemikçiklerini tamamen temizleyip bageti bebeğe verelim.",
+        "en": "Remove the skin and small bone splinters completely and give the drumstick to your baby."
       }
     ],
     "imageUrl": ""
@@ -440,8 +456,8 @@
       "en": "Baked Pear"
     },
     "description": {
-      "tr": "Karamele yakın tatlı ve yumuşak.",
-      "en": "Sweet and soft like caramel."
+      "tr": "Fırında pişerek karamelize olmuş, tatlı ve yumuşacık armut yarısı ile nefis bir meyve saati.",
+      "en": "A delightful fruit time with sweet, caramelized, and soft baked pear halves."
     },
     "category": 12,
     "ingredients": [
@@ -467,8 +483,12 @@
     "allergicIngredients": [],
     "instructions": [
       {
-        "tr": "Ortadan ikiye bölüp fırında pişirin.",
-        "en": "Divide in half and bake in the oven."
+        "tr": "Armudu ortadan ikiye bölüp çekirdek yatağını kaşıkla temizleyelim.",
+        "en": "Cut the pear in half and scoop out the seed core with a spoon."
+      },
+      {
+        "tr": "Fırın tepsisine dizip içi yumuşayıp kaşıklanacak kıvama gelene dek pişirelim.",
+        "en": "Place on a baking sheet and bake until the flesh is soft and scoopable."
       }
     ],
     "imageUrl": ""

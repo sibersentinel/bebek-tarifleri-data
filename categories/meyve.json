@@ -6,8 +6,8 @@
       "en": "Pear Puree"
     },
     "description": {
-      "tr": "Bağırsak hareketlerini düzenleyen tatlı armut.",
-      "en": "Sweet pear that regulates bowel movements."
+      "tr": "Lifli yapısıyla bebişinizin bağırsaklarını nazikçe çalıştıran, cam rendeyle hazırlanmış sulu armut püresi.",
+      "en": "A juicy pear puree prepared with a glass grater, gently stimulating your baby's bowels with its fiber."
     },
     "category": 3,
     "ingredients": [
@@ -33,16 +33,12 @@
     "allergicIngredients": [],
     "instructions": [
       {
-        "tr": "Armudu soyup çekirdeklerini çıkarın.",
-        "en": "Peel the pear and remove the seeds."
+        "tr": "Armudun kabuğunu soyup çekirdeklerini çıkaralım ve buharda 5 dakika haşlayalım.",
+        "en": "Peel the pear, remove the seeds, and steam for 5 minutes."
       },
       {
-        "tr": "Buharda 5 dakika pişirin.",
-        "en": "Steam for 5 minutes."
-      },
-      {
-        "tr": "Cam rendede rendeleyin.",
-        "en": "Grate with a glass grater."
+        "tr": "Yumuşayan armudu cam rende kullanarak rendeleyip taze olarak yedirelim.",
+        "en": "Grate the softened pear using a glass grater and serve fresh."
       }
     ],
     "imageUrl": ""
@@ -54,8 +50,8 @@
       "en": "Banana Avocado"
     },
     "description": {
-      "tr": "Sağlıklı yağlar ve enerji bir arada.",
-      "en": "Healthy fats and energy together."
+      "tr": "Muzun tatlı aroması ile avokadonun krema kıvamındaki sağlıklı yağlarının muhteşem buluşması.",
+      "en": "The wonderful combination of sweet banana aroma and healthy fats of creamy avocado."
     },
     "category": 3,
     "ingredients": [
@@ -96,12 +92,12 @@
     "allergicIngredients": [],
     "instructions": [
       {
-        "tr": "Muzu ve avokadoyu bir kasede çatalla ezin.",
-        "en": "Mash the banana and avocado in a bowl with a fork."
+        "tr": "Muz ve avokadonun içlerini bir kaseye alalım.",
+        "en": "Place banana and avocado flesh in a bowl."
       },
       {
-        "tr": "Homojen bir kıvam alana kadar karıştırın.",
-        "en": "Mix until you get a homogeneous consistency."
+        "tr": "Çatalla ezerek pürüzsüz ve homojen bir kıvam alana kadar karıştıralım.",
+        "en": "Mash with a fork and mix until you achieve a smooth and homogeneous consistency."
       }
     ],
     "imageUrl": ""
@@ -113,8 +109,8 @@
       "en": "Peach Juice"
     },
     "description": {
-      "tr": "Yaz aylarının serinletici ve vitaminli meyvesi.",
-      "en": "Refreshing and vitamin-rich fruit of summer months."
+      "tr": "Yaz aylarının bol vitaminli, tatlı şeftalisinin süzülmesiyle elde edilen mis kokulu taze meyve suyu.",
+      "en": "A fragrant fresh juice obtained by straining vitamin-rich, sweet summer peaches."
     },
     "category": 3,
     "ingredients": [
@@ -140,12 +136,12 @@
     "allergicIngredients": [],
     "instructions": [
       {
-        "tr": "Şeftalinin kabuklarını soyun.",
-        "en": "Peel the peach."
+        "tr": "Şeftalinin kabuğunu soyup dilimleyelim.",
+        "en": "Peel and slice the peach."
       },
       {
-        "tr": "Tülbentten veya ince süzgeçten geçirerek suyunu sıkın.",
-        "en": "Squeeze the juice by passing it through a cheesecloth or a fine sieve."
+        "tr": "Temiz bir tülbentten veya ince süzgeçten geçirip sıkarak suyunu çıkaralım.",
+        "en": "Pass through a clean cheesecloth or fine sieve, squeezing to extract the juice."
       }
     ],
     "imageUrl": ""
@@ -157,8 +153,8 @@
       "en": "Dried Apricot Puree"
     },
     "description": {
-      "tr": "Kabızlık için doğal çözüm.",
-      "en": "Natural solution for constipation."
+      "tr": "Kabızlık çeken miniklerimiz için gün kurusu kayısıların haşlanmasıyla hazırlanan doğal ve etkili püre.",
+      "en": "A natural and effective puree prepared by boiling sun-dried apricots for babies suffering from constipation."
     },
     "category": 3,
     "ingredients": [
@@ -184,12 +180,12 @@
     "allergicIngredients": [],
     "instructions": [
       {
-        "tr": "Kayısıları sıcak suda 1 saat bekletin.",
-        "en": "Soak the apricots in hot water for 1 hour."
+        "tr": "Kuru kayısıları sıcak suda 1 saat bekleterek yumuşatalım.",
+        "en": "Soak dried apricots in hot water for 1 hour to soften."
       },
       {
-        "tr": "Yumuşayınca haşlayıp ezin.",
-        "en": "When soft, boil and mash."
+        "tr": "Yumuşayan kayısıları az suda haşlayıp çatalla püre haline getirelim.",
+        "en": "Boil the softened apricots in a little water and mash with a fork into a puree."
       }
     ],
     "imageUrl": ""
@@ -201,8 +197,8 @@
       "en": "Plum Marmalade"
     },
     "description": {
-      "tr": "Mayhoş tadıyla iştah açıcı.",
-      "en": "Appetizing with its tart taste."
+      "tr": "Tatlı ve mayhoş eriklerin çekirdeği çıkarılarak pişirilmesiyle elde edilen iştah açıcı marmelat.",
+      "en": "An appetizing marmalade obtained by pitting and cooking sweet and sour plums."
     },
     "category": 3,
     "ingredients": [
@@ -228,12 +224,12 @@
     "allergicIngredients": [],
     "instructions": [
       {
-        "tr": "Eriklerin çekirdeklerini çıkarıp az suda pişirin.",
-        "en": "Remove the seeds from the plums and cook in a little water."
+        "tr": "Eriklerin çekirdeklerini ayırıp az suda yumuşayana dek pişirelim.",
+        "en": "Remove seeds from the plums and cook in a little water until soft."
       },
       {
-        "tr": "Süzgeçten geçirip püre yapın.",
-        "en": "Pass through a sieve and make a puree."
+        "tr": "Süzgeçten geçirerek pürüzsüz bir kıvam kazandıralım.",
+        "en": "Pass through a sieve to give it a smooth texture."
       }
     ],
     "imageUrl": ""
@@ -245,8 +241,8 @@
       "en": "Melon Puree"
     },
     "description": {
-      "tr": "Sulu ve serinletici yaz meyvesi.",
-      "en": "Juicy and refreshing summer fruit."
+      "tr": "Yazın en sulu meyvesi kavunun çatalla ezilerek hazırlanan, ferahlatıcı ve tatlı meyve saati.",
+      "en": "A refreshing and sweet fruit time prepared by mashing summer's juiciest melon with a fork."
     },
     "category": 3,
     "ingredients": [
@@ -272,8 +268,12 @@
     "allergicIngredients": [],
     "instructions": [
       {
-        "tr": "Kavunu çatalla ezin.",
-        "en": "Mash the melon with a fork."
+        "tr": "Kavunun çekirdekli kısımlarını temizleyip sulu etli kısmını tabağa alalım.",
+        "en": "Clean the seeded parts of the melon and place the juicy flesh on a plate."
+      },
+      {
+        "tr": "Çatalla iyice ezerek bebişimize bekletmeden verelim.",
+        "en": "Mash thoroughly with a fork and serve to your baby immediately."
       }
     ],
     "imageUrl": ""
@@ -285,8 +285,8 @@
       "en": "Sour Cherry Compote"
     },
     "description": {
-      "tr": "İştah açıcı ve vitaminli.",
-      "en": "Appetizing and vitamin-rich."
+      "tr": "Vişnelerin haşlanmasıyla elde edilen, bebişlerin iştahını açacak vitaminli ve ferahlatıcı komposto suyu.",
+      "en": "A vitamin-rich and refreshing compote juice obtained by boiling sour cherries to boost baby's appetite."
     },
     "category": 3,
     "ingredients": [
@@ -312,8 +312,12 @@
     "allergicIngredients": [],
     "instructions": [
       {
-        "tr": "Vişneleri haşlayıp suyunu verin.",
-        "en": "Boil the cherries and give the juice."
+        "tr": "Çekirdeksiz vişneleri tencerede suyla kaynatalım.",
+        "en": "Boil pitted sour cherries with water in a pot."
+      },
+      {
+        "tr": "Süzüp suyunu oda sıcaklığına getirerek bebişimize içirelim.",
+        "en": "Strain the broth, bring it to room temperature, and give it to your baby to drink."
       }
     ],
     "imageUrl": ""
@@ -325,8 +329,8 @@
       "en": "Blueberry Mash"
     },
     "description": {
-      "tr": "Antioksidan deposu küçük meyveler.",
-      "en": "Small fruits that are antioxidant storage."
+      "tr": "Antioksidan deposu yaban mersini tanelerinin ezilip süzülmesiyle hazırlanan mor renkli şifa püresi.",
+      "en": "A purple-colored healing puree prepared by mashing and straining antioxidant-rich blueberries."
     },
     "category": 3,
     "ingredients": [
@@ -352,8 +356,12 @@
     "allergicIngredients": [],
     "instructions": [
       {
-        "tr": "Yaban mersinlerini ezip süzgeçten geçirin.",
-        "en": "Mash and strain the blueberries."
+        "tr": "Yaban mersinlerini iyice yıkayıp bir kasede ezelim.",
+        "en": "Wash the blueberries thoroughly and mash them in a bowl."
+      },
+      {
+        "tr": "Kabuk ve çekirdeklerinin geçmemesi için ince süzgeçten süzerek servis edelim.",
+        "en": "Strain through a fine sieve to ensure no skins or seeds pass through, and serve."
       }
     ],
     "imageUrl": ""
@@ -365,8 +373,8 @@
       "en": "Mango Puree"
     },
     "description": {
-      "tr": "Tropikal ve tatlı bir lezzet.",
-      "en": "A tropical and sweet flavor."
+      "tr": "Tropikal meyve mangonun ipeksi dokusu ve tatlı aromasıyla hazırlanan kadife gibi pürüzsüz püre.",
+      "en": "A velvety smooth puree prepared with the silky texture and sweet aroma of tropical mango."
     },
     "category": 3,
     "ingredients": [
@@ -392,8 +400,12 @@
     "allergicIngredients": [],
     "instructions": [
       {
-        "tr": "Mangoyu blenderdan geçirin.",
-        "en": "Blend the mango."
+        "tr": "Olgun mangonun etli kısmını dilimleyip blender kabına alalım.",
+        "en": "Slice the flesh of a ripe mango and place it in a blender."
+      },
+      {
+        "tr": "Pürüzsüz bir kıvam alana kadar çekip servis edelim.",
+        "en": "Blend until completely smooth and serve."
       }
     ],
     "imageUrl": ""
@@ -405,8 +417,8 @@
       "en": "Fig Mash"
     },
     "description": {
-      "tr": "Yüksek lifli ve enerji verici.",
-      "en": "High fiber and energizing."
+      "tr": "Yüksek lif ve kalsiyum içeren taze incirin kabukları soyularak hazırlanan tatlı meyve öğünü.",
+      "en": "A sweet fruit meal prepared by peeling fresh, high-fiber and calcium-rich figs."
     },
     "category": 3,
     "ingredients": [
@@ -432,8 +444,12 @@
     "allergicIngredients": [],
     "instructions": [
       {
-        "tr": "İncirin kabuklarını soyup ezin.",
-        "en": "Peel and mash the fig."
+        "tr": "Taze incirin kabuklarını incecik soyalım.",
+        "en": "Peel the skin of a fresh fig very thinly."
+      },
+      {
+        "tr": "İç kısmını çatalla ezerek bebişimize taze taze sunalım.",
+        "en": "Mash the inner flesh with a fork and serve fresh to your baby."
       }
     ],
     "imageUrl": ""

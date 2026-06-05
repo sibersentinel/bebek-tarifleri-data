@@ -6,8 +6,8 @@
       "en": "Apple Puree"
     },
     "description": {
-      "tr": "İlk ek gıdaya geçiş için ideal, hafif ve alerji riski çok düşük.",
-      "en": "Ideal for the first transition to solid food, light and very low allergy risk."
+      "tr": "Minik gurmeniz ek gıdaya ilk adımı atıyor! Alerji riski çok düşük, sindirimi ise pamuk gibi hafif, mis kokulu bir başlangıç.",
+      "en": "Your little foodie is taking the first step into solid foods! A fragrant start with very low allergy risk and silky smooth digestion."
     },
     "category": 1,
     "ingredients": [
@@ -38,16 +38,16 @@
     ],
     "instructions": [
       {
-        "tr": "Elmanın kabuklarını soyup ufak ufak doğrayın.",
-        "en": "Peel the apple and chop it into small pieces."
+        "tr": "Tatlı ve taze elmamızı güzelce yıkayıp kabuklarını soyalım, ardından minik küpler halinde doğrayalım.",
+        "en": "Wash a sweet, fresh apple, peel it, and chop it into tiny cubes."
       },
       {
-        "tr": "Az suda yumuşayana kadar haşlayın.",
-        "en": "Boil in a small amount of water until soft."
+        "tr": "Doğradığımız elmaları küçük bir tencereye alıp üzerine çok az temiz su ekleyerek, çatalla ezilecek kadar yumuşayana dek kısık ateşte haşlayalım.",
+        "en": "Place the chopped apples in a small pot, add a tiny bit of clean water, and simmer over low heat until fork-tender."
       },
       {
-        "tr": "Çatalla veya cam rende ile püre haline getirin.",
-        "en": "Mash it with a fork or a glass grater into a puree."
+        "tr": "Ilıyan elma dilimlerini, besin değerini koruması için cam rende kullanarak veya çatalla güzelce ezerek pürüzsüz bir püre haline getirelim.",
+        "en": "Let the apples cool slightly, then mash them smoothly using a glass grater or a fork to preserve their nutritional value."
       }
     ],
     "imageUrl": ""
@@ -59,8 +59,8 @@
       "en": "Carrot Puree"
     },
     "description": {
-      "tr": "Tatlımsı tadıyla bebeklerin sevdiği bir başlangıç.",
-      "en": "A starter that babies love with its sweet taste."
+      "tr": "Hafif tatlı lezzetiyle bebişlerin kalbini çalan, vitamin deposu rengarenk bir başlangıç püresi.",
+      "en": "A vitamin-rich, colorful starter puree that wins babies' hearts with its naturally sweet taste."
     },
     "category": 1,
     "ingredients": [
@@ -86,16 +86,16 @@
     "allergicIngredients": [],
     "instructions": [
       {
-        "tr": "Havuçu yıkayıp soyun.",
-        "en": "Wash and peel the carrot."
+        "tr": "Taze ve tatlı havucumuzu bol suyla yıkayıp kabuklarını incecik soyalım ve halka halka dilimleyelim.",
+        "en": "Wash a fresh, sweet carrot thoroughly, peel it thinly, and slice it into rings."
       },
       {
-        "tr": "Buharda yumuşayana kadar pişirin.",
-        "en": "Steam until soft."
+        "tr": "Vitaminini ve o güzel rengini kaybetmemesi için buharda pişirme aparatında veya çok az suda iyice yumuşayana kadar haşlayalım.",
+        "en": "Steam or boil in a very small amount of water until completely soft to preserve its vitamins and vibrant color."
       },
       {
-        "tr": "Ezerek püre kıvamına getirin.",
-        "en": "Mash into a puree consistency."
+        "tr": "Haşlanan havuçları ocaktan alıp çatalla pürüzsüz olana dek ezelim, gerekirse haşlama suyundan birkaç damla ekleyip kıvamını açalım.",
+        "en": "Take the cooked carrots, mash them until perfectly smooth with a fork, and add a few drops of cooking water to adjust the consistency if needed."
       }
     ],
     "imageUrl": ""
@@ -107,8 +107,8 @@
       "en": "Zucchini Puree"
     },
     "description": {
-      "tr": "Sindirimi en kolay sebzelerden biri.",
-      "en": "One of the easiest vegetables to digest."
+      "tr": "Sindirimi son derece kolay olan, bebeğinizin hassas midesini yormayacak pamuk gibi bir sebze başlangıcı.",
+      "en": "An incredibly easy-to-digest vegetable starter that will be gentle on your baby's sensitive little tummy."
     },
     "category": 1,
     "ingredients": [
@@ -134,16 +134,16 @@
     "allergicIngredients": [],
     "instructions": [
       {
-        "tr": "Kabağın kabuklarını ince soyun.",
-        "en": "Peel the zucchini thinly."
+        "tr": "Kabağımızı güzelce yıkayıp kabuklarını çok ince bir şekilde soyalım ve dilimleyelim.",
+        "en": "Wash the zucchini, peel it very thinly, and slice it into pieces."
       },
       {
-        "tr": "Az suda haşlayın veya buharda pişirin.",
-        "en": "Boil in a little water or steam."
+        "tr": "Çok az su ekleyerek tencerede veya buharda, kabaklar tamamen yumuşayıp şeffaflaşana kadar pişmeye bırakalım.",
+        "en": "Cook in a pot with a tiny bit of water or steam until the zucchini is completely soft and translucent."
       },
       {
-        "tr": "Püre haline getirin.",
-        "en": "Make it into a puree."
+        "tr": "Pişen kabakları süzüp çatalla ezelim. Dilerseniz kıvamını açmak için birkaç damla anne sütü veya formül mama ekleyebilirsiniz.",
+        "en": "Drain the cooked zucchini and mash it with a fork. You can add a few drops of breast milk or formula to adjust the consistency."
       }
     ],
     "imageUrl": ""
@@ -155,8 +155,8 @@
       "en": "Pumpkin Puree"
     },
     "description": {
-      "tr": "Beta-karoten zengini, tatlı ve besleyici.",
-      "en": "Rich in beta-carotene, sweet and nutritious."
+      "tr": "Beta-karoten zengini, tatlımsı tadıyla bebişlerin bayılacağı, kadife dokulu besleyici bir lezzet.",
+      "en": "Rich in beta-carotene, this velvety, nutritious puree has a sweet taste that babies will absolutely adore."
     },
     "category": 1,
     "ingredients": [
@@ -182,16 +182,16 @@
     "allergicIngredients": [],
     "instructions": [
       {
-        "tr": "Balkabağını küp küp doğrayın.",
-        "en": "Dice the pumpkin."
+        "tr": "Balkabağımızın kabuklarını soyup çekirdekli kısmını temizleyelim ve küçük küpler halinde doğrayalım.",
+        "en": "Peel the pumpkin, remove the seeds, and cut it into small cubes."
       },
       {
-        "tr": "Yumuşayana kadar haşlayın.",
-        "en": "Boil until soft."
+        "tr": "Doğradığımız balkabaklarını buharda ya da üzerini çok az geçecek kadar suda yumuşayana kadar haşlayalım.",
+        "en": "Steam the pumpkin cubes or boil them in a small amount of water until they are tender."
       },
       {
-        "tr": "Pürüzsüz olana kadar ezin.",
-        "en": "Mash until smooth."
+        "tr": "Haşlanan balkabaklarını çatalla pürüzsüz olana dek ezip, ılık olarak bebişimize servis edelim.",
+        "en": "Mash the cooked pumpkin with a fork until perfectly smooth and serve it warm to your baby."
       }
     ],
     "imageUrl": ""
@@ -203,8 +203,8 @@
       "en": "Potato Puree"
     },
     "description": {
-      "tr": "Tok tutucu ve enerji veren ilk sebze.",
-      "en": "The first vegetable that is filling and gives energy."
+      "tr": "Bebişimize enerji veren, tok tutucu özelliğiyle uyku öncesi veya gün ortasında tercih edebileceğiniz nefis bir püre.",
+      "en": "A delicious puree that gives your baby energy and keeps them full, perfect before bedtime or during the day."
     },
     "category": 1,
     "ingredients": [
@@ -230,16 +230,16 @@
     "allergicIngredients": [],
     "instructions": [
       {
-        "tr": "Patatesi haşlayın.",
-        "en": "Boil the potato."
+        "tr": "Küçük bir patatesi güzelce yıkayıp soyalım, ardından çabuk pişmesi için küpler halinde doğrayalım.",
+        "en": "Wash and peel a small potato, then cut it into cubes for faster cooking."
       },
       {
-        "tr": "Kabuklarını soyup ezin.",
-        "en": "Peel and mash it."
+        "tr": "Doğradığımız patatesleri üzerini geçecek kadar suda iyice yumuşayana dek haşlayalım.",
+        "en": "Boil the chopped potatoes in water until they are completely soft and tender."
       },
       {
-        "tr": "İsteğe bağlı anne sütü ile kıvamını açabilirsiniz.",
-        "en": "Optional: you can thin the consistency with breast milk."
+        "tr": "Patatesleri süzüp sıcakken ezelim; kıvamı biraz katı olursa anne sütü veya zeytinyağı ile yumuşatalım.",
+        "en": "Drain and mash the potatoes while hot; if the consistency is too thick, thin it with breast milk or olive oil."
       }
     ],
     "imageUrl": ""
@@ -251,8 +251,8 @@
       "en": "Broccoli Puree"
     },
     "description": {
-      "tr": "Besleyici yeşil bir başlangıç.",
-      "en": "A nutritious green starter."
+      "tr": "Bebeklerin yeşil sebzelerle tanışması için harika, demir ve vitamin deposu çok özel bir başlangıç tarifi.",
+      "en": "A wonderful starter recipe packed with iron and vitamins to introduce your baby to healthy green vegetables."
     },
     "category": 1,
     "ingredients": [
@@ -278,8 +278,16 @@
     "allergicIngredients": [],
     "instructions": [
       {
-        "tr": "Brokoliyi buharda pişirip ezin.",
-        "en": "Steam and mash the broccoli."
+        "tr": "Taze brokoli çiçeklerini bol suyla yıkayıp sirkeli suda bekletelim ve dallarına ayıralım.",
+        "en": "Wash fresh broccoli florets thoroughly, let them sit in vinegar water, and separate them into small pieces."
+      },
+      {
+        "tr": "Buharda ya da çok az suda brokoliler yumuşayıp canlı yeşil rengini koruyacak şekilde pişirelim.",
+        "en": "Steam or boil in a very small amount of water until soft but still retaining their bright green color."
+      },
+      {
+        "tr": "Pişen brokolileri çatalla pürüzsüz olana dek iyice ezelim, içine birkaç damla zeytinyağı ekleyip karıştıralım.",
+        "en": "Mash the cooked broccoli thoroughly with a fork, add a few drops of olive oil, and mix well."
       }
     ],
     "imageUrl": ""
@@ -291,8 +299,8 @@
       "en": "Peach Puree"
     },
     "description": {
-      "tr": "Yumuşak ve tatlı meyve başlangıcı.",
-      "en": "Soft and sweet fruit starter."
+      "tr": "Yaz aylarının o tatlı ve sulu şeftalisiyle hazırlanan, bebişinizin içini ferahlatacak mis kokulu bir meyve öğünü.",
+      "en": "A fragrant, refreshing fruit meal prepared with sweet and juicy summer peaches that will delight your baby."
     },
     "category": 1,
     "ingredients": [
@@ -318,8 +326,16 @@
     "allergicIngredients": [],
     "instructions": [
       {
-        "tr": "Şeftaliyi soyup rendeleyin veya ezin.",
-        "en": "Peel and grate or mash the peach."
+        "tr": "Olgun ve tatlı bir şeftaliyi güzelce yıkayıp kabuklarını soyalım.",
+        "en": "Wash a ripe and sweet peach thoroughly, then peel off its skin."
+      },
+      {
+        "tr": "Şeftaliyi cam rende kullanarak rendeleyelim veya çatalla ezerek sulu ve pürüzsüz bir kıvam elde edelim.",
+        "en": "Grate the peach using a glass grater or mash it with a fork to achieve a juicy and smooth consistency."
+      },
+      {
+        "tr": "Bekletmeden, taze taze bebişimize yedirelim ki vitaminleri kaybolmasın.",
+        "en": "Serve it fresh to your baby immediately so that the vitamins are not lost."
       }
     ],
     "imageUrl": ""
@@ -331,8 +347,8 @@
       "en": "Pear Puree"
     },
     "description": {
-      "tr": "Sindirimi rahatlatan meyve.",
-      "en": "Fruit that eases digestion."
+      "tr": "Lifli yapısıyla bağırsakları nazikçe çalıştıran, tatlı mı tatlı, sindirim dostu nefis bir armut püresi.",
+      "en": "A sweet, digestion-friendly pear puree that gently stimulates the bowels with its high fiber content."
     },
     "category": 1,
     "ingredients": [
@@ -358,8 +374,16 @@
     "allergicIngredients": [],
     "instructions": [
       {
-        "tr": "Armudu haşlayıp püre yapın.",
-        "en": "Boil and puree the pear."
+        "tr": "Armudun kabuklarını soyup çekirdeklerini temizleyelim ve dilimleyelim.",
+        "en": "Peel the pear, remove the seeds, and slice it into pieces."
+      },
+      {
+        "tr": "Armut dilimlerini buharda veya çok az su eklenmiş tencerede yumuşayana kadar pişirelim.",
+        "en": "Cook the pear slices in a steamer or a pot with a tiny bit of water until soft."
+      },
+      {
+        "tr": "Yumuşayan armutları cam rendeden geçirerek veya çatalla ezerek püre haline getirelim.",
+        "en": "Pass the soft pears through a glass grater or mash them with a fork to make a puree."
       }
     ],
     "imageUrl": ""
@@ -371,8 +395,8 @@
       "en": "Yogurt (First Taste)"
     },
     "description": {
-      "tr": "Kalsiyum kaynağı sade yoğurt.",
-      "en": "Source of calcium plain yogurt."
+      "tr": "Mayasında sağlık olan, bebişinizin kalsiyum ihtiyacını karşılayacak ev yapımı ipeksi bir yoğurt.",
+      "en": "Silky homemade yogurt packed with health and calcium to support your baby's growth."
     },
     "category": 1,
     "ingredients": [
@@ -403,8 +427,16 @@
     ],
     "instructions": [
       {
-        "tr": "Sade ev yoğurdunu oda sıcaklığında verin.",
-        "en": "Give plain homemade yogurt at room temperature."
+        "tr": "Günlük taze sütümüzü kaynatıp mayalama sıcaklığına (serçe parmağınızı yakmayacak ılıklığa) gelmesini bekleyelim.",
+        "en": "Boil daily fresh milk and let it cool down to fermentation temperature (warm enough not to burn your pinky finger)."
+      },
+      {
+        "tr": "Bir kaşık ev yoğurdu mayası ile sütümüzü nazikçe karıştırıp kavanozlara paylaştıralım ve sarıp 6 saat mayalanmaya bırakalım.",
+        "en": "Gently mix the milk with a spoonful of homemade yogurt starter, pour into jars, wrap them warm, and ferment for 6 hours."
+      },
+      {
+        "tr": "Mayalanan yoğurdu buzdolabında dinlendirdikten sonra, oda sıcaklığına getirerek bebişimize sunalım.",
+        "en": "After resting the fermented yogurt in the fridge, bring it to room temperature before serving to your baby."
       }
     ],
     "imageUrl": ""
@@ -416,8 +448,8 @@
       "en": "Rice Porridge"
     },
     "description": {
-      "tr": "En güvenilir başlangıç tahılı.",
-      "en": "The most reliable starting grain."
+      "tr": "Mideyi yormayan yapısıyla ek gıdaya geçişte güvenli bir liman olan, pürüzsüz pirinç unu lapası.",
+      "en": "A smooth rice flour porridge that is a safe harbor when transitioning to solids due to its gentle nature."
     },
     "category": 1,
     "ingredients": [
@@ -443,8 +475,16 @@
     "allergicIngredients": [],
     "instructions": [
       {
-        "tr": "Su ile pişirip muhallebi kıvamına getirin.",
-        "en": "Cook with water until it reaches a pudding consistency."
+        "tr": "1 yemek kaşığı pirinç ununu küçük bir cezveye alıp üzerine 1 çay bardağı su ekleyelim.",
+        "en": "Place 1 tablespoon of rice flour in a small coffee pot and add 1 teacup of water."
+      },
+      {
+        "tr": "Kısık ateşte, topaklanmaması için sürekli karıştırarak muhallebi kıvamı alana kadar pişirelim.",
+        "en": "Cook over low heat, stirring constantly to prevent lumps, until it reaches a pudding consistency."
+      },
+      {
+        "tr": "Ocaktan alıp ılıttıktan sonra, dilerseniz içine birkaç damla anne sütü ekleyerek bebişimize servis edelim.",
+        "en": "Remove from heat, let it cool to warm, and optionally add a few drops of breast milk before serving."
       }
     ],
     "imageUrl": ""

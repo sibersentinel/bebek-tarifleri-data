@@ -6,8 +6,8 @@
       "en": "Carrot Puree with Cumin"
     },
     "description": {
-      "tr": "Kimyonun gaz giderici etkisiyle rahatlatıcı püre.",
-      "en": "Soothing puree with the gas-relieving effect of cumin."
+      "tr": "Kimyonun gaz giderici mucizevi etkisiyle hazırlanan, bebişinizin karnını rahatlatacak tatlı havuç püresi.",
+      "en": "A sweet carrot puree prepared with the gas-relieving magic of cumin to soothe your baby's tummy."
     },
     "category": 18,
     "ingredients": [
@@ -45,8 +45,12 @@
     "allergicIngredients": [],
     "instructions": [
       {
-        "tr": "Havucu haşlayın, ezin ve içine bir fiske kimyon ekleyin.",
-        "en": "Boil the carrot, mash it and add a pinch of cumin."
+        "tr": "Havucu buharda iyice yumuşayana kadar pişirip çatalla ezelim.",
+        "en": "Steam the carrot until fully soft and mash it with a fork."
+      },
+      {
+        "tr": "İçine bir fiske kimyon ve birkaç damla zeytinyağı ekleyip karıştırarak ılık yedirelim.",
+        "en": "Add a pinch of cumin and a few drops of olive oil, mix, and feed warm."
       }
     ],
     "imageUrl": ""
@@ -58,8 +62,8 @@
       "en": "Zucchini Mash with Dill"
     },
     "description": {
-      "tr": "Sindirim dostu dereotu ve hafif kabak.",
-      "en": "Digestive-friendly dill and light zucchini."
+      "tr": "Sindirimi son derece kolay kabak ve gaz önleyici taze dereotunun bir araya geldiği hafif öğün.",
+      "en": "A light meal combining highly digestible zucchini and gas-preventing fresh dill."
     },
     "category": 18,
     "ingredients": [
@@ -97,8 +101,12 @@
     "allergicIngredients": [],
     "instructions": [
       {
-        "tr": "Kabağı buharda pişirin, ince kıyılmış dereotu ile karıştırın.",
-        "en": "Steam the zucchini, mix with finely chopped dill."
+        "tr": "Kabağı buharda pişirip çatalla ezelim.",
+        "en": "Steam the zucchini and mash it with a fork."
+      },
+      {
+        "tr": "İçine incecik kıyılmış dereotunu ekleyip harmanlayarak servis edelim.",
+        "en": "Add finely chopped dill, mix well, and serve."
       }
     ],
     "imageUrl": ""
@@ -110,8 +118,8 @@
       "en": "Baked Fennel"
     },
     "description": {
-      "tr": "Doğal gaz giderici rezenenin en lezzetli hali.",
-      "en": "The most delicious state of natural gas-relieving fennel."
+      "tr": "Doğal gaz giderici rezene kökünün fırında yumuşatılmasıyla elde edilen şifa deposu püre.",
+      "en": "A healing puree obtained by baking natural gas-relieving fennel root until tender."
     },
     "category": 18,
     "ingredients": [
@@ -137,12 +145,12 @@
     "allergicIngredients": [],
     "instructions": [
       {
-        "tr": "Rezene kökünü dilimleyip fırında yumuşayana kadar pişirin.",
-        "en": "Slice the fennel root and bake in the oven until soft."
+        "tr": "Rezene kökünü temizleyip dilimleyelim ve fırında yumuşayana kadar pişirelim.",
+        "en": "Clean and slice the fennel root and bake in the oven until soft."
       },
       {
-        "tr": "Püre haline getirip servis edin.",
-        "en": "Make it into a puree and serve."
+        "tr": "Fırınlanan rezeneleri çatalla ezerek pürüzsüz hale getirip ılık servis edelim.",
+        "en": "Mash the baked fennel with a fork until smooth and serve warm."
       }
     ],
     "imageUrl": ""
@@ -154,8 +162,8 @@
       "en": "Potato with Fresh Mint"
     },
     "description": {
-      "tr": "Mideyi rahatlatan nane ferahlığı.",
-      "en": "Mint freshness that soothes the stomach."
+      "tr": "Patatesin doyuruculuğu ile taze nanenin mideyi rahatlatan ferahlatıcı etkisinin buluştuğu lezzetli püre.",
+      "en": "A delicious puree combining the satiety of potato and the stomach-soothing, refreshing effect of fresh mint."
     },
     "category": 18,
     "ingredients": [
@@ -193,8 +201,12 @@
     "allergicIngredients": [],
     "instructions": [
       {
-        "tr": "Patatesi haşlayın, içine ince kıyılmış nane ekleyerek ezin.",
-        "en": "Boil the potato, mash it by adding finely chopped mint."
+        "tr": "Patatesi haşlayıp kabuklarını soyalım.",
+        "en": "Boil the potato and peel its skin."
+      },
+      {
+        "tr": "İçine incecik kıyılmış taze nane yaprakları ekleyip çatalla ezerek karışıma yedirelim.",
+        "en": "Add finely chopped fresh mint leaves and mash with a fork to blend."
       }
     ],
     "imageUrl": ""
@@ -206,8 +218,8 @@
       "en": "Plain Rice Porridge"
     },
     "description": {
-      "tr": "En az gaz yapan tahıl seçeneği.",
-      "en": "The grain option that produces the least gas."
+      "tr": "En az gaz yapma özelliğine sahip pirincin, iyice haşlanarak lapa haline getirilmiş en güvenli hali.",
+      "en": "The safest form of rice, boiled thoroughly into a soft porridge, known for causing the least gas."
     },
     "category": 18,
     "ingredients": [
@@ -233,8 +245,12 @@
     "allergicIngredients": [],
     "instructions": [
       {
-        "tr": "Pirinçleri iyice yumuşayıp lapa olana kadar suyla pişirin.",
-        "en": "Cook the rice with water until it is thoroughly soft and becomes a porridge."
+        "tr": "Pirinci bol suda, nişastası iyice açılıp lapa olana kadar pişirelim.",
+        "en": "Cook the rice in plenty of water until the starch is released and it becomes a soft porridge."
+      },
+      {
+        "tr": "Çatalla ezerek ılık olarak bebişimize verelim.",
+        "en": "Mash with a fork and serve warm to your baby."
       }
     ],
     "imageUrl": ""
@@ -246,8 +262,8 @@
       "en": "Minty Yogurt"
     },
     "description": {
-      "tr": "Mideyi ferahlatan karışım.",
-      "en": "Mixture that refreshes the stomach."
+      "tr": "Taze nane yapraklarının gaz giderici ferahlığıyla tatlandırılmış, bebişinizin sindirimini kolaylaştıracak ev yoğurdu.",
+      "en": "Homemade yogurt flavored with the gas-relieving freshness of mint leaves to ease your baby's digestion."
     },
     "category": 18,
     "ingredients": [
@@ -290,8 +306,12 @@
     ],
     "instructions": [
       {
-        "tr": "Naneyi incecik kıyıp yoğurda ekleyin.",
-        "en": "Chop mint finely and add to yogurt."
+        "tr": "Taze nane yapraklarını havanda iyice ezerek un ufak edelim.",
+        "en": "Grind fresh mint leaves thoroughly in a mortar."
+      },
+      {
+        "tr": "Oda sıcaklığındaki yoğurda ekleyip karıştırarak servis edelim.",
+        "en": "Add to room-temperature yogurt, mix, and serve."
       }
     ],
     "imageUrl": ""
@@ -303,8 +323,8 @@
       "en": "Curd with Dill"
     },
     "description": {
-      "tr": "Gaz yapmayan kahvaltılık.",
-      "en": "Breakfast item that doesn t produce gas."
+      "tr": "Gaz yapmayan ve protein yönünden zengin lor peynirinin dereotu ile lezzetlendirilmiş kahvaltılık hali.",
+      "en": "A breakfast dish featuring gas-free, protein-rich curd cheese flavored with dill."
     },
     "category": 18,
     "ingredients": [
@@ -347,8 +367,12 @@
     ],
     "instructions": [
       {
-        "tr": "Dereotunu lorla karıştırın.",
-        "en": "Mix dill with curd."
+        "tr": "Taze kıyılmış dereotunu tuzsuz lor peyniri ile harmanlayalım.",
+        "en": "Mix freshly chopped dill with unsalted curd cheese."
+      },
+      {
+        "tr": "Çatalla ezip kahvaltılarda bebişimize sunalım.",
+        "en": "Mash with a fork and serve to your baby for breakfast."
       }
     ],
     "imageUrl": ""
@@ -360,8 +384,8 @@
       "en": "Apple with Fennel Seeds"
     },
     "description": {
-      "tr": "Hem tatlı hem rahatlatıcı.",
-      "en": "Both sweet and soothing."
+      "tr": "Rezene çayında haşlanan elmanın hem tatlılığı hem de gaz giderici rahatlatıcı etkisini sunan nefis püre.",
+      "en": "A delicious puree offering both the sweetness and gas-relieving, relaxing effects of apple boiled in fennel tea."
     },
     "category": 18,
     "ingredients": [
@@ -387,8 +411,12 @@
     "allergicIngredients": [],
     "instructions": [
       {
-        "tr": "Elmayı rezeneli suda haşlayıp ezin.",
-        "en": "Boil apple in fennel water and mash."
+        "tr": "Elma dilimlerini rezene tohumu eklenmiş suda haşlayalım.",
+        "en": "Boil apple slices in water infused with fennel seeds."
+      },
+      {
+        "tr": "Yumuşayan elmaları süzüp ezelim ve ılık servis edelim.",
+        "en": "Drain the softened apples, mash them, and serve warm."
       }
     ],
     "imageUrl": ""
@@ -400,8 +428,8 @@
       "en": "Boiled Rice and Zucchini"
     },
     "description": {
-      "tr": "En hafif öğle yemeği.",
-      "en": "Lightest lunch."
+      "tr": "Sindirimi en kolay iki dost; pirinç ve kabağın birlikte haşlanmasıyla oluşan hafif bir öğle yemeği.",
+      "en": "A light lunch formed by boiling two digestion-friendly allies: rice and zucchini together."
     },
     "category": 18,
     "ingredients": [
@@ -442,8 +470,12 @@
     "allergicIngredients": [],
     "instructions": [
       {
-        "tr": "Birlikte haşlayıp püre yapın.",
-        "en": "Boil together and make a puree."
+        "tr": "Pirinç ve kabak küplerini yumuşayana kadar haşlayalım.",
+        "en": "Boil rice and zucchini cubes until soft."
+      },
+      {
+        "tr": "Çatalla ezerek püre kıvamına getirelim.",
+        "en": "Mash with a fork to bring to a puree consistency."
       }
     ],
     "imageUrl": ""
@@ -455,8 +487,8 @@
       "en": "Ginger Tea (Very Little)"
     },
     "description": {
-      "tr": "Bulantı ve gaz için destek.",
-      "en": "Support for nausea and gas."
+      "tr": "Çok hafif zencefil demlemesiyle hazırlanan, bebişinizin mide bulantısını ve gaz sancısını yatıştıracak ılık çay.",
+      "en": "A warm tea prepared with a very light ginger infusion to soothe your baby's nausea and gas pain."
     },
     "category": 18,
     "ingredients": [
@@ -479,8 +511,12 @@
     "allergicIngredients": [],
     "instructions": [
       {
-        "tr": "Sıcak suda demleyip 1-2 kaşık verin.",
-        "en": "Steep in hot water and give 1-2 spoons."
+        "tr": "Küçük bir parça taze zencefili sıcak suda 5 dakika demleyelim.",
+        "en": "Steep a small piece of fresh ginger in hot water for 5 minutes."
+      },
+      {
+        "tr": "Süzüp oda sıcaklığına geldikten sonra bebişimize birkaç kaşık içirelim.",
+        "en": "Strain, let it cool to room temperature, and feed a few spoonfuls to your baby."
       }
     ],
     "imageUrl": ""

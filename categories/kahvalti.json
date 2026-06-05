@@ -6,8 +6,8 @@
       "en": "Egg Mash with Cheese"
     },
     "description": {
-      "tr": "Yüksek kalsiyum ve proteinli sabah kahvaltısı.",
-      "en": "High calcium and protein morning breakfast."
+      "tr": "Bebişinizin güne zinde başlaması için yüksek kalsiyum ve protein içeren lezzetli peynirli yumurta ezmesi.",
+      "en": "A delicious egg and cheese mash packed with high calcium and protein for your baby to start the day energized."
     },
     "category": 8,
     "ingredients": [
@@ -57,12 +57,12 @@
     ],
     "instructions": [
       {
-        "tr": "Yumurta sarısını ve peyniri çatalla ezin.",
-        "en": "Mash the egg yolk and cheese with a fork."
+        "tr": "Haşlanmış yumurta sarısını ve tuzsuz peyniri bir kasede buluşturalım.",
+        "en": "Place boiled egg yolk and unsalted cheese in a bowl."
       },
       {
-        "tr": "Az miktarda anne sütü veya su ile kıvamını yumuşatın.",
-        "en": "Soften the consistency with a small amount of breast milk or water."
+        "tr": "Çatalla ezip kıvamını yumuşatmak için birkaç damla anne sütü veya su ekleyelim.",
+        "en": "Mash with a fork and add a few drops of breast milk or water to soften the texture."
       }
     ],
     "imageUrl": ""
@@ -74,8 +74,8 @@
       "en": "Semolina Porridge with Molasses"
     },
     "description": {
-      "tr": "Tatlı ve enerji verici bir başlangıç.",
-      "en": "A sweet and energizing start."
+      "tr": "Pekmezin demir gücüyle tatlandırılmış, bebişinizin güne enerjik başlamasını sağlayacak irmik lapası.",
+      "en": "Semolina porridge sweetened with the iron power of molasses to give your baby an energetic start to the day."
     },
     "category": 8,
     "ingredients": [
@@ -121,12 +121,12 @@
     ],
     "instructions": [
       {
-        "tr": "İrmiği suyla pişirip muhallebi yapın.",
-        "en": "Cook semolina with water to make a pudding."
+        "tr": "İrmiği suyla muhallebi kıvamına gelene kadar karıştırarak pişirelim.",
+        "en": "Cook semolina with water, stirring constantly until it reaches a pudding consistency."
       },
       {
-        "tr": "Ilıyınca üzerine pekmezi ekleyip karıştırın.",
-        "en": "When it cools down, add the molasses and mix."
+        "tr": "Lapa ılındıktan sonra üzerine bir tatlı kaşığı pekmez gezdirip karıştıralım.",
+        "en": "Once the porridge is warm, drizzle a teaspoon of molasses on top and mix."
       }
     ],
     "imageUrl": ""
@@ -138,8 +138,8 @@
       "en": "Banana Breakfast with Walnuts"
     },
     "description": {
-      "tr": "Beyin gelişimi için ceviz ve potasyum kaynağı muz.",
-      "en": "Walnuts for brain development and banana as a source of potassium."
+      "tr": "Beyin gelişimini destekleyen ceviz ve potasyum zengini muzun enfes buluşmasıyla hazırlanan kahvaltı.",
+      "en": "A breakfast prepared with the delightful combination of brain-boosting walnuts and potassium-rich banana."
     },
     "category": 8,
     "ingredients": [
@@ -185,12 +185,12 @@
     ],
     "instructions": [
       {
-        "tr": "Muzu çatalla püre haline getirin.",
-        "en": "Mash the banana with a fork into a puree."
+        "tr": "Muzu çatal yardımıyla pürüzsüzleşene kadar ezelim.",
+        "en": "Mash the banana with a fork until smooth."
       },
       {
-        "tr": "İçine un gibi çekilmiş cevizi ekleyip karıştırın.",
-        "en": "Add the finely ground walnut and mix."
+        "tr": "İçine un gibi çekilmiş cevizi ilave edip iyice harmanlayalım.",
+        "en": "Add finely ground walnuts and mix well."
       }
     ],
     "imageUrl": ""
@@ -202,8 +202,8 @@
       "en": "Avocado with Labneh"
     },
     "description": {
-      "tr": "Kremamsı dokusuyla bebeklerin sevdiği bir lezzet.",
-      "en": "A flavor that babies love with its creamy texture."
+      "tr": "Sağlıklı yağlar içeren avokado ve kremamsı labne peynirinin bebişler tarafından çok sevilen uyumu.",
+      "en": "A popular choice among babies, combining healthy fat-rich avocado and creamy labneh cheese."
     },
     "category": 8,
     "ingredients": [
@@ -249,12 +249,12 @@
     ],
     "instructions": [
       {
-        "tr": "Avokadoyu ve labneyi pürüzsüz olana kadar karıştırın.",
-        "en": "Mix the avocado and labneh until smooth."
+        "tr": "Olgun avokadonun içini kaşıkla çıkarıp labne peyniriyle karıştıralım.",
+        "en": "Scoop out a ripe avocado and mix it with labneh cheese."
       },
       {
-        "tr": "Ekmek içi ile de verebilirsiniz.",
-        "en": "You can also serve it with bread crumbs."
+        "tr": "Pürüzsüz olana dek ezip ekmek içi ekleyerek veya sade olarak servis edelim.",
+        "en": "Mash until smooth and serve either plain or mixed with breadcrumbs."
       }
     ],
     "imageUrl": ""
@@ -266,8 +266,8 @@
       "en": "Oat Flour Crepe"
     },
     "description": {
-      "tr": "Yumuşak ve kolay çiğnenebilir krepler.",
-      "en": "Soft and easy-to-chew crepes."
+      "tr": "Glutensiz ve besleyici yulaf unuyla hazırlanan, bebişinizin kolayca çiğneyebileceği yumuşacık kahvaltılık krepler.",
+      "en": "Soft breakfast crepes prepared with gluten-free, nutritious oat flour, easy for your baby to chew."
     },
     "category": 8,
     "ingredients": [
@@ -317,12 +317,12 @@
     ],
     "instructions": [
       {
-        "tr": "Malzemeleri çırpın.",
-        "en": "Whisk the ingredients."
+        "tr": "Yulaf unu, yumurta sarısı ve az suyu pürüzsüz olana kadar çırpalım.",
+        "en": "Whisk oat flour, egg yolk, and a little water until smooth."
       },
       {
-        "tr": "Tavayı hafif yağlayıp arkalı önlü pişirin.",
-        "en": "Lightly oil the pan and cook on both sides."
+        "tr": "Hafifçe yağlanmış tavada arkalı önlü pişirip şeritler halinde dilimleyelim.",
+        "en": "Cook in a lightly greased pan on both sides and slice into strips."
       }
     ],
     "imageUrl": ""
@@ -334,8 +334,8 @@
       "en": "Cheese Crepe"
     },
     "description": {
-      "tr": "Yumuşak ve lezzetli kahvaltı dilimleri.",
-      "en": "Soft and delicious breakfast slices."
+      "tr": "İçindeki eriyen peynir lezzetiyle bebişlerin elleriyle tutarak keyifle yiyeceği yumuşak krep dilimleri.",
+      "en": "Soft crepe slices filled with melted cheese that babies will enjoy holding and eating with their hands."
     },
     "category": 8,
     "ingredients": [
@@ -385,8 +385,12 @@
     ],
     "instructions": [
       {
-        "tr": "Tavada arkalı önlü pişirin.",
-        "en": "Cook on both sides in a pan."
+        "tr": "Krep harcını tavaya döküp pişirelim, ocaktan almadan önce içine peynir ekleyip katlayalım.",
+        "en": "Pour the crepe batter into a pan and cook, add cheese inside and fold before removing from heat."
+      },
+      {
+        "tr": "Ilındıktan sonra dilimleyerek servis edelim.",
+        "en": "Slice and serve after it cools slightly."
       }
     ],
     "imageUrl": ""
@@ -398,8 +402,8 @@
       "en": "Oatmeal with Banana"
     },
     "description": {
-      "tr": "Enerji dolu tatlı bir sabah.",
-      "en": "Sweet morning full of energy."
+      "tr": "Yulafın lif gücü ve muzun doğal tatlılığıyla bebişinize uzun süre tokluk hissi verecek lezzetli bir sabah öğünü.",
+      "en": "A delicious morning meal combining the fiber power of oats and the natural sweetness of banana to keep your baby full."
     },
     "category": 8,
     "ingredients": [
@@ -445,8 +449,12 @@
     ],
     "instructions": [
       {
-        "tr": "Yulafı pişirip muzla ezin.",
-        "en": "Cook oats and mash with banana."
+        "tr": "Yulaf ezmesini suda pişirip lapa haline getirelim.",
+        "en": "Cook rolled oats in water to form a porridge."
+      },
+      {
+        "tr": "İçine ezilmiş muz ekleyip karıştırarak ılık servis edelim.",
+        "en": "Add mashed banana, mix well, and serve warm."
       }
     ],
     "imageUrl": ""
@@ -458,8 +466,8 @@
       "en": "Curd with Apricot Puree"
     },
     "description": {
-      "tr": "Tatlı ve tuzlu dengesi.",
-      "en": "Balance of sweet and salty."
+      "tr": "Gün kurusu kayısının tatlı aroması ile tuzsuz lor peynirinin lezzetli ve besleyici uyumu.",
+      "en": "A delicious and nutritious harmony of sweet sun-dried apricot aroma and unsalted curd cheese."
     },
     "category": 8,
     "ingredients": [
@@ -505,8 +513,12 @@
     ],
     "instructions": [
       {
-        "tr": "Kayısıyı haşlayıp lorla karıştırın.",
-        "en": "Boil apricot and mix with curd."
+        "tr": "Kuru kayısıyı suda haşlayıp yumuşatıp ezelim.",
+        "en": "Boil dried apricot in water to soften, then mash it."
+      },
+      {
+        "tr": "Hazırladığımız kayısı püresini lor peyniriyle karıştırarak kahvaltıda verelim.",
+        "en": "Mix the prepared apricot puree with curd cheese and serve for breakfast."
       }
     ],
     "imageUrl": ""
@@ -518,8 +530,8 @@
       "en": "Egg with Avocado"
     },
     "description": {
-      "tr": "Sağlıklı yağlar ve yüksek protein.",
-      "en": "Healthy fats and high protein."
+      "tr": "Yumurta sarısının proteini ile avokadonun sağlıklı yağlarının bir araya geldiği besleyici kahvaltı.",
+      "en": "A highly nutritious breakfast combining the protein of egg yolk and the healthy fats of avocado."
     },
     "category": 8,
     "ingredients": [
@@ -565,8 +577,12 @@
     ],
     "instructions": [
       {
-        "tr": "İkisini birlikte çatalla ezin.",
-        "en": "Mash both together with a fork."
+        "tr": "Avokado ve haşlanmış yumurta sarısını bir tabağa alalım.",
+        "en": "Place avocado and boiled egg yolk on a plate."
+      },
+      {
+        "tr": "Çatalla ezip karıştırarak homojen bir püre elde edelim.",
+        "en": "Mash with a fork and mix to obtain a homogeneous puree."
       }
     ],
     "imageUrl": ""
@@ -578,8 +594,8 @@
       "en": "Breakfast with Baby Biscuits"
     },
     "description": {
-      "tr": "Ev yapımı bisküvilerle hızlı çözüm.",
-      "en": "Quick solution with homemade biscuits."
+      "tr": "Ev yapımı bebe bisküvilerinin anne sütü veya formül mama ile ıslatılmasıyla hazırlanan pratik sabah kahvaltısı.",
+      "en": "A practical breakfast prepared by soaking homemade baby biscuits in breast milk or formula."
     },
     "category": 8,
     "ingredients": [
@@ -607,8 +623,12 @@
     ],
     "instructions": [
       {
-        "tr": "Süt veya meyve suyu ile ıslatıp ezin.",
-        "en": "Soak with milk or fruit juice and mash."
+        "tr": "Bebe bisküvilerini kaseye alıp ılık süt ile ıslatarak yumuşatalım.",
+        "en": "Place baby biscuits in a bowl and soften them by soaking in warm milk."
+      },
+      {
+        "tr": "Çatalla ezip püre kıvamında bebişimize yedirelim.",
+        "en": "Mash with a fork and feed to your baby in a puree consistency."
       }
     ],
     "imageUrl": ""

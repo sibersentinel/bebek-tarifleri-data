@@ -6,8 +6,8 @@
       "en": "Fibrous Zucchini Puree"
     },
     "description": {
-      "tr": "Bağırsakları çalıştıran, yumuşak sebze püresi.",
-      "en": "Soft vegetable puree that moves the intestines."
+      "tr": "Yüksek lifli yapısıyla kabızlığı önleyen, kabak ve soğuk sıkım zeytinyağının bağırsak dostu uyumu.",
+      "en": "A bowel-friendly harmony of zucchini and cold-pressed olive oil that prevents constipation with its high fiber."
     },
     "category": 15,
     "ingredients": [
@@ -48,12 +48,12 @@
     "allergicIngredients": [],
     "instructions": [
       {
-        "tr": "Kabağı buharda pişirin.",
-        "en": "Steam the zucchini."
+        "tr": "Kabağı buharda yumuşayana kadar pişirelim.",
+        "en": "Steam the zucchini until soft."
       },
       {
-        "tr": "Zeytinyağı ekleyip ezin.",
-        "en": "Add olive oil and mash."
+        "tr": "Sıcakken çatalla ezip içine bol zeytinyağı ekleyerek ılık olarak bebişimize yedirelim.",
+        "en": "Mash with a fork while hot, add a generous amount of olive oil, and feed warm."
       }
     ],
     "imageUrl": ""
@@ -65,8 +65,8 @@
       "en": "Pear and Oats"
     },
     "description": {
-      "tr": "Kabızlık için birebir, doğal çözüm.",
-      "en": "Natural solution, perfect for constipation."
+      "tr": "Armudun bağırsakları çalıştıran yapısı ve yulafın lif gücünün birleştiği sindirim dostu harika lapa.",
+      "en": "A wonderful digestion-friendly porridge combining the bowel-stimulating nature of pear and fiber power of oats."
     },
     "category": 15,
     "ingredients": [
@@ -112,8 +112,12 @@
     ],
     "instructions": [
       {
-        "tr": "Yulafı pişirin, armudu rendeleyip içine ekleyin.",
-        "en": "Cook the oats, grate the pear and add it in."
+        "tr": "Yulaf ununu suyla pişirip muhallebi yapalım.",
+        "en": "Cook oat flour with water to make a pudding."
+      },
+      {
+        "tr": "İçine cam rendeden geçirilmiş taze armudu ekleyip karıştırarak ılık servis edelim.",
+        "en": "Add fresh pear passed through a glass grater, mix well, and serve warm."
       }
     ],
     "imageUrl": ""
@@ -125,8 +129,8 @@
       "en": "Probiotic Yogurt"
     },
     "description": {
-      "tr": "Bağırsak florasını destekleyen ev yoğurdu.",
-      "en": "Homemade yogurt that supports intestinal flora."
+      "tr": "Bağırsak florasını güçlendiren yararlı bakteriler içeren, bebişlerin midesini rahatlatan ev yoğurdu.",
+      "en": "Homemade yogurt containing beneficial bacteria to strengthen the bowel flora and soothe your baby's stomach."
     },
     "category": 15,
     "ingredients": [
@@ -157,8 +161,12 @@
     ],
     "instructions": [
       {
-        "tr": "Oda sıcaklığındaki taze yoğurdu sade olarak yedirin.",
-        "en": "Feed the fresh yogurt at room temperature plain."
+        "tr": "Mayaladığımız taze ev yoğurdunu buzdolabından çıkarıp oda sıcaklığına gelmesini bekleyelim.",
+        "en": "Take fresh homemade yogurt from the fridge and let it come to room temperature."
+      },
+      {
+        "tr": "Sade olarak, bebişimizin öğün aralarında kaşık kaşık yedirelim.",
+        "en": "Feed it plain, spoonful by spoonful, during your baby's snack times."
       }
     ],
     "imageUrl": ""
@@ -170,8 +178,8 @@
       "en": "Fennel Tea (Baby)"
     },
     "description": {
-      "tr": "Gaz sancısını hafifleten, sindirim rahatlatıcı.",
-      "en": "Digestive soothing, alleviating gas pain."
+      "tr": "Bebişinizin gaz sancılarını hafifletecek, mideyi rahatlatan rezene tohumu çayı.",
+      "en": "Stomach-soothing fennel seed tea to help relieve your baby's painful gas cramps."
     },
     "category": 15,
     "ingredients": [
@@ -194,12 +202,12 @@
     "allergicIngredients": [],
     "instructions": [
       {
-        "tr": "Tohumları sıcak suda 5 dakika demleyip süzün.",
-        "en": "Steep the seeds in hot water for 5 minutes and strain."
+        "tr": "Rezene tohumlarını sıcak suda ağzı kapalı şekilde 5 dakika demlenmeye bırakalım.",
+        "en": "Steep fennel seeds in hot water with the lid closed for 5 minutes."
       },
       {
-        "tr": "Ilıyınca birkaç kaşık verin.",
-        "en": "Give a few spoons when warm."
+        "tr": "Tülbent yardımıyla iyice süzüp ılındıktan sonra bebişimize birkaç kaşık verelim.",
+        "en": "Strain thoroughly through a cheesecloth, let it cool to warm, and give a few spoonfuls to your baby."
       }
     ],
     "imageUrl": ""
@@ -211,8 +219,8 @@
       "en": "Boiled Apple Juice"
     },
     "description": {
-      "tr": "Mideyi yormayan, sindirimi destekleyici sıvı.",
-      "en": "Supportive liquid for digestion, not tiring the stomach."
+      "tr": "Mide bulantısını yatıştıran ve sindirimi destekleyen, haşlanmış elmanın süzülmüş şifalı suyu.",
+      "en": "A healing strained juice of boiled apple to soothe nausea and support healthy digestion."
     },
     "category": 15,
     "ingredients": [
@@ -238,8 +246,12 @@
     "allergicIngredients": [],
     "instructions": [
       {
-        "tr": "Elmayı haşlayıp suyunu süzün.",
-        "en": "Boil the apple and strain the juice."
+        "tr": "Elmayı temiz suda yumuşayana dek haşlayalım.",
+        "en": "Boil the apple in clean water until soft."
+      },
+      {
+        "tr": "Haşlama suyunu ince süzgeçten süzerek ılık bir şekilde bebişimize içirelim.",
+        "en": "Strain the cooking water through a fine sieve and serve warm for your baby to drink."
       }
     ],
     "imageUrl": ""
@@ -251,8 +263,8 @@
       "en": "Plum and Pear Mix"
     },
     "description": {
-      "tr": "Kabızlık için en etkili ikili.",
-      "en": "Most effective duo for constipation."
+      "tr": "Kabızlık dönemlerinde bebişinizin imdadına yetişecek, armut ve mürdüm eriği püresi.",
+      "en": "Pear and damson plum puree to rescue your baby during constipation periods."
     },
     "category": 15,
     "ingredients": [
@@ -293,8 +305,12 @@
     "allergicIngredients": [],
     "instructions": [
       {
-        "tr": "Buharda pişirip birlikte ezin.",
-        "en": "Steam and mash together."
+        "tr": "Mürdüm eriği ve armudu yıkayıp buharda yumuşayana dek pişirelim.",
+        "en": "Wash and steam damson plum and pear until tender."
+      },
+      {
+        "tr": "Meyveleri çatalla ezerek püre kıvamında yedirelim.",
+        "en": "Mash the fruits with a fork and feed in a puree consistency."
       }
     ],
     "imageUrl": ""
@@ -306,8 +322,8 @@
       "en": "Okra with Olive Oil"
     },
     "description": {
-      "tr": "Yumuşak yapısıyla kolay geçiş.",
-      "en": "Easy transition with its soft structure."
+      "tr": "Lifli yapısıyla dışkılamayı kolaylaştıran, zeytinyağı ile zenginleştirilmiş yumuşak bamya püresi.",
+      "en": "A soft okra puree enriched with olive oil, making bowel movements easier with its fibrous texture."
     },
     "category": 15,
     "ingredients": [
@@ -333,8 +349,12 @@
     "allergicIngredients": [],
     "instructions": [
       {
-        "tr": "Çekirdeklerini çıkarıp püre yapın.",
-        "en": "Remove seeds and make a puree."
+        "tr": "Bamyaları haşlayıp çekirdekli kısımlarını süzgeçle ayıralım.",
+        "en": "Boil okras and strain through a sieve to remove the seeds."
+      },
+      {
+        "tr": "Elde ettiğimiz bamyayı sızma zeytinyağı ekleyerek püre halinde yedirelim.",
+        "en": "Add extra virgin olive oil to the resulting okra pulp and feed as a puree."
       }
     ],
     "imageUrl": ""
@@ -346,8 +366,8 @@
       "en": "Kefir (Homemade)"
     },
     "description": {
-      "tr": "Probiyotik gücü yüksek içecek.",
-      "en": "Drink with high probiotic power."
+      "tr": "Probiyotik gücü yoğurttan kat kat yüksek olan, bebişinizin bağışıklığını ve sindirimini coşturacak ev yapımı kefir.",
+      "en": "Homemade kefir, with probiotic power many times higher than yogurt, to boost your baby's immunity and digestion."
     },
     "category": 15,
     "ingredients": [
@@ -378,8 +398,12 @@
     ],
     "instructions": [
       {
-        "tr": "Azar azar içirerek başlayın.",
-        "en": "Start by feeding little by little."
+        "tr": "Kefir mayası ile mayaladığımız ev yapımı kefiri buzdolabından çıkaralım.",
+        "en": "Take homemade kefir fermented with kefir grains from the fridge."
+      },
+      {
+        "tr": "Başlangıçta günde 1-2 tatlı kaşığı vererek bebişimizin alışmasını sağlayalım.",
+        "en": "Start by giving 1-2 teaspoons a day to let your baby get used to it."
       }
     ],
     "imageUrl": ""
@@ -391,8 +415,8 @@
       "en": "Rice Water (For Diarrhea)"
     },
     "description": {
-      "tr": "Mideyi toparlayan geleneksel çözüm.",
-      "en": "Traditional solution that gathers the stomach."
+      "tr": "Bebişiniz ishal olduğunda mideyi toparlayacak ve sıvı kaybını önleyecek geleneksel pirinç suyu.",
+      "en": "Traditional rice water to settle the stomach and prevent dehydration when your baby has diarrhea."
     },
     "category": 15,
     "ingredients": [
@@ -418,8 +442,12 @@
     "allergicIngredients": [],
     "instructions": [
       {
-        "tr": "Pirinci bol suda haşlayıp suyunu süzün.",
-        "en": "Boil rice in plenty of water and strain the juice."
+        "tr": "Pirinci bol temiz suda pirinçler tamamen ezilene kadar uzun süre haşlayalım.",
+        "en": "Boil rice in plenty of clean water for a long time until the grains are completely soft and mushy."
+      },
+      {
+        "tr": "Haşlanan pirincin suyunu süzüp ılıklaştırarak kaşıkla bebişimize içirelim.",
+        "en": "Strain the rice water, let it cool to warm, and feed it to your baby with a spoon."
       }
     ],
     "imageUrl": ""
@@ -431,8 +459,8 @@
       "en": "Potato and Carrot Porridge"
     },
     "description": {
-      "tr": "Mide dostu ve tok tutucu.",
-      "en": "Stomach-friendly and filling."
+      "tr": "Yağsız haşlanmış patates ve havucun mideyi yormayan ve bağırsakları toparlayan şifalı lapası.",
+      "en": "A healing porridge of fat-free boiled potato and carrot to settle the stomach and firm up the bowels."
     },
     "category": 15,
     "ingredients": [
@@ -473,8 +501,12 @@
     "allergicIngredients": [],
     "instructions": [
       {
-        "tr": "Yağsız haşlayıp püre yapın.",
-        "en": "Boil without oil and make a puree."
+        "tr": "Patates ve havucu yağ eklemeden temiz suda yumuşayana dek haşlayalım.",
+        "en": "Boil potato and carrot in clean water without adding any fat until tender."
+      },
+      {
+        "tr": "Sebzeleri süzüp pürüzsüz olana dek çatalla ezip yedirelim.",
+        "en": "Drain the vegetables, mash them with a fork until smooth, and feed."
       }
     ],
     "imageUrl": ""

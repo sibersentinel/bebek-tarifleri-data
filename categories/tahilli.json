@@ -6,8 +6,8 @@
       "en": "Oatmeal Porridge"
     },
     "description": {
-      "tr": "Lifli ve doyurucu bir kahvaltı alternatifi.",
-      "en": "A fibrous and filling breakfast alternative."
+      "tr": "Lif yönünden zengin yulaf ununun, bebişinizi uzun süre tok tutacak besleyici sabah lapası.",
+      "en": "A nutritious morning porridge made of fiber-rich oat flour to keep your baby full for longer."
     },
     "category": 4,
     "ingredients": [
@@ -50,12 +50,12 @@
     ],
     "instructions": [
       {
-        "tr": "Yulaf ununu su ile karıştırarak pişirin.",
-        "en": "Cook oat flour by mixing with water."
+        "tr": "Yulaf ununu suyla karıştırarak ocakta muhallebi kıvamına gelene kadar pişirelim.",
+        "en": "Cook oat flour with water on the stove, stirring until it reaches a pudding consistency."
       },
       {
-        "tr": "Muhallebi kıvamına gelince ocaktan alın.",
-        "en": "Remove from heat when it reaches a pudding consistency."
+        "tr": "Ilındıktan sonra ocaktan alıp yedirelim.",
+        "en": "Remove from heat, let it cool to warm, and feed."
       }
     ],
     "imageUrl": ""
@@ -67,8 +67,8 @@
       "en": "Rice Flour Pudding"
     },
     "description": {
-      "tr": "Klasik ve hafif bir öğün.",
-      "en": "A classic and light meal."
+      "tr": "Bebişlerin ilk ek gıda günlerinden itibaren severek yediği, sindirimi çok kolay pirinç unlu klasik muhallebi.",
+      "en": "A classic, easy-to-digest rice flour pudding that babies love from their very first days of solid foods."
     },
     "category": 4,
     "ingredients": [
@@ -106,12 +106,12 @@
     "allergicIngredients": [],
     "instructions": [
       {
-        "tr": "Malzemeleri tencerede karıştırıp pişirin.",
-        "en": "Mix and cook the ingredients in a pot."
+        "tr": "Pirinç ununu su ile karıştırarak tencereye alalım.",
+        "en": "Mix rice flour with water and place in a pot."
       },
       {
-        "tr": "Sürekli karıştırarak pürüzsüz olmasını sağlayın.",
-        "en": "Stir constantly to ensure it is smooth."
+        "tr": "Kısık ateşte topaklanmaması için sürekli karıştırarak göz göz olana dek pişirelim.",
+        "en": "Cook over low heat, stirring constantly to prevent lumps, until it bubbles gently."
       }
     ],
     "imageUrl": ""
@@ -123,8 +123,8 @@
       "en": "Semolina Fruit Puree"
     },
     "description": {
-      "tr": "Meyvelerin tadıyla irmik birleşiyor.",
-      "en": "Semolina meets the taste of fruits."
+      "tr": "İrmiğin doyurucu dokusu ile taze elmanın doğal tatlılığının birleştiği nefis bir ikindi öğünü.",
+      "en": "A delicious afternoon meal combining the filling texture of semolina and natural sweetness of fresh apple."
     },
     "category": 4,
     "ingredients": [
@@ -182,12 +182,12 @@
     ],
     "instructions": [
       {
-        "tr": "İrmiği su ile pişirin.",
-        "en": "Cook the semolina with water."
+        "tr": "İrmiği su ile yumuşayana kadar tencerede pişirelim.",
+        "en": "Cook semolina with water in a pot until tender."
       },
       {
-        "tr": "Elmayı rendeleyip pişen irmiğe ekleyin.",
-        "en": "Grate the apple and add to the cooked semolina."
+        "tr": "Pişen irmiğe cam rendede rendelenmiş elma ekleyip karıştırarak servis edelim.",
+        "en": "Add grated apple from a glass grater to the cooked semolina, mix, and serve."
       }
     ],
     "imageUrl": ""
@@ -199,8 +199,8 @@
       "en": "Whole Wheat Pancake"
     },
     "description": {
-      "tr": "Bebişlerin kendi kendine yiyebileceği bir tarif.",
-      "en": "A recipe that babies can eat by themselves."
+      "tr": "Tam buğday ununun lif gücüyle hazırlanan, bebişlerin elleriyle tutarak keyifle yiyeceği pankekler.",
+      "en": "Pancakes prepared with the fiber power of whole wheat flour, perfect for babies to hold and eat."
     },
     "category": 4,
     "ingredients": [
@@ -250,12 +250,12 @@
     ],
     "instructions": [
       {
-        "tr": "Tüm malzemeleri çırpın.",
-        "en": "Whisk all ingredients."
+        "tr": "Tam buğday unu, yumurta sarısı ve az suyu çırparak pürüzsüz bir harç elde edelim.",
+        "en": "Whisk whole wheat flour, egg yolk, and a little water to get a smooth batter."
       },
       {
-        "tr": "Yapışmaz tavada arkalı önlü pişirin.",
-        "en": "Cook on both sides in a non-stick pan."
+        "tr": "Tavada arkalı önlü pişirip parmak şeklinde dilimleyelim.",
+        "en": "Cook in a pan on both sides and slice into finger-sized strips."
       }
     ],
     "imageUrl": ""
@@ -267,8 +267,8 @@
       "en": "Bulgur Rice (Porridge)"
     },
     "description": {
-      "tr": "Sebze suyuyla zenginleştirilmiş bulgur.",
-      "en": "Bulgur enriched with vegetable broth."
+      "tr": "Sebze suyunun vitaminleriyle demlenmiş, bebişinizin çiğnemesini geliştirecek yumuşacık bulgur lapası.",
+      "en": "Soft bulgur porridge infused with the vitamins of vegetable broth to help develop your baby's chewing."
     },
     "category": 4,
     "ingredients": [
@@ -311,12 +311,12 @@
     ],
     "instructions": [
       {
-        "tr": "Bulguru sebze suyuyla suyunu çekene kadar pişirin.",
-        "en": "Cook the bulgur with vegetable broth until the water is absorbed."
+        "tr": "Bulguru sebze suyunda bulgurlar tamamen açılıp yumuşayana kadar pişirelim.",
+        "en": "Cook bulgur in vegetable broth until the grains are fully opened and soft."
       },
       {
-        "tr": "İyice yumuşadığından emin olun.",
-        "en": "Make sure it is thoroughly soft."
+        "tr": "Çatalla ezerek ılık servis edelim.",
+        "en": "Mash with a fork and serve warm."
       }
     ],
     "imageUrl": ""
@@ -328,8 +328,8 @@
       "en": "Quinoa Puree"
     },
     "description": {
-      "tr": "Yüksek proteinli süper tahıl.",
-      "en": "High protein super grain."
+      "tr": "Protein ve aminoasit değeri çok yüksek olan kinoanın, haşlanarak sebzelerle zenginleştirilmiş hali.",
+      "en": "Boiled quinoa, highly rich in protein and amino acids, enriched with tasty vegetables."
     },
     "category": 4,
     "ingredients": [
@@ -355,8 +355,12 @@
     "allergicIngredients": [],
     "instructions": [
       {
-        "tr": "Kinoayı iyice haşlayıp sebzelerle karıştırın.",
-        "en": "Boil quinoa thoroughly and mix with vegetables."
+        "tr": "Kinoayı bol suda iyice yumuşayana dek haşlayalım.",
+        "en": "Boil quinoa in plenty of water until very soft."
+      },
+      {
+        "tr": "Haşlanmış havuç veya kabak püresiyle karıştırarak servis edelim.",
+        "en": "Mix with boiled carrot or zucchini puree and serve."
       }
     ],
     "imageUrl": ""
@@ -368,8 +372,8 @@
       "en": "Corn Flour Porridge"
     },
     "description": {
-      "tr": "Geleneksel ve doyurucu.",
-      "en": "Traditional and filling."
+      "tr": "Karadeniz'in geleneksel mısır unu lezzetini bebişinizin tabağına taşıyan doyurucu kaçamak lapası.",
+      "en": "A filling traditional corn flour porridge, bringing the classic Black Sea flavors to your baby's plate."
     },
     "category": 4,
     "ingredients": [
@@ -400,8 +404,12 @@
     ],
     "instructions": [
       {
-        "tr": "Mısır ununu suyla muhallebi yapın.",
-        "en": "Make a pudding with corn flour and water."
+        "tr": "Mısır ununu suyla karıştırarak ocakta muhallebi şeklinde pişirelim.",
+        "en": "Cook corn flour with water on the stove until it reaches a pudding consistency."
+      },
+      {
+        "tr": "İçine bir tatlı kaşığı peynir veya zeytinyağı ekleyip ılık verelim.",
+        "en": "Add a teaspoon of cheese or olive oil and serve warm."
       }
     ],
     "imageUrl": ""
@@ -413,8 +421,8 @@
       "en": "Barley Noodle Rice"
     },
     "description": {
-      "tr": "Yumuşak ve lezzetli tahıl.",
-      "en": "Soft and delicious grain."
+      "tr": "Bebişlerin yutmasını kolaylaştıracak şekilde iyice haşlanmış, lezzetli arpa şehriye pilavı.",
+      "en": "Tasty barley noodle rice, boiled thoroughly to make swallowing easy for your baby."
     },
     "category": 4,
     "ingredients": [
@@ -445,8 +453,12 @@
     ],
     "instructions": [
       {
-        "tr": "Şehriyeleri haşlayıp ezin.",
-        "en": "Boil and mash the noodles."
+        "tr": "Arpa şehriyeleri bol suda yumuşacık olana kadar haşlayalım.",
+        "en": "Boil barley noodles in plenty of water until very soft."
+      },
+      {
+        "tr": "Süzüp üzerine zeytinyağı ekleyerek çatalla ezerek servis edelim.",
+        "en": "Drain, add olive oil, mash with a fork, and serve."
       }
     ],
     "imageUrl": ""
@@ -458,8 +470,8 @@
       "en": "Oat Bran Porridge"
     },
     "description": {
-      "tr": "Yoğun lif kaynağı.",
-      "en": "Intense fiber source."
+      "tr": "Lif oranı en yüksek yulaf kepeğiyle hazırlanan, bebişinizin bağırsaklarını çalıştıracak lapa.",
+      "en": "Oat bran porridge with the highest fiber content to stimulate your baby's bowels."
     },
     "category": 4,
     "ingredients": [
@@ -490,8 +502,12 @@
     ],
     "instructions": [
       {
-        "tr": "Süt veya su ile pişirin.",
-        "en": "Cook with milk or water."
+        "tr": "Yulaf kepeğini su veya süt ile ocakta pişirelim.",
+        "en": "Cook oat bran with water or milk on the stove."
+      },
+      {
+        "tr": "Ilındıktan sonra bebişimize kaşıkla yedirelim.",
+        "en": "Feed to your baby with a spoon after it cools to warm."
       }
     ],
     "imageUrl": ""
@@ -503,8 +519,8 @@
       "en": "Buckwheat"
     },
     "description": {
-      "tr": "Glutensiz ve besleyici.",
-      "en": "Gluten-free and nutritious."
+      "tr": "Glutensiz ve besin değeri çok yüksek karabuçeğin haşlanıp ezilmesiyle hazırlanan şifalı lapa.",
+      "en": "A healing porridge prepared by boiling and mashing gluten-free, highly nutritious buckwheat."
     },
     "category": 4,
     "ingredients": [
@@ -530,8 +546,12 @@
     "allergicIngredients": [],
     "instructions": [
       {
-        "tr": "Haşlayıp sebze sularına ekleyin.",
-        "en": "Boil and add to vegetable broths."
+        "tr": "Karabuğdayı (greçka) yumuşayana dek haşlayalım.",
+        "en": "Boil buckwheat (grecka) until tender."
+      },
+      {
+        "tr": "Süzüp sebze püresiyle veya sade olarak ezerek servis edelim.",
+        "en": "Drain and serve either plain or mashed with vegetable puree."
       }
     ],
     "imageUrl": ""

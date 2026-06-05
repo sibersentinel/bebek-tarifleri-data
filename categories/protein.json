@@ -6,8 +6,8 @@
       "en": "Boiled Egg Yolk"
     },
     "description": {
-      "tr": "Bebekler için en değerli protein kaynaklarından biri.",
-      "en": "One of the most valuable protein sources for babies."
+      "tr": "Bebişiniz için en değerli ve sindirimi en kolay protein kaynaklarından biri olan haşlanmış yumurta sarısı.",
+      "en": "Boiled egg yolk, one of the most valuable and easiest-to-digest protein sources for your baby."
     },
     "category": 5,
     "ingredients": [
@@ -38,12 +38,12 @@
     ],
     "instructions": [
       {
-        "tr": "Yumurtayı tam pişecek şekilde haşlayın.",
-        "en": "Boil the egg so it's fully cooked."
+        "tr": "Yumurtayı katılaşana kadar yaklaşık 10 dakika haşlayalım.",
+        "en": "Boil the egg for about 10 minutes until hard-boiled."
       },
       {
-        "tr": "Beyazından tamamen ayırıp sadece sarısını ezin.",
-        "en": "Separate completely from the white and mash only the yolk."
+        "tr": "Beyazından tamamen ayırıp sadece sarısını alalım ve anne sütüyle ezelim.",
+        "en": "Separate the yolk completely from the white and mash it with a bit of breast milk."
       }
     ],
     "imageUrl": ""
@@ -55,8 +55,8 @@
       "en": "Vegetable Mash with Minced Meat"
     },
     "description": {
-      "tr": "Demir ve protein deposu doyurucu bir öğün.",
-      "en": "A filling meal that is a storage of iron and protein."
+      "tr": "Kuzu kıymasının proteini ve patatesin karbonhidrat gücünün birleştiği besleyici sebze yemeği.",
+      "en": "A nutritious vegetable dish combining the protein of minced lamb and the carbohydrate power of potato."
     },
     "category": 5,
     "ingredients": [
@@ -97,12 +97,12 @@
     "allergicIngredients": [],
     "instructions": [
       {
-        "tr": "Kıymayı az suda pişirin.",
-        "en": "Cook the minced meat in a little water."
+        "tr": "Kıymayı tencerede az suda iyice pişirelim.",
+        "en": "Cook the minced meat in a pot with a little water until fully done."
       },
       {
-        "tr": "Haşlanmış patatesle karıştırıp ezin.",
-        "en": "Mix with boiled potatoes and mash."
+        "tr": "Haşlanmış patatesle birleştirip çatalla ezerek kıvam verelim.",
+        "en": "Combine with boiled potato and mash with a fork to adjust consistency."
       }
     ],
     "imageUrl": ""
@@ -114,8 +114,8 @@
       "en": "Chicken Noodle Soup"
     },
     "description": {
-      "tr": "Bağışıklık güçlendirici tavuk suyu ve tavuk eti.",
-      "en": "Immunity-boosting chicken broth and chicken meat."
+      "tr": "Didiklenmiş tavuk etleri ve yıldız şehriyelerle hazırlanan, bebişinizin gücünü yerine getirecek şifa çorbası.",
+      "en": "A healing soup prepared with shredded chicken and star noodles to restore your baby's strength."
     },
     "category": 5,
     "ingredients": [
@@ -146,12 +146,12 @@
     ],
     "instructions": [
       {
-        "tr": "Tavuğu iyice haşlayıp didikleyin.",
-        "en": "Boil the chicken thoroughly and shred it."
+        "tr": "Tavuk göğsünü haşlayıp minik minik didikleyelim.",
+        "en": "Boil the chicken breast and shred it into tiny pieces."
       },
       {
-        "tr": "Çorba içinde küçük parçalar halinde servis edin.",
-        "en": "Serve in small pieces inside the soup."
+        "tr": "Tavuk suyunda şehriyeleri pişirip didiklenmiş etleri ekleyerek servis edelim.",
+        "en": "Cook noodles in the chicken broth, add the shredded meat, and serve."
       }
     ],
     "imageUrl": ""
@@ -163,8 +163,8 @@
       "en": "Lamb Liver Mash"
     },
     "description": {
-      "tr": "Haftada bir önerilen yüksek demir kaynağı.",
-      "en": "High iron source recommended once a week."
+      "tr": "Demir eksikliğini önlemek için haftada bir kez verilmesi önerilen, yumuşacık kuzu ciğeri ezmesi.",
+      "en": "Soft lamb liver mash, recommended once a week to prevent iron deficiency."
     },
     "category": 5,
     "ingredients": [
@@ -190,12 +190,12 @@
     "allergicIngredients": [],
     "instructions": [
       {
-        "tr": "Ciğeri zarlarından ayırıp haşlayın veya soteleyin.",
-        "en": "Separate the liver from its membranes and boil or saute it."
+        "tr": "Kuzu ciğerinin zarlarını temizleyip buharda veya az suda pişirelim.",
+        "en": "Clean the membranes of the lamb liver and steam or boil in a little water."
       },
       {
-        "tr": "Püre haline getirip sebzelerle karıştırın.",
-        "en": "Make it into a puree and mix with vegetables."
+        "tr": "Haşlanmış havuç ve patatesle karıştırarak pürüzsüz püre haline getirelim.",
+        "en": "Mix with boiled carrot and potato, and blend into a smooth puree."
       }
     ],
     "imageUrl": ""
@@ -207,8 +207,8 @@
       "en": "Steamed Fish"
     },
     "description": {
-      "tr": "Omega-3 deposu, taze ve kılçıksız balık.",
-      "en": "Omega-3 store, fresh and boneless fish."
+      "tr": "Omega-3 deposu taze ve beyaz etli balığın buharda pişirilmesiyle hazırlanan sağlıklı akşam yemeği.",
+      "en": "A healthy dinner prepared by steaming fresh, white-fleshed fish packed with omega-3."
     },
     "category": 5,
     "ingredients": [
@@ -239,16 +239,12 @@
     ],
     "instructions": [
       {
-        "tr": "Balığı buharda pişirin.",
-        "en": "Steam the fish."
+        "tr": "Balığı buharda içi tamamen pişene dek haşlayalım.",
+        "en": "Steam the fish until the inside is fully cooked."
       },
       {
-        "tr": "Kılçıklarını çok dikkatli bir şekilde temizleyin.",
-        "en": "Clean the bones very carefully."
-      },
-      {
-        "tr": "Limon sıkarak servis edin.",
-        "en": "Serve with a squeeze of lemon."
+        "tr": "Kılçıklarını çok büyük bir dikkatle ayıklayıp eti çatalla ezelim ve üzerine limon sıkalım.",
+        "en": "Debone with extreme care, mash the flesh with a fork, and squeeze some lemon juice on top."
       }
     ],
     "imageUrl": ""
@@ -260,8 +256,8 @@
       "en": "Turkey Meat Mash"
     },
     "description": {
-      "tr": "Yağsız ve sağlıklı beyaz et.",
-      "en": "Lean and healthy white meat."
+      "tr": "Yağsız ve sindirimi kolay hindi göğüs etinin, sebze suyuyla lezzetlendirilip ezilmesiyle hazırlanan ezme.",
+      "en": "A mash prepared by boiling lean and digestible turkey breast, flavored with vegetable broth and mashed."
     },
     "category": 5,
     "ingredients": [
@@ -287,8 +283,12 @@
     "allergicIngredients": [],
     "instructions": [
       {
-        "tr": "Hindiyi haşlayıp ezin.",
-        "en": "Boil and mash the turkey."
+        "tr": "Hindi etini tencerede lokum gibi olana kadar haşlayalım.",
+        "en": "Boil the turkey meat in a pot until tender."
+      },
+      {
+        "tr": "Etleri didikleyip çatalla ezerek püre şeklinde sunalım.",
+        "en": "Shred the meat and mash with a fork, serving it as a puree."
       }
     ],
     "imageUrl": ""
@@ -300,8 +300,8 @@
       "en": "White Bean Puree"
     },
     "description": {
-      "tr": "Bitkisel protein kaynağı.",
-      "en": "Plant-based protein source."
+      "tr": "Bitkisel protein yönünden zengin kuru fasulyenin, kabukları soyularak gaz yapması önlenmiş ezmesi.",
+      "en": "A plant-based protein-rich white bean puree, with skins removed to prevent gas."
     },
     "category": 5,
     "ingredients": [
@@ -327,8 +327,12 @@
     "allergicIngredients": [],
     "instructions": [
       {
-        "tr": "Fasulyeleri haşlayıp kabuklarını soyarak ezin.",
-        "en": "Boil the beans and mash by peeling the skins."
+        "tr": "Kuru fasulyeleri iyice haşlayıp kabuklarını tek tek soyalım.",
+        "en": "Boil the white beans thoroughly and peel their skins one by one."
+      },
+      {
+        "tr": "Çatalla ezerek zeytinyağı eşliğinde püre haline getirelim.",
+        "en": "Mash with a fork and serve with a drizzle of olive oil."
       }
     ],
     "imageUrl": ""
@@ -340,8 +344,8 @@
       "en": "Chickpea Mash (Baby Hummus)"
     },
     "description": {
-      "tr": "Bebekler için baharatsız humus.",
-      "en": "Hummus without spices for babies."
+      "tr": "Bebişler için baharatsız ve tahinsiz olarak hazırlanan, bitkisel protein deposu leziz bebek humusu.",
+      "en": "A delicious baby hummus prepared without spices or tahini, packed with plant-based protein."
     },
     "category": 5,
     "ingredients": [
@@ -367,8 +371,12 @@
     "allergicIngredients": [],
     "instructions": [
       {
-        "tr": "Nohutları haşlayıp kabuklarını soyun ve ezin.",
-        "en": "Boil the chickpeas, peel the skins and mash."
+        "tr": "Nohutları haşlayıp kabuklarını temizleyelim.",
+        "en": "Boil the chickpeas and remove their skins."
+      },
+      {
+        "tr": "Zeytinyağı ve az kimyon ekleyerek pürüzsüzleşene dek çatalla ezelim.",
+        "en": "Add olive oil and a pinch of cumin, and mash with a fork until smooth."
       }
     ],
     "imageUrl": ""
@@ -380,8 +388,8 @@
       "en": "Red Lentil Patties"
     },
     "description": {
-      "tr": "Elde tutması kolay protein.",
-      "en": "Easy-to-hold protein."
+      "tr": "Elde tutması kolay formuyla BLW dostu, demir ve protein zengini kırmızı mercimek köftesi.",
+      "en": "BLW-friendly, easy-to-hold red lentil patties rich in iron and protein."
     },
     "category": 5,
     "ingredients": [
@@ -407,8 +415,12 @@
     "allergicIngredients": [],
     "instructions": [
       {
-        "tr": "Mercimeği pişirip bulgurla yoğurun ve şekil verin.",
-        "en": "Cook the lentils, knead with bulgur and shape."
+        "tr": "Kırmızı mercimeği pişirip sıcakken içine ince bulgur ekleyelim ve kapağını kapatıp demlendirelim.",
+        "en": "Cook red lentils, add fine bulgur while hot, close the lid, and let it steam."
+      },
+      {
+        "tr": "Ilındıktan sonra zeytinyağı ile yoğurarak parmak şeklinde köfteler yapalım.",
+        "en": "Once cooled to warm, knead with olive oil and shape into finger-sized patties."
       }
     ],
     "imageUrl": ""
@@ -420,8 +432,8 @@
       "en": "Salmon with Potato"
     },
     "description": {
-      "tr": "Omega-3 ve enerji deposu.",
-      "en": "Omega-3 and energy storage."
+      "tr": "Omega-3 kaynağı somon balığı ve patatesin buharda pişmesiyle hazırlanan besleyici protein öğünü.",
+      "en": "A nutritious protein meal prepared by steaming omega-3 source salmon and potatoes."
     },
     "category": 5,
     "ingredients": [
@@ -467,8 +479,12 @@
     ],
     "instructions": [
       {
-        "tr": "Buharda pişirip ezin.",
-        "en": "Steam and mash."
+        "tr": "Somon balığı ve patates dilimlerini buharda pişirelim.",
+        "en": "Steam salmon and potato slices together."
+      },
+      {
+        "tr": "Kılçıksız somon etini patatesle birlikte çatalla ezerek karıştırıp ılık servis edelim.",
+        "en": "Mash the boneless salmon together with potatoes using a fork and serve warm."
       }
     ],
     "imageUrl": ""

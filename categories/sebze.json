@@ -6,8 +6,8 @@
       "en": "Pea Puree"
     },
     "description": {
-      "tr": "Protein ve lif kaynağı, tatlı bezelyeler.",
-      "en": "A source of protein and fiber, sweet peas."
+      "tr": "Tatlı bezelye tanelerinin haşlanıp süzülmesiyle elde edilen, lif oranı yüksek rengarenk sebze püresi.",
+      "en": "A high-fiber, colorful vegetable puree obtained by boiling and straining sweet peas."
     },
     "category": 2,
     "ingredients": [
@@ -33,16 +33,12 @@
     "allergicIngredients": [],
     "instructions": [
       {
-        "tr": "Bezelyeleri haşlayın.",
-        "en": "Boil the peas."
+        "tr": "Taze bezelyeleri yumuşayana kadar haşlayalım.",
+        "en": "Boil fresh peas until tender."
       },
       {
-        "tr": "Zarlarından ayırmak için süzgeçten geçirin.",
-        "en": "Pass through a sieve to separate from the skins."
-      },
-      {
-        "tr": "Püre haline getirin.",
-        "en": "Make it into a puree."
+        "tr": "Zarlarını ayıklamak için süzgeçten geçirip pürüzsüz püre elde edelim.",
+        "en": "Pass through a sieve to remove the skins and get a smooth puree."
       }
     ],
     "imageUrl": ""
@@ -54,8 +50,8 @@
       "en": "Broccoli and Potato"
     },
     "description": {
-      "tr": "Vitamin deposu brokoli ile doyurucu patates.",
-      "en": "Vitamin storage broccoli and filling potato."
+      "tr": "Brokolinin yüksek vitamin değeri ve patatesin doyurucu karbonhidrat gücünün buluştuğu leziz yeşil tabak.",
+      "en": "A delicious green dish combining the high vitamin value of broccoli and filling carbohydrate power of potato."
     },
     "category": 2,
     "ingredients": [
@@ -96,16 +92,12 @@
     "allergicIngredients": [],
     "instructions": [
       {
-        "tr": "Sebzeleri buharda pişirin.",
-        "en": "Steam the vegetables."
+        "tr": "Brokoli ve patatesi buharda haşlayalım.",
+        "en": "Steam broccoli and potato together."
       },
       {
-        "tr": "Yumuşayınca çatalla ezin.",
-        "en": "Mash with a fork when soft."
-      },
-      {
-        "tr": "Zeytinyağı ekleyerek karıştırın.",
-        "en": "Mix by adding olive oil."
+        "tr": "Yumuşayan sebzeleri çatalla ezip zeytinyağı ilave ederek karıştıralım.",
+        "en": "Mash the softened vegetables with a fork, add olive oil, and mix."
       }
     ],
     "imageUrl": ""
@@ -117,8 +109,8 @@
       "en": "Spinach with Yogurt"
     },
     "description": {
-      "tr": "Demir zengini ıspanak ve kalsiyum kaynağı yoğurt.",
-      "en": "Iron-rich spinach and calcium source yogurt."
+      "tr": "Demir deposu ıspanak yapraklarının hafifçe sote edilip kalsiyum zengini ev yoğurduyla karıştırılması.",
+      "en": "Iron-rich spinach leaves lightly sauteed and mixed with calcium-rich homemade yogurt."
     },
     "category": 2,
     "ingredients": [
@@ -164,16 +156,12 @@
     ],
     "instructions": [
       {
-        "tr": "Ispanakları soteleyin veya haşlayın.",
-        "en": "Saute or boil the spinach."
+        "tr": "Ispanakları yıkayıp az suda yumuşayana dek haşlayalım ve suyunu sıkıp incecik kıyalım.",
+        "en": "Wash and boil spinach in a little water until tender, squeeze out the juice, and chop finely."
       },
       {
-        "tr": "İnce ince kıyın.",
-        "en": "Chop finely."
-      },
-      {
-        "tr": "Yoğurtla karıştırıp servis edin.",
-        "en": "Mix with yogurt and serve."
+        "tr": "Kıyılmış ıspanakları taze ev yoğurduna karıştırıp yedirelim.",
+        "en": "Mix the chopped spinach into fresh homemade yogurt and feed."
       }
     ],
     "imageUrl": ""
@@ -185,8 +173,8 @@
       "en": "Cauliflower Puree"
     },
     "description": {
-      "tr": "Hafif ve lezzetli bir kış sebzesi.",
-      "en": "A light and delicious winter vegetable."
+      "tr": "Hafif lezzetiyle bebişlerin midesini yormayacak, krema kıvamında nefis karnabahar püresi.",
+      "en": "A delicious, creamy cauliflower puree with a mild flavor that won't upset your baby's tummy."
     },
     "category": 2,
     "ingredients": [
@@ -212,12 +200,12 @@
     "allergicIngredients": [],
     "instructions": [
       {
-        "tr": "Karnabaharları buharda haşlayın.",
-        "en": "Steam the cauliflower."
+        "tr": "Karnabaharları buharda tamamen yumuşayana dek haşlayalım.",
+        "en": "Steam cauliflower florets until completely tender."
       },
       {
-        "tr": "Pürüzsüz olana kadar blenderdan geçirin.",
-        "en": "Blend until smooth."
+        "tr": "Blender veya çatal yardımıyla pürüzsüz olana dek ezip servis edelim.",
+        "en": "Mash with a blender or fork until smooth and serve."
       }
     ],
     "imageUrl": ""
@@ -229,8 +217,8 @@
       "en": "Green Bean Mash"
     },
     "description": {
-      "tr": "Lifli yapısıyla bağırsak dostu.",
-      "en": "Gut-friendly with its fibrous structure."
+      "tr": "Lifli yapısıyla bağırsak dostu olan taze fasulyenin, kılçıklarından arındırılarak haşlanmış ezmesi.",
+      "en": "A digestion-friendly green bean mash, with stringy parts removed and boiled until tender."
     },
     "category": 2,
     "ingredients": [
@@ -256,16 +244,12 @@
     "allergicIngredients": [],
     "instructions": [
       {
-        "tr": "Fasulyelerin kılçıklarını temizleyin.",
-        "en": "Remove the strings from the beans."
+        "tr": "Taze fasulyelerin kılçıklarını temizleyip bol suda haşlayalım.",
+        "en": "Clean the strings of the green beans and boil them in plenty of water."
       },
       {
-        "tr": "İyice haşlayın.",
-        "en": "Boil thoroughly."
-      },
-      {
-        "tr": "Ezerek püre haline getirin.",
-        "en": "Mash into a puree."
+        "tr": "Ezerek pürüzsüz püre haline getirelim ve zeytinyağı ile tatlandıralım.",
+        "en": "Mash into a smooth puree and flavor with olive oil."
       }
     ],
     "imageUrl": ""
@@ -277,8 +261,8 @@
       "en": "Jerusalem Artichoke Puree"
     },
     "description": {
-      "tr": "İnulin kaynağı, bağırsak dostu.",
-      "en": "Source of inulin, gut-friendly."
+      "tr": "İnulin maddesi sayesinde bağırsak florasını güçlendiren, toprak kokulu şifalı yer elması püresi.",
+      "en": "A healing, earthy Jerusalem artichoke puree that strengthens the bowel flora thanks to its inulin content."
     },
     "category": 2,
     "ingredients": [
@@ -304,8 +288,12 @@
     "allergicIngredients": [],
     "instructions": [
       {
-        "tr": "Yer elmasını haşlayıp ezin.",
-        "en": "Boil and mash the jerusalem artichoke."
+        "tr": "Yer elmasını soyup kararmaması için limonlu suda bekletelim ve haşlayalım.",
+        "en": "Peel the Jerusalem artichoke, soak in lemon water to prevent browning, and boil."
+      },
+      {
+        "tr": "Yumuşayınca çatalla ezip zeytinyağı ile tatlandırarak servis edelim.",
+        "en": "Once tender, mash with a fork, flavor with olive oil, and serve."
       }
     ],
     "imageUrl": ""
@@ -317,8 +305,8 @@
       "en": "Chard and Potato"
     },
     "description": {
-      "tr": "Demir zengini pazı yaprakları.",
-      "en": "Iron-rich chard leaves."
+      "tr": "Demir kaynağı pazı yaprakları ve doyurucu patatesin birlikte haşlanmasıyla hazırlanan besleyici püre.",
+      "en": "A nutritious puree prepared by boiling iron-source chard leaves and filling potato together."
     },
     "category": 2,
     "ingredients": [
@@ -359,8 +347,12 @@
     "allergicIngredients": [],
     "instructions": [
       {
-        "tr": "Birlikte haşlayıp püre yapın.",
-        "en": "Boil together and make a puree."
+        "tr": "Pazı yapraklarını ve patatesi az suda birlikte pişirelim.",
+        "en": "Cook chard leaves and potato together in a small amount of water."
+      },
+      {
+        "tr": "Sebzeleri sıcakken çatalla ezerek püre haline getirelim.",
+        "en": "Mash the vegetables with a fork while hot to make a puree."
       }
     ],
     "imageUrl": ""
@@ -372,8 +364,8 @@
       "en": "Artichoke Heart Puree"
     },
     "description": {
-      "tr": "Karaciğer dostu enginar.",
-      "en": "Liver-friendly artichoke."
+      "tr": "Karaciğer dostu enginar kalbinin limonlu suda haşlanıp ezilmesiyle hazırlanan şifa tabağı.",
+      "en": "A healing dish prepared by boiling liver-friendly artichoke heart in lemon water and mashing it."
     },
     "category": 2,
     "ingredients": [
@@ -399,8 +391,12 @@
     "allergicIngredients": [],
     "instructions": [
       {
-        "tr": "Limonlu suda haşlayıp ezin.",
-        "en": "Boil in lemon water and mash."
+        "tr": "Enginar kalbini limonlu suda yumuşayana dek haşlayalım.",
+        "en": "Boil the artichoke heart in lemon water until tender."
+      },
+      {
+        "tr": "Zeytinyağı ekleyip çatalla pürüzsüz olana dek ezip yedirelim.",
+        "en": "Add olive oil, mash with a fork until smooth, and feed."
       }
     ],
     "imageUrl": ""
@@ -412,8 +408,8 @@
       "en": "Celery Puree"
     },
     "description": {
-      "tr": "Aromatik ve besleyici kök sebze.",
-      "en": "Aromatic and nutritious root vegetable."
+      "tr": "Kendine has aromasıyla bebeklerin koku ve tat duyularını geliştirecek besleyici kereviz püresi.",
+      "en": "A nutritious celery puree with a unique aroma to help develop your baby's senses of smell and taste."
     },
     "category": 2,
     "ingredients": [
@@ -444,8 +440,12 @@
     ],
     "instructions": [
       {
-        "tr": "Kerevizi haşlayıp püre yapın.",
-        "en": "Boil the celery and make a puree."
+        "tr": "Kerevizi soyup çabuk pişmesi için küp küp doğrayalım ve haşlayalım.",
+        "en": "Peel the celery, cut it into cubes for faster cooking, and boil."
+      },
+      {
+        "tr": "Yumuşayan kerevizleri ezip içine bir tatlı kaşığı zeytinyağı ekleyerek sunalım.",
+        "en": "Mash the softened celery, add a teaspoon of olive oil, and serve."
       }
     ],
     "imageUrl": ""
@@ -457,8 +457,8 @@
       "en": "Okra Mash"
     },
     "description": {
-      "tr": "Lifli ve sağlıklı bamya.",
-      "en": "Fibrous and healthy okra."
+      "tr": "Bağırsak hareketlerini kolaylaştıran, bamyanın çekirdekleri süzülerek hazırlanmış yumuşak sebze ezmesi.",
+      "en": "A soft vegetable mash prepared by straining okra seeds, which eases bowel movements."
     },
     "category": 2,
     "ingredients": [
@@ -484,8 +484,12 @@
     "allergicIngredients": [],
     "instructions": [
       {
-        "tr": "Bamyaları haşlayıp çekirdeklerini süzerek ezin.",
-        "en": "Boil the okra and mash by straining the seeds."
+        "tr": "Bamyaları tencerede limonlu suda salyalanmayacak şekilde haşlayalım.",
+        "en": "Boil the okras in lemon water in a pot, ensuring they don't get slimy."
+      },
+      {
+        "tr": "Haşlanan bamyaları ezip çekirdekli kısımlarını süzgeçle ayırarak posasını bebişimize verelim.",
+        "en": "Mash the cooked okras, strain to remove the seeds, and feed the pulp to your baby."
       }
     ],
     "imageUrl": ""

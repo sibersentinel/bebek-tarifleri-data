@@ -6,8 +6,8 @@
       "en": "Apple Slices (Soft)"
     },
     "description": {
-      "tr": "Buharda pişmiş, diş kaşıma dönemine uygun dilimler.",
-      "en": "Steamed slices, suitable for the teething period."
+      "tr": "Buharda hafif yumuşatılmış elma dilimleri, diş çıkaran bebişlerinizin kendi kendine yiyebileceği harika bir atıştırmalık.",
+      "en": "Gently steamed apple slices, a perfect self-feeding snack for babies going through their teething phase."
     },
     "category": 9,
     "ingredients": [
@@ -33,12 +33,12 @@
     "allergicIngredients": [],
     "instructions": [
       {
-        "tr": "Elmayı dilimleyin.",
-        "en": "Slice the apple."
+        "tr": "Elmamızın kabuklarını soyup bebeğimizin elinde kolayca tutabileceği kalın dilimler halinde keselim.",
+        "en": "Peel the apple and cut it into thick slices that your baby can easily hold."
       },
       {
-        "tr": "Buharda hafif yumuşayana kadar 5-7 dakika pişirin.",
-        "en": "Steam for 5-7 minutes until slightly soft."
+        "tr": "Dilimleri buhar aparatında hafifçe yumuşayana kadar (dağılmayacak şekilde) yaklaşık 5-7 dakika pişirelim.",
+        "en": "Steam the slices for about 5-7 minutes until slightly soft (but not mushy or falling apart)."
       }
     ],
     "imageUrl": ""
@@ -50,8 +50,8 @@
       "en": "Carrot Sticks"
     },
     "description": {
-      "tr": "Bebeğinizin elinde tutup kemirebileceği sağlıklı atıştırmalık.",
-      "en": "A healthy snack your baby can hold and gnaw on."
+      "tr": "Bebeğinizin parmaklarıyla kavrayıp güvenle çiğneyebileceği, A vitamini deposu tatlı havuç çubukları.",
+      "en": "Naturally sweet carrot sticks packed with vitamin A that your baby can grasp with their fingers and chew safely."
     },
     "category": 9,
     "ingredients": [
@@ -77,12 +77,12 @@
     "allergicIngredients": [],
     "instructions": [
       {
-        "tr": "Havucu parmak kalınlığında dilimleyin.",
-        "en": "Slice the carrot into finger-thick pieces."
+        "tr": "Havuçları yıkayıp soyalım ve parmak kalınlığında uzun çubuklar halinde dilimleyelim.",
+        "en": "Wash and peel the carrots, then cut them into long, finger-thick sticks."
       },
       {
-        "tr": "Buharda veya az suda haşlayıp yumuşatın.",
-        "en": "Steam or boil in a little water until soft."
+        "tr": "Çubukları buharda veya az suda, dışı yumuşak ama elde tutulunca kırılmayacak kıvamda haşlayalım.",
+        "en": "Steam or boil the sticks in a little water until soft on the outside but firm enough not to break when held."
       }
     ],
     "imageUrl": ""
@@ -94,8 +94,8 @@
       "en": "Yogurt Bar"
     },
     "description": {
-      "tr": "Dondurulmuş meyveli yoğurt dilimleri.",
-      "en": "Frozen fruit yogurt slices."
+      "tr": "Yaz sıcaklarında diş etlerini rahatlatacak, dondurulmuş meyve taneli serinletici ev yoğurdu barları.",
+      "en": "Refreshing frozen yogurt bars with fruit pieces to soothe irritated gums during hot summer days."
     },
     "category": 9,
     "ingredients": [
@@ -138,16 +138,16 @@
     ],
     "instructions": [
       {
-        "tr": "Yoğurdu bir tepsiye ince tabaka halinde yayın.",
-        "en": "Spread the yogurt in a thin layer on a tray."
+        "tr": "Süzme yoğurdumuzu yağlı kağıt serdiğimiz bir tepsiye ince ve düzgün bir tabaka halinde yayalım.",
+        "en": "Spread strained yogurt in a thin and even layer onto a tray lined with baking paper."
       },
       {
-        "tr": "Üzerine meyveleri dizip dondurucuda 2 saat bekletin.",
-        "en": "Arrange the fruits on top and keep in the freezer for 2 hours."
+        "tr": "Üzerine küçük meyve dilimleri dizelim ve dondurucuda en az 2 saat sertleşene kadar bekletelim.",
+        "en": "Arrange small fruit slices on top and freeze for at least 2 hours until solid."
       },
       {
-        "tr": "Kırarak dilimler halinde servis edin.",
-        "en": "Break into pieces and serve."
+        "tr": "Donan yoğurdu elimizle parçalara ayırarak serin bir atıştırmalık olarak hemen servis edelim.",
+        "en": "Break the frozen yogurt into pieces and serve immediately as a cool treat."
       }
     ],
     "imageUrl": ""
@@ -159,8 +159,8 @@
       "en": "Cheese Grissini (Baby Friendly)"
     },
     "description": {
-      "tr": "Ev yapımı, tuzsuz ve besleyici galetalar.",
-      "en": "Homemade, salt-free and nutritious grissini."
+      "tr": "Ev yapımı, tuzsuz ve bebişlerinizin diş etlerini kaşıyabileceği kıtır kıtır besleyici peynirli galetalar.",
+      "en": "Homemade, salt-free crunchy cheese grissini that are excellent for babies to soothe their gums."
     },
     "category": 9,
     "ingredients": [
@@ -210,12 +210,12 @@
     ],
     "instructions": [
       {
-        "tr": "Tüm malzemeleri yoğurup çubuk şekli verin.",
-        "en": "Knead all ingredients and give them a stick shape."
+        "tr": "Un, tuzsuz peynir ve az zeytinyağını yoğurarak yumuşak bir hamur elde edelim ve çubuk şekli verelim.",
+        "en": "Knead flour, unsalted cheese, and a bit of olive oil into a soft dough, then shape into sticks."
       },
       {
-        "tr": "Fırında 180 derecede kıtırlaşana kadar pişirin.",
-        "en": "Bake at 180 degrees in the oven until crunchy."
+        "tr": "Hazırladığımız galetaları fırında 180 derecede üzerleri hafif pembeleşip kıtırlaşana kadar pişirelim.",
+        "en": "Bake the sticks in the oven at 180°C (350°F) until slightly golden and crunchy."
       }
     ],
     "imageUrl": ""
@@ -227,8 +227,8 @@
       "en": "Banana Oat Balls"
     },
     "description": {
-      "tr": "Pişirme gerektirmeyen, pratik ve tatlı toplar.",
-      "en": "Practical and sweet balls that do not require cooking."
+      "tr": "Pişirme gerektirmeyen, muz ve yulafın birleştiği pratik, tatlı ve besleyici enerji topları.",
+      "en": "No-bake, quick, sweet, and nutritious energy balls combining banana and wholesome oats."
     },
     "category": 9,
     "ingredients": [
@@ -274,12 +274,12 @@
     ],
     "instructions": [
       {
-        "tr": "Muzu ezip yulafla karıştırın.",
-        "en": "Mash the banana and mix with oats."
+        "tr": "Olgun bir muzu çatalla ezip içine yulaf ezmesi ekleyelim ve hamur kıvamına gelene kadar karıştıralım.",
+        "en": "Mash a ripe banana with a fork, add rolled oats, and mix until it forms a dough consistency."
       },
       {
-        "tr": "Küçük toplar yapıp buzdolabında dinlendirin.",
-        "en": "Make small balls and let them rest in the refrigerator."
+        "tr": "Karışımdan küçük toplar yuvarlayıp buzdolabında yarım saat dinlendirerek servis edelim.",
+        "en": "Roll the mixture into small balls and rest in the fridge for half an hour before serving."
       }
     ],
     "imageUrl": ""
@@ -291,8 +291,8 @@
       "en": "Cheese Balls"
     },
     "description": {
-      "tr": "Elde tutması kolay eğlenceli toplar.",
-      "en": "Fun balls easy to hold."
+      "tr": "Bebeğinizin el becerilerini geliştirecek, dereotu aromalı yumuşacık lor peyniri topları.",
+      "en": "Soft curd cheese balls flavored with dill to help develop your baby's fine motor skills."
     },
     "category": 9,
     "ingredients": [
@@ -323,8 +323,12 @@
     ],
     "instructions": [
       {
-        "tr": "Peyniri yuvarlayıp dereotuna bulayın.",
-        "en": "Roll the cheese and coat with dill."
+        "tr": "Tuzsuz lor peynirini elimizle yuvarlayarak minik lokmalık toplar haline getirelim.",
+        "en": "Roll unsalted curd cheese with your hands into tiny, bite-sized balls."
+      },
+      {
+        "tr": "Hazırladığımız peynir toplarını çok ince kıyılmış taze dereotuna bulayarak renklendirelim.",
+        "en": "Roll the cheese balls in finely chopped fresh dill to add color and flavor."
       }
     ],
     "imageUrl": ""
@@ -336,8 +340,8 @@
       "en": "Raisin Paste"
     },
     "description": {
-      "tr": "Doğal şeker ve enerji.",
-      "en": "Natural sugar and energy."
+      "tr": "Demir deposu kuru üzümün suda yumuşatılmasıyla hazırlanan, tatlı ve enerji verici doğal bir ezme.",
+      "en": "A sweet and energizing natural paste prepared by soaking and mashing iron-rich raisins."
     },
     "category": 9,
     "ingredients": [
@@ -363,8 +367,12 @@
     "allergicIngredients": [],
     "instructions": [
       {
-        "tr": "Suda bekletip püre yapın.",
-        "en": "Soak in water and make a puree."
+        "tr": "Kuru üzümleri sıcak suda yumuşayana kadar yaklaşık 15-20 dakika bekletelim.",
+        "en": "Soak raisins in hot water for about 15-20 minutes until they soften."
+      },
+      {
+        "tr": "Yumuşayan üzümlerin suyunu süzüp çatalla ezerek püre kıvamına getirelim.",
+        "en": "Drain the softened raisins and mash them with a fork to achieve a puree consistency."
       }
     ],
     "imageUrl": ""
@@ -376,8 +384,8 @@
       "en": "Whole Wheat Sticks"
     },
     "description": {
-      "tr": "Kıtır kıtır sağlıklı galetalar.",
-      "en": "Crunchy healthy grissini."
+      "tr": "Lif oranı yüksek tam buğday unundan fırınlanmış, bebişlerinizin keyifle kemireceği kıtır çubuklar.",
+      "en": "High-fiber whole wheat sticks baked to a crunch, perfect for your baby to chew on happily."
     },
     "category": 9,
     "ingredients": [
@@ -408,8 +416,12 @@
     ],
     "instructions": [
       {
-        "tr": "Fırında kıtırlaşana kadar pişirin.",
-        "en": "Bake until crunchy."
+        "tr": "Tam buğday unu, su ve zeytinyağı ile hazırladığımız hamuru ince uzun şeritler halinde keselim.",
+        "en": "Cut the dough prepared with whole wheat flour, water, and olive oil into thin, long strips."
+      },
+      {
+        "tr": "180 derece fırında kıtırlaşana kadar kontrollü bir şekilde pişirelim.",
+        "en": "Bake in a 180°C (350°F) oven under supervision until they become crispy."
       }
     ],
     "imageUrl": ""
@@ -421,8 +433,8 @@
       "en": "Strawberry Slices with Yogurt"
     },
     "description": {
-      "tr": "Dondurulmuş meyveli serinlik.",
-      "en": "Frozen fruit coolness."
+      "tr": "Yoğurt kaplamalı çilek dilimleri ile dondurucudan çıkan, serinletici ve leziz bir meyve atıştırmalığı.",
+      "en": "Yogurt-coated strawberry slices straight from the freezer, a cool and delicious fruity snack."
     },
     "category": 9,
     "ingredients": [
@@ -453,8 +465,12 @@
     ],
     "instructions": [
       {
-        "tr": "Yoğurda bulayıp dondurun.",
-        "en": "Coat in yogurt and freeze."
+        "tr": "Taze çilekleri dilimleyip her bir dilimi oda sıcaklığındaki süzme yoğurda bulayalım.",
+        "en": "Slice fresh strawberries and dip each slice into room temperature strained yogurt."
+      },
+      {
+        "tr": "Yağlı kağıt üzerine dizip dondurucuda sertleşene kadar bekletelim.",
+        "en": "Place them on baking paper and freeze until solid."
       }
     ],
     "imageUrl": ""
@@ -466,8 +482,8 @@
       "en": "Date Balls with Walnuts"
     },
     "description": {
-      "tr": "Besleyici ve tatlı enerji topları.",
-      "en": "Nutritious and sweet energy balls."
+      "tr": "Doğal tatlı hurma ve beyin gelişimini destekleyen cevizle hazırlanan besleyici ve lezzetli enerji topları.",
+      "en": "Nutritious and delicious energy balls made with naturally sweet dates and brain-boosting walnuts."
     },
     "category": 9,
     "ingredients": [
@@ -498,8 +514,12 @@
     ],
     "instructions": [
       {
-        "tr": "Hurma ve cevizi ezip yuvarlayın.",
-        "en": "Mash dates and walnuts and roll."
+        "tr": "Suda yumuşatılmış hurmaların çekirdeklerini çıkarıp un ufak edilmiş ceviz içi ile birlikte ezelim.",
+        "en": "Pit soaked dates and mash them together with finely ground walnuts."
+      },
+      {
+        "tr": "Karışımı küçük toplar şeklinde yuvarlayıp buzdolabında saklayalım.",
+        "en": "Roll the mixture into small balls and store them in the refrigerator."
       }
     ],
     "imageUrl": ""

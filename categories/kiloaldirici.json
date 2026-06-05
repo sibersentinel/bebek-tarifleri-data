@@ -6,8 +6,8 @@
       "en": "Semolina Pudding with Molasses and Walnuts"
     },
     "description": {
-      "tr": "Yüksek enerjili, besleyici ve kilo alımını destekleyen öğün.",
-      "en": "High energy, nutritious and weight gain supportive meal."
+      "tr": "İrmiğin doyuruculuğu, cevizin sağlıklı yağları ve pekmezin demir desteğiyle kilo alımını destekleyen muhallebi.",
+      "en": "A weight-supporting pudding combining the satiety of semolina, healthy fats of walnuts, and iron support of molasses."
     },
     "category": 16,
     "ingredients": [
@@ -72,8 +72,12 @@
     ],
     "instructions": [
       {
-        "tr": "İrmiği pişirin, içine ceviz ve pekmez ekleyip karıştırın.",
-        "en": "Cook the semolina, add walnuts and molasses and mix."
+        "tr": "İrmiği suyla karıştırarak muhallebi kıvamına gelene kadar pişirelim.",
+        "en": "Cook semolina with water, stirring until it reaches a pudding consistency."
+      },
+      {
+        "tr": "Ilındıktan sonra içine un gibi çekilmiş ceviz ve pekmez ekleyip karıştıralım.",
+        "en": "Once warm, stir in finely ground walnuts and molasses."
       }
     ],
     "imageUrl": ""
@@ -85,8 +89,8 @@
       "en": "Potato Puree with Butter"
     },
     "description": {
-      "tr": "Sağlıklı yağlarla zenginleştirilmiş patates.",
-      "en": "Potatoes enriched with healthy fats."
+      "tr": "Halis tereyağı ile lezzetlendirilmiş, patatesin karbonhidrat gücüyle bebişlerin kilo alımını destekleyen püre.",
+      "en": "A puree enriched with pure butter and the carbohydrate power of potato to support baby's weight gain."
     },
     "category": 16,
     "ingredients": [
@@ -132,8 +136,12 @@
     ],
     "instructions": [
       {
-        "tr": "Sıcak patatesi tereyağı ile birlikte pürüzsüz olana kadar ezin.",
-        "en": "Mash the hot potato with butter until smooth."
+        "tr": "Patatesi haşlayıp kabuklarını sıcakken soyalım.",
+        "en": "Boil the potato and peel it while still hot."
+      },
+      {
+        "tr": "İçine bir tatlı kaşığı tereyağı ekleyip pürüzsüzleşene dek hızlıca ezelim.",
+        "en": "Add a teaspoon of butter and mash quickly until completely smooth."
       }
     ],
     "imageUrl": ""
@@ -145,8 +153,8 @@
       "en": "Banana and Baby Biscuit Mix"
     },
     "description": {
-      "tr": "Doyurucu ve kilo aldırıcı klasik ara öğün.",
-      "en": "Filling and weight-gaining classic snack."
+      "tr": "Muzun yüksek potasyum gücü ve ev yapımı bebe bisküvisinin kalori desteğiyle hazırlanan nefis ara öğün.",
+      "en": "A delicious snack prepared with the high potassium power of banana and calorie support of baby biscuits."
     },
     "category": 16,
     "ingredients": [
@@ -189,8 +197,12 @@
     ],
     "instructions": [
       {
-        "tr": "Muzu ve bisküvileri az su veya anne sütü ile ezin.",
-        "en": "Mash the banana and biscuits with a little water or breast milk."
+        "tr": "Muzu ve bebe bisküvilerini bir kasede buluşturalım.",
+        "en": "Place the banana and baby biscuits in a bowl."
+      },
+      {
+        "tr": "Az miktarda anne sütü veya su ekleyerek çatalla ezerek püre haline getirelim.",
+        "en": "Add a small amount of breast milk or water and mash with a fork into a puree."
       }
     ],
     "imageUrl": ""
@@ -202,8 +214,8 @@
       "en": "Cereal Vegetable Puree"
     },
     "description": {
-      "tr": "Pirinç ve sebzenin kalori dengesi.",
-      "en": "Calorie balance of rice and vegetables."
+      "tr": "Tahılların besleyiciliği ve sebzelerin vitamin değerinin buluştuğu, zeytinyağı ile zenginleştirilmiş kalori deposu püre.",
+      "en": "A high-calorie puree combining the nutrition of grains and vitamins of vegetables, enriched with olive oil."
     },
     "category": 16,
     "ingredients": [
@@ -244,8 +256,12 @@
     "allergicIngredients": [],
     "instructions": [
       {
-        "tr": "Malzemeleri haşlayıp püre yapın, içine zeytinyağı ekleyin.",
-        "en": "Boil and puree the ingredients, add olive oil."
+        "tr": "Pirinç ve sebzeleri tencerede haşlayıp püre yapalım.",
+        "en": "Boil rice and vegetables in a pot and mash into a puree."
+      },
+      {
+        "tr": "İçine bir tatlı kaşığı zeytinyağı ekleyip karıştırarak servis edelim.",
+        "en": "Add a teaspoon of olive oil, mix, and serve."
       }
     ],
     "imageUrl": ""
@@ -257,8 +273,8 @@
       "en": "Avocado Yogurt"
     },
     "description": {
-      "tr": "Sağlıklı yağlar içeren besleyici karışım.",
-      "en": "Nutritious mixture containing healthy fats."
+      "tr": "Sağlıklı yağlar içeren avokadonun, ev yoğurduyla karıştırılmasıyla hazırlanan besleyici ve kilo aldırıcı karışım.",
+      "en": "A nutritious and weight-supporting mixture prepared by mixing healthy fat-rich avocado with homemade yogurt."
     },
     "category": 16,
     "ingredients": [
@@ -304,8 +320,12 @@
     ],
     "instructions": [
       {
-        "tr": "Avokadoyu ezip yoğurtla karıştırın.",
-        "en": "Mash the avocado and mix with yogurt."
+        "tr": "Olgun avokadoyu çatalla pürüzsüzleşene kadar ezelim.",
+        "en": "Mash a ripe avocado with a fork until smooth."
+      },
+      {
+        "tr": "Ezilmiş avokadoyu taze ev yoğurduyla karıştırarak bebişimize sunalım.",
+        "en": "Mix the mashed avocado with fresh homemade yogurt and serve to your baby."
       }
     ],
     "imageUrl": ""
@@ -317,8 +337,8 @@
       "en": "Avocado Puree with Walnuts"
     },
     "description": {
-      "tr": "Sağlıklı yağ ve kalori deposu.",
-      "en": "Healthy fat and calorie storage."
+      "tr": "Sağlıklı yağlar bakımından zengin avokadonun, un haline getirilmiş cevizle zenginleştirildiği kalori deposu ezme.",
+      "en": "A calorie-dense paste featuring healthy fat-rich avocado enriched with finely ground walnuts."
     },
     "category": 16,
     "ingredients": [
@@ -364,8 +384,12 @@
     ],
     "instructions": [
       {
-        "tr": "Cevizi un gibi yapıp avokado ile ezin.",
-        "en": "Make walnut like flour and mash with avocado."
+        "tr": "Avokadoyu ezip içine un kıvamına getirilmiş ceviz içlerini ilave edelim.",
+        "en": "Mash the avocado and add walnuts ground to a flour consistency."
+      },
+      {
+        "tr": "Karıştırıp pürüzsüz bir ezme elde edelim.",
+        "en": "Mix to obtain a smooth paste."
       }
     ],
     "imageUrl": ""
@@ -377,8 +401,8 @@
       "en": "Semolina Fruit Feast"
     },
     "description": {
-      "tr": "Tahıl ve meyve dengesi.",
-      "en": "Balance of grain and fruit."
+      "tr": "İrmikli muhallebinin, taze mevsim meyvelerinin doğal tatlılığıyla buluştuğu besleyici lezzet şöleni.",
+      "en": "A nutritious feast of flavors where semolina pudding meets the natural sweetness of fresh seasonal fruits."
     },
     "category": 16,
     "ingredients": [
@@ -421,8 +445,12 @@
     ],
     "instructions": [
       {
-        "tr": "İrmiği pişirip meyve ile karıştırın.",
-        "en": "Cook semolina and mix with fruit."
+        "tr": "İrmiği pişirip muhallebi kıvamına getirelim.",
+        "en": "Cook semolina to bring it to a pudding consistency."
+      },
+      {
+        "tr": "İçine cam rendeden geçirilmiş taze meyve püresi ekleyip karıştıralım.",
+        "en": "Add fresh fruit puree passed through a glass grater and mix."
       }
     ],
     "imageUrl": ""
@@ -434,8 +462,8 @@
       "en": "Tahini and Molasses Mix"
     },
     "description": {
-      "tr": "Demir ve yüksek kalori kaynağı.",
-      "en": "Source of iron and high calories."
+      "tr": "Yüksek demir ve kalsiyum içeren tahin ve pekmezin, 1 yaş sonrası bebekler için enerji veren lezzetli uyumu.",
+      "en": "An energizing and tasty mix of high-iron tahini and calcium-rich molasses for babies over 1 year old."
     },
     "category": 16,
     "ingredients": [
@@ -481,8 +509,12 @@
     ],
     "instructions": [
       {
-        "tr": "Çok az miktarda karıştırıp verin.",
-        "en": "Mix in very small amount and give."
+        "tr": "Tahin ve pekmezi küçük bir kapta çok az miktarlarda karıştırıp homojen hale getirelim.",
+        "en": "Mix small amounts of tahini and molasses in a small bowl until homogeneous."
+      },
+      {
+        "tr": "Bebişimize kontrollü bir şekilde, az miktarda yedirelim.",
+        "en": "Feed to your baby under supervision in small amounts."
       }
     ],
     "imageUrl": ""
@@ -494,8 +526,8 @@
       "en": "Bread with Egg and Curd"
     },
     "description": {
-      "tr": "Doyurucu protein bombası.",
-      "en": "Filling protein bomb."
+      "tr": "Yumurta sarısı ve lor peyniri ile hazırlanan karışımın, ekmek içiyle birleştiği doyurucu ve proteinli kahvaltı.",
+      "en": "A filling, protein-packed breakfast where a mix of egg yolk and curd cheese is combined with breadcrumbs."
     },
     "category": 16,
     "ingredients": [
@@ -545,8 +577,12 @@
     ],
     "instructions": [
       {
-        "tr": "Ekmek içini bu karışımla yumuşatın.",
-        "en": "Soften bread crumbs with this mixture."
+        "tr": "Yumurta sarısı ve lor peynirini az suyla ezip pürüzsüzleştirelim.",
+        "en": "Mash egg yolk and curd cheese with a little water until smooth."
+      },
+      {
+        "tr": "İçine küçük küçük doğranmış ekmek içlerini ekleyip yumuşatarak yedirelim.",
+        "en": "Add finely chopped breadcrumbs, let them soften, and feed."
       }
     ],
     "imageUrl": ""
@@ -558,8 +594,8 @@
       "en": "Almond Flour Pudding"
     },
     "description": {
-      "tr": "Yağlı tohumların gücü.",
-      "en": "Power of oilseeds."
+      "tr": "Yağlı tohumların faydalı kalorilerini içeren, badem unuyla hazırlanmış nefis ve besleyici bir muhallebi.",
+      "en": "A delicious and nutritious pudding prepared with almond flour, packed with beneficial calories."
     },
     "category": 16,
     "ingredients": [
@@ -590,8 +626,12 @@
     ],
     "instructions": [
       {
-        "tr": "Su veya süt ile pişirin.",
-        "en": "Cook with water or milk."
+        "tr": "Badem ununu su veya sütle ocakta kıvam alana kadar sürekli karıştırarak pişirelim.",
+        "en": "Cook almond flour with water or milk on the stove, stirring constantly until thickened."
+      },
+      {
+        "tr": "Ilındıktan sonra bebişimize servis edelim.",
+        "en": "Serve to your baby once it cools down to warm."
       }
     ],
     "imageUrl": ""

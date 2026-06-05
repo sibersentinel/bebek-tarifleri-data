@@ -6,8 +6,8 @@
       "en": "Apple Pudding (Sugar-Free)"
     },
     "description": {
-      "tr": "Meyvenin kendi şekeriyle tatlanmış hafif muhallebi.",
-      "en": "Light pudding sweetened with the fruit's own sugar."
+      "tr": "Meyvenin kendi doğal şekeriyle tatlanmış, pirinç unlu hafif ve şekersiz elmalı muhallebi.",
+      "en": "A light, sugar-free apple pudding thickened with rice flour and sweetened only with the fruit's natural sugars."
     },
     "category": 10,
     "ingredients": [
@@ -48,12 +48,12 @@
     "allergicIngredients": [],
     "instructions": [
       {
-        "tr": "Elmayı rendeleyip az suda pişirin.",
-        "en": "Grate the apple and cook in a little water."
+        "tr": "Elmayı rendeleyip kendi suyuyla kısık ateşte pişirelim.",
+        "en": "Grate the apple and cook it in its own juices over low heat."
       },
       {
-        "tr": "Pirinç ununu ekleyip kıvam alana kadar karıştırın.",
-        "en": "Add rice flour and mix until it thickens."
+        "tr": "Üzerine pirinç unu ve su ekleyip muhallebi kıvamı alana dek karıştırarak pişirelim.",
+        "en": "Add rice flour and water, and cook, stirring constantly until it reaches a pudding consistency."
       }
     ],
     "imageUrl": ""
@@ -65,8 +65,8 @@
       "en": "Pumpkin Dessert"
     },
     "description": {
-      "tr": "Doğal olarak tatlı ve vitamin dolu.",
-      "en": "Naturally sweet and full of vitamins."
+      "tr": "Balkabağının doğal tatlılığına pekmezin demir gücünün eşlik ettiği besleyici bir tatlı.",
+      "en": "A nutritious dessert where the natural sweetness of pumpkin is paired with the iron power of molasses."
     },
     "category": 10,
     "ingredients": [
@@ -107,12 +107,12 @@
     "allergicIngredients": [],
     "instructions": [
       {
-        "tr": "Balkabağını buharda pişirin.",
-        "en": "Steam the pumpkin."
+        "tr": "Balkabağını buharda yumuşayana kadar pişirip ezelim.",
+        "en": "Steam the pumpkin until soft and mash it."
       },
       {
-        "tr": "Ezerek püre yapın ve üzerine pekmez gezdirin.",
-        "en": "Mash into a puree and drizzle molasses over it."
+        "tr": "Püre haline gelen balkabağının üzerine ılındıktan sonra pekmez gezdirerek servis edelim.",
+        "en": "Drizzle molasses over the mashed pumpkin once it has cooled to warm, and serve."
       }
     ],
     "imageUrl": ""
@@ -124,8 +124,8 @@
       "en": "Banana Avocado Mousse"
     },
     "description": {
-      "tr": "Kakaosuz, sağlıklı 'puding' alternatifi.",
-      "en": "Healthy 'pudding' alternative without cocoa."
+      "tr": "Kakaosuz ve katkısız, muz ve avokadonun krema kıvamına getirilmesiyle hazırlanan sağlıklı bebek pudingi.",
+      "en": "A healthy, cocoa-free baby pudding prepared by blending banana and avocado into a creamy mousse."
     },
     "category": 10,
     "ingredients": [
@@ -166,12 +166,12 @@
     "allergicIngredients": [],
     "instructions": [
       {
-        "tr": "Muzu ve avokadoyu blenderdan geçirin.",
-        "en": "Blend the banana and avocado."
+        "tr": "Muz ve avokadoyu blender kabına alalım.",
+        "en": "Place banana and avocado in a blender."
       },
       {
-        "tr": "İyice pürüzsüz olunca servis edin.",
-        "en": "Serve when thoroughly smooth."
+        "tr": "Pürüzsüz ve hava kabarcıklı bir mus kıvamı alana kadar yüksek hızda çekip servis edelim.",
+        "en": "Blend at high speed until smooth and aerated like a mousse, then serve."
       }
     ],
     "imageUrl": ""
@@ -183,8 +183,8 @@
       "en": "Semolina Halva with Pear"
     },
     "description": {
-      "tr": "Bebekler için hafifletilmiş helva tarifi.",
-      "en": "Lightened halva recipe for babies."
+      "tr": "Bebişler için hafifletilmiş, tereyağlı ve armut aromalı nefis ve kokulu irmik helvası.",
+      "en": "A light semolina halva prepared for babies, flavored with butter and sweet grated pear."
     },
     "category": 10,
     "ingredients": [
@@ -230,12 +230,12 @@
     ],
     "instructions": [
       {
-        "tr": "İrmiği az tereyağında kokusu çıkana kadar (yakmadan) çevirin.",
-        "en": "Stir the semolina in a little butter until fragrant (without burning)."
+        "tr": "İrmiği az tereyağında kokusu çıkana kadar hafifçe çevirelim (yakmamaya dikkat edelim).",
+        "en": "Lightly toast the semolina in a bit of butter until fragrant (be careful not to burn it)."
       },
       {
-        "tr": "Armut rendesini ve az suyu ekleyip çekene kadar pişirin.",
-        "en": "Add grated pear and a little water and cook until absorbed."
+        "tr": "Üzerine armut rendesi ve suyu ekleyip suyunu çekene kadar kısık ateşte demlendirerek pişirelim.",
+        "en": "Add grated pear and water, and simmer over low heat until the liquid is fully absorbed."
       }
     ],
     "imageUrl": ""
@@ -247,8 +247,8 @@
       "en": "Date Paste Pudding"
     },
     "description": {
-      "tr": "Doğal şeker kaynağı hurma ile zenginleştirilmiş.",
-      "en": "Enriched with date paste, a natural source of sugar."
+      "tr": "Doğal tatlandırıcı hurma ezmesiyle pişirilmiş, bebişinizin bayılarak yiyeceği tatlı muhallebi.",
+      "en": "A sweet pudding cooked with naturally sweet date paste that your baby will absolutely love."
     },
     "category": 10,
     "ingredients": [
@@ -286,12 +286,12 @@
     "allergicIngredients": [],
     "instructions": [
       {
-        "tr": "Hurmaları sıcak suda bekletip ezin.",
-        "en": "Soak the dates in hot water and mash."
+        "tr": "Hurmaları sıcak suda bekleterek yumuşatalım, çekirdeklerini ve kabuklarını soyup ezelim.",
+        "en": "Soak dates in hot water to soften, peel and pit them, and mash into a paste."
       },
       {
-        "tr": "Pirinç unu ve su ile pişirdiğiniz muhallebiye ekleyin.",
-        "en": "Add to the pudding cooked with rice flour and water."
+        "tr": "Elde ettiğimiz hurma ezmesini muhallebi pişerken içine ekleyip karıştırarak tatlandıralım.",
+        "en": "Add the date paste to the pudding while cooking and stir to sweeten."
       }
     ],
     "imageUrl": ""
@@ -303,8 +303,8 @@
       "en": "Semolina Dessert with Apricot"
     },
     "description": {
-      "tr": "Meyve ile tatlanmış hafif sütlü tatlı.",
-      "en": "Light milky dessert sweetened with fruit."
+      "tr": "Armudun lifli yapısı ve tarçının mis kokulu aromasının birleştiği nefis bir kış tatlısı püresi.",
+      "en": "A delightful winter dessert puree combining the fibrous texture of pear and the fragrant aroma of cinnamon."
     },
     "category": 10,
     "ingredients": [
@@ -335,8 +335,12 @@
     ],
     "instructions": [
       {
-        "tr": "Kayısıyı haşlayıp irmikle pişirin.",
-        "en": "Boil apricot and cook with semolina."
+        "tr": "Armudu haşlayıp çatalla püre haline getirelim.",
+        "en": "Boil the pear and mash it into a puree with a fork."
+      },
+      {
+        "tr": "Üzerine çok az miktarda tarçın serpiştirip karıştırarak servis edelim.",
+        "en": "Sprinkle a tiny pinch of cinnamon on top, mix well, and serve."
       }
     ],
     "imageUrl": ""
@@ -348,8 +352,8 @@
       "en": "Banana Chia Pudding"
     },
     "description": {
-      "tr": "Modern ve sağlıklı ara öğün.",
-      "en": "Modern and healthy snack."
+      "tr": "Muzun doğal şeker gücüyle tatlandırılmış, pirinç unlu pratik bebek muhallebisi.",
+      "en": "A quick baby pudding made with rice flour and sweetened with the natural sugar of banana."
     },
     "category": 10,
     "ingredients": [
@@ -372,8 +376,12 @@
     "allergicIngredients": [],
     "instructions": [
       {
-        "tr": "Süt ve muzla bekletip jöleleştirin.",
-        "en": "Wait with milk and banana to jelly."
+        "tr": "Pirinç ununu suyla pişirip muhallebi yapalım.",
+        "en": "Cook rice flour with water to make a pudding."
+      },
+      {
+        "tr": "Ocaktan aldıktan sonra içine ezilmiş muz ekleyip pürüzsüzleşene dek karıştıralım.",
+        "en": "After removing from heat, add mashed banana and mix until smooth."
       }
     ],
     "imageUrl": ""
@@ -385,8 +393,8 @@
       "en": "Apple Cinnamon Cake"
     },
     "description": {
-      "tr": "Şekersiz, meyve tadında yumuşak kek.",
-      "en": "Soft cake with fruit taste, sugar-free."
+      "tr": "1 yaş sonrası bebişler için uygun, kuru incirin tatlı aromasıyla hazırlanan besleyici sütlü muhallebi.",
+      "en": "A nutritious milk pudding prepared with the sweet aroma of dried figs, suitable for babies over 1 year old."
     },
     "category": 10,
     "ingredients": [
@@ -421,8 +429,12 @@
     ],
     "instructions": [
       {
-        "tr": "Rendelenmiş elma ile fırında pişirin.",
-        "en": "Bake in the oven with grated apple."
+        "tr": "Kuru incirleri sıcak suda yumuşatıp minik minik doğrayalım.",
+        "en": "Soak dried figs in hot water to soften and chop them into tiny pieces."
+      },
+      {
+        "tr": "Muhallebiye ekleyerek birlikte pişirelim ve ılık servis edelim.",
+        "en": "Add to the pudding, cook together, and serve warm."
       }
     ],
     "imageUrl": ""
@@ -434,8 +446,8 @@
       "en": "Yogurt Mousse with Molasses"
     },
     "description": {
-      "tr": "Hızlı ve serinletici tatlı.",
-      "en": "Fast and refreshing dessert."
+      "tr": "Kayısı ve elmanın buharda pişip ezilmesiyle hazırlanan, C vitamini ve lif deposu meyve şöleni tatlısı.",
+      "en": "A vitamin C and fiber-packed fruit feast dessert prepared by steaming and mashing apricot and apple."
     },
     "category": 10,
     "ingredients": [
@@ -466,8 +478,12 @@
     ],
     "instructions": [
       {
-        "tr": "Yoğurt ve pekmezi iyice çırpın.",
-        "en": "Whisk yogurt and molasses thoroughly."
+        "tr": "Kayısı ve elma dilimlerini buharda haşlayalım.",
+        "en": "Steam apricot and apple slices together."
+      },
+      {
+        "tr": "Yumuşayan meyveleri çatalla ezerek püre kıvamında yedirelim.",
+        "en": "Mash the softened fruits with a fork and feed in a puree consistency."
       }
     ],
     "imageUrl": ""
@@ -479,8 +495,8 @@
       "en": "Peach Jelly (Natural)"
     },
     "description": {
-      "tr": "Meyve suyu ve nişasta ile doğal jöle.",
-      "en": "Natural jelly with fruit juice and starch."
+      "tr": "Demir deposu kuru üzümlerin ezilip irmikle pişirilmesiyle elde edilen tatlı ve doyurucu muhallebi.",
+      "en": "A sweet and filling pudding obtained by cooking iron-rich mashed raisins with semolina."
     },
     "category": 10,
     "ingredients": [
@@ -503,8 +519,12 @@
     "allergicIngredients": [],
     "instructions": [
       {
-        "tr": "Nişasta ile pişirip dondurun.",
-        "en": "Cook with starch and freeze."
+        "tr": "Kuru üzümleri haşlayıp püre yapalım.",
+        "en": "Boil the raisins and mash them into a puree."
+      },
+      {
+        "tr": "İrmikli muhallebi pişirirken üzüm püresini de ekleyip birlikte pişirelim.",
+        "en": "Add the raisin puree while cooking semolina pudding, and cook together."
       }
     ],
     "imageUrl": ""

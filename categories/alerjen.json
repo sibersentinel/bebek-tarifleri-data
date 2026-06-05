@@ -6,8 +6,8 @@
       "en": "Carrot Puree with Rice"
     },
     "description": {
-      "tr": "Alerji riski en düşük gıdalarla hazırlanan güvenli öğün.",
-      "en": "A safe meal prepared with foods with the lowest allergy risk."
+      "tr": "Alerji riski en düşük pirinç ve havucun bir araya geldiği, hassas bebekler için son derece güvenli bir öğün.",
+      "en": "A highly safe meal for sensitive babies, combining rice and carrots which carry the lowest risk of allergy."
     },
     "category": 11,
     "ingredients": [
@@ -48,12 +48,12 @@
     "allergicIngredients": [],
     "instructions": [
       {
-        "tr": "Pirinç ve havucu yumuşayana kadar haşlayın.",
-        "en": "Boil rice and carrot until soft."
+        "tr": "Pirinç ve havucu yıkayıp temiz tencerede yumuşayana kadar haşlayalım.",
+        "en": "Wash the rice and carrot, and boil them in a clean pot until tender."
       },
       {
-        "tr": "Ezerek püre haline getirin.",
-        "en": "Mash into a puree."
+        "tr": "Haşlanan malzemeleri ezerek pürüzsüz bir püre kıvamına getirelim.",
+        "en": "Mash the cooked ingredients until they reach a smooth puree consistency."
       }
     ],
     "imageUrl": ""
@@ -65,8 +65,8 @@
       "en": "Pumpkin with Lamb"
     },
     "description": {
-      "tr": "Süt ve gluten içermeyen, yüksek proteinli tarif.",
-      "en": "High protein recipe, free from milk and gluten."
+      "tr": "Süt ve gluten hassasiyeti olan bebekler için demir ve vitamin deposu, besleyici kuzu etli ve balkabaklı lezzet.",
+      "en": "A nutritious iron and vitamin-packed meal with lamb and pumpkin, perfect for babies with dairy and gluten sensitivities."
     },
     "category": 11,
     "ingredients": [
@@ -107,12 +107,12 @@
     "allergicIngredients": [],
     "instructions": [
       {
-        "tr": "Kuzu etini iyice pişirip didikleyin veya blenderdan geçirin.",
-        "en": "Cook the lamb meat thoroughly and shred or blend it."
+        "tr": "Kuzu etini yumuşacık olana dek iyice haşlayalım, ardından lif lif ayırıp ezelim veya blenderdan geçirelim.",
+        "en": "Boil the lamb meat until very soft, then shred it finely or blend it."
       },
       {
-        "tr": "Haşlanmış balkabağı ile karıştırın.",
-        "en": "Mix with boiled pumpkin."
+        "tr": "Haşladığımız ve ezdiğimiz balkabağı ile eti karıştırarak ılık servis edelim.",
+        "en": "Mix the meat with steamed and mashed pumpkin, and serve warm."
       }
     ],
     "imageUrl": ""
@@ -124,8 +124,8 @@
       "en": "Green Beans with Potato"
     },
     "description": {
-      "tr": "Basit, temiz ve alerjen içermeyen sebze yemeği.",
-      "en": "Simple, clean and allergen-free vegetable dish."
+      "tr": "Katkısız ve alerjiden uzak, taze fasulye ve patatesin uyumuyla hazırlanan hafif bir sebze yemeği.",
+      "en": "A light vegetable dish prepared with green beans and potatoes, clean and free of common allergens."
     },
     "category": 11,
     "ingredients": [
@@ -166,12 +166,12 @@
     "allergicIngredients": [],
     "instructions": [
       {
-        "tr": "Fasulye ve patatesi az suda pişirin.",
-        "en": "Cook beans and potatoes in a little water."
+        "tr": "Kılçıksız taze fasulye ve patatesi minik minik doğrayıp az suda yumuşayana kadar pişmeye bırakalım.",
+        "en": "Chop stringless green beans and potatoes into small pieces and cook in a little water until soft."
       },
       {
-        "tr": "Zeytinyağı ekleyip ezin.",
-        "en": "Add olive oil and mash."
+        "tr": "Pişen sebzeleri çatalla ezelim ve üzerine bir tatlı kaşığı zeytinyağı ekleyip karıştırarak yedirelim.",
+        "en": "Mash the cooked vegetables with a fork, add a teaspoon of olive oil, mix, and feed your baby."
       }
     ],
     "imageUrl": ""
@@ -183,8 +183,8 @@
       "en": "Oatmeal with Pear (Dairy-Free)"
     },
     "description": {
-      "tr": "Süt alerjisi olan bebekler için suyla hazırlanan lapa.",
-      "en": "Porridge prepared with water for babies with milk allergy."
+      "tr": "Süt alerjisi olan miniklerimiz için suyla pişirilmiş yulaf ununun, armudun doğal tatlılığıyla buluşması.",
+      "en": "Water-cooked oat flour meets the natural sweetness of pear, specially crafted for babies with milk allergies."
     },
     "category": 11,
     "ingredients": [
@@ -230,12 +230,12 @@
     ],
     "instructions": [
       {
-        "tr": "Yulafı su ile pişirin.",
-        "en": "Cook the oats with water."
+        "tr": "Yulaf ununu temiz su ile ocakta sürekli karıştırarak lapa kıvamına gelene kadar pişirelim.",
+        "en": "Cook oat flour with clean water on the stove, stirring constantly until it forms a porridge."
       },
       {
-        "tr": "İçine rendelenmiş armut ekleyip tatlandırın.",
-        "en": "Add grated pear and sweeten."
+        "tr": "Pişen lapayı ocaktan alıp içine taze rendelenmiş armudu ekleyelim ve güzelce harmanlayalım.",
+        "en": "Remove the porridge from heat, add freshly grated pear, and mix well."
       }
     ],
     "imageUrl": ""
@@ -247,8 +247,8 @@
       "en": "Broccoli Mash"
     },
     "description": {
-      "tr": "Sadece sebze ve zeytinyağından oluşan saf tarif.",
-      "en": "Pure recipe consisting only of vegetables and olive oil."
+      "tr": "Sadece brokoli ve sızma zeytinyağının saflığından oluşan, sindirimi kolay yeşil bir öğün.",
+      "en": "A simple green meal consisting of pure steamed broccoli and extra virgin olive oil, easy on the tummy."
     },
     "category": 11,
     "ingredients": [
@@ -274,12 +274,12 @@
     "allergicIngredients": [],
     "instructions": [
       {
-        "tr": "Brokoliyi buharda tam yumuşayana kadar pişirin.",
-        "en": "Steam the broccoli until fully soft."
+        "tr": "Brokolileri buharda, tüm vitamini içinde kalacak şekilde tamamen yumuşayana kadar pişirelim.",
+        "en": "Steam the broccoli florets until fully soft, ensuring all vitamins are preserved."
       },
       {
-        "tr": "Ezip üzerine birkaç damla zeytinyağı ekleyin.",
-        "en": "Mash and add a few drops of olive oil."
+        "tr": "Sıcakken çatalla ezip üzerine birkaç damla soğuk sıkım zeytinyağı gezdirelim.",
+        "en": "Mash with a fork while warm and drizzle a few drops of cold-pressed olive oil."
       }
     ],
     "imageUrl": ""
@@ -291,8 +291,8 @@
       "en": "Zucchini with Rice"
     },
     "description": {
-      "tr": "En güvenli ikili bir arada.",
-      "en": "Safest duo together."
+      "tr": "Bebeğinizin hassas bağırsaklarını yormayacak, en güvenilir iki malzemenin ipeksi buluşması.",
+      "en": "A silky combination of two highly safe ingredients that will be gentle on your baby's sensitive bowels."
     },
     "category": 11,
     "ingredients": [
@@ -333,8 +333,12 @@
     "allergicIngredients": [],
     "instructions": [
       {
-        "tr": "Birlikte haşlayıp ezin.",
-        "en": "Boil together and mash."
+        "tr": "Yıkanmış pirinç ve taze kabak dilimlerini az suda birlikte haşlayalım.",
+        "en": "Boil washed rice and fresh zucchini slices together in a small amount of water."
+      },
+      {
+        "tr": "Yumuşayan malzemeleri çatalla veya cam rende yardımıyla pürüzsüzleşene dek ezelim.",
+        "en": "Mash the softened ingredients with a fork or a glass grater until smooth."
       }
     ],
     "imageUrl": ""
@@ -346,8 +350,8 @@
       "en": "Pumpkin and Lamb"
     },
     "description": {
-      "tr": "Tahılsız ve sütsüz yüksek protein.",
-      "en": "Grain-free and dairy-free high protein."
+      "tr": "Tahıl ve süt proteini içermeyen, yüksek protein ve demir kaynağı besleyici kuzu etli balkabağı püresi.",
+      "en": "A grain-free and dairy-free source of high protein and iron, featuring lamb and pumpkin."
     },
     "category": 11,
     "ingredients": [
@@ -373,8 +377,12 @@
     "allergicIngredients": [],
     "instructions": [
       {
-        "tr": "Et ve kabağı birlikte pişirip püre yapın.",
-        "en": "Cook meat and pumpkin together and make a puree."
+        "tr": "Kuzu etini ve balkabağını tencerede üzerini geçecek kadar suyla lokum gibi olana kadar pişirelim.",
+        "en": "Cook the lamb and pumpkin in a pot with water until melt-in-your-mouth soft."
+      },
+      {
+        "tr": "Haşlanan malzemeleri pürüzsüz bir kıvam alana dek ezip ılık olarak servis edelim.",
+        "en": "Mash the cooked ingredients until they reach a smooth consistency and serve warm."
       }
     ],
     "imageUrl": ""
@@ -386,8 +394,8 @@
       "en": "Carrot and Potato (Plain)"
     },
     "description": {
-      "tr": "Temiz içerikli doyurucu öğün.",
-      "en": "Filling meal with clean content."
+      "tr": "Havuç ve patatesin sade gücüyle hazırlanan, zeytinyağı ile zenginleştirilmiş besleyici ve doyurucu bir tabak.",
+      "en": "A simple yet powerful nutritious dish made of carrots and potatoes, enriched with quality olive oil."
     },
     "category": 11,
     "ingredients": [
@@ -428,8 +436,12 @@
     "allergicIngredients": [],
     "instructions": [
       {
-        "tr": "Haşlayıp zeytinyağı ile ezin.",
-        "en": "Boil and mash with olive oil."
+        "tr": "Havuç ve patatesi temiz suda haşlayıp süzerek hazırlayalım.",
+        "en": "Boil carrots and potatoes in clean water, then drain."
+      },
+      {
+        "tr": "Sebzeleri sıcakken ezip içine bir tatlı kaşığı zeytinyağı ekleyerek karışıma yumuşak bir kıvam kazandıralım.",
+        "en": "Mash the vegetables while warm and add a teaspoon of olive oil to give the mixture a soft texture."
       }
     ],
     "imageUrl": ""
@@ -441,8 +453,8 @@
       "en": "Black Olive Mash (Salt-Free)"
     },
     "description": {
-      "tr": "İyi yıkanmış, tuzu alınmış zeytin.",
-      "en": "Well washed, desalted olives."
+      "tr": "Çekirdeği çıkarılmış, tuzu tamamen alınmış siyah zeytinle bebişinizin kahvaltısına lezzet katacak ezme.",
+      "en": "A delicious mash made of pitted and desalted black olives to add flavor to your baby's breakfast."
     },
     "category": 11,
     "ingredients": [
@@ -468,8 +480,12 @@
     "allergicIngredients": [],
     "instructions": [
       {
-        "tr": "Suda bekletip çekirdeklerini çıkarıp ezin.",
-        "en": "Soak in water, remove seeds and mash."
+        "tr": "Zeytinleri akşamdan suda bekleterek tuzunu tamamen arındıralım ve çekirdeklerini çıkaralım.",
+        "en": "Soak the olives in water overnight to completely remove the salt, then pit them."
+      },
+      {
+        "tr": "Tuzsuz zeytin içlerini pürüzsüz bir ezme haline gelene kadar çatal yardımıyla ezelim.",
+        "en": "Mash the salt-free olive flesh with a fork until it becomes a smooth paste."
       }
     ],
     "imageUrl": ""
@@ -481,8 +497,8 @@
       "en": "Pear and Plum Puree"
     },
     "description": {
-      "tr": "Sindirim dostu alerjen içermeyen meyve.",
-      "en": "Digestive-friendly allergen-free fruit."
+      "tr": "Sindirim sistemini rahatlatan tatlı armut ve mayhoş mürdüm eriğinin enfes ve alerjen içermeyen birlikteliği.",
+      "en": "A delicious, allergen-free blend of sweet pear and tart plum to soothe the digestive system."
     },
     "category": 11,
     "ingredients": [
@@ -523,8 +539,12 @@
     "allergicIngredients": [],
     "instructions": [
       {
-        "tr": "Buharda pişirip püre yapın.",
-        "en": "Steam and make a puree."
+        "tr": "Armut ve eriği yıkayıp çekirdeklerini çıkardıktan sonra buharda yumuşayana kadar pişirelim.",
+        "en": "Wash the pear and plum, remove their seeds, and steam them until tender."
+      },
+      {
+        "tr": "Meyveleri çatalla ezerek püre haline getirelim ve bebişimize taze taze yedirelim.",
+        "en": "Mash the fruits with a fork into a puree and feed your baby fresh."
       }
     ],
     "imageUrl": ""

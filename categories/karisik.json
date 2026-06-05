@@ -6,8 +6,8 @@
       "en": "Rainbow Puree"
     },
     "description": {
-      "tr": "Birçok sebzenin bir arada olduğu vitamin bombası.",
-      "en": "A vitamin bomb with many vegetables together."
+      "tr": "Mevsim sebzelerinin renkli dünyasını bebişinizin tabağına taşıyan, bol vitaminli gökkuşağı püresi.",
+      "en": "A vitamin-packed rainbow puree that brings the colorful world of seasonal vegetables to your baby's plate."
     },
     "category": 6,
     "ingredients": [
@@ -63,12 +63,12 @@
     "allergicIngredients": [],
     "instructions": [
       {
-        "tr": "Tüm sebzeleri haşlayın.",
-        "en": "Boil all the vegetables."
+        "tr": "Havuç, kabak ve patates gibi sebzeleri yıkayıp doğrayarak haşlayalım.",
+        "en": "Wash, chop, and boil vegetables like carrots, zucchini, and potatoes."
       },
       {
-        "tr": "Az zeytinyağı ile birlikte püre yapın.",
-        "en": "Make a puree with a little olive oil."
+        "tr": "Sebzeleri süzüp içine sızma zeytinyağı ekleyerek pürüzsüzleşene dek ezelim.",
+        "en": "Drain the vegetables, add extra virgin olive oil, and mash until smooth."
       }
     ],
     "imageUrl": ""
@@ -80,8 +80,8 @@
       "en": "Spinach with Rice"
     },
     "description": {
-      "tr": "Hem sebze hem tahıl dengeli bir öğün.",
-      "en": "A balanced meal with both vegetables and grains."
+      "tr": "Demir deposu taze ıspanak yaprakları ile doyurucu pirincin birlikte piştiği, tam bir öğle yemeği alternatifi.",
+      "en": "A complete lunch alternative featuring iron-rich fresh spinach leaves and filling rice cooked together."
     },
     "category": 6,
     "ingredients": [
@@ -122,12 +122,12 @@
     "allergicIngredients": [],
     "instructions": [
       {
-        "tr": "Yıkanmış pirinç ve ıspanağı az suda pişirin.",
-        "en": "Cook washed rice and spinach in a little water."
+        "tr": "Ispanakları incecik kıyalım, pirinçle birlikte az suda pirinçler yumuşayana kadar pişirelim.",
+        "en": "Chop the spinach finely and cook with rice in a small amount of water until the rice is tender."
       },
       {
-        "tr": "Yumuşayınca ezip yedirin.",
-        "en": "Mash and feed when soft."
+        "tr": "Ilındıktan sonra çatalla hafifçe ezerek yedirelim.",
+        "en": "Once cooled to warm, mash gently with a fork and feed."
       }
     ],
     "imageUrl": ""
@@ -139,8 +139,8 @@
       "en": "Peas with Minced Meat"
     },
     "description": {
-      "tr": "Yüksek proteinli ve lifli karışım.",
-      "en": "High protein and fiber mixture."
+      "tr": "Taze bezelye taneleri ve az yağlı kuzu kıymasının besleyici uyumuyla hazırlanan proteinli püre.",
+      "en": "A protein-rich puree prepared with the nutritious combination of fresh peas and low-fat minced lamb."
     },
     "category": 6,
     "ingredients": [
@@ -181,12 +181,12 @@
     "allergicIngredients": [],
     "instructions": [
       {
-        "tr": "Kıymayı ve bezelyeleri birlikte pişirin.",
-        "en": "Cook the minced meat and peas together."
+        "tr": "Kıyma ve bezelyeleri tencerede yumuşayana kadar pişirelim.",
+        "en": "Cook the minced meat and peas in a pot until tender."
       },
       {
-        "tr": "Süzgeçten geçirerek püre yapın.",
-        "en": "Pass through a sieve and make a puree."
+        "tr": "Bebeğin yutabilmesi için süzgeçten veya blenderdan geçirerek pürüzsüzleştirelim.",
+        "en": "Pass through a sieve or blender to make it smooth and easy for your baby to swallow."
       }
     ],
     "imageUrl": ""
@@ -198,8 +198,8 @@
       "en": "Broccoli and Semolina"
     },
     "description": {
-      "tr": "Farklı dokuları tanımak için güzel bir seçenek.",
-      "en": "A good option for getting to know different textures."
+      "tr": "İrmiğin doyurucu dokusu ile brokolinin vitamin değerinin buluştuğu besleyici akşam öğünü.",
+      "en": "A nutritious evening meal combining the filling texture of semolina and the vitamin value of broccoli."
     },
     "category": 6,
     "ingredients": [
@@ -245,12 +245,12 @@
     ],
     "instructions": [
       {
-        "tr": "İrmiği su ile pişirirken brokolileri de ekleyin.",
-        "en": "Add broccoli while cooking semolina with water."
+        "tr": "İrmiği pişirirken tencereye küçük brokoli çiçeklerini de ekleyip birlikte yumuşatalım.",
+        "en": "Add small broccoli florets to the pot while cooking semolina and soften them together."
       },
       {
-        "tr": "Birlikte ezip servis edin.",
-        "en": "Mash together and serve."
+        "tr": "Sıcakken ezerek homojen bir karışım elde edelim.",
+        "en": "Mash while hot to obtain a homogeneous mixture."
       }
     ],
     "imageUrl": ""
@@ -262,8 +262,8 @@
       "en": "Oatmeal with Banana and Yogurt"
     },
     "description": {
-      "tr": "Ara öğünlerin vazgeçilmezi, doyurucu ve tatlı.",
-      "en": "Indispensable for snacks, filling and sweet."
+      "tr": "Lif kaynağı yulaf, tatlı muz ve kalsiyum deposu yoğurdun buluştuğu doyurucu ve leziz bir ara öğün.",
+      "en": "A filling and delicious snack combining fiber-rich oats, sweet banana, and calcium-rich yogurt."
     },
     "category": 6,
     "ingredients": [
@@ -328,12 +328,12 @@
     ],
     "instructions": [
       {
-        "tr": "Yulafı az suda haşlayıp yumuşatın.",
-        "en": "Boil and soften the oats in a little water."
+        "tr": "Yulafı suda yumuşayana kadar haşlayıp ılımasını bekleyelim.",
+        "en": "Boil the oats in water until soft and let it cool slightly."
       },
       {
-        "tr": "Muz ve yoğurtla karıştırın.",
-        "en": "Mix with banana and yogurt."
+        "tr": "Ilıyan yulafa ezilmiş muz ve ev yoğurdu ekleyip karıştıralım.",
+        "en": "Add mashed banana and homemade yogurt to the cooled oats and mix."
       }
     ],
     "imageUrl": ""
@@ -345,8 +345,8 @@
       "en": "Chicken Vegetable Saute"
     },
     "description": {
-      "tr": "Yumuşak tavuk ve mevsim sebzeleri.",
-      "en": "Soft chicken and seasonal vegetables."
+      "tr": "Bebişlerin protein ihtiyacını karşılayacak, yumuşacık tavuk eti ve taze mevsim sebzelerinin birlikteliği.",
+      "en": "A combination of soft chicken meat and fresh seasonal vegetables to meet your baby's protein needs."
     },
     "category": 6,
     "ingredients": [
@@ -392,8 +392,12 @@
     ],
     "instructions": [
       {
-        "tr": "Küçük parçalar halinde pişirip ezin.",
-        "en": "Cook in small pieces and mash."
+        "tr": "Tavuk göğsünü ve sebzeleri tencerede haşlayalım.",
+        "en": "Boil chicken breast and vegetables in a pot."
+      },
+      {
+        "tr": "Etleri didikleyip sebzelerle birlikte püre haline getirelim.",
+        "en": "Shred the meat and mash together with the vegetables into a puree."
       }
     ],
     "imageUrl": ""
@@ -405,8 +409,8 @@
       "en": "Chard with Bulgur"
     },
     "description": {
-      "tr": "Doyurucu ve sağlıklı yeşil öğün.",
-      "en": "Filling and healthy green meal."
+      "tr": "Pazı yapraklarının besleyiciliği ve bulgurun doyuruculuğuyla hazırlanan, yoğurtla servis edilen akşam yemeği.",
+      "en": "An evening meal prepared with nutritious chard leaves and filling bulgur, served with yogurt."
     },
     "category": 6,
     "ingredients": [
@@ -452,8 +456,12 @@
     ],
     "instructions": [
       {
-        "tr": "Birlikte pişirip yoğurtla servis edin.",
-        "en": "Cook together and serve with yogurt."
+        "tr": "Pazı ve bulguru az suda bulgurlar şişene kadar pişirelim.",
+        "en": "Cook chard and bulgur in a small amount of water until the bulgur swells."
+      },
+      {
+        "tr": "Ilındıktan sonra yoğurtla karıştırıp bebişimize sunalım.",
+        "en": "Once cooled to warm, mix with yogurt and serve to your baby."
       }
     ],
     "imageUrl": ""
@@ -465,8 +473,8 @@
       "en": "Pasta with Cheese and Tomato"
     },
     "description": {
-      "tr": "Bebeklerin en sevdiği ikili.",
-      "en": "Babies favorite duo."
+      "tr": "Bebekler için özel üretilmiş makarnanın, taze domates sosu ve peynirle zenginleştirilmiş hali.",
+      "en": "Special baby pasta enriched with fresh tomato sauce and cheese, a favorite among little ones."
     },
     "category": 6,
     "ingredients": [
@@ -516,8 +524,12 @@
     ],
     "instructions": [
       {
-        "tr": "Makarnayı haşlayıp peynirle karıştırın.",
-        "en": "Boil pasta and mix with cheese."
+        "tr": "Makarnayı yumuşacık olana kadar haşlayıp süzelim.",
+        "en": "Boil the pasta until very soft, then drain."
+      },
+      {
+        "tr": "Üzerine taze domates püresi ve peynir ekleyerek harmanlayalım.",
+        "en": "Toss with fresh tomato puree and cheese."
       }
     ],
     "imageUrl": ""
@@ -529,8 +541,8 @@
       "en": "Cauliflower with Minced Meat"
     },
     "description": {
-      "tr": "Kış aylarının besleyici öğünü.",
-      "en": "Nutritious meal of winter months."
+      "tr": "C vitamini ve lif deposu karnabaharın, besleyici kıyma ile harmanlandığı lezzetli kış yemeği.",
+      "en": "A delicious winter dish blending cauliflower, rich in vitamin C and fiber, with nutritious minced meat."
     },
     "category": 6,
     "ingredients": [
@@ -571,8 +583,12 @@
     "allergicIngredients": [],
     "instructions": [
       {
-        "tr": "Küçük parçalar halinde pişirip çatalla ezin.",
-        "en": "Cook in small pieces and mash with a fork."
+        "tr": "Kıymayı kavurup küçük çiçeklere ayrılmış karnabaharlarla birlikte pişirelim.",
+        "en": "Saute the minced meat and cook together with cauliflower broken into small florets."
+      },
+      {
+        "tr": "Karnabaharlar yumuşayınca çatalla ezerek kıvam verelim.",
+        "en": "Once the cauliflower is tender, mash with a fork to adjust consistency."
       }
     ],
     "imageUrl": ""
@@ -584,8 +600,8 @@
       "en": "Oatmeal with Apple and Cinnamon"
     },
     "description": {
-      "tr": "Lezzetli ve kokulu sabah kahvaltısı.",
-      "en": "Delicious and fragrant morning breakfast."
+      "tr": "Tarçının mis kokusu ve elmanın tatlılığıyla bebişlerinizin güne mutlu başlamasını sağlayacak nefis bir yulaf lapası.",
+      "en": "A delightful oatmeal porridge with the wonderful aroma of cinnamon and sweetness of apple to start the day happy."
     },
     "category": 6,
     "ingredients": [
@@ -631,8 +647,12 @@
     ],
     "instructions": [
       {
-        "tr": "Pişirip üzerine bir fiske tarçın ekleyin.",
-        "en": "Cook and add a pinch of cinnamon on top."
+        "tr": "Yulafı su ve elma rendesiyle pişirip lapa kıvamına getirelim.",
+        "en": "Cook oats with water and grated apple to form a porridge."
+      },
+      {
+        "tr": "Ocaktan aldıktan sonra üzerine çok az tarçın serperek tatlandıralım.",
+        "en": "Sweeten by sprinkling a tiny pinch of cinnamon after removing from heat."
       }
     ],
     "imageUrl": ""

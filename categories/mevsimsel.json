@@ -6,8 +6,8 @@
       "en": "Summer Stew"
     },
     "description": {
-      "tr": "Taze yaz sebzeleriyle hazırlanan hafif bir öğün.",
-      "en": "A light meal prepared with fresh summer vegetables."
+      "tr": "Yaz mevsiminin taze fasulye, kabak ve domates gibi renkli sebzeleriyle hazırlanan hafif ve sulu öğün.",
+      "en": "A light and juicy meal prepared with colorful summer vegetables like green beans, zucchini, and tomatoes."
     },
     "category": 14,
     "ingredients": [
@@ -53,12 +53,12 @@
     ],
     "instructions": [
       {
-        "tr": "Sebzeleri küçük küçük doğrayıp az suda pişirin.",
-        "en": "Chop the vegetables into small pieces and cook in a little water."
+        "tr": "Yaz sebzelerini yıkayıp minik minik doğrayalım ve az suda yumuşayana dek kısık ateşte pişirelim.",
+        "en": "Wash and chop summer vegetables into tiny pieces and cook in a little water over low heat until soft."
       },
       {
-        "tr": "Zeytinyağı ekleyerek servis edin.",
-        "en": "Serve by adding olive oil."
+        "tr": "Ocaktan almadan önce sızma zeytinyağı ekleyip çatalla ezerek servis edelim.",
+        "en": "Add extra virgin olive oil before removing from heat, mash with a fork, and serve."
       }
     ],
     "imageUrl": ""
@@ -70,8 +70,8 @@
       "en": "Winter Soup"
     },
     "description": {
-      "tr": "Kök sebzelerle hazırlanan bağışıklık dostu çorba.",
-      "en": "Immunity-friendly soup prepared with root vegetables."
+      "tr": "Kış aylarının şifalı kök sebzeleri havuç, kereviz ve balkabağı ile hazırlanan bağışıklık çorbası.",
+      "en": "An immunity soup prepared with healing winter root vegetables like carrot, celery, and pumpkin."
     },
     "category": 14,
     "ingredients": [
@@ -117,12 +117,12 @@
     ],
     "instructions": [
       {
-        "tr": "Kök sebzeleri haşlayın.",
-        "en": "Boil the root vegetables."
+        "tr": "Kök sebzeleri yıkayıp doğradıktan sonra tencerede yumuşayana dek haşlayalım.",
+        "en": "Wash, chop, and boil root vegetables in a pot until soft."
       },
       {
-        "tr": "Pürüzsüz olana kadar blenderdan geçirin.",
-        "en": "Blend until smooth."
+        "tr": "Haşlanan sebzeleri pürüzsüz bir kıvam alana kadar blenderdan geçirip sıcak servis edelim.",
+        "en": "Blend the cooked vegetables until smooth and serve warm."
       }
     ],
     "imageUrl": ""
@@ -134,8 +134,8 @@
       "en": "Spring Puree"
     },
     "description": {
-      "tr": "Taze bezelye ve enginarın uyumu.",
-      "en": "Harmony of fresh peas and artichokes."
+      "tr": "Bahar mevsiminin en taze yeşili bezelye ve karaciğer dostu enginarın nefis ve sağlıklı uyumu.",
+      "en": "A delicious and healthy combination of spring's freshest green peas and liver-friendly artichoke."
     },
     "category": 14,
     "ingredients": [
@@ -176,12 +176,12 @@
     "allergicIngredients": [],
     "instructions": [
       {
-        "tr": "Enginar ve bezelyeyi buharda pişirin.",
-        "en": "Steam artichoke and peas."
+        "tr": "Enginar ve taze bezelyeleri buharda yumuşayana kadar pişmeye bırakalım.",
+        "en": "Steam artichoke and fresh peas until they are tender."
       },
       {
-        "tr": "Limonlu zeytinyağı ile ezin.",
-        "en": "Mash with lemon olive oil."
+        "tr": "Sebzeleri zeytinyağı ve birkaç damla limon suyu ekleyerek çatalla püre haline getirelim.",
+        "en": "Mash the vegetables with olive oil and a few drops of lemon juice into a puree."
       }
     ],
     "imageUrl": ""
@@ -193,8 +193,8 @@
       "en": "Autumn Dessert"
     },
     "description": {
-      "tr": "Balkabağı ve elmanın enfes birleşimi.",
-      "en": "Delicious combination of pumpkin and apple."
+      "tr": "Sonbahar aylarının tatlı balkabağı ve mis kokulu elmasının buluştuğu şifalı bir meyve püresi.",
+      "en": "A healing fruit puree combining autumn's sweet pumpkin and fragrant apple."
     },
     "category": 14,
     "ingredients": [
@@ -235,8 +235,12 @@
     "allergicIngredients": [],
     "instructions": [
       {
-        "tr": "Meyveleri haşlayıp ezin.",
-        "en": "Boil and mash the fruits."
+        "tr": "Balkabağı ve elma dilimlerini buharda iyice yumuşayana dek pişirelim.",
+        "en": "Steam pumpkin and apple slices until they are completely soft."
+      },
+      {
+        "tr": "Sıcakken ezerek homojen bir kıvama getirelim ve ılık servis edelim.",
+        "en": "Mash while hot to achieve a homogeneous consistency and serve warm."
       }
     ],
     "imageUrl": ""
@@ -248,8 +252,8 @@
       "en": "Fresh Corn Soup"
     },
     "description": {
-      "tr": "Süt mısırın en doğal hali.",
-      "en": "The most natural state of sweet corn."
+      "tr": "Taze süt mısırın haşlanıp süzülmesiyle elde edilen, lif değeri yüksek tatlımsı çorba.",
+      "en": "A sweetish, high-fiber soup obtained by boiling and straining fresh sweet corn."
     },
     "category": 14,
     "ingredients": [
@@ -280,12 +284,12 @@
     ],
     "instructions": [
       {
-        "tr": "Mısırları iyice haşlayıp blenderdan geçirin.",
-        "en": "Boil the corn thoroughly and blend."
+        "tr": "Taze mısır tanelerini tencerede yumuşayana kadar bol suda haşlayalım.",
+        "en": "Boil fresh corn kernels in plenty of water until tender."
       },
       {
-        "tr": "Süzgeçten geçirerek kabuklarını ayırın.",
-        "en": "Separate the husks by passing through a sieve."
+        "tr": "Mısırları blenderdan geçirdikten sonra kabuklarını ayırmak için ince süzgeçten süzerek servis edelim.",
+        "en": "Blend the corn and strain through a fine sieve to remove the hulls before serving."
       }
     ],
     "imageUrl": ""
@@ -297,8 +301,8 @@
       "en": "Artichoke with Carrot"
     },
     "description": {
-      "tr": "Baharın en sağlıklı ikilisi.",
-      "en": "Healthiest duo of spring."
+      "tr": "Baharın şifa kaynağı enginar ve A vitamini deposu havucun zeytinyağı ile piştiği sağlıklı öğün.",
+      "en": "A healthy spring meal featuring healing artichoke and vitamin A-rich carrot cooked with olive oil."
     },
     "category": 14,
     "ingredients": [
@@ -339,8 +343,12 @@
     "allergicIngredients": [],
     "instructions": [
       {
-        "tr": "Zeytinyağlı pişirip püre yapın.",
-        "en": "Cook with olive oil and make a puree."
+        "tr": "Enginar ve havucu zeytinyağlı olarak tencerede az suyla pişirelim.",
+        "en": "Cook artichoke and carrot in a pot with a little water and olive oil."
+      },
+      {
+        "tr": "Yumuşayan sebzeleri çatalla ezerek püre kıvamında bebişimize sunalım.",
+        "en": "Mash the softened vegetables with a fork and serve to your baby in a puree consistency."
       }
     ],
     "imageUrl": ""
@@ -352,8 +360,8 @@
       "en": "Fresh Strawberry Puree"
     },
     "description": {
-      "tr": "Yaz başında çıkan ilk çilekler.",
-      "en": "First strawberries of early summer."
+      "tr": "Yaz başında çıkan taze ve kokulu çileklerin ezilmesiyle hazırlanan, 1 yaş sonrası için nefis meyve püresi.",
+      "en": "A delicious fruit puree prepared by mashing fresh, fragrant early summer strawberries for ages 1+."
     },
     "category": 14,
     "ingredients": [
@@ -384,8 +392,12 @@
     ],
     "instructions": [
       {
-        "tr": "Yıkayıp pürüzsüz olana kadar ezin.",
-        "en": "Wash and mash until smooth."
+        "tr": "Çilekleri sirkeli suda bekletip iyice yıkayalım.",
+        "en": "Soak strawberries in vinegar water and wash thoroughly."
+      },
+      {
+        "tr": "Çatal yardımıyla pürüzsüz olana dek ezip taze taze yedirelim.",
+        "en": "Mash with a fork until smooth and serve fresh."
       }
     ],
     "imageUrl": ""
@@ -397,8 +409,8 @@
       "en": "Quince Puree"
     },
     "description": {
-      "tr": "Kış aylarının şifalı meyvesi.",
-      "en": "Healing fruit of winter months."
+      "tr": "Kış mevsiminin sert ama şifalı meyvesi ayvanın, buharda pişirilerek yumuşatılmış tatlı hali.",
+      "en": "A sweet treat made by steaming and softening quince, winter's firm but highly beneficial fruit."
     },
     "category": 14,
     "ingredients": [
@@ -424,8 +436,12 @@
     "allergicIngredients": [],
     "instructions": [
       {
-        "tr": "Haşlayıp cam rendede rendeleyin.",
-        "en": "Boil and grate with a glass grater."
+        "tr": "Ayvayı dilimleyip buharda iyice yumuşayana dek haşlayalım.",
+        "en": "Slice the quince and steam until completely soft."
+      },
+      {
+        "tr": "Yumuşayan ayva dilimlerini cam rende yardımıyla rendeleyip püre haline getirelim.",
+        "en": "Grate the softened quince slices using a glass grater to make a puree."
       }
     ],
     "imageUrl": ""
@@ -437,8 +453,8 @@
       "en": "Damson Plum Mash"
     },
     "description": {
-      "tr": "Sonbaharın en vitaminli eriği.",
-      "en": "Most vitamin-rich plum of autumn."
+      "tr": "Sonbahar güneşiyle olgunlaşan mürdüm eriklerinin lifli ve tatlı yapısıyla hazırlanan sindirim dostu püre.",
+      "en": "A digestion-friendly puree made with the fibrous and sweet texture of autumn-ripened damson plums."
     },
     "category": 14,
     "ingredients": [
@@ -464,8 +480,12 @@
     "allergicIngredients": [],
     "instructions": [
       {
-        "tr": "Buharda pişirip püre yapın.",
-        "en": "Steam and make a puree."
+        "tr": "Mürdüm eriklerinin çekirdeklerini çıkarıp buharda pişirelim.",
+        "en": "Remove seeds from damson plums and steam them."
+      },
+      {
+        "tr": "Yumuşayan erikleri çatalla ezip püre şeklinde servis edelim.",
+        "en": "Mash the softened plums with a fork and serve as a puree."
       }
     ],
     "imageUrl": ""
@@ -477,8 +497,8 @@
       "en": "Fresh Black-eyed Pea Puree"
     },
     "description": {
-      "tr": "Yazın hafif ve besleyici sebzesi.",
-      "en": "Light and nutritious vegetable of summer."
+      "tr": "Yaz aylarında taze taze toplanan börülcelerin haşlanıp ezilmesiyle hazırlanan besleyici sebze yemeği.",
+      "en": "A nutritious vegetable dish prepared by boiling and mashing freshly picked summer black-eyed peas."
     },
     "category": 14,
     "ingredients": [
@@ -504,8 +524,12 @@
     "allergicIngredients": [],
     "instructions": [
       {
-        "tr": "Haşlayıp püre haline getirin.",
-        "en": "Boil and make into a puree."
+        "tr": "Taze börülceleri yıkayıp tencerede yumuşayana dek haşlayalım.",
+        "en": "Wash and boil fresh black-eyed peas in a pot until tender."
+      },
+      {
+        "tr": "Haşlanan börülceleri çatalla ezerek püre haline getirelim ve zeytinyağı ekleyip karıştıralım.",
+        "en": "Mash the cooked black-eyed peas with a fork, add olive oil, and mix."
       }
     ],
     "imageUrl": ""

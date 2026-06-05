@@ -6,8 +6,8 @@
       "en": "Yellow Lentil Soup"
     },
     "description": {
-      "tr": "Protein kaynağı, sindirimi kolay mercimek çorbası.",
-      "en": "Protein source, easy to digest lentil soup."
+      "tr": "Protein ve lif kaynağı sarı mercimekle hazırlanan, bebişinizin midesini yormayacak ipeksi bir çorba.",
+      "en": "A silky, easy-to-digest soup made with protein and fiber-rich yellow lentils that won't upset your baby's tummy."
     },
     "category": 7,
     "ingredients": [
@@ -53,12 +53,12 @@
     ],
     "instructions": [
       {
-        "tr": "Mercimek ve havucu iyice pişirin.",
-        "en": "Cook the lentils and carrot thoroughly."
+        "tr": "Sarı mercimek ve doğranmış havucu tencerede üzerini geçecek kadar suyla yumuşayana dek pişirelim.",
+        "en": "Cook yellow lentils and chopped carrot in a pot with water until fully softened."
       },
       {
-        "tr": "Blenderdan geçirip pürüzsüz servis edin.",
-        "en": "Blend and serve smooth."
+        "tr": "Pişen malzemeleri blenderdan veya süzgeçten geçirip pürüzsüz hale getirerek ılık servis edelim.",
+        "en": "Pass the cooked ingredients through a blender or sieve until smooth and serve warm."
       }
     ],
     "imageUrl": ""
@@ -70,8 +70,8 @@
       "en": "Yogurt Soup"
     },
     "description": {
-      "tr": "Kalsiyum deposu, iştah açıcı çorba.",
-      "en": "Calcium store, appetizing soup."
+      "tr": "Kalsiyum deposu yoğurt ve doyurucu pirincin bir araya geldiği, bebişlerin iştahını açacak yayla çorbası.",
+      "en": "A calcium-rich yogurt and filling rice soup, traditionally known as Yayla soup, to stimulate your baby's appetite."
     },
     "category": 7,
     "ingredients": [
@@ -117,12 +117,12 @@
     ],
     "instructions": [
       {
-        "tr": "Pirinçleri haşlayın.",
-        "en": "Boil the rice."
+        "tr": "Pirinçleri yumuşayana kadar tencerede haşlayalım.",
+        "en": "Boil the rice in a pot until soft."
       },
       {
-        "tr": "Yoğurtla terbiyesini yapıp yavaşça ekleyin.",
-        "en": "Make the dressing with yogurt and add slowly."
+        "tr": "Yoğurt ve az unu çırparak terbiyesini hazırlayalım, haşlama suyundan ekleyerek ılıklaştırıp yavaşça çorbaya katalım.",
+        "en": "Whisk yogurt and a bit of flour to prepare the dressing, warm it with cooking water, and slowly stir into the soup."
       }
     ],
     "imageUrl": ""
@@ -134,8 +134,8 @@
       "en": "Chicken Broth Soup with Noodles"
     },
     "description": {
-      "tr": "Şifa deposu, kış günleri için ideal.",
-      "en": "Healing store, ideal for winter days."
+      "tr": "Kış günlerinde içinizi ısıtacak, bağışıklık destekleyici yıldız şehriyeli tavuk suyu çorbası.",
+      "en": "An immunity-boosting chicken broth soup with star noodles to warm your baby up during winter days."
     },
     "category": 7,
     "ingredients": [
@@ -178,12 +178,12 @@
     ],
     "instructions": [
       {
-        "tr": "Tavuk suyunda şehriyeleri pişirin.",
-        "en": "Cook the noodles in chicken broth."
+        "tr": "Doğal tavuk suyunu tencereye alıp kaynatalım ve içine yıldız şehriyeleri ekleyelim.",
+        "en": "Bring natural chicken broth to a boil in a pot and add the star noodles."
       },
       {
-        "tr": "Şehriyeler iyice yumuşayınca altını kapatın.",
-        "en": "Turn off the heat when the noodles are thoroughly soft."
+        "tr": "Şehriyeler iyice yumuşayıp şişene kadar kısık ateşte pişirip ılındıktan sonra sunalım.",
+        "en": "Cook over low heat until the noodles are fully soft and swollen, then serve warm."
       }
     ],
     "imageUrl": ""
@@ -195,8 +195,8 @@
       "en": "Tarhana Soup"
     },
     "description": {
-      "tr": "Probiyotik zengini, geleneksel bebek çorbası.",
-      "en": "Probiotic-rich, traditional baby soup."
+      "tr": "Probiyotik deposu geleneksel bebek tarhanasıyla hazırlanan, besleyici ve şifa dolu bir çorba.",
+      "en": "A nutritious and healing soup prepared with traditional probiotic-rich baby tarhana."
     },
     "category": 7,
     "ingredients": [
@@ -243,12 +243,12 @@
     ],
     "instructions": [
       {
-        "tr": "Tarhanayı su ile karıştırarak pişirin.",
-        "en": "Cook the tarhana by mixing with water."
+        "tr": "Bebek tarhanasını soğuk suyla tencereye alıp topaklanmaması için sürekli karıştırarak pişirelim.",
+        "en": "Place baby tarhana and cold water in a pot and cook, stirring constantly to prevent lumps."
       },
       {
-        "tr": "Koyu kıvamlı olursa su ekleyip açın.",
-        "en": "If it's thick, open it by adding water."
+        "tr": "Kıvamı koyu olursa sıcak su veya kemik suyu ekleyerek kıvamını açalım ve ılık servis edelim.",
+        "en": "If it gets too thick, open it up with hot water or bone broth, and serve warm."
       }
     ],
     "imageUrl": ""
@@ -260,8 +260,8 @@
       "en": "Tomato Soup"
     },
     "description": {
-      "tr": "C vitamini kaynağı, lezzetli başlangıç.",
-      "en": "Source of vitamin C, delicious starter."
+      "tr": "C vitamini bakımından zengin yaz domatesleriyle hazırlanan, iştah açıcı leziz bir başlangıç çorbası.",
+      "en": "A delicious, appetizing starter soup made with vitamin C-rich summer tomatoes."
     },
     "category": 7,
     "ingredients": [
@@ -292,12 +292,12 @@
     ],
     "instructions": [
       {
-        "tr": "Domatesin kabuğunu soyup rendeleyin.",
-        "en": "Peel and grate the tomato."
+        "tr": "Domatesin kabuğunu soyup çekirdeklerini çıkaralım ve incecik rendeleyelim.",
+        "en": "Peel the tomato, remove the seeds, and grate finely."
       },
       {
-        "tr": "Az suda pişirip süzgeçten geçirin.",
-        "en": "Cook in a little water and pass through a sieve."
+        "tr": "Rendelenmiş domatesi az suda pişirip süzgeçten geçirerek pürüzsüz kıvamda servis edelim.",
+        "en": "Cook the grated tomato in a little water and pass through a sieve for a smooth texture."
       }
     ],
     "imageUrl": ""
@@ -309,8 +309,8 @@
       "en": "Pumpkin Soup"
     },
     "description": {
-      "tr": "Beta-karoten deposu, tatlımsı çorba.",
-      "en": "Beta-carotene store, sweetish soup."
+      "tr": "Beta-karoten zengini balkabağının krema kıvamında sunulduğu, bebişlerin çok seveceği tatlımsı çorba.",
+      "en": "A sweetish, creamy soup made of beta-carotene-rich pumpkin that babies will love."
     },
     "category": 7,
     "ingredients": [
@@ -336,8 +336,12 @@
     "allergicIngredients": [],
     "instructions": [
       {
-        "tr": "Haşlayıp blenderdan geçirin.",
-        "en": "Boil and blend."
+        "tr": "Balkabaklarını tencerede yumuşayana kadar haşlayalım.",
+        "en": "Boil the pumpkin cubes in a pot until tender."
+      },
+      {
+        "tr": "Haşlanan kabakları blenderdan geçirip pürüzsüz, kadife gibi bir çorba elde edelim.",
+        "en": "Blend the cooked pumpkin until you get a smooth, velvety soup."
       }
     ],
     "imageUrl": ""
@@ -349,8 +353,8 @@
       "en": "Chicken Broth with Veggies"
     },
     "description": {
-      "tr": "Zengin mineralli besleyici su.",
-      "en": "Rich mineral nutritious broth."
+      "tr": "Besleyici tavuk suyunun mevsim sebzeleriyle kaynatılmasıyla elde edilen vitamin ve mineral deposu su.",
+      "en": "A vitamin and mineral-rich broth obtained by simmering nutritious chicken broth with seasonal vegetables."
     },
     "category": 7,
     "ingredients": [
@@ -378,8 +382,12 @@
     ],
     "instructions": [
       {
-        "tr": "Sebzelerle kaynatıp süzün.",
-        "en": "Boil with vegetables and strain."
+        "tr": "Tavuk kemiklerini ve sebzeleri bol suda uzun süre kaynatalım.",
+        "en": "Simmer chicken bones and vegetables in plenty of water for a long time."
+      },
+      {
+        "tr": "Elde ettiğimiz zengin suyu süzerek çorbalara katmak üzere hazırlayalım.",
+        "en": "Strain the resulting rich broth and prepare it to be used in baby soups."
       }
     ],
     "imageUrl": ""
@@ -391,8 +399,8 @@
       "en": "Creamy Broccoli Soup"
     },
     "description": {
-      "tr": "Yumuşak içimli yeşil çorba.",
-      "en": "Smooth-drinking green soup."
+      "tr": "Brokolinin besleyiciliği ve sütün yumuşak içiminin birleştiği, 1 yaş üzeri bebekler için harika bir çorba.",
+      "en": "A wonderful soup for babies over 1 year old, combining the nutrition of broccoli and the smooth taste of milk."
     },
     "category": 7,
     "ingredients": [
@@ -423,8 +431,12 @@
     ],
     "instructions": [
       {
-        "tr": "Süt ve brokoli ile pişirip ezin.",
-        "en": "Cook with milk and broccoli and mash."
+        "tr": "Brokolileri tencerede haşlayalım, yumuşayınca süt ekleyip bir taşım kaynatalım.",
+        "en": "Boil broccoli in a pot; once tender, add milk and bring to a boil briefly."
+      },
+      {
+        "tr": "Blender yardımıyla pürüzsüzleştirip ılık servis edelim.",
+        "en": "Blend until smooth and serve warm."
       }
     ],
     "imageUrl": ""
@@ -436,8 +448,8 @@
       "en": "Spinach Soup with Rice"
     },
     "description": {
-      "tr": "Demir deposu ve doyurucu.",
-      "en": "Iron store and filling."
+      "tr": "Demir deposu ıspanak ve doyurucu pirinçle hazırlanan, bebişlerin büyümesini destekleyen yeşil çorba.",
+      "en": "A green soup prepared with iron-rich spinach and filling rice to support your baby's growth."
     },
     "category": 7,
     "ingredients": [
@@ -478,8 +490,12 @@
     "allergicIngredients": [],
     "instructions": [
       {
-        "tr": "Birlikte pişirip blenderdan geçirin.",
-        "en": "Cook together and blend."
+        "tr": "Ispanak yapraklarını ve pirinci az suda pirinçler uzayıp yumuşayana kadar pişirelim.",
+        "en": "Cook spinach leaves and rice in a little water until the rice is fully soft."
+      },
+      {
+        "tr": "Çorbayı blenderdan geçirip pürüzsüz kıvama getirdikten sonra servis edelim.",
+        "en": "Blend the soup to a smooth consistency and serve."
       }
     ],
     "imageUrl": ""
@@ -491,8 +507,8 @@
       "en": "Noodle Soup with Mince"
     },
     "description": {
-      "tr": "Tam bir öğün yerine geçen çorba.",
-      "en": "A soup that replaces a full meal."
+      "tr": "Kavrulmuş kıyma ve arpa şehriyenin bir araya geldiği, tek başına doyurucu bir ana öğün çorbası.",
+      "en": "A hearty, complete meal soup featuring sauteed minced meat and barley noodles."
     },
     "category": 7,
     "ingredients": [
@@ -538,8 +554,12 @@
     ],
     "instructions": [
       {
-        "tr": "Kıymayı kavurup şehriyelerle pişirin.",
-        "en": "Saute mince and cook with noodles."
+        "tr": "Kıymayı tencerede kendi suyuyla kavuralım, üzerine su ekleyip arpa şehriyeleri ilave edelim.",
+        "en": "Saute the minced meat in a pot in its own juices, add water, and stir in the barley noodles."
+      },
+      {
+        "tr": "Şehriyeler şişip yumuşayana dek pişirip ılık servis edelim.",
+        "en": "Cook until the noodles are soft and swollen, and serve warm."
       }
     ],
     "imageUrl": ""
