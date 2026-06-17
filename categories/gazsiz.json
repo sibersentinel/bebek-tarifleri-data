@@ -2,7 +2,7 @@
   {
     "id": "gazsiz_001",
     "title": {
-      "tr": "Kimyonlu Havuç Püresi",
+      "tr": "Hassas Göbüşlere Kimyonlu Havuç Püresi",
       "en": "Carrot Puree with Cumin"
     },
     "description": {
@@ -45,11 +45,11 @@
     "allergicIngredients": [],
     "instructions": [
       {
-        "tr": "Havucu buharda iyice yumuşayana kadar pişirip çatalla ezelim.",
+        "tr": "Vitamin küpü havucumuzu buharda yumuşacık, pamuk gibi olana kadar güzelce pişirip çatalla ezelim.",
         "en": "Steam the carrot until fully soft and mash it with a fork."
       },
       {
-        "tr": "İçine bir fiske kimyon ve birkaç damla zeytinyağı ekleyip karıştırarak ılık yedirelim.",
+        "tr": "İçine minişimizin gazını alsın diye bir fiske kimyon ve şifa niyetine birkaç damla zeytinyağı ekleyip karıştırarak ılık ılık yedirelim.",
         "en": "Add a pinch of cumin and a few drops of olive oil, mix, and feed warm."
       }
     ],
@@ -58,7 +58,7 @@
   {
     "id": "gazsiz_002",
     "title": {
-      "tr": "Dereotlu Kabak Ezmesi",
+      "tr": "Mis Kokulu Dereotlu Kabak Ezmesi",
       "en": "Zucchini Mash with Dill"
     },
     "description": {
@@ -101,11 +101,11 @@
     "allergicIngredients": [],
     "instructions": [
       {
-        "tr": "Kabağı buharda pişirip çatalla ezelim.",
+        "tr": "Hafif mi hafif kabağımızı buharda lokum gibi pişene kadar tutup, ardından çatalla narince ezelim.",
         "en": "Steam the zucchini and mash it with a fork."
       },
       {
-        "tr": "İçine incecik kıyılmış dereotunu ekleyip harmanlayarak servis edelim.",
+        "tr": "İçine mis kokulu, incecik kıydığımız taze dereotunu ekleyip güzelce harmanlayarak kuzumuza servis edelim.",
         "en": "Add finely chopped dill, mix well, and serve."
       }
     ],
@@ -114,7 +114,7 @@
   {
     "id": "gazsiz_003",
     "title": {
-      "tr": "Fırınlanmış Rezene",
+      "tr": "Anne Şefkatiyle Fırınlanmış Rezene",
       "en": "Baked Fennel"
     },
     "description": {
@@ -145,11 +145,11 @@
     "allergicIngredients": [],
     "instructions": [
       {
-        "tr": "Rezene kökünü temizleyip dilimleyelim ve fırında yumuşayana kadar pişirelim.",
+        "tr": "Şifa deposu rezene kökünü anne titizliğiyle temizleyip dilimleyelim and fırında yumuşacık olana kadar pişirelim.",
         "en": "Clean and slice the fennel root and bake in the oven until soft."
       },
       {
-        "tr": "Fırınlanan rezeneleri çatalla ezerek pürüzsüz hale getirip ılık servis edelim.",
+        "tr": "Fırından çıkan mis kokulu rezeneleri çatalla ezerek bebişimizin yutabileceği pürüzsüz bir kıvama getirip ılık ılık servis edelim.",
         "en": "Mash the baked fennel with a fork until smooth and serve warm."
       }
     ],
@@ -158,7 +158,7 @@
   {
     "id": "gazsiz_004",
     "title": {
-      "tr": "Patatesli Taze Nane",
+      "tr": "Ferah Göbüşlere Patatesli Taze Nane Püresi",
       "en": "Potato with Fresh Mint"
     },
     "description": {
@@ -201,11 +201,11 @@
     "allergicIngredients": [],
     "instructions": [
       {
-        "tr": "Patatesi haşlayıp kabuklarını soyalım.",
+        "tr": "Doyurucu patatesimizi güzelce haşlayıp kabuklarını narince soyalım.",
         "en": "Boil the potato and peel its skin."
       },
       {
-        "tr": "İçine incecik kıyılmış taze nane yaprakları ekleyip çatalla ezerek karışıma yedirelim.",
+        "tr": "İçine minişimizin midesini rahatlatacak incecik kıyılmış taze nane yapraklarını ekleyip çatalla ezerek karışıma sevgiyle yedirelim.",
         "en": "Add finely chopped fresh mint leaves and mash with a fork to blend."
       }
     ],
@@ -214,7 +214,7 @@
   {
     "id": "gazsiz_005",
     "title": {
-      "tr": "Sade Pirinç Lapası",
+      "tr": "Kuzuma Özel Güvenli Sade Pirinç Lapası",
       "en": "Plain Rice Porridge"
     },
     "description": {
@@ -245,11 +245,11 @@
     "allergicIngredients": [],
     "instructions": [
       {
-        "tr": "Pirinci bol suda, nişastası iyice açılıp lapa olana kadar pişirelim.",
+        "tr": "Minişimizin göbüşünü yormayacak pirincimizi bol suda, nişastası iyice açılıp yumuşacık bir lapa olana kadar tatlı tatlı pişirelim.",
         "en": "Cook the rice in plenty of water until the starch is released and it becomes a soft porridge."
       },
       {
-        "tr": "Çatalla ezerek ılık olarak bebişimize verelim.",
+        "tr": "Çatalla güzelce ezerek, hafifçe ılındıktan sonra bal küpümüze afiyetle yedirelim.",
         "en": "Mash with a fork and serve warm to your baby."
       }
     ],
@@ -258,7 +258,7 @@
   {
     "id": "gazsiz_006",
     "title": {
-      "tr": "Naneli Yoğurt",
+      "tr": "Ferahlatıcı Naneli Anne Yoğurdu",
       "en": "Minty Yogurt"
     },
     "description": {
@@ -306,11 +306,11 @@
     ],
     "instructions": [
       {
-        "tr": "Taze nane yapraklarını havanda iyice ezerek un ufak edelim.",
+        "tr": "Mis kokulu taze nane yapraklarını havanda miniğimiz için iyice ezerek un ufak hale getirelim.",
         "en": "Grind fresh mint leaves thoroughly in a mortar."
       },
       {
-        "tr": "Oda sıcaklığındaki yoğurda ekleyip karıştırarak servis edelim.",
+        "tr": "Oda sıcaklığına getirdiğimiz canım ev yoğurdumuza ekleyip neşeyle karıştırarak servis edelim.",
         "en": "Add to room-temperature yogurt, mix, and serve."
       }
     ],
@@ -319,7 +319,7 @@
   {
     "id": "gazsiz_007",
     "title": {
-      "tr": "Dereotlu Lor",
+      "tr": "Bebişlere Kahvaltılık Dereotlu Lor",
       "en": "Curd with Dill"
     },
     "description": {
@@ -367,11 +367,11 @@
     ],
     "instructions": [
       {
-        "tr": "Taze kıyılmış dereotunu tuzsuz lor peyniri ile harmanlayalım.",
+        "tr": "Taze taze kıydığımız şifa kaynağı dereotunu, kuzumuz için hazırladığımız tuzsuz lor peyniri ile güzelce harmanlayalım.",
         "en": "Mix freshly chopped dill with unsalted curd cheese."
       },
       {
-        "tr": "Çatalla ezip kahvaltılarda bebişimize sunalım.",
+        "tr": "Çatalla nazikçe ezip sabah kahvaltılarında minişimizin tabağına sevgiyle sunalım.",
         "en": "Mash with a fork and serve to your baby for breakfast."
       }
     ],
@@ -380,7 +380,7 @@
   {
     "id": "gazsiz_008",
     "title": {
-      "tr": "Rezene Tohumlu Elma",
+      "tr": "Tatlış Rezene Tohumlu Elma Püresi",
       "en": "Apple with Fennel Seeds"
     },
     "description": {
@@ -411,11 +411,11 @@
     "allergicIngredients": [],
     "instructions": [
       {
-        "tr": "Elma dilimlerini rezene tohumu eklenmiş suda haşlayalım.",
+        "tr": "Mis kokulu elma dilimlerini, içine gaz önleyici rezene tohumu eklediğimiz temiz suda pamuk gibi olana kadar haşlayalım.",
         "en": "Boil apple slices in water infused with fennel seeds."
       },
       {
-        "tr": "Yumuşayan elmaları süzüp ezelim ve ılık servis edelim.",
+        "tr": "Yumuşacık pişen elmaları süzüp anne özeniyle ezelim and miniğimize ılık ılık servis edelim.",
         "en": "Drain the softened apples, mash them, and serve warm."
       }
     ],
@@ -424,7 +424,7 @@
   {
     "id": "gazsiz_009",
     "title": {
-      "tr": "Haşlanmış Pirinç ve Kabak",
+      "tr": "Sindirimi Kolay Haşlanmış Pirinç ve Kabak",
       "en": "Boiled Rice and Zucchini"
     },
     "description": {
@@ -470,11 +470,11 @@
     "allergicIngredients": [],
     "instructions": [
       {
-        "tr": "Pirinç ve kabak küplerini yumuşayana kadar haşlayalım.",
+        "tr": "Sindirimin en yakın iki dostu olan pirinç ve şirin kabak küplerini, tencerede yumuşacık olana kadar tatlı tatlı haşlayalım.",
         "en": "Boil rice and zucchini cubes until soft."
       },
       {
-        "tr": "Çatalla ezerek püre kıvamına getirelim.",
+        "tr": "Çatalla sevgiyle ezerek tam meleğimize layık pürüzsüz bir püre kıvamına getirelim.",
         "en": "Mash with a fork to bring to a puree consistency."
       }
     ],
@@ -483,7 +483,7 @@
   {
     "id": "gazsiz_010",
     "title": {
-      "tr": "Zencefil Çayı (Çok Az)",
+      "tr": "Şifa Niyetine Yumuşacık Zencefil Çayı",
       "en": "Ginger Tea (Very Little)"
     },
     "description": {
@@ -511,11 +511,11 @@
     "allergicIngredients": [],
     "instructions": [
       {
-        "tr": "Küçük bir parça taze zencefili sıcak suda 5 dakika demleyelim.",
+        "tr": "Küçük bir parça şifa kaynağı taze zencefili sıcak suda, aroması çok sertleşmeyecek şekilde tam 5 dakika sevgiyle demleyelim.",
         "en": "Steep a small piece of fresh ginger in hot water for 5 minutes."
       },
       {
-        "tr": "Süzüp oda sıcaklığına geldikten sonra bebişimize birkaç kaşık içirelim.",
+        "tr": "Güzelce süzüp oda sıcaklığına gelmesini bekledikten sonra, bal küpümüze şifa niyetine birkaç tatlı kaşığı içirelim.",
         "en": "Strain, let it cool to room temperature, and feed a few spoonfuls to your baby."
       }
     ],
