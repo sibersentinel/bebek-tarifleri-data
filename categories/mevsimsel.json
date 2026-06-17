@@ -2,7 +2,7 @@
   {
     "id": "mevsim_001",
     "title": {
-      "tr": "Yaz Türlüsü",
+      "tr": "Minişlere Özel Mis Kokulu Yaz Türlüsü",
       "en": "Summer Stew"
     },
     "description": {
@@ -53,11 +53,11 @@
     ],
     "instructions": [
       {
-        "tr": "Yaz sebzelerini yıkayıp minik minik doğrayalım ve az suda yumuşayana dek kısık ateşte pişirelim.",
+        "tr": "Canım yaz sebzelerini anne özeniyle yıkayıp bebişimizin ağzına layık minik minik doğrayalım, azıcık temiz suda pamuk gibi yumuşayana dek kısık ateşte pişmeye bırakalım.",
         "en": "Wash and chop summer vegetables into tiny pieces and cook in a little water over low heat until soft."
       },
       {
-        "tr": "Ocaktan almadan önce sızma zeytinyağı ekleyip çatalla ezerek servis edelim.",
+        "tr": "Ocaktan almadan hemen önce içine şifa niyetine halis sızma zeytinyağı ekleyip çatalla bir güzel ezerek miniğimize sunalım.",
         "en": "Add extra virgin olive oil before removing from heat, mash with a fork, and serve."
       }
     ],
@@ -66,7 +66,7 @@
   {
     "id": "mevsim_002",
     "title": {
-      "tr": "Kış Çorbası",
+      "tr": "Sıcacık Şifa Dolu Kış Çorbası",
       "en": "Winter Soup"
     },
     "description": {
@@ -117,11 +117,11 @@
     ],
     "instructions": [
       {
-        "tr": "Kök sebzeleri yıkayıp doğradıktan sonra tencerede yumuşayana dek haşlayalım.",
+        "tr": "Şifa kaynağı kök sebzelerimizi güzelce yıkayıp soyduktan sonra, tencerede kuzumuzun narin midesine layık yumuşacık bir kıvam alana dek haşlayalım.",
         "en": "Wash, chop, and boil root vegetables in a pot until soft."
       },
       {
-        "tr": "Haşlanan sebzeleri pürüzsüz bir kıvam alana kadar blenderdan geçirip sıcak servis edelim.",
+        "tr": "Haşlanan bu nefis sebzeleri, minişimizin boğazından ipek gibi kolayca akıp geçsin diye pürüzsüz olana kadar blenderdan geçirip sıcacık ikram edelim.",
         "en": "Blend the cooked vegetables until smooth and serve warm."
       }
     ],
@@ -130,7 +130,7 @@
   {
     "id": "mevsim_003",
     "title": {
-      "tr": "Bahar Püresi",
+      "tr": "Bahar Esintili İpeksi Bezelye Püresi",
       "en": "Spring Puree"
     },
     "description": {
@@ -176,11 +176,11 @@
     "allergicIngredients": [],
     "instructions": [
       {
-        "tr": "Enginar ve taze bezelyeleri buharda yumuşayana kadar pişmeye bırakalım.",
+        "tr": "Canımız enginarımızı and taptaze bezelyelerimizi, o güzelim vitaminlerini içinde saklasın diye buharda pamuk gibi olana kadar pişmeye bırakalım.",
         "en": "Steam artichoke and fresh peas until they are tender."
       },
       {
-        "tr": "Sebzeleri zeytinyağı ve birkaç damla limon suyu ekleyerek çatalla püre haline getirelim.",
+        "tr": "Yumuşacık olan sebzelerimizi sızma zeytinyağı ve şifa niyetine birkaç damlacık taze limon suyuyla buluşturup, çatalla ezerek minişimize özel ipeksi bir püre haline getirelim.",
         "en": "Mash the vegetables with olive oil and a few drops of lemon juice into a puree."
       }
     ],
@@ -189,7 +189,7 @@
   {
     "id": "mevsim_004",
     "title": {
-      "tr": "Sonbahar Tatlısı",
+      "tr": "Tatlış Sonbahar Balkabağı Püresi",
       "en": "Autumn Dessert"
     },
     "description": {
@@ -235,11 +235,11 @@
     "allergicIngredients": [],
     "instructions": [
       {
-        "tr": "Balkabağı ve elma dilimlerini buharda iyice yumuşayana dek pişirelim.",
+        "tr": "Bal küpü balkabağımızı and mis kokulu elma dilimlerimizi, buharda lokum gibi eriyecek kıvama gelene dek şefkatle pişirelim.",
         "en": "Steam pumpkin and apple slices until they are completely soft."
       },
       {
-        "tr": "Sıcakken ezerek homojen bir kıvama getirelim ve ılık servis edelim.",
+        "tr": "Henüz sıcakken anne sevgisiyle iyice ezerek pürüzsüz, homojen bir kıvama getirelim ve kuzumuza tatlı tatlı, ılık olarak yedirelim.",
         "en": "Mash while hot to achieve a homogeneous consistency and serve warm."
       }
     ],
@@ -248,7 +248,7 @@
   {
     "id": "mevsim_005",
     "title": {
-      "tr": "Taze Mısır Çorbası",
+      "tr": "Süt Kokulu Taze Mısır Çorbası",
       "en": "Fresh Corn Soup"
     },
     "description": {
@@ -284,11 +284,11 @@
     ],
     "instructions": [
       {
-        "tr": "Taze mısır tanelerini tencerede yumuşayana kadar bol suda haşlayalım.",
+        "tr": "Taptaze and tatlı süt mısır tanelerimizi temiz tencerede, bebişimizin narin göbüşü için kolayca sindirilecek şekilde bol suda lokum gibi haşlayalım.",
         "en": "Boil fresh corn kernels in plenty of water until tender."
       },
       {
-        "tr": "Mısırları blenderdan geçirdikten sonra kabuklarını ayırmak için ince süzgeçten süzerek servis edelim.",
+        "tr": "Mısırları blenderdan geçirdikten sonra, o minik sert kabukları bebişimizin boğazına kaçmasın diye incecik bir süzgeçten süzerek sevgiyle ikram edelim.",
         "en": "Blend the corn and strain through a fine sieve to remove the hulls before serving."
       }
     ],
@@ -297,7 +297,7 @@
   {
     "id": "mevsim_006",
     "title": {
-      "tr": "Enginarlı Havuç",
+      "tr": "Anne Şefkatiyle Enginarlı Havuç",
       "en": "Artichoke with Carrot"
     },
     "description": {
@@ -337,18 +337,18 @@
         }
       }
     ],
-    "preparationTime": 20,
+    "preparationTime": 25,
     "calories": 80,
     "suitableAgeInMonths": 8,
     "allergicIngredients": [],
     "instructions": [
       {
-        "tr": "Enginar ve havucu zeytinyağlı olarak tencerede az suyla pişirelim.",
-        "en": "Cook artichoke and carrot in a pot with a little water and olive oil."
+        "tr": "Karaciğer dostu enginarımızı and vitamin deposu havucumuzu minik gurmemiz için şirin boyutlarda doğrayıp, tencerede azıcık su ve zeytinyağı ile lokum kıvamına gelene dek kısık ateşte pişirelim.",
+        "en": "Chop artichoke and carrot, then cook in a pot with a little water and olive oil over low heat until tender."
       },
       {
-        "tr": "Yumuşayan sebzeleri çatalla ezerek püre kıvamında bebişimize sunalım.",
-        "en": "Mash the softened vegetables with a fork and serve to your baby in a puree consistency."
+        "tr": "Lokum gibi pişen bu şifalı sebzeleri ocaktan alıp çatalla güzelce pürüzsüz püre haline getirelim. Miniğimize güç kuvvet olsun!",
+        "en": "Mash the cooked ingredients with a fork into a smooth puree and serve warm."
       }
     ],
     "imageUrl": ""
@@ -356,48 +356,48 @@
   {
     "id": "mevsim_007",
     "title": {
-      "tr": "Taze Çilek Püresi",
-      "en": "Fresh Strawberry Puree"
+      "tr": "Kuzuma Özel Yaz Ferahlığı Domates Püresi",
+      "en": "Summer Tomato Puree"
     },
     "description": {
-      "tr": "Yaz başında çıkan taze ve kokulu çileklerin ezilmesiyle hazırlanan, 1 yaş sonrası için nefis meyve püresi.",
-      "en": "A delicious fruit puree prepared by mashing fresh, fragrant early summer strawberries for ages 1+."
+      "tr": "Yazın güneşle olgunlaşan tatlı domateslerin zeytinyağı ile hafifçe pişirilmesiyle hazırlanan iştah açıcı öğün.",
+      "en": "An appetizing meal prepared by gently cooking sweet, sun-ripened summer tomatoes with olive oil."
     },
     "category": 14,
     "ingredients": [
       {
-        "amount": 5,
+        "amount": 1,
         "unit": {
-          "tr": "adet",
-          "en": "pcs"
+          "tr": "küçük",
+          "en": "small"
         },
         "baseName": {
-          "tr": "çilek",
-          "en": "strawberry"
+          "tr": "tatlı domates",
+          "en": "sweet tomato"
         },
         "shoppingLabel": {
-          "tr": "Çilek",
-          "en": "Strawberry"
+          "tr": "Domates",
+          "en": "Tomato"
         }
       }
     ],
-    "preparationTime": 5,
-    "calories": 35,
-    "suitableAgeInMonths": 12,
+    "preparationTime": 10,
+    "calories": 45,
+    "suitableAgeInMonths": 10,
     "allergicIngredients": [
       {
-        "tr": "çilek",
-        "en": "strawberry"
+        "tr": "domates",
+        "en": "tomato"
       }
     ],
     "instructions": [
       {
-        "tr": "Çilekleri sirkeli suda bekletip iyice yıkayalım.",
-        "en": "Soak strawberries in vinegar water and wash thoroughly."
+        "tr": "Yazın o mis kokulu güneş kokan domatesinin kabuklarını soyup çekirdekli kısımlarını anne titizliğiyle temizleyelim ve cam rendede incecik rendeleyelim.",
+        "en": "Peel a sweet summer tomato, remove seeds, and grate it using a glass grater."
       },
       {
-        "tr": "Çatal yardımıyla pürüzsüz olana dek ezip taze taze yedirelim.",
-        "en": "Mash with a fork until smooth and serve fresh."
+        "tr": "Rendelenmiş domatesi küçük bir sos tenceresinde, şifa niyetine bir tatlı kaşığı sızma zeytinyağı ekleyerek o asidinin kırılması için birkaç dakika tatlı tatlı pişirelim and ılık servis edelim.",
+        "en": "Cook the grated tomato in a small saucepan with a teaspoon of olive oil for a few minutes and serve warm."
       }
     ],
     "imageUrl": ""
@@ -405,12 +405,12 @@
   {
     "id": "mevsim_008",
     "title": {
-      "tr": "Ayva Püresi",
-      "en": "Quince Puree"
+      "tr": "Göz Nuru Portakallı Kereviz Püresi",
+      "en": "Winter Celery with Orange"
     },
     "description": {
-      "tr": "Kış mevsiminin sert ama şifalı meyvesi ayvanın, buharda pişirilerek yumuşatılmış tatlı hali.",
-      "en": "A sweet treat made by steaming and softening quince, winter's firm but highly beneficial fruit."
+      "tr": "Kışın şifa kaynağı kerevizin taze sıkılmış portakal suyunda pişerek tatlandığı, bebişlerin çok seveceği C vitamini deposu.",
+      "en": "A vitamin C-rich dish where winter celery is naturally sweetened by cooking in freshly squeezed orange juice."
     },
     "category": 14,
     "ingredients": [
@@ -421,27 +421,51 @@
           "en": "pcs"
         },
         "baseName": {
-          "tr": "ayva",
-          "en": "quince"
+          "tr": "kereviz",
+          "en": "celery"
         },
         "shoppingLabel": {
-          "tr": "Ayva",
-          "en": "Ayva"
+          "tr": "Kereviz",
+          "en": "Celery"
+        }
+      },
+      {
+        "amount": 0.25,
+        "unit": {
+          "tr": "çay bardağı",
+          "en": "cup"
+        },
+        "baseName": {
+          "tr": "taze portakal suyu",
+          "en": "fresh orange juice"
+        },
+        "shoppingLabel": {
+          "tr": "Portakal",
+          "en": "Orange"
         }
       }
     ],
-    "preparationTime": 15,
-    "calories": 55,
-    "suitableAgeInMonths": 8,
-    "allergicIngredients": [],
-    "instructions": [
+    "preparationTime": 20,
+    "calories": 70,
+    "suitableAgeInMonths": 12,
+    "allergicIngredients": [
       {
-        "tr": "Ayvayı dilimleyip buharda iyice yumuşayana dek haşlayalım.",
-        "en": "Slice the quince and steam until completely soft."
+        "tr": "kereviz",
+        "en": "celery"
       },
       {
-        "tr": "Yumuşayan ayva dilimlerini cam rende yardımıyla rendeleyip püre haline getirelim.",
-        "en": "Grate the softened quince slices using a glass grater to make a puree."
+        "tr": "portakal",
+        "en": "orange"
+      }
+    ],
+    "instructions": [
+      {
+        "tr": "Mis kokulu kerevizimizi küçük küpler halinde doğrayıp, taze sıkılmış portakal suyu ve çok az temiz su ilavesiyle tencerede yumuşayana kadar sevgiyle pişmeye bırakalım.",
+        "en": "Dice the celery, place it in a pot with fresh orange juice and a little water, and cook until tender."
+      },
+      {
+        "tr": "Lokum kıvamına gelen kerevizleri çatalla incitmeden pürüzsüzce ezelim, oda sıcaklığına geldikten sonra bal küpümüze iştahla yedirelim.",
+        "en": "Mash the tender celery smoothly with a fork and serve at room temperature."
       }
     ],
     "imageUrl": ""
@@ -449,12 +473,12 @@
   {
     "id": "mevsim_009",
     "title": {
-      "tr": "Mürdüm Eriği Ezmesi",
-      "en": "Damson Plum Mash"
+      "tr": "Minişlere Özel Yumuşacık Buharda Mürdüm Eriği",
+      "en": "Plum Puree"
     },
     "description": {
-      "tr": "Sonbahar güneşiyle olgunlaşan mürdüm eriklerinin lifli ve tatlı yapısıyla hazırlanan sindirim dostu püre.",
-      "en": "A digestion-friendly puree made with the fibrous and sweet texture of autumn-ripened damson plums."
+      "tr": "Yaz sonu toplanan tatlı mürdüm eriklerinin buharda yumuşatılmasıyla hazırlanan, sindirim dostu nefis püre.",
+      "en": "An easy-on-the-tummy puree prepared by steaming sweet late-summer plums until soft."
     },
     "category": 14,
     "ingredients": [
@@ -466,7 +490,7 @@
         },
         "baseName": {
           "tr": "mürdüm eriği",
-          "en": "plum"
+          "en": "plums"
         },
         "shoppingLabel": {
           "tr": "Erik",
@@ -474,17 +498,17 @@
         }
       }
     ],
-    "preparationTime": 10,
-    "calories": 45,
+    "preparationTime": 15,
+    "calories": 50,
     "suitableAgeInMonths": 7,
     "allergicIngredients": [],
     "instructions": [
       {
-        "tr": "Mürdüm eriklerinin çekirdeklerini çıkarıp buharda pişirelim.",
-        "en": "Remove seeds from damson plums and steam them."
+        "tr": "Taptaze mürdüm eriklerimizi güzelce yıkayıp kabuklarını soyalım, çekirdeklerini de ayıklayıp buhar aparatında pamuk gibi olana kadar nazikçe pişirelim.",
+        "en": "Wash and peel the plums, remove seeds, and steam until soft."
       },
       {
-        "tr": "Yumuşayan erikleri çatalla ezip püre şeklinde servis edelim.",
+        "tr": "Yumuşacık pişen erikleri çatalla pürüzsüzce ezip, tatlı bir meyve saati ödülü olarak miniğimize afiyetle yedirelim.",
         "en": "Mash the softened plums with a fork and serve as a puree."
       }
     ],
@@ -493,7 +517,7 @@
   {
     "id": "mevsim_010",
     "title": {
-      "tr": "Taze Börülce Püresi",
+      "tr": "Yaz Güneşi Besleyici Taze Börülce Püresi",
       "en": "Fresh Black-eyed Pea Puree"
     },
     "description": {
@@ -524,12 +548,12 @@
     "allergicIngredients": [],
     "instructions": [
       {
-        "tr": "Taze börülceleri yıkayıp tencerede yumuşayana dek haşlayalım.",
-        "en": "Wash and boil fresh black-eyed peas in a pot until tender."
+        "tr": "Yaz güneşiyle büyüyen taze börülcelerimizi güzelce temizleyip yıkayalım, temiz bir tencerede minişimizin narin göbüşü için lokum gibi olana dek haşlayalım.",
+        "en": "Wash the fresh black-eyed peas and boil them in a pot until tender."
       },
       {
-        "tr": "Haşlanan börülceleri çatalla ezerek püre haline getirelim ve zeytinyağı ekleyip karıştıralım.",
-        "en": "Mash the cooked black-eyed peas with a fork, add olive oil, and mix."
+        "tr": "Haşlanan börülceleri tel süzgeçten geçirerek veya çatalla bir güzel ezerek pürüzsüz kıvama getirelim, içine bir damlacık zeytinyağı ekleyip bebişimize neşeyle yedirelim.",
+        "en": "Mash until smooth, add a touch of olive oil, and serve fresh to your baby."
       }
     ],
     "imageUrl": ""
