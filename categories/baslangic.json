@@ -2,7 +2,7 @@
   {
     "id": "baslangic_001",
     "title": {
-      "tr": "Elma Püresi",
+      "tr": "Minik Gurmelere Pamuk Elma Püresi",
       "en": "Apple Puree"
     },
     "description": {
@@ -38,15 +38,15 @@
     ],
     "instructions": [
       {
-        "tr": "Tatlı ve taze elmamızı güzelce yıkayıp kabuklarını soyalım, ardından minik küpler halinde doğrayalım.",
+        "tr": "Kuzumuz için tatlı ve taze elmamızı sevgiyle yıkayıp kabuklarını soyalım, ardından minik küpler halinde doğrayalım.",
         "en": "Wash a sweet, fresh apple, peel it, and chop it into tiny cubes."
       },
       {
-        "tr": "Doğradığımız elmaları küçük bir tencereye alıp üzerine çok az temiz su ekleyerek, çatalla ezilecek kadar yumuşayana dek kısık ateşte haşlayalım.",
+        "tr": "Doğradığımız elmaları küçük bir tencereye alıp üzerine çok az temiz su ekleyerek, çatalla lokum gibi ezilecek kadar yumuşayana dek kısık ateşte haşlayalım.",
         "en": "Place the chopped apples in a small pot, add a tiny bit of clean water, and simmer over low heat until fork-tender."
       },
       {
-        "tr": "Ilıyan elma dilimlerini, besin değerini koruması için cam rende kullanarak veya çatalla güzelce ezerek pürüzsüz bir püre haline getirelim.",
+        "tr": "Ilıyan bu güzel elma dilimlerini, tüm vitaminini koruması için cam rende kullanarak veya çatalla güzelce ezerek kuzumuzun kolayca yutabileceği pürüzsüz bir püre haline getirelim.",
         "en": "Let the apples cool slightly, then mash them smoothly using a glass grater or a fork to preserve their nutritional value."
       }
     ],
@@ -55,7 +55,7 @@
   {
     "id": "baslangic_002",
     "title": {
-      "tr": "Havuç Püresi",
+      "tr": "Güneş Renkli Tatlı Havuç Püresi",
       "en": "Carrot Puree"
     },
     "description": {
@@ -86,15 +86,15 @@
     "allergicIngredients": [],
     "instructions": [
       {
-        "tr": "Taze ve tatlı havucumuzu bol suyla yıkayıp kabuklarını incecik soyalım ve halka halka dilimleyelim.",
+        "tr": "Taptaze ve tatlı havucumuzu bol suyla yıkayıp kabuklarını incecik soyalım, bebişimizin kaşığına layık halka halka dilimleyelim.",
         "en": "Wash a fresh, sweet carrot thoroughly, peel it thinly, and slice it into rings."
       },
       {
-        "tr": "Vitaminini ve o güzel rengini kaybetmemesi için buharda pişirme aparatında veya çok az suda iyice yumuşayana kadar haşlayalım.",
+        "tr": "O güzelim rengini ve tüm şifasını içinde saklasın diye buharda pişirme aparatında veya çok az suda pamuk gibi olana kadar haşlayalım.",
         "en": "Steam or boil in a very small amount of water until completely soft to preserve its vitamins and vibrant color."
       },
       {
-        "tr": "Haşlanan havuçları ocaktan alıp çatalla pürüzsüz olana dek ezelim, gerekirse haşlama suyundan birkaç damla ekleyip kıvamını açalım.",
+        "tr": "Yumuşacık haşlanan havuçları ocaktan alıp çatalla pürüzsüz olana dek ezelim, gerekirse o şifalı haşlama suyundan birkaç damla ekleyip kıvamını bal küpümüze göre ayarlayalım.",
         "en": "Take the cooked carrots, mash them until perfectly smooth with a fork, and add a few drops of cooking water to adjust the consistency if needed."
       }
     ],
@@ -103,7 +103,7 @@
   {
     "id": "baslangic_003",
     "title": {
-      "tr": "Kabak Püresi",
+      "tr": "Hassas Göbüşlere Yumuşacık Kabak Püresi",
       "en": "Zucchini Puree"
     },
     "description": {
@@ -134,15 +134,15 @@
     "allergicIngredients": [],
     "instructions": [
       {
-        "tr": "Kabağımızı güzelce yıkayıp kabuklarını çok ince bir şekilde soyalım ve dilimleyelim.",
+        "tr": "Canımız kabağımızı güzelce yıkayıp kabuklarını çok ince bir şekilde soyalım ve sevgiyle dilimleyelim.",
         "en": "Wash the zucchini, peel it very thinly, and slice it into pieces."
       },
       {
-        "tr": "Çok az su ekleyerek tencerede veya buharda, kabaklar tamamen yumuşayıp şeffaflaşana kadar pişmeye bırakalım.",
+        "tr": "Çok az su ekleyerek tencerede veya buharda, kabaklar miniğimizin narin diline layık şekilde tamamen yumuşayıp şeffaflaşana kadar pişmeye bırakalım.",
         "en": "Cook in a pot with a tiny bit of water or steam until the zucchini is completely soft and translucent."
       },
       {
-        "tr": "Pişen kabakları süzüp çatalla ezelim. Dilerseniz kıvamını açmak için birkaç damla anne sütü veya formül mama ekleyebilirsiniz.",
+        "tr": "Pişen kabakları süzüp çatalla nazikçe ezelim. Dilerseniz bu şifa kaynağını daha da tatlandırmak için içine birkaç damla anne sütü veya formül mama ekleyebilirsiniz. Şifa olsun kuşumuza!",
         "en": "Drain the cooked zucchini and mash it with a fork. You can add a few drops of breast milk or formula to adjust the consistency."
       }
     ],
@@ -151,7 +151,7 @@
   {
     "id": "baslangic_004",
     "title": {
-      "tr": "Balkabağı Püresi",
+      "tr": "Kadife Dokulu Balkabağı Ziyafeti",
       "en": "Pumpkin Puree"
     },
     "description": {
@@ -182,15 +182,15 @@
     "allergicIngredients": [],
     "instructions": [
       {
-        "tr": "Balkabağımızın kabuklarını soyup çekirdekli kısmını temizleyelim ve küçük küpler halinde doğrayalım.",
+        "tr": "Mis kokulu balkabağımızın kabuklarını soyup çekirdekli kısmını anne titizliğiyle temizleyelim ve küçük küpler halinde doğrayalım.",
         "en": "Peel the pumpkin, remove the seeds, and cut it into small cubes."
       },
       {
-        "tr": "Doğradığımız balkabaklarını buharda ya da üzerini çok az geçecek kadar suda yumuşayana kadar haşlayalım.",
+        "tr": "Doğradığımız balkabaklarını buharda ya da üzerini çok az geçecek kadar temiz suda, minişimizin narin ağzına layık, yumuşacık olana kadar haşlayalım.",
         "en": "Steam the pumpkin cubes or boil them in a small amount of water until they are tender."
       },
       {
-        "tr": "Haşlanan balkabaklarını çatalla pürüzsüz olana dek ezip, ılık olarak bebişimize servis edelim.",
+        "tr": "Haşlanan balkabaklarını çatalla pürüzsüz and ipeksi olana dek sevgiyle ezip, ılık olarak bebişimize tazece servis edelim.",
         "en": "Mash the cooked pumpkin with a fork until perfectly smooth and serve it warm to your baby."
       }
     ],
@@ -199,7 +199,7 @@
   {
     "id": "baslangic_005",
     "title": {
-      "tr": "Patates Püresi",
+      "tr": "Miniğe Enerji Veren Tok Tutucu Patates Püresi",
       "en": "Potato Puree"
     },
     "description": {
@@ -230,15 +230,15 @@
     "allergicIngredients": [],
     "instructions": [
       {
-        "tr": "Küçük bir patatesi güzelce yıkayıp soyalım, ardından çabuk pişmesi için küpler halinde doğrayalım.",
+        "tr": "Küçük bir patatesi güzelce yıkayıp soyalım, ardından minişimiz aç kalmasın, çabucak pişsin diye küpler halinde doğrayalım.",
         "en": "Wash and peel a small potato, then cut it into cubes for faster cooking."
       },
       {
-        "tr": "Doğradığımız patatesleri üzerini geçecek kadar suda iyice yumuşayana dek haşlayalım.",
+        "tr": "Doğradığımız patatesleri üzerini geçecek kadar temiz suda, çatalla dokununca dağılacak kadar yumuşacık olana dek haşlayalım.",
         "en": "Boil the chopped potatoes in water until they are completely soft and tender."
       },
       {
-        "tr": "Patatesleri süzüp sıcakken ezelim; kıvamı biraz katı olursa anne sütü veya zeytinyağı ile yumuşatalım.",
+        "tr": "Patatesleri süzüp henüz sıcakken sevgiyle ezelim; kıvamı bebişimize biraz katı gelirse anne sütü veya birkaç damlacık sızma zeytinyağı ile yumuşatalım.",
         "en": "Drain and mash the potatoes while hot; if the consistency is too thick, thin it with breast milk or olive oil."
       }
     ],
@@ -247,11 +247,11 @@
   {
     "id": "baslangic_006",
     "title": {
-      "tr": "Brokoli Püresi",
+      "tr": "İlk Yeşillik Yumuşacık Brokoli Püresi",
       "en": "Broccoli Puree"
     },
     "description": {
-      "tr": "Bebeklerin yeşil sebzelerle tanışması için harika, demir ve vitamin deposu çok özel bir başlangıç tarifi.",
+      "tr": "Beklerin yeşil sebzelerle tanışması için harika, demir ve vitamin deposu çok özel bir başlangıç tarifi.",
       "en": "A wonderful starter recipe packed with iron and vitamins to introduce your baby to healthy green vegetables."
     },
     "category": 1,
@@ -278,15 +278,15 @@
     "allergicIngredients": [],
     "instructions": [
       {
-        "tr": "Taze brokoli çiçeklerini bol suyla yıkayıp sirkeli suda bekletelim ve dallarına ayıralım.",
+        "tr": "Taze brokoli çiçeklerimizi bol suyla yıkayıp sirkeli suda bebişimizin sağlığı için biraz bekletelim and şirin küçük dallarına ayıralım.",
         "en": "Wash fresh broccoli florets thoroughly, let them sit in vinegar water, and separate them into small pieces."
       },
       {
-        "tr": "Buharda ya da çok az suda brokoliler yumuşayıp canlı yeşil rengini koruyacak şekilde pişirelim.",
+        "tr": "Buharda ya da çok az suda brokoliler yumuşayıp o güzelim canlı yeşil rengini koruyacak şekilde, vitaminlerini kaçırmadan pişirelim.",
         "en": "Steam or boil in a very small amount of water until soft but still retaining their bright green color."
       },
       {
-        "tr": "Pişen brokolileri çatalla pürüzsüz olana dek iyice ezelim, içine birkaç damla zeytinyağı ekleyip karıştıralım.",
+        "tr": "Pişen brokolilerimizi çatalla pürüzsüz olana dek iyice ezelim, içine şifa niyetine birkaç damla zeytinyağı ekleyip neşeyle karıştıralım.",
         "en": "Mash the cooked broccoli thoroughly with a fork, add a few drops of olive oil, and mix well."
       }
     ],
@@ -295,7 +295,7 @@
   {
     "id": "baslangic_007",
     "title": {
-      "tr": "Şeftali Püresi",
+      "tr": "Yaz Ferahlığı Mis Kokulu Şeftali Püresi",
       "en": "Peach Puree"
     },
     "description": {
@@ -326,15 +326,15 @@
     "allergicIngredients": [],
     "instructions": [
       {
-        "tr": "Olgun ve tatlı bir şeftaliyi güzelce yıkayıp kabuklarını soyalım.",
+        "tr": "Bal gibi olgun ve tatlı bir şeftaliyi güzelce yıkayıp kabuklarını narince soyalım.",
         "en": "Wash a ripe and sweet peach thoroughly, then peel off its skin."
       },
       {
-        "tr": "Şeftaliyi cam rende kullanarak rendeleyelim veya çatalla ezerek sulu ve pürüzsüz bir kıvam elde edelim.",
+        "tr": "Şeftaliyi cam rende kullanarak anne özeniyle rendeleyelim veya çatalla ezerek sulu ve ipeksi bir kıvam elde edelim.",
         "en": "Grate the peach using a glass grater or mash it with a fork to achieve a juicy and smooth consistency."
       },
       {
-        "tr": "Bekletmeden, taze taze bebişimize yedirelim ki vitaminleri kaybolmasın.",
+        "tr": "Hemen bekletmeden, taze taze bebişimize yedirelim ki canım vitaminleri hiç kaybolmasın. Afiyet olsun meleğimize!",
         "en": "Serve it fresh to your baby immediately so that the vitamins are not lost."
       }
     ],
@@ -343,7 +343,7 @@
   {
     "id": "baslangic_008",
     "title": {
-      "tr": "Armut Püresi",
+      "tr": "Sindirim Dostu Tatlış Armut Püresi",
       "en": "Pear Puree"
     },
     "description": {
@@ -374,15 +374,15 @@
     "allergicIngredients": [],
     "instructions": [
       {
-        "tr": "Armudun kabuklarını soyup çekirdeklerini temizleyelim ve dilimleyelim.",
+        "tr": "Bal küpümüz için armudun kabuklarını soyup çekirdeklerini tertemiz temizleyelim and dilimleyelim.",
         "en": "Peel the pear, remove the seeds, and slice it into pieces."
       },
       {
-        "tr": "Armut dilimlerini buharda veya çok az su eklenmiş tencerede yumuşayana kadar pişirelim.",
+        "tr": "Armut dilimlerini buharda veya çok az su eklenmiş tencerede, kuzumuzun damağına layık yumuşacık bir kıvama gelene kadar pişirelim.",
         "en": "Cook the pear slices in a steamer or a pot with a tiny bit of water until soft."
       },
       {
-        "tr": "Yumuşayan armutları cam rendeden geçirerek veya çatalla ezerek püre haline getirelim.",
+        "tr": "Yumuşayan armutları cam rendeden narince geçirerek veya çatalla bir güzel ezerek pürüzsüz püre haline getirelim.",
         "en": "Pass the soft pears through a glass grater or mash them with a fork to make a puree."
       }
     ],
@@ -391,7 +391,7 @@
   {
     "id": "baslangic_009",
     "title": {
-      "tr": "Yoğurt (İlk Tadım)",
+      "tr": "Miniğin İlk İpeksi Ev Yoğurdu",
       "en": "Yogurt (First Taste)"
     },
     "description": {
@@ -427,15 +427,15 @@
     ],
     "instructions": [
       {
-        "tr": "Günlük taze sütümüzü kaynatıp mayalama sıcaklığına (serçe parmağınızı yakmayacak ılıklığa) gelmesini bekleyelim.",
+        "tr": "Günlük taze sütümüzü kaynatıp anne usulü mayalama sıcaklığına (yani serçe parmağınızı tatlı tatlı ısıtacak o güzel ılıklığa) gelmesini bekleyelim.",
         "en": "Boil daily fresh milk and let it cool down to fermentation temperature (warm enough not to burn your pinky finger)."
       },
       {
-        "tr": "Bir kaşık ev yoğurdu mayası ile sütümüzü nazikçe karıştırıp kavanozlara paylaştıralım ve sarıp 6 saat mayalanmaya bırakalım.",
+        "tr": "Bir kaşık ev yoğurdu mayası ile sütümüzü şefkatle karıştırıp minik kavanozlara paylaştıralım, etrafını sevgiyle sarıp 6 saatçik mayalanmaya bırakalım.",
         "en": "Gently mix the milk with a spoonful of homemade yogurt starter, pour into jars, wrap them warm, and ferment for 6 hours."
       },
       {
-        "tr": "Mayalanan yoğurdu buzdolabında dinlendirdikten sonra, oda sıcaklığına getirerek bebişimize sunalım.",
+        "tr": "Mis gibi mayalanan yoğurdu buzdolabında güzelce dinlendirdikten sonra, oda sıcaklığına getirerek meleğimize sunalım.",
         "en": "After resting the fermented yogurt in the fridge, bring it to room temperature before serving to your baby."
       }
     ],
@@ -444,7 +444,7 @@
   {
     "id": "baslangic_010",
     "title": {
-      "tr": "Pirinç Lapası",
+      "tr": "Hassas Bağırsaklara Güvenli Pirinç Lapası",
       "en": "Rice Porridge"
     },
     "description": {
@@ -475,15 +475,15 @@
     "allergicIngredients": [],
     "instructions": [
       {
-        "tr": "1 yemek kaşığı pirinç ununu küçük bir cezveye alıp üzerine 1 çay bardağı su ekleyelim.",
+        "tr": "1 yemek kaşığı pirinç unumuzu küçük bir cezveye alıp üzerine 1 çay bardağı temiz su ekleyelim.",
         "en": "Place 1 tablespoon of rice flour in a small coffee pot and add 1 teacup of water."
       },
       {
-        "tr": "Kısık ateşte, topaklanmaması için sürekli karıştırarak muhallebi kıvamı alana kadar pişirelim.",
+        "tr": "Kısık ateşte, topaklanıp minişimizin ağzına gelmemesi için tatlı tatlı, sürekli karıştırarak yumuşacık bir muhallebi kıvamı alana kadar pişirelim.",
         "en": "Cook over low heat, stirring constantly to prevent lumps, until it reaches a pudding consistency."
       },
       {
-        "tr": "Ocaktan alıp ılıttıktan sonra, dilerseniz içine birkaç damla anne sütü ekleyerek bebişimize servis edelim.",
+        "tr": "Ocaktan alıp güzelce ılıttıktan sonra, dilerseniz içine anne şefkati niyetine birkaç damla anne sütü ekleyerek bebişimize keyifle servis edelim.",
         "en": "Remove from heat, let it cool to warm, and optionally add a few drops of breast milk before serving."
       }
     ],
