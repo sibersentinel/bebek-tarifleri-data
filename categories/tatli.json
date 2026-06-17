@@ -2,7 +2,7 @@
   {
     "id": "tatli_001",
     "title": {
-      "tr": "Elmalı Muhallebi (Şekersiz)",
+      "tr": "Mis Kokulu Elmalı Anne Muhallebisi (Şekersiz)",
       "en": "Apple Pudding (Sugar-Free)"
     },
     "description": {
@@ -48,11 +48,11 @@
     "allergicIngredients": [],
     "instructions": [
       {
-        "tr": "Elmayı rendeleyip kendi suyuyla kısık ateşte pişirelim.",
+        "tr": "Taptaze elmamızı sevgiyle rendeleyip kendi güzel suyuyla kısık ateşte minik minik pişmeye bırakalım.",
         "en": "Grate the apple and cook it in its own juices over low heat."
       },
       {
-        "tr": "Üzerine pirinç unu ve su ekleyip muhallebi kıvamı alana dek karıştırarak pişirelim.",
+        "tr": "Üzerine pirinç unu ve suyunu ekleyip, bebişimizin yutabileceği o yumuşacık muhallebi kıvamını alana dek tatlı tatlı karıştırarak pişirelim.",
         "en": "Add rice flour and water, and cook, stirring constantly until it reaches a pudding consistency."
       }
     ],
@@ -61,7 +61,7 @@
   {
     "id": "tatli_002",
     "title": {
-      "tr": "Balkabağı Tatlısı",
+      "tr": "Bal Küpü Balkabağı Tatlısı",
       "en": "Pumpkin Dessert"
     },
     "description": {
@@ -107,11 +107,11 @@
     "allergicIngredients": [],
     "instructions": [
       {
-        "tr": "Balkabağını buharda yumuşayana kadar pişirip ezelim.",
+        "tr": "Turuncu balkabağımızı buharda lokum gibi yumuşayana kadar pişirip çatalla bir güzel ezelim.",
         "en": "Steam the pumpkin until soft and mash it."
       },
       {
-        "tr": "Püre haline gelen balkabağının üzerine ılındıktan sonra pekmez gezdirerek servis edelim.",
+        "tr": "Püre haline gelen pamuk balkabağımızın üzerine, miniğimizin ağzı yanmasın diye biraz ılındıktan sonra şifa niyetine pekmez gezdirip servis edelim.",
         "en": "Drizzle molasses over the mashed pumpkin once it has cooled to warm, and serve."
       }
     ],
@@ -120,11 +120,11 @@
   {
     "id": "tatli_003",
     "title": {
-      "tr": "Muzlu Avokado Mus",
+      "tr": "Kadifemsi Muzlu Avokado Mus",
       "en": "Banana Avocado Mousse"
     },
     "description": {
-      "tr": "Kakaosuz ve katkısız, muz ve avokadonun krema kıvamına getirilmesiyle hazırlanan sağlıklı bebek pudingi.",
+      "tr": "Kakaosuz ve katkısız, muz ogun ve avokadonun krema kıvamına getirilmesiyle hazırlanan sağlıklı bebek pudingi.",
       "en": "A healthy, cocoa-free baby pudding prepared by blending banana and avocado into a creamy mousse."
     },
     "category": 10,
@@ -166,11 +166,11 @@
     "allergicIngredients": [],
     "instructions": [
       {
-        "tr": "Muz ve avokadoyu blender kabına alalım.",
+        "tr": "Şifa deposu olgun muzumuzu ve krema gibi avokadomuzu blender kabımıza alalım.",
         "en": "Place banana and avocado in a blender."
       },
       {
-        "tr": "Pürüzsüz ve hava kabarcıklı bir mus kıvamı alana kadar yüksek hızda çekip servis edelim.",
+        "tr": "Bebişimizin midesine layık, pürüzsüz ve bulut gibi hafif bir mus kıvamı alana kadar yüksek hızda çekip hemen kuzumuza yedirelim.",
         "en": "Blend at high speed until smooth and aerated like a mousse, then serve."
       }
     ],
@@ -179,7 +179,7 @@
   {
     "id": "tatli_004",
     "title": {
-      "tr": "Armutlu İrmik Helvası",
+      "tr": "Mis Kokulu Armutlu İrmik Helvacığı",
       "en": "Semolina Halva with Pear"
     },
     "description": {
@@ -230,11 +230,11 @@
     ],
     "instructions": [
       {
-        "tr": "İrmiği az tereyağında kokusu çıkana kadar hafifçe çevirelim (yakmamaya dikkat edelim).",
+        "tr": "Doyurucu irmiğimizi azıcık tereyağında mis gibi kokusu çıkana kadar hafifçe çevirelim (miniğimizin midesini yormamak için yakmamaya çok dikkat edelim anneciği).",
         "en": "Lightly toast the semolina in a bit of butter until fragrant (be careful not to burn it)."
       },
       {
-        "tr": "Üzerine armut rendesi ve suyu ekleyip suyunu çekene kadar kısık ateşte demlendirerek pişirelim.",
+        "tr": "Üzerine vitamin dolu armut rendesini ve suyunu ekleyip, suyunu çekene kadar kısık ateşte güzelce demlendirerek pişirelim.",
         "en": "Add grated pear and water, and simmer over low heat until the liquid is fully absorbed."
       }
     ],
@@ -243,7 +243,7 @@
   {
     "id": "tatli_005",
     "title": {
-      "tr": "Hurma Ezmeli Muhallebi",
+      "tr": "Tatlı Rüyalar Hurma Ezmeli Muhallebi",
       "en": "Date Paste Pudding"
     },
     "description": {
@@ -286,11 +286,11 @@
     "allergicIngredients": [],
     "instructions": [
       {
-        "tr": "Hurmaları sıcak suda bekleterek yumuşatalım, çekirdeklerini ve kabuklarını soyup ezelim.",
+        "tr": "Doğal şeker kaynağımız hurmaları sıcak suda biraz bekleterek yumuşatalım, çekirdeklerini çıkarıp kabuklarını soyduktan sonra çatalla güzelce ezelim.",
         "en": "Soak dates in hot water to soften, peel and pit them, and mash into a paste."
       },
       {
-        "tr": "Elde ettiğimiz hurma ezmesini muhallebi pişerken içine ekleyip karıştırarak tatlandıralım.",
+        "tr": "Elde ettiğimiz o nefis hurma ezmesini muhallebimiz pişerken içine ekleyip karıştırarak tatlı tatlı lezzetlendirelim.",
         "en": "Add the date paste to the pudding while cooking and stir to sweeten."
       }
     ],
@@ -299,7 +299,7 @@
   {
     "id": "tatli_006",
     "title": {
-      "tr": "Kayısılı İrmik Tatlısı",
+      "tr": "Yumuşacık Kayısılı İrmik Tatlısı",
       "en": "Semolina Dessert with Apricot"
     },
     "description": {
@@ -335,12 +335,12 @@
     ],
     "instructions": [
       {
-        "tr": "Armudu haşlayıp çatalla püre haline getirelim.",
+        "tr": "Sulu armudumuzu güzelce haşlayıp bebişimizin yutabileceği şekilde çatalla ezip pürüzsüz bir püre haline getirelim.",
         "en": "Boil the pear and mash it into a puree with a fork."
       },
       {
-        "tr": "Üzerine çok az miktarda tarçın serpiştirip karıştırarak servis edelim.",
-        "en": "Sprinkle a tiny pinch of cinnamon on top, mix well, and serve."
+        "tr": "Üzerine mis kokulu tarçınımızdan çok azıcık serpiştirip sevgiyle karıştırarak kuzumuza sunalım.",
+        "en": "Intergrate a tiny pinch of cinnamon on top, mix well, and serve."
       }
     ],
     "imageUrl": ""
@@ -348,7 +348,7 @@
   {
     "id": "tatli_007",
     "title": {
-      "tr": "Muzlu Chia Puding",
+      "tr": "Enerji Deposu Muzlu Chia Puding",
       "en": "Banana Chia Pudding"
     },
     "description": {
@@ -376,11 +376,11 @@
     "allergicIngredients": [],
     "instructions": [
       {
-        "tr": "Pirinç ununu suyla pişirip muhallebi yapalım.",
+        "tr": "Pirinç unumuzu suyla topaklanmadan karıştırarak ocakta tatlı bir muhallebi kıvamına gelene kadar pişirelim.",
         "en": "Cook rice flour with water to make a pudding."
       },
       {
-        "tr": "Ocaktan aldıktan sonra içine ezilmiş muz ekleyip pürüzsüzleşene dek karıştıralım.",
+        "tr": "Ocaktan aldıktan sonra içine çatalla ezdiğimiz tatlı muzumuzu ekleyip ipeksi bir kıvam alana dek güzelce karıştıralım.",
         "en": "After removing from heat, add mashed banana and mix until smooth."
       }
     ],
@@ -389,7 +389,7 @@
   {
     "id": "tatli_008",
     "title": {
-      "tr": "Elmalı Tarçınlı Kek",
+      "tr": "Miniğe Özel Elmalı Tarçınlı Anne Keki",
       "en": "Apple Cinnamon Cake"
     },
     "description": {
@@ -429,11 +429,11 @@
     ],
     "instructions": [
       {
-        "tr": "Kuru incirleri sıcak suda yumuşatıp minik minik doğrayalım.",
+        "tr": "Bal gibi tatlı kuru incirlerimizi sıcak suda yumuşatıp, miniğimizin kolayca çiğneyebileceği şekilde minik minik doğrayalım.",
         "en": "Soak dried figs in hot water to soften and chop them into tiny pieces."
       },
       {
-        "tr": "Muhallebiye ekleyerek birlikte pişirelim ve ılık servis edelim.",
+        "tr": "Muhallebimizin içine bu şifa küplerini ekleyerek birlikte güzelce pişirelim ve bebişimize ılık ılık yedirelim.",
         "en": "Add to the pudding, cook together, and serve warm."
       }
     ],
@@ -442,7 +442,7 @@
   {
     "id": "tatli_009",
     "title": {
-      "tr": "Pekmezli Yoğurt Mus",
+      "tr": "Yumuşacık Pekmezli Yoğurt Mus",
       "en": "Yogurt Mousse with Molasses"
     },
     "description": {
@@ -478,11 +478,11 @@
     ],
     "instructions": [
       {
-        "tr": "Kayısı ve elma dilimlerini buharda haşlayalım.",
+        "tr": "Güneşte kurutulmuş lokum kayısılarımızı ve elma dilimlerimizi buharda vitaminleri kaçmadan yumuşacık haşlayalım.",
         "en": "Steam apricot and apple slices together."
       },
       {
-        "tr": "Yumuşayan meyveleri çatalla ezerek püre kıvamında yedirelim.",
+        "tr": "Yumuşacık olan bu meyveleri çatalla incitmeden ezerek tam kuzumuza layık, pürüzsüz bir püre kıvamında yedirelim. Şifa olsun!",
         "en": "Mash the softened fruits with a fork and feed in a puree consistency."
       }
     ],
@@ -491,7 +491,7 @@
   {
     "id": "tatli_010",
     "title": {
-      "tr": "Şeftalili Jöle (Doğal)",
+      "tr": "Yaz Esintisi Doğal Şeftalili Jöle",
       "en": "Peach Jelly (Natural)"
     },
     "description": {
@@ -519,11 +519,11 @@
     "allergicIngredients": [],
     "instructions": [
       {
-        "tr": "Kuru üzümleri haşlayıp püre yapalım.",
+        "tr": "Kan yapıcı kuru üzümlerimizi güzelce haşlayıp, pürüzsüz tatlı bir püre haline getirelim.",
         "en": "Boil the raisins and mash them into a puree."
       },
       {
-        "tr": "İrmikli muhallebi pişirirken üzüm püresini de ekleyip birlikte pişirelim.",
+        "tr": "Mis gibi irmikli muhallebimizi pişirirken hazırladığımız bu tatlı üzüm püresini de ekleyip tencerede birlikte sevgiyle harmanlayarak pişirelim.",
         "en": "Add the raisin puree while cooking semolina pudding, and cook together."
       }
     ],
