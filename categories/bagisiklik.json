@@ -2,7 +2,7 @@
   {
     "id": "bagisiklik_001",
     "title": {
-      "tr": "Zencefilli Elma Püresi",
+      "tr": "Miniğe Şifa Zencefilli Elma Püresi",
       "en": "Ginger Apple Puree"
     },
     "description": {
@@ -45,11 +45,11 @@
     "allergicIngredients": [],
     "instructions": [
       {
-        "tr": "Elmayı soyup doğrayalım, yanına çeyrek çay kaşığı kadar taze zencefil ekleyip buharda pişirelim.",
+        "tr": "Elmamızın kabuklarını sevgiyle soyup doğrayalım, yanına bir fiske taze zencefil ekleyip buharda mis gibi pişmeye bırakalım.",
         "en": "Peel and chop the apple, add about a quarter teaspoon of fresh ginger, and steam together."
       },
       {
-        "tr": "Yumuşayan malzemeleri çatalla pürüzsüzleşene kadar ezip ılık olarak yedirelim.",
+        "tr": "Lokum gibi yumuşayan bu şifa dolu malzemeleri çatalla pürüzsüz olana dek ezip, miniğimize ılık ılık yedirelim.",
         "en": "Mash the softened ingredients until smooth and feed warm."
       }
     ],
@@ -58,7 +58,7 @@
   {
     "id": "bagisiklik_002",
     "title": {
-      "tr": "Kırmızı Pancar Çorbası",
+      "tr": "Minişlere Renkli Pancar Ziyafeti",
       "en": "Red Beet Soup"
     },
     "description": {
@@ -104,11 +104,11 @@
     "allergicIngredients": [],
     "instructions": [
       {
-        "tr": "Kırmızı pancarı ve patatesi yıkayıp soyduktan sonra tencerede yumuşayana dek haşlayalım.",
+        "tr": "Kırmızı pancarımızı ve patatesimizi güzelce yıkayıp soyduktan sonra, tencerede pamuk gibi yumuşayana dek sevgiyle haşlayalım.",
         "en": "Wash, peel, and boil the red beetroot and potato in a pot until tender."
       },
       {
-        "tr": "Haşlanan sebzeleri pürüzsüz bir çorba kıvamına gelene kadar blenderdan geçirip servis edelim.",
+        "tr": "Mis gibi haşlanan sebzelerimizi kuzumuzun kolayca içebileceği pürüzsüz bir çorba kıvamına gelene dek blenderdan geçirip ılık servis edelim.",
         "en": "Blend the cooked vegetables until they reach a smooth soup consistency and serve."
       }
     ],
@@ -117,7 +117,7 @@
   {
     "id": "bagisiklik_003",
     "title": {
-      "tr": "Sarımsaklı Yoğurtlu Ispanak",
+      "tr": "Anne Eli Değmiş Sarımsaklı Ispanak",
       "en": "Spinach with Garlic and Yogurt"
     },
     "description": {
@@ -168,11 +168,11 @@
     ],
     "instructions": [
       {
-        "tr": "Ispanakları temizleyip az suda haşlayalım ve suyunu süzüp incecik kıyalım.",
+        "tr": "Ispanaklarımızı tertemiz yıkayıp azıcık suda haşlayalım, ardından suyunu süzüp minişimizin ağzına layık incecik kıyalım.",
         "en": "Clean and boil the spinach in a little water, drain, and chop finely."
       },
       {
-        "tr": "Kıyılmış ıspanakları sarımsak rendelenmiş taze ev yoğurdu ile karıştırarak sunalım.",
+        "tr": "Bu şifalı ıspanakları, içine sevgiyle sarımsak rendelediğimiz taze ev yoğurdumuzla buluşturup bal küpümüze sunalım.",
         "en": "Mix the chopped spinach with fresh homemade yogurt grated with a hint of garlic and serve."
       }
     ],
@@ -181,7 +181,7 @@
   {
     "id": "bagisiklik_004",
     "title": {
-      "tr": "Kemik Suyu Çorbası",
+      "tr": "Kuzumuza Güç Veren Kemik Suyu Çorbası",
       "en": "Bone Broth Soup"
     },
     "description": {
@@ -209,11 +209,11 @@
     "allergicIngredients": [],
     "instructions": [
       {
-        "tr": "İlikli kemik suyunu tencereye alalım, içine az miktarda pirinç veya şehriye ekleyerek kaynatalım.",
+        "tr": "Şifa deposu ilikli kemik suyumuzu tencereye alalım, içine miniğimiz için azıcık pirinç veya şehriye ekleyerek tatlı tatlı kaynatalım.",
         "en": "Take bone marrow broth in a pot, add a small amount of rice or noodles, and bring to a boil."
       },
       {
-        "tr": "Pirinçler iyice yumuşayıp çorba kıvamı aldığında ocaktan alıp ılıtarak yedirelim.",
+        "tr": "Pirinçlerimiz pamuk gibi yumuşayıp nefis bir çorba kıvamı aldığında ocaktan alalım, ılındıktan sonra kuzumuza afiyetle yedirelim.",
         "en": "Once the rice is fully soft and the soup thickens, remove from heat, let it cool to warm, and feed."
       }
     ],
@@ -222,7 +222,7 @@
   {
     "id": "bagisiklik_005",
     "title": {
-      "tr": "C Vitaminli Karışım",
+      "tr": "Bebişlere Enerji Veren C Vitamini Deposu",
       "en": "Vitamin C Mixture"
     },
     "description": {
@@ -273,11 +273,11 @@
     ],
     "instructions": [
       {
-        "tr": "Havucu cam rende yardımıyla incecik rendeleyelim.",
+        "tr": "Vitamin deposu havucumuzu cam rende yardımıyla minişimizin narin diline uygun incecik rendeleyelim.",
         "en": "Grate the carrot finely using a glass grater."
       },
       {
-        "tr": "Rendelenmiş havucu taze sıkılmış portakal suyuyla karıştırarak bekletmeden servis edelim.",
+        "tr": "Bu güzel havuçları taze sıkılmış mis kokulu portakal suyuyla neşeyle karıştırıp, bekletmeden miniğimize servis edelim.",
         "en": "Mix the grated carrot with freshly squeezed orange juice and serve immediately."
       }
     ],
@@ -286,7 +286,7 @@
   {
     "id": "bagisiklik_006",
     "title": {
-      "tr": "Sarımsaklı Yoğurt",
+      "tr": "Doğal Antibiyotik Sarımsaklı Ev Yoğurdu",
       "en": "Garlic Yogurt"
     },
     "description": {
@@ -322,11 +322,11 @@
     ],
     "instructions": [
       {
-        "tr": "Çok küçük bir diş sarımsağı iyice ezelim.",
+        "tr": "Miniğimizin bağışıklığı için minicik bir diş sarımsağı anne özeniyle iyice ezelim.",
         "en": "Finely mash a tiny clove of garlic."
       },
       {
-        "tr": "Ezdiğimiz sarımsağı oda sıcaklığındaki ev yoğurduna karıştırıp bebişimize sunalım.",
+        "tr": "Ezdiğimiz bu şifalı sarımsağı oda sıcaklığındaki mis gibi ev yoğurduna güzelce karıştırıp bebişimize neşeyle sunalım.",
         "en": "Mix the mashed garlic into room-temperature homemade yogurt and serve to your baby."
       }
     ],
@@ -335,7 +335,7 @@
   {
     "id": "bagisiklik_007",
     "title": {
-      "tr": "Kuşburnu Çayı",
+      "tr": "Kış Günlerine Özel Sıcacık Kuşburnu Çayı",
       "en": "Rosehip Tea"
     },
     "description": {
@@ -363,11 +363,11 @@
     "allergicIngredients": [],
     "instructions": [
       {
-        "tr": "Kuşburnu meyvelerini sıcak suda iyice yumuşayıp özünü verene kadar demleyelim.",
+        "tr": "C vitamini kaynağı kuşburnu meyvelerini sıcak suda, o güzelim özünü ve şifasını verene kadar tatlı tatlı demleyelim.",
         "en": "Brew rosehip fruits in hot water until they fully soften and release their essence."
       },
       {
-        "tr": "İçindeki tüylü yapının geçmemesi için tülbentle süzüp ılık olarak kaşıkla verelim.",
+        "tr": "Kuzumuzun boğazını acıtmaması için tülbentle pürüzsüzce süzüp, ılık olarak kaşık kaşık sevgiyle içirelim.",
         "en": "Strain through a cheesecloth to ensure no fuzzy parts pass through, and serve warm with a spoon."
       }
     ],
@@ -376,7 +376,7 @@
   {
     "id": "bagisiklik_008",
     "title": {
-      "tr": "Balık Suyu Çorbası",
+      "tr": "Büyüyen Bebeklere Omega-3 Deposu Balık Çorbası",
       "en": "Fish Broth Soup"
     },
     "description": {
@@ -409,11 +409,11 @@
     ],
     "instructions": [
       {
-        "tr": "Kılçıksız balık eti ve sebzeleri tencerede haşlayıp suyunu süzelim.",
+        "tr": "Kılçıksız, tertemiz balık etimizi ve taptaze mevsim sebzelerini tencerede lokum gibi haşlayıp o şifalı suyunu güzelce süzelim.",
         "en": "Boil boneless fish meat and vegetables in a pot, then strain the broth."
       },
       {
-        "tr": "Sebze ve balık suyunu karıştırarak ılık bir çorba şeklinde servis edelim.",
+        "tr": "Bu nefis sebze ve balık suyunu sevgiyle karıştırarak, miniğimize ılık ılık içireceğimiz nefis bir çorba şeklinde servis edelim.",
         "en": "Mix the vegetable and fish broth together and serve as a warm soup."
       }
     ],
@@ -422,7 +422,7 @@
   {
     "id": "bagisiklik_009",
     "title": {
-      "tr": "Brokoli ve Havuç Suyu",
+      "tr": "Akıllı Bıdıklara Vitamin Dolu Yeşil Sebze Suyu",
       "en": "Broccoli and Carrot Juice"
     },
     "description": {
@@ -468,11 +468,11 @@
     "allergicIngredients": [],
     "instructions": [
       {
-        "tr": "Brokoli ve havucu yıkayıp katı meyve sıkacağından geçirelim.",
+        "tr": "Taptaze brokolimizi ve vitamin deposu havucumuzu sevgiyle yıkayıp katı meyve sıkacağından geçirelim.",
         "en": "Wash the broccoli and carrot, then pass them through a juicer."
       },
       {
-        "tr": "Elde ettiğimiz sebze suyunu taze olarak bebişimize içirelim.",
+        "tr": "Elde ettiğimiz bu bol vitaminli taze sebze suyunu, hiç bekletmeden şifa niyetine kuzumuza içirelim.",
         "en": "Feed the resulting vegetable juice fresh to your baby."
       }
     ],
@@ -481,11 +481,11 @@
   {
     "id": "bagisiklik_010",
     "title": {
-      "tr": "İlikli Kemik Suyu Lapası",
+      "tr": "Güçlü Kemiklere İlikli Kemik Suyu Lapası",
       "en": "Bone Marrow Broth Porridge"
     },
     "description": {
-      "tr": "İlikli kemik suyunda pişmiş pirinç lapası ile bebişinizin kemik gelişimini zirveye taşıyacak güç öğünü.",
+      "tr": "İlikli kemik suyunda pişmiş pirinç lapa kıvamına gelene kadar pişirelim.",
       "en": "A power meal featuring rice cooked in marrow bone broth to maximize your baby's bone development."
     },
     "category": 17,
@@ -509,11 +509,11 @@
     "allergicIngredients": [],
     "instructions": [
       {
-        "tr": "İlikli kemik suyuna 1-2 kaşık pirinç atıp pirinçler lapa kıvamına gelene kadar pişirelim.",
+        "tr": "Şifa kaynağı ilikli kemik suyumuza 1-2 kaşık pirinç atıp, pirinçleriz yumuşacık bir lapa kıvamına gelene kadar ocakta tatlı tatlı pişirelim.",
         "en": "Add 1-2 tablespoons of rice to bone marrow broth and cook until the rice turns into porridge."
       },
       {
-        "tr": "Ilındıktan sonra çatalla ezip kıvam vererek servis edelim.",
+        "tr": "Mis gibi kokan lapamız ılındıktan sonra çatalla nazikçe ezip, kuzumuzun yutabileceği kıvama getirerek sevgiyle servis edelim.",
         "en": "Once cooled to warm, mash with a fork to adjust consistency and serve."
       }
     ],
