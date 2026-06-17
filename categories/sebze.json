@@ -2,7 +2,7 @@
   {
     "id": "sebze_001",
     "title": {
-      "tr": "Bezelye Püresi",
+      "tr": "Minişlere Tatlış Bezelye Püresi",
       "en": "Pea Puree"
     },
     "description": {
@@ -33,11 +33,11 @@
     "allergicIngredients": [],
     "instructions": [
       {
-        "tr": "Taze bezelyeleri yumuşayana kadar haşlayalım.",
+        "tr": "Taptaze bezelyelerimizi bebişimizin narin göbüşü için pamuk gibi yumuşayana kadar sevgiyle haşlayalım.",
         "en": "Boil fresh peas until tender."
       },
       {
-        "tr": "Zarlarını ayıklamak için süzgeçten geçirip pürüzsüz püre elde edelim.",
+        "tr": "O minik zarlarını ayıklayıp ipeksi bir püre elde etmek için süzgeçten anne özeniyle güzelce geçirelim. Meleğimize şifa olsun!",
         "en": "Pass through a sieve to remove the skins and get a smooth puree."
       }
     ],
@@ -46,17 +46,193 @@
   {
     "id": "sebze_002",
     "title": {
-      "tr": "Brokoli ve Patates",
-      "en": "Broccoli and Potato"
+      "tr": "Güneş Renkli Havuç Püresi",
+      "en": "Carrot Puree"
     },
     "description": {
-      "tr": "Brokolinin yüksek vitamin değeri ve patatesin doyurucu karbonhidrat gücünün buluştuğu leziz yeşil tabak.",
-      "en": "A delicious green dish combining the high vitamin value of broccoli and filling carbohydrate power of potato."
+      "tr": "Hafif tatlı aromasıyla bebeklerin en sevdiği sebzelerden olan, bol A vitaminli havuç püresi.",
+      "en": "A vitamin A-rich carrot puree, one of the most beloved vegetables by babies due to its mildly sweet flavor."
     },
     "category": 2,
     "ingredients": [
       {
-        "amount": 2,
+        "amount": 1,
+        "unit": {
+          "tr": "adet",
+          "en": "pcs"
+        },
+        "baseName": {
+          "tr": "havuç",
+          "en": "carrot"
+        },
+        "shoppingLabel": {
+          "tr": "Havuç",
+          "en": "Carrot"
+        }
+      }
+    ],
+    "preparationTime": 15,
+    "calories": 40,
+    "suitableAgeInMonths": 6,
+    "allergicIngredients": [],
+    "instructions": [
+      {
+        "tr": "Güneş renkli havucumuzu bir güzel yıkayıp kabuklarını soyalım, çabucak yumuşasın diye halka halka doğrayalım.",
+        "en": "Wash and peel the carrot, then slice it into rings for quicker cooking."
+      },
+      {
+        "tr": "Buharda veya çok az temiz suda havuçlar lokum gibi olana kadar haşlayıp, çatalla pürüzsüzleşene dek sevgiyle ezelim.",
+        "en": "Steam or boil in a little water until fully soft, then mash well with a fork."
+      }
+    ],
+    "imageUrl": ""
+  },
+  {
+    "id": "sebze_003",
+    "title": {
+      "tr": "Hassas Göbüşlere Yumuşacık Kabak Püresi",
+      "en": "Zucchini Puree"
+    },
+    "description": {
+      "tr": "Sindirimi son derece kolay, alerji riski düşük ve bebeğinizin midesini asla yormayacak hafif bir kabak püresi.",
+      "en": "A light zucchini puree that is highly digestible and carries low allergy risk, ensuring a gentle meal for your baby's tummy."
+    },
+    "category": 2,
+    "ingredients": [
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "küçük",
+          "en": "small"
+        },
+        "baseName": {
+          "tr": "kabak",
+          "en": "zucchini"
+        },
+        "shoppingLabel": {
+          "tr": "Kabak",
+          "en": "Zucchini"
+        }
+      }
+    ],
+    "preparationTime": 12,
+    "calories": 20,
+    "suitableAgeInMonths": 6,
+    "allergicIngredients": [],
+    "instructions": [
+      {
+        "tr": "Taze kabağımızın kabuğunu narince soyup çekirdeksiz kısımlarını şefkatle dilimleyelim.",
+        "en": "Peel the zucchini thinly and slice the core-free parts gently."
+      },
+      {
+        "tr": "Çok az suda kabaklar şeffaflaşıp pamuk gibi olana kadar pişirelim, ardından çatalla narince ezerek kuzumuza tazece yedirelim.",
+        "en": "Cook in a tiny amount of water until soft and translucent, then mash with a fork and serve fresh."
+      }
+    ],
+    "imageUrl": ""
+  },
+  {
+    "id": "sebze_004",
+    "title": {
+      "tr": "Kadife Dokulu Balkabağı Ziyafeti",
+      "en": "Pumpkin Puree"
+    },
+    "description": {
+      "tr": "Doğal tatlı aroması ve kadifemsi yapısıyla miniklerin çok seveceği, besleyici balkabağı püresi.",
+      "en": "A nutritious pumpkin puree with a naturally sweet aroma and velvety texture that little ones will adore."
+    },
+    "category": 2,
+    "ingredients": [
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "dilim",
+          "en": "slice"
+        },
+        "baseName": {
+          "tr": "balkabağı",
+          "en": "pumpkin"
+        },
+        "shoppingLabel": {
+          "tr": "Balkabağı",
+          "en": "Pumpkin"
+        }
+      }
+    ],
+    "preparationTime": 20,
+    "calories": 45,
+    "suitableAgeInMonths": 6,
+    "allergicIngredients": [],
+    "instructions": [
+      {
+        "tr": "Mis kokulu balkabağımızın kabuğunu ve liflerini anne titizliğiyle temizleyip küp küp doğrayalım.",
+        "en": "Peel and core the pumpkin carefully, then cut it into cubes."
+      },
+      {
+        "tr": "Buharda ya da çok az suda lokum kıvamına gelene dek haşlayıp, kuzumuzun ağzına layık ipeksi bir püre olana kadar bir güzel ezelim.",
+        "en": "Steam or boil until melt-in-your-mouth soft, then mash into a velvety puree."
+      }
+    ],
+    "imageUrl": ""
+  },
+  {
+    "id": "sebze_005",
+    "title": {
+      "tr": "Bal Küpüne Doyurucu Patates Püresi",
+      "en": "Potato Puree"
+    },
+    "description": {
+      "tr": "Bebişinize gün boyu enerji verecek, tok tutma özelliği yüksek yumuşacık patates püresi.",
+      "en": "A soft potato puree that provides energy throughout the day and keeps your baby nicely full."
+    },
+    "category": 2,
+    "ingredients": [
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "küçük",
+          "en": "small"
+        },
+        "baseName": {
+          "tr": "patates",
+          "en": "potato"
+        },
+        "shoppingLabel": {
+          "tr": "Patates",
+          "en": "Potato"
+        }
+      }
+    ],
+    "preparationTime": 20,
+    "calories": 75,
+    "suitableAgeInMonths": 6,
+    "allergicIngredients": [],
+    "instructions": [
+      {
+        "tr": "Küçük bir patatesi soyup küpler halinde doğrayalım, tencerede üzerini geçecek kadar suda haşlanmaya bırakalım.",
+        "en": "Peel and dice a small potato, then boil it in a pot filled with water."
+      },
+      {
+        "tr": "Patatesler pamuk gibi yumuşadığında suyunu süzüp henüz sıcakken ezelim; içine şifa niyetine birkaç damla sızma zeytinyağı gezdirelim.",
+        "en": "Drain when fully soft, mash while hot, and drizzle a few drops of olive oil."
+      }
+    ],
+    "imageUrl": ""
+  },
+  {
+    "id": "sebze_006",
+    "title": {
+      "tr": "Minişlere Özel Yumuşacık Brokoli Ezmesi",
+      "en": "Broccoli Mash"
+    },
+    "description": {
+      "tr": "C vitamini ve antioksidan zengini brokoli çiçeklerinin, zeytinyağı ile lezzetlendirilmiş ipeksi ezmesi.",
+      "en": "A smooth broccoli mash rich in vitamin C and antioxidants, flavored with quality olive oil."
+    },
+    "category": 2,
+    "ingredients": [
+      {
+        "amount": 3,
         "unit": {
           "tr": "çiçek",
           "en": "florets"
@@ -69,231 +245,20 @@
           "tr": "Brokoli",
           "en": "Broccoli"
         }
-      },
-      {
-        "amount": 0.5,
-        "unit": {
-          "tr": "adet",
-          "en": "pcs"
-        },
-        "baseName": {
-          "tr": "patates",
-          "en": "potato"
-        },
-        "shoppingLabel": {
-          "tr": "Patates",
-          "en": "Potato"
-        }
       }
     ],
-    "preparationTime": 20,
-    "calories": 85,
-    "suitableAgeInMonths": 7,
+    "preparationTime": 12,
+    "calories": 25,
+    "suitableAgeInMonths": 6,
     "allergicIngredients": [],
     "instructions": [
       {
-        "tr": "Brokoli ve patatesi buharda haşlayalım.",
-        "en": "Steam broccoli and potato together."
+        "tr": "Brokoli çiçeklerimizi o güzelim yeşil rengini and vitaminlerini kaybetmesin diye buharda pamuk gibi olana kadar narinlikle pişirelim.",
+        "en": "Steam broccoli florets until fully soft, ensuring all vitamins are preserved."
       },
       {
-        "tr": "Yumuşayan sebzeleri çatalla ezip zeytinyağı ilave ederek karıştıralım.",
-        "en": "Mash the softened vegetables with a fork, add olive oil, and mix."
-      }
-    ],
-    "imageUrl": ""
-  },
-  {
-    "id": "sebze_003",
-    "title": {
-      "tr": "Ispanaklı Yoğurt",
-      "en": "Spinach with Yogurt"
-    },
-    "description": {
-      "tr": "Demir deposu ıspanak yapraklarının hafifçe sote edilip kalsiyum zengini ev yoğurduyla karıştırılması.",
-      "en": "Iron-rich spinach leaves lightly sauteed and mixed with calcium-rich homemade yogurt."
-    },
-    "category": 2,
-    "ingredients": [
-      {
-        "amount": 5,
-        "unit": {
-          "tr": "yaprak",
-          "en": "leaves"
-        },
-        "baseName": {
-          "tr": "ıspanak",
-          "en": "spinach"
-        },
-        "shoppingLabel": {
-          "tr": "Ispanak",
-          "en": "Spinach"
-        }
-      },
-      {
-        "amount": 2,
-        "unit": {
-          "tr": "yemek kaşığı",
-          "en": "tbsp"
-        },
-        "baseName": {
-          "tr": "ev yoğurdu",
-          "en": "homemade yogurt"
-        },
-        "shoppingLabel": {
-          "tr": "Yoğurt",
-          "en": "Yogurt"
-        }
-      }
-    ],
-    "preparationTime": 10,
-    "calories": 45,
-    "suitableAgeInMonths": 8,
-    "allergicIngredients": [
-      {
-        "tr": "yoğurt",
-        "en": "yogurt"
-      }
-    ],
-    "instructions": [
-      {
-        "tr": "Ispanakları yıkayıp az suda yumuşayana dek haşlayalım ve suyunu sıkıp incecik kıyalım.",
-        "en": "Wash and boil spinach in a little water until tender, squeeze out the juice, and chop finely."
-      },
-      {
-        "tr": "Kıyılmış ıspanakları taze ev yoğurduna karıştırıp yedirelim.",
-        "en": "Mix the chopped spinach into fresh homemade yogurt and feed."
-      }
-    ],
-    "imageUrl": ""
-  },
-  {
-    "id": "sebze_004",
-    "title": {
-      "tr": "Karnabahar Püresi",
-      "en": "Cauliflower Puree"
-    },
-    "description": {
-      "tr": "Hafif lezzetiyle bebişlerin midesini yormayacak, krema kıvamında nefis karnabahar püresi.",
-      "en": "A delicious, creamy cauliflower puree with a mild flavor that won't upset your baby's tummy."
-    },
-    "category": 2,
-    "ingredients": [
-      {
-        "amount": 3,
-        "unit": {
-          "tr": "çiçek",
-          "en": "florets"
-        },
-        "baseName": {
-          "tr": "karnabahar",
-          "en": "cauliflower"
-        },
-        "shoppingLabel": {
-          "tr": "Karnabahar",
-          "en": "Cauliflower"
-        }
-      }
-    ],
-    "preparationTime": 15,
-    "calories": 30,
-    "suitableAgeInMonths": 7,
-    "allergicIngredients": [],
-    "instructions": [
-      {
-        "tr": "Karnabaharları buharda tamamen yumuşayana dek haşlayalım.",
-        "en": "Steam cauliflower florets until completely tender."
-      },
-      {
-        "tr": "Blender veya çatal yardımıyla pürüzsüz olana dek ezip servis edelim.",
-        "en": "Mash with a blender or fork until smooth and serve."
-      }
-    ],
-    "imageUrl": ""
-  },
-  {
-    "id": "sebze_005",
-    "title": {
-      "tr": "Taze Fasulye Ezmesi",
-      "en": "Green Bean Mash"
-    },
-    "description": {
-      "tr": "Lifli yapısıyla bağırsak dostu olan taze fasulyenin, kılçıklarından arındırılarak haşlanmış ezmesi.",
-      "en": "A digestion-friendly green bean mash, with stringy parts removed and boiled until tender."
-    },
-    "category": 2,
-    "ingredients": [
-      {
-        "amount": 5,
-        "unit": {
-          "tr": "adet",
-          "en": "pcs"
-        },
-        "baseName": {
-          "tr": "taze fasulye",
-          "en": "green beans"
-        },
-        "shoppingLabel": {
-          "tr": "Taze Fasulye",
-          "en": "Green Beans"
-        }
-      }
-    ],
-    "preparationTime": 25,
-    "calories": 35,
-    "suitableAgeInMonths": 8,
-    "allergicIngredients": [],
-    "instructions": [
-      {
-        "tr": "Taze fasulyelerin kılçıklarını temizleyip bol suda haşlayalım.",
-        "en": "Clean the strings of the green beans and boil them in plenty of water."
-      },
-      {
-        "tr": "Ezerek pürüzsüz püre haline getirelim ve zeytinyağı ile tatlandıralım.",
-        "en": "Mash into a smooth puree and flavor with olive oil."
-      }
-    ],
-    "imageUrl": ""
-  },
-  {
-    "id": "sebze_006",
-    "title": {
-      "tr": "Yer Elması Püresi",
-      "en": "Jerusalem Artichoke Puree"
-    },
-    "description": {
-      "tr": "İnulin maddesi sayesinde bağırsak florasını güçlendiren, toprak kokulu şifalı yer elması püresi.",
-      "en": "A healing, earthy Jerusalem artichoke puree that strengthens the bowel flora thanks to its inulin content."
-    },
-    "category": 2,
-    "ingredients": [
-      {
-        "amount": 1,
-        "unit": {
-          "tr": "adet",
-          "en": "pcs"
-        },
-        "baseName": {
-          "tr": "yer elması",
-          "en": "jerusalem artichoke"
-        },
-        "shoppingLabel": {
-          "tr": "Yer Elması",
-          "en": "Jerusalem Artichoke"
-        }
-      }
-    ],
-    "preparationTime": 20,
-    "calories": 70,
-    "suitableAgeInMonths": 8,
-    "allergicIngredients": [],
-    "instructions": [
-      {
-        "tr": "Yer elmasını soyup kararmaması için limonlu suda bekletelim ve haşlayalım.",
-        "en": "Peel the Jerusalem artichoke, soak in lemon water to prevent browning, and boil."
-      },
-      {
-        "tr": "Yumuşayınca çatalla ezip zeytinyağı ile tatlandırarak servis edelim.",
-        "en": "Once tender, mash with a fork, flavor with olive oil, and serve."
+        "tr": "Sıcak sıcakken çatalla bir güzel ezip, üzerine birkaç damla soğuk sıkım zeytinyağı karıştırarak bal küpümüze yedirelim.",
+        "en": "Mash with a fork while warm and mix in a few drops of cold-pressed olive oil."
       }
     ],
     "imageUrl": ""
@@ -301,28 +266,72 @@
   {
     "id": "sebze_007",
     "title": {
-      "tr": "Pazı ve Patates",
-      "en": "Chard and Potato"
+      "tr": "Şifa Dolu Tatlı Patates Püresi",
+      "en": "Sweet Potato Puree"
     },
     "description": {
-      "tr": "Demir kaynağı pazı yaprakları ve doyurucu patatesin birlikte haşlanmasıyla hazırlanan besleyici püre.",
-      "en": "A nutritious puree prepared by boiling iron-source chard leaves and filling potato together."
+      "tr": "Normal patatese göre lif oranı daha yüksek, kendinden tatlı yapısıyla bebeklerin favorisi tatlı patates püresi.",
+      "en": "A high-fiber sweet potato puree with a naturally sweet taste that quickly becomes a baby favorite."
     },
     "category": 2,
     "ingredients": [
       {
-        "amount": 3,
+        "amount": 0.5,
         "unit": {
-          "tr": "yaprak",
-          "en": "leaves"
+          "tr": "adet",
+          "en": "pcs"
         },
         "baseName": {
-          "tr": "pazı",
-          "en": "chard"
+          "tr": "tatlı patates",
+          "en": "sweet potato"
         },
         "shoppingLabel": {
-          "tr": "Pazı",
-          "en": "Chard"
+          "tr": "Tatlı Patates",
+          "en": "Sweet Potato"
+        }
+      }
+    ],
+    "preparationTime": 18,
+    "calories": 65,
+    "suitableAgeInMonths": 6,
+    "allergicIngredients": [],
+    "instructions": [
+      {
+        "tr": "Tatlı patatesimizi anne özeniyle soyup dilimleyelim, buharda içi lokum gibi yumuşayana kadar pişmeye bırakalım.",
+        "en": "Peel and slice the sweet potato, then steam it until tender."
+      },
+      {
+        "tr": "Yumuşacık pişen patatesleri çatalla pürüzsüz olana dek ezip, oda sıcaklığına geldiğinde minişimize keyifle sunalım.",
+        "en": "Mash until perfectly smooth and serve at room temperature."
+      }
+    ],
+    "imageUrl": ""
+  },
+  {
+    "id": "sebze_008",
+    "title": {
+      "tr": "Anne Şefkatiyle Balkabaklı Patates Püresi",
+      "en": "Pumpkin and Potato Mix"
+    },
+    "description": {
+      "tr": "Balkabağının tatlılığı ve patatesin doyuruculuğunun bir araya geldiği, besleyici ve iştah açıcı ikili sebze püresi.",
+      "en": "A nutritious and appetizing mixed puree combining the sweetness of pumpkin and the satiety of potato."
+    },
+    "category": 2,
+    "ingredients": [
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "dilim",
+          "en": "slice"
+        },
+        "baseName": {
+          "tr": "balkabağı",
+          "en": "pumpkin"
+        },
+        "shoppingLabel": {
+          "tr": "Balkabağı",
+          "en": "Pumpkin"
         }
       },
       {
@@ -341,62 +350,18 @@
         }
       }
     ],
-    "preparationTime": 15,
-    "calories": 80,
-    "suitableAgeInMonths": 8,
+    "preparationTime": 20,
+    "calories": 55,
+    "suitableAgeInMonths": 7,
     "allergicIngredients": [],
     "instructions": [
       {
-        "tr": "Pazı yapraklarını ve patatesi az suda birlikte pişirelim.",
-        "en": "Cook chard leaves and potato together in a small amount of water."
+        "tr": "Balkabağımızı ve patatesimizi minik küpler halinde doğrayıp, temiz bir tencerede üzerini geçecek kadar az suda lokum gibi haşlayalım.",
+        "en": "Dice the pumpkin and potato, then boil them in a pot with a little water until soft."
       },
       {
-        "tr": "Sebzeleri sıcakken çatalla ezerek püre haline getirelim.",
-        "en": "Mash the vegetables with a fork while hot to make a puree."
-      }
-    ],
-    "imageUrl": ""
-  },
-  {
-    "id": "sebze_008",
-    "title": {
-      "tr": "Enginar Kalbi Püresi",
-      "en": "Artichoke Heart Puree"
-    },
-    "description": {
-      "tr": "Karaciğer dostu enginar kalbinin limonlu suda haşlanıp ezilmesiyle hazırlanan şifa tabağı.",
-      "en": "A healing dish prepared by boiling liver-friendly artichoke heart in lemon water and mashing it."
-    },
-    "category": 2,
-    "ingredients": [
-      {
-        "amount": 1,
-        "unit": {
-          "tr": "adet",
-          "en": "pcs"
-        },
-        "baseName": {
-          "tr": "enginar",
-          "en": "artichoke"
-        },
-        "shoppingLabel": {
-          "tr": "Enginar",
-          "en": "Artichoke"
-        }
-      }
-    ],
-    "preparationTime": 25,
-    "calories": 50,
-    "suitableAgeInMonths": 8,
-    "allergicIngredients": [],
-    "instructions": [
-      {
-        "tr": "Enginar kalbini limonlu suda yumuşayana dek haşlayalım.",
-        "en": "Boil the artichoke heart in lemon water until tender."
-      },
-      {
-        "tr": "Zeytinyağı ekleyip çatalla pürüzsüz olana dek ezip yedirelim.",
-        "en": "Add olive oil, mash with a fork until smooth, and feed."
+        "tr": "Haşlanan bu şifa deposu sebzeleri sıcakken çatalla bir güzel ezip, pürüzsüz bir kıvam yakalayarak ılık servis edelim.",
+        "en": "Mash the cooked ingredients with a fork while hot and serve warm."
       }
     ],
     "imageUrl": ""
@@ -404,17 +369,17 @@
   {
     "id": "sebze_009",
     "title": {
-      "tr": "Kereviz Püresi",
+      "tr": "Akıllı Bıdıklara Kereviz Ziyafeti",
       "en": "Celery Puree"
     },
     "description": {
-      "tr": "Kendine has aromasıyla bebeklerin koku ve tat duyularını geliştirecek besleyici kereviz püresi.",
-      "en": "A nutritious celery puree with a unique aroma to help develop your baby's senses of smell and taste."
+      "tr": "Bağışıklığı destekleyen, kendine has aromasıyla bebişinizin damak tadını zenginleştirecek faydalı kereviz püresi.",
+      "en": "A beneficial celery puree that supports immunity and broadens your baby's palate with its unique aroma."
     },
     "category": 2,
     "ingredients": [
       {
-        "amount": 0.5,
+        "amount": 1,
         "unit": {
           "tr": "dilim",
           "en": "slice"
@@ -429,8 +394,8 @@
         }
       }
     ],
-    "preparationTime": 20,
-    "calories": 40,
+    "preparationTime": 25,
+    "calories": 35,
     "suitableAgeInMonths": 8,
     "allergicIngredients": [
       {
@@ -440,11 +405,11 @@
     ],
     "instructions": [
       {
-        "tr": "Kerevizi soyup çabuk pişmesi için küp küp doğrayalım ve haşlayalım.",
-        "en": "Peel the celery, cut it into cubes for faster cooking, and boil."
+        "tr": "Kereviz dilimimizi güzelce yıkayıp kabuğunu soyalım and tencerede pamuk gibi yumuşayana kadar haşlayalım.",
+        "en": "Wash and peel the celery slice, then boil until tender."
       },
       {
-        "tr": "Yumuşayan kerevizleri ezip içine bir tatlı kaşığı zeytinyağı ekleyerek sunalım.",
+        "tr": "Yumuşayan kerevizleri incitmeden ezip, içine şifa niyetine bir tatlı kaşığı halis zeytinyağı ekleyerek kuzumuza sunalım.",
         "en": "Mash the softened celery, add a teaspoon of olive oil, and serve."
       }
     ],
@@ -453,7 +418,7 @@
   {
     "id": "sebze_010",
     "title": {
-      "tr": "Bamya Ezmesi",
+      "tr": "Bağırsak Dostu Yumuşacık Bamya Ezmesi",
       "en": "Okra Mash"
     },
     "description": {
@@ -484,12 +449,12 @@
     "allergicIngredients": [],
     "instructions": [
       {
-        "tr": "Bamyaları tencerede limonlu suda salyalanmayacak şekilde haşlayalım.",
-        "en": "Boil the okras in lemon water in a pot, ensuring they don't get slimy."
+        "tr": "Bamyalarımızı tencerede limonlu temiz suda, salyalanmayacak şekilde anne usulüyle lokum gibi haşlayalım.",
+        "en": "Boil the okras in a pot with a touch of lemon juice to prevent sliminess."
       },
       {
-        "tr": "Haşlanan bamyaları ezip çekirdekli kısımlarını süzgeçle ayırarak posasını bebişimize verelim.",
-        "en": "Mash the cooked okras, strain to remove the seeds, and feed the pulp to your baby."
+        "tr": "Haşlanan bamyaları süzüp, o minik çekirdekleri bebişimizin boğazına kaçmasın diye incecik bir süzgeçten ezerek geçirip pürüzsüzce sunalım.",
+        "en": "Mash and press through a fine sieve to remove the seeds before serving."
       }
     ],
     "imageUrl": ""
