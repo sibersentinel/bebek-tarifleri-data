@@ -2,7 +2,7 @@
   {
     "id": "protein_001",
     "title": {
-      "tr": "Haşlanmış Yumurta Sarısı",
+      "tr": "Güne Güçlü Başlayan Minişlere Haşlanmış Yumurta Sarısı",
       "en": "Boiled Egg Yolk"
     },
     "description": {
@@ -38,12 +38,12 @@
     ],
     "instructions": [
       {
-        "tr": "Yumurtayı katılaşana kadar yaklaşık 10 dakika haşlayalım.",
+        "tr": "Yumurtamızı tencereye alıp, içi tam katılaşana kadar yaklaşık 10 dakika anne özeniyle haşlayalım.",
         "en": "Boil the egg for about 10 minutes until hard-boiled."
       },
       {
-        "tr": "Beyazından tamamen ayırıp sadece sarısını alalım ve anne sütüyle ezelim.",
-        "en": "Separate the yolk completely from the white and mash it with a bit of breast milk."
+        "tr": "Beyazından anne titizliğiyle tamamen ayırıp sadece o şifa deposu sarısını alalım; minişimizin narin boğazından kolayca geçsin diye anne sütü veya azıcık temiz suyla tatlı tatlı ezerek püre kıvamına getirelim.",
+        "en": "Separate the yolk completely from the white, and mash it with a little breast milk or water to adjust the consistency for your baby."
       }
     ],
     "imageUrl": ""
@@ -51,24 +51,24 @@
   {
     "id": "protein_002",
     "title": {
-      "tr": "Kıymalı Sebze Ezmesi",
-      "en": "Vegetable Mash with Minced Meat"
+      "tr": "Kuzuma Enerji Veren Kuzu Kıymalı Kabak Ezmesi",
+      "en": "Minced Lamb with Zucchini"
     },
     "description": {
-      "tr": "Kuzu kıymasının proteini ve patatesin karbonhidrat gücünün birleştiği besleyici sebze yemeği.",
-      "en": "A nutritious vegetable dish combining the protein of minced lamb and the carbohydrate power of potato."
+      "tr": "Demir deposu kuzu eti and sindirimi en hafif kabak sebzesinin bir araya geldiği, protein dolu besleyici bir öğün.",
+      "en": "A protein-rich, nutritious meal combining iron-packed lamb meat and easily digestible zucchini."
     },
     "category": 5,
     "ingredients": [
       {
-        "amount": 1,
+        "amount": 30,
         "unit": {
-          "tr": "yemek kaşığı",
-          "en": "tbsp"
+          "tr": "gram",
+          "en": "g"
         },
         "baseName": {
-          "tr": "çift çekilmiş kuzu kıyma",
-          "en": "double ground lamb mince"
+          "tr": "kuzu kıyma",
+          "en": "minced lamb"
         },
         "shoppingLabel": {
           "tr": "Kıyma",
@@ -76,33 +76,37 @@
         }
       },
       {
-        "amount": 1,
+        "amount": 0.5,
         "unit": {
-          "tr": "küçük",
-          "en": "small"
+          "tr": "adet",
+          "en": "pcs"
         },
         "baseName": {
-          "tr": "patates",
-          "en": "potato"
+          "tr": "kabak",
+          "en": "zucchini"
         },
         "shoppingLabel": {
-          "tr": "Patates",
-          "en": "Potato"
+          "tr": "Kabak",
+          "en": "Zucchini"
         }
       }
     ],
-    "preparationTime": 25,
-    "calories": 160,
-    "suitableAgeInMonths": 7,
+    "preparationTime": 20,
+    "calories": 110,
+    "suitableAgeInMonths": 8,
     "allergicIngredients": [],
     "instructions": [
       {
-        "tr": "Kıymayı tencerede az suda iyice pişirelim.",
-        "en": "Cook the minced meat in a pot with a little water until fully done."
+        "tr": "Kuzu kıymamızı küçük bir tencerede kendi suyuyla, lokum gibi yumuşacık olana kadar anne sevgisiyle kavuralım.",
+        "en": "Cook the minced lamb in a small pot in its own juices until tender."
       },
       {
-        "tr": "Haşlanmış patatesle birleştirip çatalla ezerek kıvam verelim.",
-        "en": "Combine with boiled potato and mash with a fork to adjust consistency."
+        "tr": "Üzerine minişimiz için minik küpler halinde doğradığımız taptaze kabağı ekleyip, sebzeler tamamen yumuşayana dek kısık ateşte pişmeye bırakalım.",
+        "en": "Add diced zucchini and cook over low heat until the vegetable is fully soft."
+      },
+      {
+        "tr": "Pişen bu nefis yemeği ocaktan alıp çatalla bir güzel ezelim and bal küpümüze ılık ılık yedirelim.",
+        "en": "Mash with a fork and serve warm to your baby."
       }
     ],
     "imageUrl": ""
@@ -110,12 +114,12 @@
   {
     "id": "protein_003",
     "title": {
-      "tr": "Tavuklu Şehriye Çorbası",
-      "en": "Chicken Noodle Soup"
+      "tr": "Minişlere Güç Veren Lif Lif Tavuklu Yıldız Çorbası",
+      "en": "Shredded Chicken with Star Noodles"
     },
     "description": {
-      "tr": "Didiklenmiş tavuk etleri ve yıldız şehriyelerle hazırlanan, bebişinizin gücünü yerine getirecek şifa çorbası.",
-      "en": "A healing soup prepared with shredded chicken and star noodles to restore your baby's strength."
+      "tr": "Miniğinizin gücünü yerine getirecek, bol proteinli haşlanmış tavuk göğsü and şirin yıldız şehriyeli nefis bir şifa tasçığı.",
+      "en": "A protein-rich chicken soup with shredded chicken and star noodles to restore your baby's strength."
     },
     "category": 5,
     "ingredients": [
@@ -126,32 +130,51 @@
           "en": "cup"
         },
         "baseName": {
-          "tr": "didiklenmiş tavuk",
-          "en": "shredded chicken"
+          "tr": "didilmiş tavuk göğsü",
+          "en": "shredded chicken breast"
         },
         "shoppingLabel": {
           "tr": "Tavuk Göğsü",
           "en": "Chicken Breast"
         }
+      },
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "tatlı kaşığı",
+          "en": "tsp"
+        },
+        "baseName": {
+          "tr": "yıldız şehriye",
+          "en": "star noodles"
+        },
+        "shoppingLabel": {
+          "tr": "Şehriye",
+          "en": "Noodles"
+        }
       }
     ],
-    "preparationTime": 30,
-    "calories": 140,
-    "suitableAgeInMonths": 8,
+    "preparationTime": 25,
+    "calories": 95,
+    "suitableAgeInMonths": 9,
     "allergicIngredients": [
       {
         "tr": "tavuk",
         "en": "chicken"
+      },
+      {
+        "tr": "buğday",
+        "en": "wheat"
       }
     ],
     "instructions": [
       {
-        "tr": "Tavuk göğsünü haşlayıp minik minik didikleyelim.",
-        "en": "Boil the chicken breast and shred it into tiny pieces."
+        "tr": "Tavuk göğsümüzü temiz bir tencerede, eti tel tel ayrılacak kadar lokum gibi iyice haşlayalım.",
+        "en": "Boil the chicken breast in a pot until fully cooked and tender."
       },
       {
-        "tr": "Tavuk suyunda şehriyeleri pişirip didiklenmiş etleri ekleyerek servis edelim.",
-        "en": "Cook noodles in the chicken broth, add the shredded meat, and serve."
+        "tr": "Haşlanan eti minişimizin narin boğazına kaçmayacak şekilde anne özeniyle incecik diledikten sonra, o şifalı tavuk suyunda yıldız şehriyelerle birlikte yumuşayana kadar tatlı tatlı pişirelim.",
+        "en": "Shred the chicken finely, then cook it in the chicken broth along with star noodles until soft."
       }
     ],
     "imageUrl": ""
@@ -159,276 +182,7 @@
   {
     "id": "protein_004",
     "title": {
-      "tr": "Kuzu Ciğer Ezmesi",
-      "en": "Lamb Liver Mash"
-    },
-    "description": {
-      "tr": "Demir eksikliğini önlemek için haftada bir kez verilmesi önerilen, yumuşacık kuzu ciğeri ezmesi.",
-      "en": "Soft lamb liver mash, recommended once a week to prevent iron deficiency."
-    },
-    "category": 5,
-    "ingredients": [
-      {
-        "amount": 30,
-        "unit": {
-          "tr": "gram",
-          "en": "g"
-        },
-        "baseName": {
-          "tr": "kuzu ciğeri",
-          "en": "lamb liver"
-        },
-        "shoppingLabel": {
-          "tr": "Kuzu Ciğeri",
-          "en": "Lamb Liver"
-        }
-      }
-    ],
-    "preparationTime": 20,
-    "calories": 110,
-    "suitableAgeInMonths": 9,
-    "allergicIngredients": [],
-    "instructions": [
-      {
-        "tr": "Kuzu ciğerinin zarlarını temizleyip buharda veya az suda pişirelim.",
-        "en": "Clean the membranes of the lamb liver and steam or boil in a little water."
-      },
-      {
-        "tr": "Haşlanmış havuç ve patatesle karıştırarak pürüzsüz püre haline getirelim.",
-        "en": "Mix with boiled carrot and potato, and blend into a smooth puree."
-      }
-    ],
-    "imageUrl": ""
-  },
-  {
-    "id": "protein_005",
-    "title": {
-      "tr": "Balık Buğulama",
-      "en": "Steamed Fish"
-    },
-    "description": {
-      "tr": "Omega-3 deposu taze ve beyaz etli balığın buharda pişirilmesiyle hazırlanan sağlıklı akşam yemeği.",
-      "en": "A healthy dinner prepared by steaming fresh, white-fleshed fish packed with omega-3."
-    },
-    "category": 5,
-    "ingredients": [
-      {
-        "amount": 50,
-        "unit": {
-          "tr": "gram",
-          "en": "g"
-        },
-        "baseName": {
-          "tr": "mevsim balığı",
-          "en": "seasonal fish"
-        },
-        "shoppingLabel": {
-          "tr": "Balık",
-          "en": "Fish"
-        }
-      }
-    ],
-    "preparationTime": 15,
-    "calories": 100,
-    "suitableAgeInMonths": 10,
-    "allergicIngredients": [
-      {
-        "tr": "balık",
-        "en": "fish"
-      }
-    ],
-    "instructions": [
-      {
-        "tr": "Balığı buharda içi tamamen pişene dek haşlayalım.",
-        "en": "Steam the fish until the inside is fully cooked."
-      },
-      {
-        "tr": "Kılçıklarını çok büyük bir dikkatle ayıklayıp eti çatalla ezelim ve üzerine limon sıkalım.",
-        "en": "Debone with extreme care, mash the flesh with a fork, and squeeze some lemon juice on top."
-      }
-    ],
-    "imageUrl": ""
-  },
-  {
-    "id": "protein_006",
-    "title": {
-      "tr": "Hindi Eti Ezmesi",
-      "en": "Turkey Meat Mash"
-    },
-    "description": {
-      "tr": "Yağsız ve sindirimi kolay hindi göğüs etinin, sebze suyuyla lezzetlendirilip ezilmesiyle hazırlanan ezme.",
-      "en": "A mash prepared by boiling lean and digestible turkey breast, flavored with vegetable broth and mashed."
-    },
-    "category": 5,
-    "ingredients": [
-      {
-        "amount": 30,
-        "unit": {
-          "tr": "gram",
-          "en": "g"
-        },
-        "baseName": {
-          "tr": "hindi göğsü",
-          "en": "turkey breast"
-        },
-        "shoppingLabel": {
-          "tr": "Hindi Eti",
-          "en": "Turkey Meat"
-        }
-      }
-    ],
-    "preparationTime": 25,
-    "calories": 110,
-    "suitableAgeInMonths": 8,
-    "allergicIngredients": [],
-    "instructions": [
-      {
-        "tr": "Hindi etini tencerede lokum gibi olana kadar haşlayalım.",
-        "en": "Boil the turkey meat in a pot until tender."
-      },
-      {
-        "tr": "Etleri didikleyip çatalla ezerek püre şeklinde sunalım.",
-        "en": "Shred the meat and mash with a fork, serving it as a puree."
-      }
-    ],
-    "imageUrl": ""
-  },
-  {
-    "id": "protein_007",
-    "title": {
-      "tr": "Kuru Fasulye Püresi",
-      "en": "White Bean Puree"
-    },
-    "description": {
-      "tr": "Bitkisel protein yönünden zengin kuru fasulyenin, kabukları soyularak gaz yapması önlenmiş ezmesi.",
-      "en": "A plant-based protein-rich white bean puree, with skins removed to prevent gas."
-    },
-    "category": 5,
-    "ingredients": [
-      {
-        "amount": 2,
-        "unit": {
-          "tr": "yemek kaşığı",
-          "en": "tbsp"
-        },
-        "baseName": {
-          "tr": "kuru fasulye",
-          "en": "white beans"
-        },
-        "shoppingLabel": {
-          "tr": "Kuru Fasulye",
-          "en": "White Beans"
-        }
-      }
-    ],
-    "preparationTime": 40,
-    "calories": 130,
-    "suitableAgeInMonths": 10,
-    "allergicIngredients": [],
-    "instructions": [
-      {
-        "tr": "Kuru fasulyeleri iyice haşlayıp kabuklarını tek tek soyalım.",
-        "en": "Boil the white beans thoroughly and peel their skins one by one."
-      },
-      {
-        "tr": "Çatalla ezerek zeytinyağı eşliğinde püre haline getirelim.",
-        "en": "Mash with a fork and serve with a drizzle of olive oil."
-      }
-    ],
-    "imageUrl": ""
-  },
-  {
-    "id": "protein_008",
-    "title": {
-      "tr": "Nohut Ezmesi (Humus Bebek)",
-      "en": "Chickpea Mash (Baby Hummus)"
-    },
-    "description": {
-      "tr": "Bebişler için baharatsız ve tahinsiz olarak hazırlanan, bitkisel protein deposu leziz bebek humusu.",
-      "en": "A delicious baby hummus prepared without spices or tahini, packed with plant-based protein."
-    },
-    "category": 5,
-    "ingredients": [
-      {
-        "amount": 2,
-        "unit": {
-          "tr": "yemek kaşığı",
-          "en": "tbsp"
-        },
-        "baseName": {
-          "tr": "nohut",
-          "en": "chickpeas"
-        },
-        "shoppingLabel": {
-          "tr": "Nohut",
-          "en": "Chickpeas"
-        }
-      }
-    ],
-    "preparationTime": 30,
-    "calories": 140,
-    "suitableAgeInMonths": 10,
-    "allergicIngredients": [],
-    "instructions": [
-      {
-        "tr": "Nohutları haşlayıp kabuklarını temizleyelim.",
-        "en": "Boil the chickpeas and remove their skins."
-      },
-      {
-        "tr": "Zeytinyağı ve az kimyon ekleyerek pürüzsüzleşene dek çatalla ezelim.",
-        "en": "Add olive oil and a pinch of cumin, and mash with a fork until smooth."
-      }
-    ],
-    "imageUrl": ""
-  },
-  {
-    "id": "protein_009",
-    "title": {
-      "tr": "Kırmızı Mercimek Köftesi",
-      "en": "Red Lentil Patties"
-    },
-    "description": {
-      "tr": "Elde tutması kolay formuyla BLW dostu, demir ve protein zengini kırmızı mercimek köftesi.",
-      "en": "BLW-friendly, easy-to-hold red lentil patties rich in iron and protein."
-    },
-    "category": 5,
-    "ingredients": [
-      {
-        "amount": 2,
-        "unit": {
-          "tr": "yemek kaşığı",
-          "en": "tbsp"
-        },
-        "baseName": {
-          "tr": "kırmızı mercimek",
-          "en": "red lentils"
-        },
-        "shoppingLabel": {
-          "tr": "Mercimek",
-          "en": "Lentils"
-        }
-      }
-    ],
-    "preparationTime": 25,
-    "calories": 120,
-    "suitableAgeInMonths": 10,
-    "allergicIngredients": [],
-    "instructions": [
-      {
-        "tr": "Kırmızı mercimeği pişirip sıcakken içine ince bulgur ekleyelim ve kapağını kapatıp demlendirelim.",
-        "en": "Cook red lentils, add fine bulgur while hot, close the lid, and let it steam."
-      },
-      {
-        "tr": "Ilındıktan sonra zeytinyağı ile yoğurarak parmak şeklinde köfteler yapalım.",
-        "en": "Once cooled to warm, knead with olive oil and shape into finger-sized patties."
-      }
-    ],
-    "imageUrl": ""
-  },
-  {
-    "id": "protein_010",
-    "title": {
-      "tr": "Somonlu Patates",
+      "tr": "Büyüyen Bebeklere Omega-3 Deposu Somonlu Patates",
       "en": "Salmon with Potato"
     },
     "description": {
@@ -479,12 +233,71 @@
     ],
     "instructions": [
       {
-        "tr": "Somon balığı ve patates dilimlerini buharda pişirelim.",
-        "en": "Steam salmon and potato slices together."
+        "tr": "Omega-3 deposu somon balığımızı ve patates dilimlerimizi buharda, içleri pamuk gibi yumuşacık olana kadar kontrollüce pişirelim.",
+        "en": "Steam the salmon and potato slices until the inside is fully cooked."
       },
       {
-        "tr": "Kılçıksız somon etini patatesle birlikte çatalla ezerek karıştırıp ılık servis edelim.",
-        "en": "Mash the boneless salmon together with potatoes using a fork and serve warm."
+        "tr": "Balığımızın kılçıklarını çok büyük bir dikkatle ve anne titizliğiyle ayıklayıp, etini patatesle birlikte çatalla güzelce ezelim, üzerine şifa niyetine birkaç damla limon sıkıp bebişimize sunalım.",
+        "en": "Debone the fish carefully, mash the flesh with a fork along with the potato, and squeeze a hint of lemon juice on top."
+      }
+    ],
+    "imageUrl": ""
+  },
+  {
+    "id": "protein_005",
+    "title": {
+      "tr": "Akıllı Bıdıklara Baharatsız Bebek Humusu",
+      "en": "Baby Hummus (Plain)"
+    },
+    "description": {
+      "tr": "Bebekler için özel, baharatsız ve tahinsiz olarak hazırlanan, bitkisel protein yönünden zengin nefis bir bebek humusu.",
+      "en": "A delicious baby hummus prepared without spices or tahini, packed with plant-based protein."
+    },
+    "category": 5,
+    "ingredients": [
+      {
+        "amount": 2,
+        "unit": {
+          "tr": "yemek kaşığı",
+          "en": "tbsp"
+        },
+        "baseName": {
+          "tr": "haşlanmış nohut (kabuksuz)",
+          "en": "boiled chickpeas (peeled)"
+        },
+        "shoppingLabel": {
+          "tr": "Nohut",
+          "en": "Chickpeas"
+        }
+      },
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "tatlı kaşığı",
+          "en": "tsp"
+        },
+        "baseName": {
+          "tr": "zeytinyağı",
+          "en": "olive oil"
+        },
+        "shoppingLabel": {
+          "tr": "Zeytinyağı",
+          "en": "Olive Oil"
+        }
+      }
+    ],
+    "preparationTime": 15,
+    "calories": 125,
+    "suitableAgeInMonths": 10,
+    "allergicIngredients": [],
+    "instructions": [
+      {
+        "tr": "Minişimizin göbüşünde gaz yapmasın diye haşlanmış nohutlarımızın kabuklarını anne özeniyle tek tek soyalım.",
+        "en": "Peel the skins off the boiled chickpeas one by one to ensure easier digestion."
+      },
+      {
+        "tr": "Kabuksuz nohutlarımızı, içine halis zeytinyağı ve kıvamını yumuşatacak azıcık sıcak temiz su ekleyerek, pürüzsüz and ipeksi bir humus olana kadar çatalla veya blenderla bir güzel ezelim.",
+        "en": "Mash the peeled chickpeas with olive oil and a splash of warm water until smooth."
       }
     ],
     "imageUrl": ""
