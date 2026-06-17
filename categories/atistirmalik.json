@@ -2,7 +2,7 @@
   {
     "id": "atistirmalik_001",
     "title": {
-      "tr": "Elma Dilimleri (Yumuşak)",
+      "tr": "Miniğin İlk Elma Dilimleri (Yumuşacık)",
       "en": "Apple Slices (Soft)"
     },
     "description": {
@@ -33,11 +33,11 @@
     "allergicIngredients": [],
     "instructions": [
       {
-        "tr": "Elmamızın kabuklarını soyup bebeğimizin elinde kolayca tutabileceği kalın dilimler halinde keselim.",
+        "tr": "Elmamızın kabuklarını güzelce soyup, kuzumuzun o minik elleriyle kolayca kavrayabileceği tatlı kalın dilimler halinde keselim.",
         "en": "Peel the apple and cut it into thick slices that your baby can easily hold."
       },
       {
-        "tr": "Dilimleri buhar aparatında hafifçe yumuşayana kadar (dağılmayacak şekilde) yaklaşık 5-7 dakika pişirelim.",
+        "tr": "Dilimleri buhar aparatında, ne çok dağılacak ne de sert kalacak şekilde, tam gurme bebişimize layık 5-7 dakika kadar hafifçe yumuşatalım.",
         "en": "Steam the slices for about 5-7 minutes until slightly soft (but not mushy or falling apart)."
       }
     ],
@@ -46,7 +46,7 @@
   {
     "id": "atistirmalik_002",
     "title": {
-      "tr": "Havuç Çubukları",
+      "tr": "Parmak Isırtan Tatlı Havuç Çubukları",
       "en": "Carrot Sticks"
     },
     "description": {
@@ -77,11 +77,11 @@
     "allergicIngredients": [],
     "instructions": [
       {
-        "tr": "Havuçları yıkayıp soyalım ve parmak kalınlığında uzun çubuklar halinde dilimleyelim.",
+        "tr": "Havuçlarımızı sevgiyle yıkayıp soyalım ve miniğimizin parmaklarıyla kolayca yakalayabileceği uzun, şirin çubuklar halinde dilimleyelim.",
         "en": "Wash and peel the carrots, then cut them into long, finger-thick sticks."
       },
       {
-        "tr": "Çubukları buharda veya az suda, dışı yumuşak ama elde tutulunca kırılmayacak kıvamda haşlayalım.",
+        "tr": "Bu güzel çubukları buharda veya azıcık suda, dışı yumuşacık ama minişimiz elinde tuttuğunda kırılmayacak o mükemmel kıvamda haşlayalım.",
         "en": "Steam or boil the sticks in a little water until soft on the outside but firm enough not to break when held."
       }
     ],
@@ -90,7 +90,7 @@
   {
     "id": "atistirmalik_003",
     "title": {
-      "tr": "Yoğurt Bar",
+      "tr": "Serinletici Ev Yapımı Yoğurt Barları",
       "en": "Yogurt Bar"
     },
     "description": {
@@ -138,15 +138,15 @@
     ],
     "instructions": [
       {
-        "tr": "Süzme yoğurdumuzu yağlı kağıt serdiğimiz bir tepsiye ince ve düzgün bir tabaka halinde yayalım.",
+        "tr": "Mis gibi ev yoğurdumuzu, yağlı kağıt serdiğimiz bir tepsiye sanki bir tuval gibi incecik and düzgünce yayalım.",
         "en": "Spread strained yogurt in a thin and even layer onto a tray lined with baking paper."
       },
       {
-        "tr": "Üzerine küçük meyve dilimleri dizelim ve dondurucuda en az 2 saat sertleşene kadar bekletelim.",
+        "tr": "Üzerine renk renk, minik meyve dilimleri konduralım ve dondurucuda en az 2 saat boyunca iyice sertleşene kadar sabırla bekletelim.",
         "en": "Arrange small fruit slices on top and freeze for at least 2 hours until solid."
       },
       {
-        "tr": "Donan yoğurdu elimizle parçalara ayırarak serin bir atıştırmalık olarak hemen servis edelim.",
+        "tr": "Donan bu nefis yoğurdu ellerimizle tatlı parçalara ayırıp, sıcak günlerde miniğimizin diş etlerini rahatlatacak serin bir ödül olarak hemen ikram edelim.",
         "en": "Break the frozen yogurt into pieces and serve immediately as a cool treat."
       }
     ],
@@ -155,7 +155,7 @@
   {
     "id": "atistirmalik_004",
     "title": {
-      "tr": "Peynirli Galeta (Bebek Dostu)",
+      "tr": "Kıtır Kıtır Kıtırdayan Peynirli Bebek Galetası",
       "en": "Cheese Grissini (Baby Friendly)"
     },
     "description": {
@@ -210,11 +210,11 @@
     ],
     "instructions": [
       {
-        "tr": "Un, tuzsuz peynir ve az zeytinyağını yoğurarak yumuşak bir hamur elde edelim ve çubuk şekli verelim.",
+        "tr": "Mis kokulu tam buğday unumuzu, tuzsuz peynirimizi ve şifa niyetine azıcık zeytinyağını sevgiyle yoğurarak yumuşacık bir hamur yapalım ve şirin çubuk şekilleri verelim.",
         "en": "Knead flour, unsalted cheese, and a bit of olive oil into a soft dough, then shape into sticks."
       },
       {
-        "tr": "Hazırladığımız galetaları fırında 180 derecede üzerleri hafif pembeleşip kıtırlaşana kadar pişirelim.",
+        "tr": "Hazırladığımız bu tatlı galetaları fırında 180 derecede, üzerleri anne yanağı gibi hafifçe pembeleşip kıtırlaşana kadar sevgiyle pişirelim.",
         "en": "Bake the sticks in the oven at 180°C (350°F) until slightly golden and crunchy."
       }
     ],
@@ -223,11 +223,11 @@
   {
     "id": "atistirmalik_005",
     "title": {
-      "tr": "Muzlu Yulaf Topları",
+      "tr": "Minişlere Enerji Veren Muzlu Yulaf Topçukları",
       "en": "Banana Oat Balls"
     },
     "description": {
-      "tr": "Pişirme gerektirmeyen, muz ve yulafın birleştiği pratik, tatlı ve besleyici enerji topları.",
+      "tr": "Pişirme gerektirmeyen, muz ve yulafın birleştiği pratik, tatlı ve besleyici energy topları.",
       "en": "No-bake, quick, sweet, and nutritious energy balls combining banana and wholesome oats."
     },
     "category": 9,
@@ -274,11 +274,11 @@
     ],
     "instructions": [
       {
-        "tr": "Olgun bir muzu çatalla ezip içine yulaf ezmesi ekleyelim ve hamur kıvamına gelene kadar karıştıralım.",
+        "tr": "Bal gibi olgunlaşmış bir muzu çatalla güzelce ezip içine yulaf ezmesini ekleyelim ve lokum gibi bir hamur kıvamı alana kadar tatlı tatlı karıştıralım.",
         "en": "Mash a ripe banana with a fork, add rolled oats, and mix until it forms a dough consistency."
       },
       {
-        "tr": "Karışımdan küçük toplar yuvarlayıp buzdolabında yarım saat dinlendirerek servis edelim.",
+        "tr": "Bu nefis karışımdan miniğimizin ağzına layık küçük toplar yuvarlayalım ve buzdolabında yarım saatçik dinlendirip neşeyle servis edelim.",
         "en": "Roll the mixture into small balls and rest in the fridge for half an hour before serving."
       }
     ],
@@ -287,7 +287,7 @@
   {
     "id": "atistirmalik_006",
     "title": {
-      "tr": "Peynirli Toplar",
+      "tr": "Dereotlu Şirin Lor Topçıkları",
       "en": "Cheese Balls"
     },
     "description": {
@@ -323,11 +323,11 @@
     ],
     "instructions": [
       {
-        "tr": "Tuzsuz lor peynirini elimizle yuvarlayarak minik lokmalık toplar haline getirelim.",
+        "tr": "Minişimizin sağlığı için hazırladığımız tuzsuz lor peynirini ellerimizle yuvarlayarak, tam onun minik parmaklarına uygun lokmalık şirin toplar yapalım.",
         "en": "Roll unsalted curd cheese with your hands into tiny, bite-sized balls."
       },
       {
-        "tr": "Hazırladığımız peynir toplarını çok ince kıyılmış taze dereotuna bulayarak renklendirelim.",
+        "tr": "Bu güzel peynir toplarını, çok incecik kıydığımız taptaze dereotuna bulayarak bebişimiz için renkli ve eğlenceli hale getirelim.",
         "en": "Roll the cheese balls in finely chopped fresh dill to add color and flavor."
       }
     ],
@@ -336,7 +336,7 @@
   {
     "id": "atistirmalik_007",
     "title": {
-      "tr": "Kuru Üzüm Ezmesi",
+      "tr": "Şifa Deposu Doğal Kuru Üzüm Ezmesi",
       "en": "Raisin Paste"
     },
     "description": {
@@ -367,11 +367,11 @@
     "allergicIngredients": [],
     "instructions": [
       {
-        "tr": "Kuru üzümleri sıcak suda yumuşayana kadar yaklaşık 15-20 dakika bekletelim.",
+        "tr": "Kan deposu kuru üzümlerimizi sıcak suda, pamuk gibi yumuşayana kadar yaklaşık 15-20 dakika keyifle bekletelim.",
         "en": "Soak raisins in hot water for about 15-20 minutes until they soften."
       },
       {
-        "tr": "Yumuşayan üzümlerin suyunu süzüp çatalla ezerek püre kıvamına getirelim.",
+        "tr": "Yumuşacık olan üzümlerimizin suyunu süzüp, çatalla nazikçe ezerek kuzumuz için ipeksi bir püre kıvamına getirelim.",
         "en": "Drain the softened raisins and mash them with a fork to achieve a puree consistency."
       }
     ],
@@ -380,7 +380,7 @@
   {
     "id": "atistirmalik_008",
     "title": {
-      "tr": "Tam Buğday Çubukları",
+      "tr": "Kemirmelik Kıtır Tam Buğday Çubukları",
       "en": "Whole Wheat Sticks"
     },
     "description": {
@@ -416,11 +416,11 @@
     ],
     "instructions": [
       {
-        "tr": "Tam buğday unu, su ve zeytinyağı ile hazırladığımız hamuru ince uzun şeritler halinde keselim.",
+        "tr": "Tam buğday unumuzu, temiz su ve halis zeytinyağı ile yoğurup hazırladığımız hamuru, bebişimizin diş kaşımasına yardım edecek ince uzun şeritler halinde keselim.",
         "en": "Cut the dough prepared with whole wheat flour, water, and olive oil into thin, long strips."
       },
       {
-        "tr": "180 derece fırında kıtırlaşana kadar kontrollü bir şekilde pişirelim.",
+        "tr": "180 derece fırında, mis gibi kokup kıtırlaşana kadar gözümüz üzerinde olacak şekilde kontrollüce pişirelim.",
         "en": "Bake in a 180°C (350°F) oven under supervision until they become crispy."
       }
     ],
@@ -429,7 +429,7 @@
   {
     "id": "atistirmalik_009",
     "title": {
-      "tr": "Yoğurtlu Çilek Dilimleri",
+      "tr": "Yoğurt Kaplamalı Sevgi Dolu Çilek Dilimleri",
       "en": "Strawberry Slices with Yogurt"
     },
     "description": {
@@ -465,11 +465,11 @@
     ],
     "instructions": [
       {
-        "tr": "Taze çilekleri dilimleyip her bir dilimi oda sıcaklığındaki süzme yoğurda bulayalım.",
+        "tr": "Mis kokulu taze çileklerimizi dilimleyip, her bir dilimi oda sıcaklığındaki süzme yoğurdun o yumuşacık dokusuna güzelce bulayalım.",
         "en": "Slice fresh strawberries and dip each slice into room temperature strained yogurt."
       },
       {
-        "tr": "Yağlı kağıt üzerine dizip dondurucuda sertleşene kadar bekletelim.",
+        "tr": "Yağlı kağıt üzerine sevgiyle dizip, dondurucuda minişimizin diş etlerini serinletecek kadar sertleşene dek bekletelim.",
         "en": "Place them on baking paper and freeze until solid."
       }
     ],
@@ -478,7 +478,7 @@
   {
     "id": "atistirmalik_010",
     "title": {
-      "tr": "Cevizli Hurma Topları",
+      "tr": "Akıllı Bıdıklara Cevizli Hurma Topçukları",
       "en": "Date Balls with Walnuts"
     },
     "description": {
@@ -514,11 +514,11 @@
     ],
     "instructions": [
       {
-        "tr": "Suda yumuşatılmış hurmaların çekirdeklerini çıkarıp un ufak edilmiş ceviz içi ile birlikte ezelim.",
+        "tr": "Suda pamuk gibi yumuşattığımız hurmaların çekirdeklerini çıkarıp, un ufak ettiğimiz şifa kaynağı ceviz içiyle birlikte güzelce ezelim.",
         "en": "Pit soaked dates and mash them together with finely ground walnuts."
       },
       {
-        "tr": "Karışımı küçük toplar şeklinde yuvarlayıp buzdolabında saklayalım.",
+        "tr": "Bu enerji dolu karışımı küçük minik toplar şeklinde yuvarlayıp, buzdolabında kuzumuz için saklayalım.",
         "en": "Roll the mixture into small balls and store them in the refrigerator."
       }
     ],
