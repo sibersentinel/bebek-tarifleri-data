@@ -2,7 +2,7 @@
   {
     "id": "sindirim_001",
     "title": {
-      "tr": "Lifli Kabak Püresi",
+      "tr": "Kabızlık Düşmanı Lifli Kabak Püresi",
       "en": "Fibrous Zucchini Puree"
     },
     "description": {
@@ -48,11 +48,11 @@
     "allergicIngredients": [],
     "instructions": [
       {
-        "tr": "Kabağı buharda yumuşayana kadar pişirelim.",
+        "tr": "Taptaze kabağımızı buharda, miniğimizin yutabileceği şekilde lokum gibi yumuşayana kadar güzelce pişirelim.",
         "en": "Steam the zucchini until soft."
       },
       {
-        "tr": "Sıcakken çatalla ezip içine bol zeytinyağı ekleyerek ılık olarak bebişimize yedirelim.",
+        "tr": "Henüz sıcakken çatalla bir güzel ezelim, içine şifa niyetine bol zeytinyağı gezdirip bebişimize ılık ılık yedirelim. Yarasın kuzumuza!",
         "en": "Mash with a fork while hot, add a generous amount of olive oil, and feed warm."
       }
     ],
@@ -61,7 +61,7 @@
   {
     "id": "sindirim_002",
     "title": {
-      "tr": "Armut ve Yulaf",
+      "tr": "Mis Kokulu Armutlu Yulaf Lapası",
       "en": "Pear and Oats"
     },
     "description": {
@@ -112,11 +112,11 @@
     ],
     "instructions": [
       {
-        "tr": "Yulaf ununu suyla pişirip muhallebi yapalım.",
+        "tr": "Yulaf ununu suyla hafif hafif karıştırarak pişirelim, bebişimizin midelesine layık yumuşacık bir muhallebi kıvamı tutturalım.",
         "en": "Cook oat flour with water to make a pudding."
       },
       {
-        "tr": "İçine cam rendeden geçirilmiş taze armudu ekleyip karıştırarak ılık servis edelim.",
+        "tr": "Vitaminleri kaçmasın diye cam rendeden geçirdiğimiz taze armudumuzu muhallebiye ekleyip sevgiyle karıştıralım. Ilık ılık servise hazır!",
         "en": "Add fresh pear passed through a glass grater, mix well, and serve warm."
       }
     ],
@@ -125,7 +125,7 @@
   {
     "id": "sindirim_003",
     "title": {
-      "tr": "Probiyotikli Yoğurt",
+      "tr": "Şifa Deposu Anne Yoğurdu",
       "en": "Probiotic Yogurt"
     },
     "description": {
@@ -161,11 +161,11 @@
     ],
     "instructions": [
       {
-        "tr": "Mayaladığımız taze ev yoğurdunu buzdolabından çıkarıp oda sıcaklığına gelmesini bekleyelim.",
+        "tr": "Sevgiyle mayaladığımız taptaze ev yoğurdunu dolaptan çıkarıp miniğimizin minik midesini üşütmemesi için oda sıcaklığına gelmesini bekleyelim.",
         "en": "Take fresh homemade yogurt from the fridge and let it come to room temperature."
       },
       {
-        "tr": "Sade olarak, bebişimizin öğün aralarında kaşık kaşık yedirelim.",
+        "tr": "Hiçbir şey eklemeden, en sade ve en doğal haliyle öğün aralarında kuzumuza kaşık kaşık yedirelim. Afiyet olsun!",
         "en": "Feed it plain, spoonful by spoonful, during your baby's snack times."
       }
     ],
@@ -174,7 +174,7 @@
   {
     "id": "sindirim_004",
     "title": {
-      "tr": "Rezene Çayı (Bebek)",
+      "tr": "Gaz Gideren Rahatlık Çayı",
       "en": "Fennel Tea (Baby)"
     },
     "description": {
@@ -202,11 +202,11 @@
     "allergicIngredients": [],
     "instructions": [
       {
-        "tr": "Rezene tohumlarını sıcak suda ağzı kapalı şekilde 5 dakika demlenmeye bırakalım.",
+        "tr": "Kokusuyla bile rahatlatan rezene tohumlarını sıcak suya bırakıp ağzını kapatalım ve 5 dakika demlenmeye bırakalım.",
         "en": "Steep fennel seeds in hot water with the lid closed for 5 minutes."
       },
       {
-        "tr": "Tülbent yardımıyla iyice süzüp ılındıktan sonra bebişimize birkaç kaşık verelim.",
+        "tr": "Temiz bir tülbent yardımıyla pürüzsüzce süzüp, çayımız ılındıktan sonra kuzumuzun gazını pışpışlamak için birkaç kaşıkçık içirelim.",
         "en": "Strain thoroughly through a cheesecloth, let it cool to warm, and give a few spoonfuls to your baby."
       }
     ],
@@ -215,7 +215,7 @@
   {
     "id": "sindirim_005",
     "title": {
-      "tr": "Haşlanmış Elma Suyu",
+      "tr": "Mide Dostu Elma Suyu",
       "en": "Boiled Apple Juice"
     },
     "description": {
@@ -246,11 +246,11 @@
     "allergicIngredients": [],
     "instructions": [
       {
-        "tr": "Elmayı temiz suda yumuşayana dek haşlayalım.",
+        "tr": "Güzelce yıkadığımız elmayı temiz suda mis gibi yumuşayana kadar tatlı tatlı haşlayalım.",
         "en": "Boil the apple in clean water until soft."
       },
       {
-        "tr": "Haşlama suyunu ince süzgeçten süzerek ılık bir şekilde bebişimize içirelim.",
+        "tr": "Şifalı haşlama suyunu incecik bir süzgeçten süzüp, bebişimizin midesini rahatlatması için ılık bir şekilde içirelim.",
         "en": "Strain the cooking water through a fine sieve and serve warm for your baby to drink."
       }
     ],
@@ -259,7 +259,7 @@
   {
     "id": "sindirim_006",
     "title": {
-      "tr": "Erik ve Armut Karışımı",
+      "tr": "Mürdüm Erikli Mutlu Bağırsak Püresi",
       "en": "Plum and Pear Mix"
     },
     "description": {
@@ -305,11 +305,11 @@
     "allergicIngredients": [],
     "instructions": [
       {
-        "tr": "Mürdüm eriği ve armudu yıkayıp buharda yumuşayana dek pişirelim.",
+        "tr": "Şifa deposu mürdüm eriğimizi ve sulu armudumuzu yıkayıp, buharda yumuşacık olana kadar bir güzel pişirelim.",
         "en": "Wash and steam damson plum and pear until tender."
       },
       {
-        "tr": "Meyveleri çatalla ezerek püre kıvamında yedirelim.",
+        "tr": "Meyvelerimizi çatalla hafifçe ezerek tam miniğimize layık, ipeksi bir püre kıvamında yedirelim.",
         "en": "Mash the fruits with a fork and feed in a puree consistency."
       }
     ],
@@ -318,7 +318,7 @@
   {
     "id": "sindirim_007",
     "title": {
-      "tr": "Zeytinyağlı Bamya",
+      "tr": "Zeytinyağlı Yumuşacık Bamya Püresi",
       "en": "Okra with Olive Oil"
     },
     "description": {
@@ -349,11 +349,11 @@
     "allergicIngredients": [],
     "instructions": [
       {
-        "tr": "Bamyaları haşlayıp çekirdekli kısımlarını süzgeçle ayıralım.",
+        "tr": "Bamyalarımızı güzelce haşlayalım, miniğimizin boğazına takılmaması için çekirdekli kısımlarını süzgeçle özenle ayıralım.",
         "en": "Boil okras and strain through a sieve to remove the seeds."
       },
       {
-        "tr": "Elde ettiğimiz bamyayı sızma zeytinyağı ekleyerek püre halinde yedirelim.",
+        "tr": "Elde ettiğimiz o yumuşacık bamya özüne mis gibi sızma zeytinyağı ekleyip lezzetlendirerek püre halinde yedirelim.",
         "en": "Add extra virgin olive oil to the resulting okra pulp and feed as a puree."
       }
     ],
@@ -362,7 +362,7 @@
   {
     "id": "sindirim_008",
     "title": {
-      "tr": "Kefir (Ev Yapımı)",
+      "tr": "Bağışıklık Dostu Ev Yapımı Kefir",
       "en": "Kefir (Homemade)"
     },
     "description": {
@@ -398,11 +398,11 @@
     ],
     "instructions": [
       {
-        "tr": "Kefir mayası ile mayaladığımız ev yapımı kefiri buzdolabından çıkaralım.",
+        "tr": "Doğal kefir mayasıyla binbir emek mayaladığımız şifa kaynağı kefirimizi dolaptan çıkarıp oda sıcaklığına getirelim.",
         "en": "Take homemade kefir fermented with kefir grains from the fridge."
       },
       {
-        "tr": "Başlangıçta günde 1-2 tatlı kaşığı vererek bebişimizin alışmasını sağlayalım.",
+        "tr": "Miniğimizin minik bağırsakları yavaş yavaş alışsın diye başlangıçta günde 1-2 tatlı kaşıkçık vererek başlayalım.",
         "en": "Start by giving 1-2 teaspoons a day to let your baby get used to it."
       }
     ],
@@ -411,7 +411,7 @@
   {
     "id": "sindirim_009",
     "title": {
-      "tr": "Pirinç Suyu (İshal İçin)",
+      "tr": "İshal Kurtarıcı Geleneksel Pirinç Suyu",
       "en": "Rice Water (For Diarrhea)"
     },
     "description": {
@@ -442,11 +442,11 @@
     "allergicIngredients": [],
     "instructions": [
       {
-        "tr": "Pirinci bol temiz suda pirinçler tamamen ezilene kadar uzun süre haşlayalım.",
+        "tr": "Pirincimizi bol temiz suda, pirinç taneleri iyice ezilip tüm şifasını suya bırakana kadar uzun uzun, güzelce haşlayalım.",
         "en": "Boil rice in plenty of clean water for a long time until the grains are completely soft and mushy."
       },
       {
-        "tr": "Haşlanan pirincin suyunu süzüp ılıklaştırarak kaşıkla bebişimize içirelim.",
+        "tr": "Haşlanan o nişastalı şifa suyunu süzüp biraz ılındırdıktan sonra, kaşıkla miniğimize yudum yudum içirip midesini sarmalayalım.",
         "en": "Strain the rice water, let it cool to warm, and feed it to your baby with a spoon."
       }
     ],
@@ -455,7 +455,7 @@
   {
     "id": "sindirim_010",
     "title": {
-      "tr": "Patates ve Havuç Lapası",
+      "tr": "Mideyi Toparlayan Patates ve Havuç Lapası",
       "en": "Potato and Carrot Porridge"
     },
     "description": {
@@ -501,11 +501,11 @@
     "allergicIngredients": [],
     "instructions": [
       {
-        "tr": "Patates ve havucu yağ eklemeden temiz suda yumuşayana dek haşlayalım.",
+        "tr": "Miniğimizin hassas bağırsaklarını yormamak için patates ve havucu hiç yağ eklemeden, temiz suda yumuşacık olana kadar haşlayalım.",
         "en": "Boil potato and carrot in clean water without adding any fat until tender."
       },
       {
-        "tr": "Sebzeleri süzüp pürüzsüz olana dek çatalla ezip yedirelim.",
+        "tr": "Haşlanan sebzelerimizi süzüp pürüzsüz bir kıvam alana kadar çatalla sevgiyle ezelim ve kuzumuza afiyetle yedirelim.",
         "en": "Drain the vegetables, mash them with a fork until smooth, and feed."
       }
     ],
