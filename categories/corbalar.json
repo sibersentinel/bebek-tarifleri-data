@@ -2,7 +2,7 @@
   {
     "id": "corba_001",
     "title": {
-      "tr": "Sarı Mercimek Çorbası",
+      "tr": "Minişlere İpeksi Sarı Mercimek Çorbası",
       "en": "Yellow Lentil Soup"
     },
     "description": {
@@ -45,20 +45,19 @@
     "preparationTime": 30,
     "calories": 120,
     "suitableAgeInMonths": 8,
-    "allergicIngredients": [
-      {
-        "tr": "mercimek",
-        "en": "lentils"
-      }
-    ],
+    "allergicIngredients": [],
     "instructions": [
       {
-        "tr": "Sarı mercimek ve doğranmış havucu tencerede üzerini geçecek kadar suyla yumuşayana dek pişirelim.",
-        "en": "Cook yellow lentils and chopped carrot in a pot with water until fully softened."
+        "tr": "Gazı iyice çıksın diye sarı mercimeklerimizi anne titizliğiyle bol suda yıkayalım, ardından havuç dilimiyle birlikte tencereye alalım.",
+        "en": "Wash the yellow lentils thoroughly in water, then place them in a pot with the carrot slice."
       },
       {
-        "tr": "Pişen malzemeleri blenderdan veya süzgeçten geçirip pürüzsüz hale getirerek ılık servis edelim.",
-        "en": "Pass the cooked ingredients through a blender or sieve until smooth and serve warm."
+        "tr": "Üzerine temiz su ekleyip mercimekler ve havuçlar pamuk gibi yumuşayana kadar tatlı tatlı kaynatalım.",
+        "en": "Add clean water and simmer until the lentils and carrots are completely tender."
+      },
+      {
+        "tr": "Kuzumuzun narin boğazından kolayca kaysın diye çorbamızı pürüzsüz olana dek blenderdan geçirelim veya tel süzeyle süzüp, içine şifa niyetine birkaç damla zeytinyağı gezdirelim.",
+        "en": "Blend or strain until smooth, then add a few drops of olive oil before serving."
       }
     ],
     "imageUrl": ""
@@ -66,12 +65,135 @@
   {
     "id": "corba_002",
     "title": {
-      "tr": "Yoğurt Çorbası (Yayla)",
-      "en": "Yogurt Soup"
+      "tr": "Bal Küpüne Şifalı İlikli Kemik Suyu Çorbası",
+      "en": "Bone Broth Rice Soup"
     },
     "description": {
-      "tr": "Kalsiyum deposu yoğurt ve doyurucu pirincin bir araya geldiği, bebişlerin iştahını açacak yayla çorbası.",
-      "en": "A calcium-rich yogurt and filling rice soup, traditionally known as Yayla soup, to stimulate your baby's appetite."
+      "tr": "Bebişinizin büyümesini destekleyecek, bol vitaminli ilikli kemik suyu ve pirinçli sıcacık bir şifa tası.",
+      "en": "A warm bowl of healing bone marrow broth with rice, perfect for supporting your baby's growth."
+    },
+    "category": 7,
+    "ingredients": [
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "çay bardağı",
+          "en": "cup"
+        },
+        "baseName": {
+          "tr": "ilikli kemik suyu",
+          "en": "bone marrow broth"
+        },
+        "shoppingLabel": null
+      },
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "tatlı kaşığı",
+          "en": "tsp"
+        },
+        "baseName": {
+          "tr": "pirinç",
+          "en": "rice"
+        },
+        "shoppingLabel": {
+          "tr": "Pirinç",
+          "en": "Rice"
+        }
+      }
+    ],
+    "preparationTime": 20,
+    "calories": 95,
+    "suitableAgeInMonths": 7,
+    "allergicIngredients": [],
+    "instructions": [
+      {
+        "tr": "Ev yapımı mis kokulu ilikli kemik suyumuzu ve yıkanmış pirincimizi küçük bir tencerede bir araya getirelim.",
+        "en": "Combine homemade bone broth and washed rice in a small pot."
+      },
+      {
+        "tr": "Pirincimiz kemik suyunun tüm şifasını içine çekip lokum gibi yumuşayana kadar kısık ateşte sevgiyle pişirelim.",
+        "en": "Cook over low heat until the rice absorbs the broth and becomes perfectly soft."
+      },
+      {
+        "tr": "Kuzumuzun yutabilmesi için pirinçleri çatalla hafifçe ezip, miniğimize tam içmelik ılık bir kıvamda sunalım.",
+        "en": "Lightly mash the rice with a fork and serve warm to your baby."
+      }
+    ],
+    "imageUrl": ""
+  },
+  {
+    "id": "corba_003",
+    "title": {
+      "tr": "Yumuşacık Balkabaklı Anne Çorbası",
+      "en": "Creamy Pumpkin Soup"
+    },
+    "description": {
+      "tr": "Kadifemsi dokusu ve hafif tatlı aromasıyla bebeklerin en sevdiği, sindirim dostu balkabağı çorbası.",
+      "en": "An easy-to-digest pumpkin soup with a velvety texture and naturally sweet aroma that babies adore."
+    },
+    "category": 7,
+    "ingredients": [
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "dilim",
+          "en": "slice"
+        },
+        "baseName": {
+          "tr": "balkabağı",
+          "en": "pumpkin"
+        },
+        "shoppingLabel": {
+          "tr": "Balkabağı",
+          "en": "Pumpkin"
+        }
+      },
+      {
+        "amount": 0.5,
+        "unit": {
+          "tr": "küçük",
+          "en": "small"
+        },
+        "baseName": {
+          "tr": "patates",
+          "en": "potato"
+        },
+        "shoppingLabel": {
+          "tr": "Patates",
+          "en": "Potato"
+        }
+      }
+    ],
+    "preparationTime": 25,
+    "calories": 85,
+    "suitableAgeInMonths": 7,
+    "allergicIngredients": [],
+    "instructions": [
+      {
+        "tr": "Balkabağımızı ve patatesimizi minişimizin çabucak yiyebilmesi için minik minik doğrayıp tencereye bırakalım.",
+        "en": "Chop the pumpkin and potato into small pieces and place them in a pot."
+      },
+      {
+        "tr": "Sebzelerimizin üzerine çok az su ekleyip, lokum gibi ezilecek kıvama gelene kadar kontrollüce haşlayalım.",
+        "en": "Add a small amount of water and simmer until the vegetables are completely soft."
+      },
+      {
+        "tr": "Ocaktan aldığımız bu vitamin deposu güzellikleri çatalla veya blenderla ipeksi bir kıvama getirip miniğimize yedirelim.",
+        "en": "Blend or mash the vegetables into a velvety texture and serve warm."
+      }
+    ],
+    "imageUrl": ""
+  },
+  {
+    "id": "corba_004",
+    "title": {
+      "tr": "Hassas Göbüşlere Yoğurtlu Yayla Çorbası",
+      "en": "Yayla Soup (Yogurt Soup)"
+    },
+    "description": {
+      "tr": "Bebişinizin bağırsak florasını güçlendirecek, taze ev yoğurduyla pişen geleneksel yayla çorbası.",
+      "en": "A traditional yogurt soup made with fresh homemade yogurt to strengthen your baby's gut flora."
     },
     "category": 7,
     "ingredients": [
@@ -82,8 +204,8 @@
           "en": "tbsp"
         },
         "baseName": {
-          "tr": "yoğurt",
-          "en": "yogurt"
+          "tr": "ev yoğurdu",
+          "en": "homemade yogurt"
         },
         "shoppingLabel": {
           "tr": "Yoğurt",
@@ -107,59 +229,126 @@
       }
     ],
     "preparationTime": 20,
-    "calories": 95,
+    "calories": 110,
     "suitableAgeInMonths": 8,
     "allergicIngredients": [
       {
-        "tr": "yoğurt",
-        "en": "yogurt"
+        "tr": "süt",
+        "en": "milk"
       }
     ],
     "instructions": [
       {
-        "tr": "Pirinçleri yumuşayana kadar tencerede haşlayalım.",
-        "en": "Boil the rice in a pot until soft."
+        "tr": "Pirincimizi azıcık suda, taneleri iyice büyüyüp pamuk gibi yumuşayana kadar bir güzel haşlayalım.",
+        "en": "Boil the rice in a small amount of water until the grains are fully soft."
       },
       {
-        "tr": "Yoğurt ve az unu çırparak terbiyesini hazırlayalım, haşlama suyundan ekleyerek ılıklaştırıp yavaşça çorbaya katalım.",
-        "en": "Whisk yogurt and a bit of flour to prepare the dressing, warm it with cooking water, and slowly stir into the soup."
+        "tr": "Mis kokulu ev yoğurdumuzu ve yumurta sarısını bir kasede anne şefkatiyle çırpalım, kaynayan pirinç suyundan azar azar ekleyip ılıtalım.",
+        "en": "Whisk homemade yogurt and egg yolk in a bowl, then temper it with a splash of hot rice water."
+      },
+      {
+        "tr": "Bu nefis yoğurtlu karışımı tencereye yavaşça dökerken sürekli karıştıralım, bir taşım kaynatıp kuzumuza şifa niyetine ılık ılık içirelim.",
+        "en": "Pour the yogurt mixture slowly into the pot while stirring constantly, bring to a boil once, and serve warm."
       }
     ],
     "imageUrl": ""
   },
   {
-    "id": "corba_003",
+    "id": "corba_005",
     "title": {
-      "tr": "Şehriyeli Tavuk Suyu Çorbası",
-      "en": "Chicken Broth Soup with Noodles"
+      "tr": "Minişlere Özel Mis Kokulu Sebze Çorbası",
+      "en": "Mixed Vegetable Soup"
     },
     "description": {
-      "tr": "Kış günlerinde içinizi ısıtacak, bağışıklık destekleyici yıldız şehriyeli tavuk suyu çorbası.",
-      "en": "An immunity-boosting chicken broth soup with star noodles to warm your baby up during winter days."
+      "tr": "Mevsimin en taze sebzelerinin bir araya geldiği, zeytinyağı ile lezzetlenen bol vitaminli sebze çorbası.",
+      "en": "A vitamin-rich mixed vegetable soup featuring the freshest seasonal greens and quality olive oil."
     },
     "category": 7,
     "ingredients": [
       {
         "amount": 1,
         "unit": {
-          "tr": "çay bardağı",
-          "en": "cup"
+          "tr": "çiçek",
+          "en": "floret"
         },
         "baseName": {
-          "tr": "tavuk suyu",
-          "en": "chicken broth"
+          "tr": "brokoli",
+          "en": "broccoli"
         },
-        "shoppingLabel": null
+        "shoppingLabel": {
+          "tr": "Brokoli",
+          "en": "Broccoli"
+        }
       },
       {
         "amount": 1,
         "unit": {
-          "tr": "tatlı kaşığı",
-          "en": "tsp"
+          "tr": "dilim",
+          "en": "havuç",
+          "en": "carrot"
+        },
+        "shoppingLabel": {
+          "tr": "Havuç",
+          "en": "Carrot"
+        }
+      }
+    ],
+    "preparationTime": 25,
+    "calories": 75,
+    "suitableAgeInMonths": 7,
+    "allergicIngredients": [],
+    "instructions": [
+      {
+        "tr": "Taptaze brokolimizi ve vitamin küpü havucumuzu minişimize layık boyutlarda doğrayıp tencereye alalım.",
+        "en": "Chop the broccoli and carrot into small pieces and place them in a pot."
+      },
+      {
+        "tr": "Sebzeleri üzerini geçecek kadar temiz suyla, tüm vitaminleri içinde kalacak şekilde yumuşayana dek haşlayalım.",
+        "en": "Add clean water and boil until the vegetables are tender."
+      },
+      {
+        "tr": "Haşlanan sebzelerimizi çatalla güzelce ezip, içine şifa niyetine bir tatlı kaşığı sızma zeytinyağı karıştırarak bal küpümüze sunalım.",
+        "en": "Mash the vegetables with a fork, mix in a teaspoon of olive oil, and serve."
+      }
+    ],
+    "imageUrl": ""
+  },
+  {
+    "id": "corba_006",
+    "title": {
+      "tr": "Besleyici Domatesli Tel Şehriye Çorbası",
+      "en": "Tomato Noodle Soup"
+    },
+    "description": {
+      "tr": "Mevsiminde rendelenmiş domates ve yumuşacık tel şehriyelerle hazırlanan, bebişlerin iştahını açacak çorba.",
+      "en": "An appetizing soup prepared with freshly grated seasonal tomatoes and soft vermicelli noodles."
+    },
+    "category": 7,
+    "ingredients": [
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "adet",
+          "en": "pcs"
         },
         "baseName": {
-          "tr": "yıldız şehriye",
-          "en": "star noodles"
+          "tr": "tatlı domates",
+          "en": "sweet tomato"
+        },
+        "shoppingLabel": {
+          "tr": "Domates",
+          "en": "Tomato"
+        }
+      },
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "yemek kaşığı",
+          "en": "tbsp"
+        },
+        "baseName": {
+          "tr": "tel şehriye",
+          "en": "vermicelli"
         },
         "shoppingLabel": {
           "tr": "Şehriye",
@@ -168,35 +357,39 @@
       }
     ],
     "preparationTime": 20,
-    "calories": 80,
-    "suitableAgeInMonths": 8,
+    "calories": 115,
+    "suitableAgeInMonths": 9,
     "allergicIngredients": [
       {
-        "tr": "tavuk",
-        "en": "chicken"
+        "tr": "buğday",
+        "en": "wheat"
       }
     ],
     "instructions": [
       {
-        "tr": "Doğal tavuk suyunu tencereye alıp kaynatalım ve içine yıldız şehriyeleri ekleyelim.",
-        "en": "Bring natural chicken broth to a boil in a pot and add the star noodles."
+        "tr": "Mis kokulu domatesimizi cam rendede rendeleyip, tencerede azıcık zeytinyağı ile kokusu çıkana kadar hafifçe çevirelim.",
+        "en": "Grate the tomato and gently stir-fry it in a pot with a touch of olive oil."
       },
       {
-        "tr": "Şehriyeler iyice yumuşayıp şişene kadar kısık ateşte pişirip ılındıktan sonra sunalım.",
-        "en": "Cook over low heat until the noodles are fully soft and swollen, then serve warm."
+        "tr": "Üzerine sıcak su ekleyip kaynamaya bırakalım, su kaynayınca tel şehriyelerimizi tencereye sevgiyle salalım.",
+        "en": "Add hot water and bring to a boil, then stir in the vermicelli noodles."
+      },
+      {
+        "tr": "Şehriyelerimiz kuzumuzun ağzında eriyecek kadar yumuşayana dek pişirip, ılındıktan sonra afiyetle yedirelim.",
+        "en": "Cook until the noodles are perfectly soft and serve warm."
       }
     ],
     "imageUrl": ""
   },
   {
-    "id": "corba_004",
+    "id": "corba_007",
     "title": {
-      "tr": "Tarhana Çorbası",
-      "en": "Tarhana Soup"
+      "tr": "Bol Vitaminli Tarhana Çorbası",
+      "en": "Tarhana Soup (Baby Friendly)"
     },
     "description": {
-      "tr": "Probiyotik deposu geleneksel bebek tarhanasıyla hazırlanan, besleyici ve şifa dolu bir çorba.",
-      "en": "A nutritious and healing soup prepared with traditional probiotic-rich baby tarhana."
+      "tr": "Bebekler için özel üretilmiş, tuzsuz ve baharatsız bebek tarhanası ile pişen geleneksel bir vitamin deposu.",
+      "en": "A traditional vitamin powerhouse made with salt-free and spice-free baby tarhana."
     },
     "category": 7,
     "ingredients": [
@@ -214,216 +407,16 @@
           "tr": "Tarhana",
           "en": "Tarhana"
         }
-      },
-      {
-        "amount": 1,
-        "unit": {
-          "tr": "çay bardağı",
-          "en": "cup"
-        },
-        "baseName": {
-          "tr": "su veya süt",
-          "en": "water or milk"
-        },
-        "shoppingLabel": null
       }
     ],
     "preparationTime": 15,
-    "calories": 110,
+    "calories": 130,
     "suitableAgeInMonths": 8,
     "allergicIngredients": [
       {
-        "tr": "yoğurt",
-        "en": "yogurt"
-      },
-      {
         "tr": "buğday",
         "en": "wheat"
-      }
-    ],
-    "instructions": [
-      {
-        "tr": "Bebek tarhanasını soğuk suyla tencereye alıp topaklanmaması için sürekli karıştırarak pişirelim.",
-        "en": "Place baby tarhana and cold water in a pot and cook, stirring constantly to prevent lumps."
       },
-      {
-        "tr": "Kıvamı koyu olursa sıcak su veya kemik suyu ekleyerek kıvamını açalım ve ılık servis edelim.",
-        "en": "If it gets too thick, open it up with hot water or bone broth, and serve warm."
-      }
-    ],
-    "imageUrl": ""
-  },
-  {
-    "id": "corba_005",
-    "title": {
-      "tr": "Domates Çorbası",
-      "en": "Tomato Soup"
-    },
-    "description": {
-      "tr": "C vitamini bakımından zengin yaz domatesleriyle hazırlanan, iştah açıcı leziz bir başlangıç çorbası.",
-      "en": "A delicious, appetizing starter soup made with vitamin C-rich summer tomatoes."
-    },
-    "category": 7,
-    "ingredients": [
-      {
-        "amount": 1,
-        "unit": {
-          "tr": "küçük",
-          "en": "small"
-        },
-        "baseName": {
-          "tr": "domates",
-          "en": "tomato"
-        },
-        "shoppingLabel": {
-          "tr": "Domates",
-          "en": "Tomato"
-        }
-      }
-    ],
-    "preparationTime": 15,
-    "calories": 40,
-    "suitableAgeInMonths": 10,
-    "allergicIngredients": [
-      {
-        "tr": "domates",
-        "en": "tomato"
-      }
-    ],
-    "instructions": [
-      {
-        "tr": "Domatesin kabuğunu soyup çekirdeklerini çıkaralım ve incecik rendeleyelim.",
-        "en": "Peel the tomato, remove the seeds, and grate finely."
-      },
-      {
-        "tr": "Rendelenmiş domatesi az suda pişirip süzgeçten geçirerek pürüzsüz kıvamda servis edelim.",
-        "en": "Cook the grated tomato in a little water and pass through a sieve for a smooth texture."
-      }
-    ],
-    "imageUrl": ""
-  },
-  {
-    "id": "corba_006",
-    "title": {
-      "tr": "Balkabağı Çorbası",
-      "en": "Pumpkin Soup"
-    },
-    "description": {
-      "tr": "Beta-karoten zengini balkabağının krema kıvamında sunulduğu, bebişlerin çok seveceği tatlımsı çorba.",
-      "en": "A sweetish, creamy soup made of beta-carotene-rich pumpkin that babies will love."
-    },
-    "category": 7,
-    "ingredients": [
-      {
-        "amount": 1,
-        "unit": {
-          "tr": "dilim",
-          "en": "slice"
-        },
-        "baseName": {
-          "tr": "balkabağı",
-          "en": "pumpkin"
-        },
-        "shoppingLabel": {
-          "tr": "Balkabağı",
-          "en": "Pumpkin"
-        }
-      }
-    ],
-    "preparationTime": 20,
-    "calories": 85,
-    "suitableAgeInMonths": 6,
-    "allergicIngredients": [],
-    "instructions": [
-      {
-        "tr": "Balkabaklarını tencerede yumuşayana kadar haşlayalım.",
-        "en": "Boil the pumpkin cubes in a pot until tender."
-      },
-      {
-        "tr": "Haşlanan kabakları blenderdan geçirip pürüzsüz, kadife gibi bir çorba elde edelim.",
-        "en": "Blend the cooked pumpkin until you get a smooth, velvety soup."
-      }
-    ],
-    "imageUrl": ""
-  },
-  {
-    "id": "corba_007",
-    "title": {
-      "tr": "Sebzeli Tavuk Suyu",
-      "en": "Chicken Broth with Veggies"
-    },
-    "description": {
-      "tr": "Besleyici tavuk suyunun mevsim sebzeleriyle kaynatılmasıyla elde edilen vitamin ve mineral deposu su.",
-      "en": "A vitamin and mineral-rich broth obtained by simmering nutritious chicken broth with seasonal vegetables."
-    },
-    "category": 7,
-    "ingredients": [
-      {
-        "amount": 1,
-        "unit": {
-          "tr": "bardak",
-          "en": "cup"
-        },
-        "baseName": {
-          "tr": "tavuk suyu",
-          "en": "chicken broth"
-        },
-        "shoppingLabel": null
-      }
-    ],
-    "preparationTime": 15,
-    "calories": 60,
-    "suitableAgeInMonths": 7,
-    "allergicIngredients": [
-      {
-        "tr": "tavuk",
-        "en": "chicken"
-      }
-    ],
-    "instructions": [
-      {
-        "tr": "Tavuk kemiklerini ve sebzeleri bol suda uzun süre kaynatalım.",
-        "en": "Simmer chicken bones and vegetables in plenty of water for a long time."
-      },
-      {
-        "tr": "Elde ettiğimiz zengin suyu süzerek çorbalara katmak üzere hazırlayalım.",
-        "en": "Strain the resulting rich broth and prepare it to be used in baby soups."
-      }
-    ],
-    "imageUrl": ""
-  },
-  {
-    "id": "corba_008",
-    "title": {
-      "tr": "Sütlü Brokoli Çorbası",
-      "en": "Creamy Broccoli Soup"
-    },
-    "description": {
-      "tr": "Brokolinin besleyiciliği ve sütün yumuşak içiminin birleştiği, 1 yaş üzeri bebekler için harika bir çorba.",
-      "en": "A wonderful soup for babies over 1 year old, combining the nutrition of broccoli and the smooth taste of milk."
-    },
-    "category": 7,
-    "ingredients": [
-      {
-        "amount": 2,
-        "unit": {
-          "tr": "çiçek",
-          "en": "florets"
-        },
-        "baseName": {
-          "tr": "brokoli",
-          "en": "broccoli"
-        },
-        "shoppingLabel": {
-          "tr": "Brokoli",
-          "en": "Broccoli"
-        }
-      }
-    ],
-    "preparationTime": 20,
-    "calories": 110,
-    "suitableAgeInMonths": 12,
-    "allergicIngredients": [
       {
         "tr": "süt",
         "en": "milk"
@@ -431,80 +424,25 @@
     ],
     "instructions": [
       {
-        "tr": "Brokolileri tencerede haşlayalım, yumuşayınca süt ekleyip bir taşım kaynatalım.",
-        "en": "Boil broccoli in a pot; once tender, add milk and bring to a boil briefly."
+        "tr": "Bebek tarhanasını küçük bir tencereye alıp üzerine 1 su bardağı kadar soğuk temiz su ekleyelim.",
+        "en": "Place baby tarhana in a small pot and add a cup of cold water."
       },
       {
-        "tr": "Blender yardımıyla pürüzsüzleştirip ılık servis edelim.",
-        "en": "Blend until smooth and serve warm."
+        "tr": "İçinde topak kalmasın diye ocakta sürekli karıştırarak, göz göz olup kaynayana kadar tatlı tatlı pişirelim.",
+        "en": "Cook over medium heat while stirring constantly to prevent lumps until it bubbles."
+      },
+      {
+        "tr": "Kaynayan çorbamızı kısık ateşte birkaç dakika daha dinlendirip, ılıklaşınca şifa niyetine minişimize içirelim.",
+        "en": "Simmer for a few more minutes over low heat and serve once it cools to warm."
       }
     ],
     "imageUrl": ""
   },
   {
-    "id": "corba_009",
+    "id": "corba_008",
     "title": {
-      "tr": "Pirinçli Ispanak Çorbası",
-      "en": "Spinach Soup with Rice"
-    },
-    "description": {
-      "tr": "Demir deposu ıspanak ve doyurucu pirinçle hazırlanan, bebişlerin büyümesini destekleyen yeşil çorba.",
-      "en": "A green soup prepared with iron-rich spinach and filling rice to support your baby's growth."
-    },
-    "category": 7,
-    "ingredients": [
-      {
-        "amount": 5,
-        "unit": {
-          "tr": "yaprak",
-          "en": "leaves"
-        },
-        "baseName": {
-          "tr": "ıspanak",
-          "en": "spinach"
-        },
-        "shoppingLabel": {
-          "tr": "Ispanak",
-          "en": "Spinach"
-        }
-      },
-      {
-        "amount": 1,
-        "unit": {
-          "tr": "tatlı kaşığı",
-          "en": "tsp"
-        },
-        "baseName": {
-          "tr": "pirinç",
-          "en": "rice"
-        },
-        "shoppingLabel": {
-          "tr": "Pirinç",
-          "en": "Rice"
-        }
-      }
-    ],
-    "preparationTime": 20,
-    "calories": 75,
-    "suitableAgeInMonths": 8,
-    "allergicIngredients": [],
-    "instructions": [
-      {
-        "tr": "Ispanak yapraklarını ve pirinci az suda pirinçler uzayıp yumuşayana kadar pişirelim.",
-        "en": "Cook spinach leaves and rice in a little water until the rice is fully soft."
-      },
-      {
-        "tr": "Çorbayı blenderdan geçirip pürüzsüz kıvama getirdikten sonra servis edelim.",
-        "en": "Blend the soup to a smooth consistency and serve."
-      }
-    ],
-    "imageUrl": ""
-  },
-  {
-    "id": "corba_010",
-    "title": {
-      "tr": "Kıymalı Şehriye",
-      "en": "Noodle Soup with Mince"
+      "tr": "Güç Veren Kuzu Etli Şehriye Çorbası",
+      "en": "Minced Lamb Noodle Soup"
     },
     "description": {
       "tr": "Kavrulmuş kıyma ve arpa şehriyenin bir araya geldiği, tek başına doyurucu bir ana öğün çorbası.",
@@ -554,12 +492,16 @@
     ],
     "instructions": [
       {
-        "tr": "Kıymayı tencerede kendi suyuyla kavuralım, üzerine su ekleyip arpa şehriyeleri ilave edelim.",
-        "en": "Saute the minced meat in a pot in its own juices, add water, and stir in the barley noodles."
+        "tr": "Kuzu kıymamızı tencerede kendi suyunu çekene kadar anne özeniyle güzelce kavuralım.",
+        "en": "Saute the minced lamb in its own juices until cooked through."
       },
       {
-        "tr": "Şehriyeler şişip yumuşayana dek pişirip ılık servis edelim.",
-        "en": "Cook until the noodles are soft and swollen, and serve warm."
+        "tr": "Kavrulan etimizin üzerine sıcak su ekleyip kaynatalım, ardından arpa şehriyelerimizi neşeyle tencereye ilave edelim.",
+        "en": "Add hot water to the pot, bring to a boil, and toss in the barley noodles."
+      },
+      {
+        "tr": "Şehriyeler pamuk gibi yumuşayıp çorbamız özleştiğinde ocaktan alalım, minişimiz için ılık ılık servis edelim.",
+        "en": "Cook until the noodles are fully soft and tender, then serve warm."
       }
     ],
     "imageUrl": ""
