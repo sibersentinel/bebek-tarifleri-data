@@ -2,7 +2,7 @@
   {
     "id": "tahilli_001",
     "title": {
-      "tr": "Yulaf Lapası",
+      "tr": "Mis Kokulu Sabah Yulaf Lapası",
       "en": "Oatmeal Porridge"
     },
     "description": {
@@ -50,11 +50,11 @@
     ],
     "instructions": [
       {
-        "tr": "Yulaf ununu suyla karıştırarak ocakta muhallebi kıvamına gelene kadar pişirelim.",
+        "tr": "Besleyici yulaf ununu suyla bir güzel karıştırarak, ocağın üzerinde bebişimizin yutabileceği yumuşacık bir muhallebi kıvamına gelene kadar tatlı tatlı pişirelim.",
         "en": "Cook oat flour with water on the stove, stirring until it reaches a pudding consistency."
       },
       {
-        "tr": "Ilındıktan sonra ocaktan alıp yedirelim.",
+        "tr": "Miniğimizin minik ağzı yanmasın diye birazcık ılındıktan sonra ocaktan alıp sevgiyle yedirelim. Yarasın kuzumuza!",
         "en": "Remove from heat, let it cool to warm, and feed."
       }
     ],
@@ -63,7 +63,7 @@
   {
     "id": "tahilli_002",
     "title": {
-      "tr": "Pirinç Unlu Muhallebi",
+      "tr": "İlk Lokma Klasik Pirinç Unlu Muhallebi",
       "en": "Rice Flour Pudding"
     },
     "description": {
@@ -106,11 +106,11 @@
     "allergicIngredients": [],
     "instructions": [
       {
-        "tr": "Pirinç ununu su ile karıştırarak tencereye alalım.",
+        "tr": "Sindirimi kolay pirinç ununu su ile pürüzsüzce karıştırıp minik bir tencereye alalım.",
         "en": "Mix rice flour with water and place in a pot."
       },
       {
-        "tr": "Kısık ateşte topaklanmaması için sürekli karıştırarak göz göz olana dek pişirelim.",
+        "tr": "Kısık ateşte, içinde hiç topak kalmaması için özenle ve sürekli karıştırarak göz göz olana kadar, sevgiyle pişirelim.",
         "en": "Cook over low heat, stirring constantly to prevent lumps, until it bubbles gently."
       }
     ],
@@ -119,7 +119,7 @@
   {
     "id": "tahilli_003",
     "title": {
-      "tr": "İrmikli Meyve Püresi",
+      "tr": "Doyurucu İrmikli Elma Püresi",
       "en": "Semolina Fruit Puree"
     },
     "description": {
@@ -182,11 +182,11 @@
     ],
     "instructions": [
       {
-        "tr": "İrmiği su ile yumuşayana kadar tencerede pişirelim.",
+        "tr": "Miniğimize tokluk verecek irmiği, su ile lokum gibi yumuşayana kadar cezvede veya küçük bir tencerede güzelce pişirelim.",
         "en": "Cook semolina with water in a pot until tender."
       },
       {
-        "tr": "Pişen irmiğe cam rendede rendelenmiş elma ekleyip karıştırarak servis edelim.",
+        "tr": "Mis gibi pişen sıcacık irmiğe, vitaminleri kaçmasın diye cam rendede özenle rendelediğimiz taze elmayı ekleyip karıştırarak ikindi öğününde servis edelim.",
         "en": "Add grated apple from a glass grater to the cooked semolina, mix, and serve."
       }
     ],
@@ -195,7 +195,7 @@
   {
     "id": "tahilli_004",
     "title": {
-      "tr": "Tam Buğday Unlu Pankek",
+      "tr": "Minik Ellere Lifli Anne Pankeki",
       "en": "Whole Wheat Pancake"
     },
     "description": {
@@ -206,6 +206,7 @@
     "ingredients": [
       {
         "amount": 2,
+        "high": 2,
         "unit": {
           "tr": "yemek kaşığı",
           "en": "tbsp"
@@ -250,11 +251,11 @@
     ],
     "instructions": [
       {
-        "tr": "Tam buğday unu, yumurta sarısı ve az suyu çırparak pürüzsüz bir harç elde edelim.",
+        "tr": "Bol lifli tam buğday ununu, şifa dolu yumurta sarısını ve çok azıcık suyu pürüzsüz olana kadar sevgiyle çırpıp tatlı bir harç hazırlayalım.",
         "en": "Whisk whole wheat flour, egg yolk, and a little water to get a smooth batter."
       },
       {
-        "tr": "Tavada arkalı önlü pişirip parmak şeklinde dilimleyelim.",
+        "tr": "Yağsız tavada arkalı önlü mis gibi pişirdikten sonra, miniğimiz kendi elleriyle kolayca kavrayıp yiyebilsin diye parmak şeklinde dilimleyelim.",
         "en": "Cook in a pan on both sides and slice into finger-sized strips."
       }
     ],
@@ -263,7 +264,7 @@
   {
     "id": "tahilli_005",
     "title": {
-      "tr": "Bulgur Pilavı (Lapa)",
+      "tr": "Çiğneme Dostu Sebzeli Bulgur Lapası",
       "en": "Bulgur Rice (Porridge)"
     },
     "description": {
@@ -311,20 +312,21 @@
     ],
     "instructions": [
       {
-        "tr": "Bulguru sebze suyunda bulgurlar tamamen açılıp yumuşayana kadar pişirelim.",
+        "tr": "İncecik bulgurlarımızı, vitamin dolu mis kokulu sebze suyunda bulgur taneleri tamamen açılıp yumuşacık olana kadar usul usul pişirelim.",
         "en": "Cook bulgur in vegetable broth until the grains are fully opened and soft."
       },
       {
-        "tr": "Çatalla ezerek ılık servis edelim.",
+        "tr": "Miniğimizin rahatça yutabilmesi için çatalla hafifçe ezip, ılık bir şekilde tabağına koyalım.",
         "en": "Mash with a fork and serve warm."
       }
     ],
+    "instructions_en": null,
     "imageUrl": ""
   },
   {
     "id": "tahilli_006",
     "title": {
-      "tr": "Kinoa Püresi",
+      "tr": "Protein Deposu Sebzeli Kinoa Püresi",
       "en": "Quinoa Puree"
     },
     "description": {
@@ -355,11 +357,11 @@
     "allergicIngredients": [],
     "instructions": [
       {
-        "tr": "Kinoayı bol suda iyice yumuşayana dek haşlayalım.",
+        "tr": "Miniğimize güç kuvvet verecek kinoaları bol temiz suda, iyice yumuşayıp tüm besleyiciliğini ortaya çıkarana dek özenle haşlayalım.",
         "en": "Boil quinoa in plenty of water until very soft."
       },
       {
-        "tr": "Haşlanmış havuç veya kabak püresiyle karıştırarak servis edelim.",
+        "tr": "Daha da lezzetlenmesi için önceden hazırladığımız taptaze haşlanmış havuç veya kabak püresiyle karıştırıp miniğimize şifa niyetine yedirelim.",
         "en": "Mix with boiled carrot or zucchini puree and serve."
       }
     ],
@@ -368,7 +370,7 @@
   {
     "id": "tahilli_007",
     "title": {
-      "tr": "Mısır Unlu Kaçamak",
+      "tr": "Geleneksel Mısır Unlu Kaçamak",
       "en": "Corn Flour Porridge"
     },
     "description": {
@@ -404,11 +406,11 @@
     ],
     "instructions": [
       {
-        "tr": "Mısır ununu suyla karıştırarak ocakta muhallebi şeklinde pişirelim.",
+        "tr": "Geleneksel mısır ununu suyla yavaş yavaş karıştırarak, ocağın üzerinde bebişimize layık, pürüzsüz bir muhallebi şeklinde pişirelim.",
         "en": "Cook corn flour with water on the stove until it reaches a pudding consistency."
       },
       {
-        "tr": "İçine bir tatlı kaşığı peynir veya zeytinyağı ekleyip ılık verelim.",
+        "tr": "İçine lezzet ve şifa katması için bir tatlı kaşıkçık peynir veya zeytinyağı ekleyip ılık ılık kuzumuza sunalım.",
         "en": "Add a teaspoon of cheese or olive oil and serve warm."
       }
     ],
@@ -417,7 +419,7 @@
   {
     "id": "tahilli_008",
     "title": {
-      "tr": "Arpa Şehriye Pilavı",
+      "tr": "Yumuşacık Arpa Şehriye Pilavcığı",
       "en": "Barley Noodle Rice"
     },
     "description": {
@@ -453,11 +455,11 @@
     ],
     "instructions": [
       {
-        "tr": "Arpa şehriyeleri bol suda yumuşacık olana kadar haşlayalım.",
+        "tr": "Miniğimizin yutarken hiç zorlanmaması için arpa şehriyeleri bol suda pamuk gibi yumuşacık olana kadar güzelce haşlayalım.",
         "en": "Boil barley noodles in plenty of water until very soft."
       },
       {
-        "tr": "Süzüp üzerine zeytinyağı ekleyerek çatalla ezerek servis edelim.",
+        "tr": "Suyunu süzüp üzerine bağırsak dostu zeytinyağı gezdirelim ve çatalla hafifçe ezerek bebişimizin tabağına sevgiyle koyalım.",
         "en": "Drain, add olive oil, mash with a fork, and serve."
       }
     ],
@@ -466,7 +468,7 @@
   {
     "id": "tahilli_009",
     "title": {
-      "tr": "Yulaf Kepeği Lapası",
+      "tr": "Bağırsak Dostu Yulaf Kepeği Lapası",
       "en": "Oat Bran Porridge"
     },
     "description": {
@@ -502,11 +504,11 @@
     ],
     "instructions": [
       {
-        "tr": "Yulaf kepeğini su veya süt ile ocakta pişirelim.",
+        "tr": "Yüksek lif kaynağı yulaf kepeğini su veya bebişinizin tercihine göre süt ile ocakta kıvam alana kadar tatlı tatlı pişirelim.",
         "en": "Cook oat bran with water or milk on the stove."
       },
       {
-        "tr": "Ilındıktan sonra bebişimize kaşıkla yedirelim.",
+        "tr": "Güzelce ılındıktan sonra kuzumuza kaşık kaşık şifa niyetine yedirelim.",
         "en": "Feed to your baby with a spoon after it cools to warm."
       }
     ],
@@ -515,7 +517,7 @@
   {
     "id": "tahilli_010",
     "title": {
-      "tr": "Karabuğday (Greçka)",
+      "tr": "Glutensiz Şifalı Karabuğday Lapası",
       "en": "Buckwheat"
     },
     "description": {
@@ -546,11 +548,11 @@
     "allergicIngredients": [],
     "instructions": [
       {
-        "tr": "Karabuğdayı (greçka) yumuşayana dek haşlayalım.",
+        "tr": "Besin değeri yüksek, mis gibi glutensiz karabuğdayı (greçka) ocakta iyice yumuşayıp ezilecek kıvama gelene kadar haşlayalım.",
         "en": "Boil buckwheat (grecka) until tender."
       },
       {
-        "tr": "Süzüp sebze püresiyle veya sade olarak ezerek servis edelim.",
+        "tr": "Güzelce süzdükten sonra dilersek renk renk bir sebze püresiyle karıştırarak, dilersek de sade bir şekilde çatalla ezerek bebişimize yedirelim. Afiyet, şifa olsun!",
         "en": "Drain and serve either plain or mashed with vegetable puree."
       }
     ],
