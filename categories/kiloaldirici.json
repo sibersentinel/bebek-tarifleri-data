@@ -2,7 +2,7 @@
   {
     "id": "kilo_001",
     "title": {
-      "tr": "Pekmezli Cevizli Muhallebi",
+      "tr": "Atom Bebeklere Pekmezli Cevizli Muhallebi",
       "en": "Semolina Pudding with Molasses and Walnuts"
     },
     "description": {
@@ -48,8 +48,8 @@
           "en": "tsp"
         },
         "baseName": {
-          "tr": "pekmez",
-          "en": "molasses"
+          "tr": "üzüm pekmezi",
+          "en": "grape molasses"
         },
         "shoppingLabel": {
           "tr": "Pekmez",
@@ -58,7 +58,7 @@
       }
     ],
     "preparationTime": 15,
-    "calories": 180,
+    "calories": 160,
     "suitableAgeInMonths": 9,
     "allergicIngredients": [
       {
@@ -72,12 +72,12 @@
     ],
     "instructions": [
       {
-        "tr": "İrmiği suyla karıştırarak muhallebi kıvamına gelene kadar pişirelim.",
-        "en": "Cook semolina with water, stirring until it reaches a pudding consistency."
+        "tr": "Mis kokulu irmiğimizi suyla, o pamuk gibi muhallebi kıvamını alana kadar ocakta tatlı tatlı karıştırarak pişirelim.",
+        "en": "Cook semolina with water, stirring constantly until it reaches a pudding consistency."
       },
       {
-        "tr": "Ilındıktan sonra içine un gibi çekilmiş ceviz ve pekmez ekleyip karıştıralım.",
-        "en": "Once warm, stir in finely ground walnuts and molasses."
+        "tr": "Muhallebimiz piştikten sonra ocaktan alıp ılımaya bırakalım; içine un gibi incecik çekilmiş şifa kaynağı cevizimizi ve kan yapıcı pekmezimizi ekleyip sevgiyle harmanlayalım.",
+        "en": "Remove from heat, let it cool, then add finely ground walnuts and molasses, mixing well."
       }
     ],
     "imageUrl": ""
@@ -85,12 +85,76 @@
   {
     "id": "kilo_002",
     "title": {
-      "tr": "Tereyağlı Patates Püresi",
-      "en": "Potato Puree with Butter"
+      "tr": "Bal Küpüne Cicibebe Tadında Muzlu İrmik Lapası",
+      "en": "Banana Semolina Porridge"
     },
     "description": {
-      "tr": "Halis tereyağı ile lezzetlendirilmiş, patatesin karbonhidrat gücüyle bebişlerin kilo alımını destekleyen püre.",
-      "en": "A puree enriched with pure butter and the carbohydrate power of potato to support baby's weight gain."
+      "tr": "Muzun doğal kalorisi ve irmiğin doyurucu yapısıyla bebişlerinizin keyifle yiyeceği besleyici bir lapa.",
+      "en": "A nutritious porridge featuring the natural calories of banana and the satisfying structure of semolina that babies will enjoy."
+    },
+    "category": 16,
+    "ingredients": [
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "yemek kaşığı",
+          "en": "tbsp"
+        },
+        "baseName": {
+          "tr": "irmik",
+          "en": "semolina"
+        },
+        "shoppingLabel": {
+          "tr": "İrmik",
+          "en": "Semolina"
+        }
+      },
+      {
+        "amount": 0.5,
+        "unit": {
+          "tr": "adet",
+          "en": "pcs"
+        },
+        "baseName": {
+          "tr": "muz",
+          "en": "banana"
+        },
+        "shoppingLabel": {
+          "tr": "Muz",
+          "en": "Banana"
+        }
+      }
+    ],
+    "preparationTime": 12,
+    "calories": 140,
+    "suitableAgeInMonths": 7,
+    "allergicIngredients": [
+      {
+        "tr": "irmik",
+        "en": "semolina"
+      }
+    ],
+    "instructions": [
+      {
+        "tr": "İrmiğimizi temiz suda yumuşacık bir kıvama gelene dek ocakta tatlı tatlı pişmeye bırakalım.",
+        "en": "Cook semolina in water until soft."
+      },
+      {
+        "tr": "Bal gibi olgunlaşmış muzumuzu çatalın arkasıyla pürüzsüzce ezip, ılıklaşan lapamıza ilave ederek kuzumuza neşeyle karıştıralım.",
+        "en": "Mash a ripe banana and stir it into the warm porridge."
+      }
+    ],
+    "imageUrl": ""
+  },
+  {
+    "id": "kilo_003",
+    "title": {
+      "tr": "Minişlere Özel Besleyici Tereyağlı Patates Püresi",
+      "en": "Rich Potato Puree"
+    },
+    "description": {
+      "tr": "Ev yapımı mis kokulu tereyağı ve patatesin buluştuğu, kilo alımına yardımcı, yumuşacık lezzetli püre.",
+      "en": "A soft, delicious puree combining rich butter and potato to help with weight gain."
     },
     "category": 16,
     "ingredients": [
@@ -116,8 +180,8 @@
           "en": "tsp"
         },
         "baseName": {
-          "tr": "köy tereyağı",
-          "en": "village butter"
+          "tr": "tereyağı",
+          "en": "butter"
         },
         "shoppingLabel": {
           "tr": "Tereyağı",
@@ -126,83 +190,22 @@
       }
     ],
     "preparationTime": 20,
-    "calories": 145,
+    "calories": 135,
     "suitableAgeInMonths": 8,
     "allergicIngredients": [
       {
-        "tr": "süt",
-        "en": "milk"
+        "tr": "tereyağı",
+        "en": "butter"
       }
     ],
     "instructions": [
       {
-        "tr": "Patatesi haşlayıp kabuklarını sıcakken soyalım.",
-        "en": "Boil the potato and peel it while still hot."
+        "tr": "Doyurucu patatesimizi tencerede, çatalla dokununca dağılacak kadar yumuşacık olana dek haşlayalım.",
+        "en": "Boil the potato until completely soft and tender."
       },
       {
-        "tr": "İçine bir tatlı kaşığı tereyağı ekleyip pürüzsüzleşene dek hızlıca ezelim.",
-        "en": "Add a teaspoon of butter and mash quickly until completely smooth."
-      }
-    ],
-    "imageUrl": ""
-  },
-  {
-    "id": "kilo_003",
-    "title": {
-      "tr": "Muzlu Bebe Bisküvili Karışım",
-      "en": "Banana and Baby Biscuit Mix"
-    },
-    "description": {
-      "tr": "Muzun yüksek potasyum gücü ve ev yapımı bebe bisküvisinin kalori desteğiyle hazırlanan nefis ara öğün.",
-      "en": "A delicious snack prepared with the high potassium power of banana and calorie support of baby biscuits."
-    },
-    "category": 16,
-    "ingredients": [
-      {
-        "amount": 1,
-        "unit": {
-          "tr": "adet",
-          "en": "pcs"
-        },
-        "baseName": {
-          "tr": "muz",
-          "en": "banana"
-        },
-        "shoppingLabel": {
-          "tr": "Muz",
-          "en": "Banana"
-        }
-      },
-      {
-        "amount": 3,
-        "unit": {
-          "tr": "adet",
-          "en": "pcs"
-        },
-        "baseName": {
-          "tr": "ev yapımı bebe bisküvisi",
-          "en": "homemade baby biscuits"
-        },
-        "shoppingLabel": null
-      }
-    ],
-    "preparationTime": 5,
-    "calories": 190,
-    "suitableAgeInMonths": 8,
-    "allergicIngredients": [
-      {
-        "tr": "buğday",
-        "en": "wheat"
-      }
-    ],
-    "instructions": [
-      {
-        "tr": "Muzu ve bebe bisküvilerini bir kasede buluşturalım.",
-        "en": "Place the banana and baby biscuits in a bowl."
-      },
-      {
-        "tr": "Az miktarda anne sütü veya su ekleyerek çatalla ezerek püre haline getirelim.",
-        "en": "Add a small amount of breast milk or water and mash with a fork into a puree."
+        "tr": "Patatesi henüz sıcakken süzüp, içine o mis kokulu anne eli değmiş tereyağını ekleyerek pürüzsüz olana dek sevgiyle ezelim.",
+        "en": "Drain and mash the hot potato with butter until perfectly smooth."
       }
     ],
     "imageUrl": ""
@@ -210,30 +213,15 @@
   {
     "id": "kilo_004",
     "title": {
-      "tr": "Tahıllı Sebze Püresi",
-      "en": "Cereal Vegetable Puree"
+      "tr": "Göz Nuru Balkabağı ve Pekmez İkilisi",
+      "en": "Sweet Pumpkin Puree"
     },
     "description": {
-      "tr": "Tahılların besleyiciliği ve sebzelerin vitamin değerinin buluştuğu, zeytinyağı ile zenginleştirilmiş kalori deposu püre.",
-      "en": "A high-calorie puree combining the nutrition of grains and vitamins of vegetables, enriched with olive oil."
+      "tr": "Balkabağının ipeksi dokusu and pekmezin şifalı kalorisinin bir araya geldiği tatlı ve besleyici püre.",
+      "en": "A sweet, nutritious puree bringing together the velvety texture of pumpkin and the healthy calories of molasses."
     },
     "category": 16,
     "ingredients": [
-      {
-        "amount": 1,
-        "unit": {
-          "tr": "tatlı kaşığı",
-          "en": "tsp"
-        },
-        "baseName": {
-          "tr": "pirinç",
-          "en": "rice"
-        },
-        "shoppingLabel": {
-          "tr": "Pirinç",
-          "en": "Rice"
-        }
-      },
       {
         "amount": 1,
         "unit": {
@@ -247,239 +235,6 @@
         "shoppingLabel": {
           "tr": "Balkabağı",
           "en": "Pumpkin"
-        }
-      }
-    ],
-    "preparationTime": 25,
-    "calories": 130,
-    "suitableAgeInMonths": 7,
-    "allergicIngredients": [],
-    "instructions": [
-      {
-        "tr": "Pirinç ve sebzeleri tencerede haşlayıp püre yapalım.",
-        "en": "Boil rice and vegetables in a pot and mash into a puree."
-      },
-      {
-        "tr": "İçine bir tatlı kaşığı zeytinyağı ekleyip karıştırarak servis edelim.",
-        "en": "Add a teaspoon of olive oil, mix, and serve."
-      }
-    ],
-    "imageUrl": ""
-  },
-  {
-    "id": "kilo_005",
-    "title": {
-      "tr": "Avokadolu Yoğurt",
-      "en": "Avocado Yogurt"
-    },
-    "description": {
-      "tr": "Sağlıklı yağlar içeren avokadonun, ev yoğurduyla karıştırılmasıyla hazırlanan besleyici ve kilo aldırıcı karışım.",
-      "en": "A nutritious and weight-supporting mixture prepared by mixing healthy fat-rich avocado with homemade yogurt."
-    },
-    "category": 16,
-    "ingredients": [
-      {
-        "amount": 0.5,
-        "unit": {
-          "tr": "adet",
-          "en": "pcs"
-        },
-        "baseName": {
-          "tr": "avokado",
-          "en": "avocado"
-        },
-        "shoppingLabel": {
-          "tr": "Avokado",
-          "en": "Avocado"
-        }
-      },
-      {
-        "amount": 2,
-        "unit": {
-          "tr": "yemek kaşığı",
-          "en": "tbsp"
-        },
-        "baseName": {
-          "tr": "süzme yoğurt",
-          "en": "strained yogurt"
-        },
-        "shoppingLabel": {
-          "tr": "Yoğurt",
-          "en": "Yogurt"
-        }
-      }
-    ],
-    "preparationTime": 5,
-    "calories": 160,
-    "suitableAgeInMonths": 8,
-    "allergicIngredients": [
-      {
-        "tr": "süt",
-        "en": "milk"
-      }
-    ],
-    "instructions": [
-      {
-        "tr": "Olgun avokadoyu çatalla pürüzsüzleşene kadar ezelim.",
-        "en": "Mash a ripe avocado with a fork until smooth."
-      },
-      {
-        "tr": "Ezilmiş avokadoyu taze ev yoğurduyla karıştırarak bebişimize sunalım.",
-        "en": "Mix the mashed avocado with fresh homemade yogurt and serve to your baby."
-      }
-    ],
-    "imageUrl": ""
-  },
-  {
-    "id": "kilo_006",
-    "title": {
-      "tr": "Cevizli Avokado Püresi",
-      "en": "Avocado Puree with Walnuts"
-    },
-    "description": {
-      "tr": "Sağlıklı yağlar bakımından zengin avokadonun, un haline getirilmiş cevizle zenginleştirildiği kalori deposu ezme.",
-      "en": "A calorie-dense paste featuring healthy fat-rich avocado enriched with finely ground walnuts."
-    },
-    "category": 16,
-    "ingredients": [
-      {
-        "amount": 0.5,
-        "unit": {
-          "tr": "adet",
-          "en": "pcs"
-        },
-        "baseName": {
-          "tr": "avokado",
-          "en": "avocado"
-        },
-        "shoppingLabel": {
-          "tr": "Avokado",
-          "en": "Avocado"
-        }
-      },
-      {
-        "amount": 1,
-        "unit": {
-          "tr": "adet",
-          "en": "pcs"
-        },
-        "baseName": {
-          "tr": "ceviz",
-          "en": "walnut"
-        },
-        "shoppingLabel": {
-          "tr": "Ceviz",
-          "en": "Walnut"
-        }
-      }
-    ],
-    "preparationTime": 5,
-    "calories": 180,
-    "suitableAgeInMonths": 10,
-    "allergicIngredients": [
-      {
-        "tr": "ceviz",
-        "en": "walnut"
-      }
-    ],
-    "instructions": [
-      {
-        "tr": "Avokadoyu ezip içine un kıvamına getirilmiş ceviz içlerini ilave edelim.",
-        "en": "Mash the avocado and add walnuts ground to a flour consistency."
-      },
-      {
-        "tr": "Karıştırıp pürüzsüz bir ezme elde edelim.",
-        "en": "Mix to obtain a smooth paste."
-      }
-    ],
-    "imageUrl": ""
-  },
-  {
-    "id": "kilo_007",
-    "title": {
-      "tr": "İrmikli Meyve Şöleni",
-      "en": "Semolina Fruit Feast"
-    },
-    "description": {
-      "tr": "İrmikli muhallebinin, taze mevsim meyvelerinin doğal tatlılığıyla buluştuğu besleyici lezzet şöleni.",
-      "en": "A nutritious feast of flavors where semolina pudding meets the natural sweetness of fresh seasonal fruits."
-    },
-    "category": 16,
-    "ingredients": [
-      {
-        "amount": 2,
-        "unit": {
-          "tr": "yemek kaşığı",
-          "en": "tbsp"
-        },
-        "baseName": {
-          "tr": "irmik",
-          "en": "semolina"
-        },
-        "shoppingLabel": {
-          "tr": "İrmik",
-          "en": "Semolina"
-        }
-      },
-      {
-        "amount": 1,
-        "unit": {
-          "tr": "adet",
-          "en": "pcs"
-        },
-        "baseName": {
-          "tr": "elma veya muz",
-          "en": "apple or banana"
-        },
-        "shoppingLabel": null
-      }
-    ],
-    "preparationTime": 15,
-    "calories": 140,
-    "suitableAgeInMonths": 8,
-    "allergicIngredients": [
-      {
-        "tr": "irmik",
-        "en": "semolina"
-      }
-    ],
-    "instructions": [
-      {
-        "tr": "İrmiği pişirip muhallebi kıvamına getirelim.",
-        "en": "Cook semolina to bring it to a pudding consistency."
-      },
-      {
-        "tr": "İçine cam rendeden geçirilmiş taze meyve püresi ekleyip karıştıralım.",
-        "en": "Add fresh fruit puree passed through a glass grater and mix."
-      }
-    ],
-    "imageUrl": ""
-  },
-  {
-    "id": "kilo_008",
-    "title": {
-      "tr": "Tahinli Pekmezli Karışım",
-      "en": "Tahini and Molasses Mix"
-    },
-    "description": {
-      "tr": "Yüksek demir ve kalsiyum içeren tahin ve pekmezin, 1 yaş sonrası bebekler için enerji veren lezzetli uyumu.",
-      "en": "An energizing and tasty mix of high-iron tahini and calcium-rich molasses for babies over 1 year old."
-    },
-    "category": 16,
-    "ingredients": [
-      {
-        "amount": 1,
-        "unit": {
-          "tr": "tatlı kaşığı",
-          "en": "tsp"
-        },
-        "baseName": {
-          "tr": "tahin",
-          "en": "tahini"
-        },
-        "shoppingLabel": {
-          "tr": "Tahin",
-          "en": "Tahini"
         }
       },
       {
@@ -498,39 +253,49 @@
         }
       }
     ],
-    "preparationTime": 2,
+    "preparationTime": 20,
     "calories": 110,
-    "suitableAgeInMonths": 12,
-    "allergicIngredients": [
-      {
-        "tr": "susam",
-        "en": "sesame"
-      }
-    ],
+    "suitableAgeInMonths": 7,
+    "allergicIngredients": [],
     "instructions": [
       {
-        "tr": "Tahin ve pekmezi küçük bir kapta çok az miktarlarda karıştırıp homojen hale getirelim.",
-        "en": "Mix small amounts of tahini and molasses in a small bowl until homogeneous."
+        "tr": "Balkabağımızı buharda veya çok az suda lokum gibi eriyene kadar pişmeye bırakalım.",
+        "en": "Steam or boil the pumpkin with a tiny bit of water until tender."
       },
       {
-        "tr": "Bebişimize kontrollü bir şekilde, az miktarda yedirelim.",
-        "en": "Feed to your baby under supervision in small amounts."
+        "tr": "Haşlanan balkabağını ocaktan alıp çatalla ezelim; ılındıktan sonra üzerine bir tatlı kaşığı şifalı pekmez gezdirip kuzumuza sunalım.",
+        "en": "Mash the cooked pumpkin and drizzle a teaspoon of molasses on top once cooled to warm."
       }
     ],
     "imageUrl": ""
   },
   {
-    "id": "kilo_009",
+    "id": "kilo_005",
     "title": {
-      "tr": "Yumurtalı Lorlu Ekmek",
-      "en": "Bread with Egg and Curd"
+      "tr": "Büyüyen Bebeklere Avokadolu Yumurta Sarısı",
+      "en": "Avocado Egg Cream"
     },
     "description": {
-      "tr": "Yumurta sarısı ve lor peyniri ile hazırlanan karışımın, ekmek içiyle birleştiği doyurucu ve proteinli kahvaltı.",
-      "en": "A filling, protein-packed breakfast where a mix of egg yolk and curd cheese is combined with breadcrumbs."
+      "tr": "Avokadonun değerli bitkisel yağları ile yumurta sarısının protein gücünün birleştiği, kilo aldırıcı harika bir kahvaltı.",
+      "en": "A weight-gaining breakfast cream combining the healthy plant fats of avocado and the protein power of egg yolk."
     },
     "category": 16,
     "ingredients": [
+      {
+        "amount": 0.5,
+        "unit": {
+          "tr": "adet",
+          "en": "pcs"
+        },
+        "baseName": {
+          "tr": "avokado",
+          "en": "avocado"
+        },
+        "shoppingLabel": {
+          "tr": "Avokado",
+          "en": "Avocado"
+        }
+      },
       {
         "amount": 1,
         "unit": {
@@ -538,38 +303,19 @@
           "en": "pcs"
         },
         "baseName": {
-          "tr": "yumurta sarısı",
-          "en": "egg yolk"
+          "tr": "haşlanmış yumurta sarısı",
+          "en": "boiled egg yolk"
         },
         "shoppingLabel": {
           "tr": "Yumurta",
           "en": "Egg"
         }
-      },
-      {
-        "amount": 1,
-        "unit": {
-          "tr": "yemek kaşığı",
-          "en": "tbsp"
-        },
-        "baseName": {
-          "tr": "lor peyniri",
-          "en": "curd cheese"
-        },
-        "shoppingLabel": {
-          "tr": "Peynir",
-          "en": "Cheese"
-        }
       }
     ],
-    "preparationTime": 10,
+    "preparationTime": 5,
     "calories": 165,
-    "suitableAgeInMonths": 9,
+    "suitableAgeInMonths": 8,
     "allergicIngredients": [
-      {
-        "tr": "süt",
-        "en": "milk"
-      },
       {
         "tr": "yumurta",
         "en": "egg"
@@ -577,11 +323,259 @@
     ],
     "instructions": [
       {
-        "tr": "Yumurta sarısı ve lor peynirini az suyla ezip pürüzsüzleştirelim.",
-        "en": "Mash egg yolk and curd cheese with a little water until smooth."
+        "tr": "Olgunlaşmış avokadomuzun içini kaşıkla narince çıkarıp, şifa küpü haşlanmış yumurta sarısıyla buluşturalım.",
+        "en": "Scoop out a ripe avocado and place it in a bowl with the boiled egg yolk."
       },
       {
-        "tr": "İçine küçük küçük doğranmış ekmek içlerini ekleyip yumuşatarak yedirelim.",
+        "tr": "Çatalla anne özeniyle ezip homojen, yumuşacık bir krema kıvamına getirdikten sonra miniğimize taze taze yedirelim.",
+        "en": "Mash with a fork until it forms a smooth cream consistency and serve fresh."
+      }
+    ],
+    "imageUrl": ""
+  },
+  {
+    "id": "kilo_006",
+    "title": {
+      "tr": "Minişlerin İpek Dokulu Tahinli Lapası",
+      "en": "Tahini Semolina Mash"
+    },
+    "description": {
+      "tr": "Tahinin yüksek kalori ve kalsiyum desteğiyle zenginleştirilmiş, bebişlerin boyunu ve kilosunu destekleyen lapa.",
+      "en": "A satisfying mash enriched with the high calorie and calcium support of tahini to promote healthy weight."
+    },
+    "category": 16,
+    "ingredients": [
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "yemek kaşığı",
+          "en": "tbsp"
+        },
+        "baseName": {
+          "tr": "irmik",
+          "en": "semolina"
+        },
+        "shoppingLabel": {
+          "tr": "İrmik",
+          "en": "Semolina"
+        }
+      },
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "tatlı kaşığı",
+          "en": "tsp"
+        },
+        "baseName": {
+          "tr": "tahin",
+          "en": "tahini"
+        },
+        "shoppingLabel": {
+          "tr": "Tahin",
+          "en": "Tahini"
+        }
+      }
+    ],
+    "preparationTime": 12,
+    "calories": 155,
+    "suitableAgeInMonths": 10,
+    "allergicIngredients": [
+      {
+        "tr": "irmik",
+        "en": "semolina"
+      },
+      {
+        "tr": "tahin",
+        "en": "tahini"
+      }
+    ],
+    "instructions": [
+      {
+        "tr": "İrmiğimizi suyla, muhallebi kıvamına gelene kadar ocakta sürekli sevgiyle karıştırarak pişirelim.",
+        "en": "Cook semolina with water, stirring constantly until it reaches a pudding consistency."
+      },
+      {
+        "tr": "Lapamızı ocaktan indirip güzelce ılıttıktan sonra, içine o leziz tahinimizi ekleyip bir güzel harmanlayalım.",
+        "en": "Remove the mash from heat, let it cool to warm, add tahini, and mix well."
+      }
+    ],
+    "imageUrl": ""
+  },
+  {
+    "id": "kilo_007",
+    "title": {
+      "tr": "Kuzuma Güç Veren Pirinçli Kuzu Etli Püre",
+      "en": "Rice and Lamb Püre"
+    },
+    "description": {
+      "tr": "Kuzu etinin değerli proteinleri ve pirincin doyuruculuğu ile bebişinize güç verecek besleyici bir ana öğün.",
+      "en": "A highly nutritious main meal packed with rich lamb protein and satisfying rice to give your baby strength."
+    },
+    "category": 16,
+    "ingredients": [
+      {
+        "amount": 20,
+        "unit": {
+          "tr": "gram",
+          "en": "g"
+        },
+        "baseName": {
+          "tr": "kuzu eti",
+          "en": "lamb meat"
+        },
+        "shoppingLabel": {
+          "tr": "Kuzu Eti",
+          "en": "Lamb Meat"
+        }
+      },
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "tatlı kaşığı",
+          "en": "tsp"
+        },
+        "baseName": {
+          "tr": "pirinç",
+          "en": "rice"
+        },
+        "shoppingLabel": {
+          "tr": "Pirinç",
+          "en": "Rice"
+        }
+      }
+    ],
+    "preparationTime": 30,
+    "calories": 145,
+    "suitableAgeInMonths": 8,
+    "allergicIngredients": [],
+    "instructions": [
+      {
+        "tr": "Kuzu etimizi and yıkanmış pirincimizi tencerede, üzerini geçecek kadar temiz suyla lokum gibi yumuşayana dek haşlayalım.",
+        "en": "Boil lamb meat and washed rice together in a pot with water until fully soft."
+      },
+      {
+        "tr": "Haşlanan bu şifa deposu malzemeleri pürüzsüz bir püre kıvamı alana dek bir güzel ezelim veya blenderdan geçirelim.",
+        "en": "Mash or blend the cooked ingredients until they reach a smooth puree consistency."
+      }
+    ],
+    "imageUrl": ""
+  },
+  {
+    "id": "kilo_008",
+    "title": {
+      "tr": "Bal Küpüne Cevizli Yoğurtlu Cici Lapa",
+      "en": "Yogurt Oatmeal with Walnuts"
+    },
+    "description": {
+      "tr": "Yulafın lif gücü, cevizin faydalı kalorileri and ev yoğurdunun hafifliğinin buluştuğu harika bir ara öğün.",
+      "en": "A wonderful snack combining the fiber power of oats, healthy calories of walnuts, and freshness of homemade yogurt."
+    },
+    "category": 16,
+    "ingredients": [
+      {
+        "amount": 2,
+        "unit": {
+          "tr": "yemek kaşığı",
+          "en": "tbsp"
+        },
+        "baseName": {
+          "tr": "yulaf ezmesi",
+          "en": "rolled oats"
+        },
+        "shoppingLabel": {
+          "tr": "Yulaf",
+          "en": "Oats"
+        }
+      },
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "tatlı kaşığı",
+          "en": "tsp"
+        },
+        "baseName": {
+          "tr": "ceviz içi",
+          "en": "walnuts"
+        },
+        "shoppingLabel": {
+          "tr": "Ceviz",
+          "en": "Walnut"
+        }
+      }
+    ],
+    "preparationTime": 15,
+    "calories": 150,
+    "suitableAgeInMonths": 9,
+    "allergicIngredients": [
+      {
+        "tr": "yulaf",
+        "en": "oats"
+      },
+      {
+        "tr": "ceviz",
+        "en": "walnut"
+      },
+      {
+        "tr": "yoğurt",
+        "en": "yogurt"
+      }
+    ],
+    "instructions": [
+      {
+        "tr": "Yulaf ezmemizi azıcık suda, yumuşacık bir lapa kıvamı alana kadar tatlı tatlı pişirelim and soğumaya bırakalım.",
+        "en": "Cook rolled oats in a small amount of water until soft, then let it cool."
+      },
+      {
+        "tr": "Soğuyan yulaf lapamızı canım ev yoğurdumuz ve un gibi çekilmiş ceviz içiyle bir güzel harmanlayıp meleğimize yedirelim.",
+        "en": "Mix the cooled oatmeal with fresh homemade yogurt and finely ground walnuts."
+      }
+    ],
+    "imageUrl": ""
+  },
+  {
+    "id": "kilo_009",
+    "title": {
+      "tr": "Akıllı Bıdıklara Pekmezli Anne Çorbası",
+      "en": "Pekmez Broth with Bread"
+    },
+    "description": {
+      "tr": "Geleneksel usulde pekmez ve suyun kaynatılarak yumuşacık ekmek içiyle buluşturulduğu, enerji veren pratik bir tarif.",
+      "en": "A traditional quick, energizing recipe where boiled molasses water is mixed with soft breadcrumbs."
+    },
+    "category": 16,
+    "ingredients": [
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "yemek kaşığı",
+          "en": "tbsp"
+        },
+        "baseName": {
+          "tr": "üzüm pekmezi",
+          "en": "grape molasses"
+        },
+        "shoppingLabel": {
+          "tr": "Pekmez",
+          "en": "Molasses"
+        }
+      }
+    ],
+    "preparationTime": 5,
+    "calories": 125,
+    "suitableAgeInMonths": 8,
+    "allergicIngredients": [
+      {
+        "tr": "buğday",
+        "en": "wheat"
+      }
+    ],
+    "instructions": [
+      {
+        "tr": "Kan yapıcı üzüm pekmezimizi temiz suyla küçük bir cezvede tatlı tatlı kaynatalım.",
+        "en": "Boil grape molasses with clean water in a small coffee pot."
+      },
+      {
+        "tr": "Kaynayan pekmezli suyun içine minişimiz için incecik doğranmış ekmek içlerini ekleyip, pamuk gibi yumuşamasını sağlayarak kaşık kaşık yedirelim.",
         "en": "Add finely chopped breadcrumbs, let them soften, and feed."
       }
     ],
@@ -590,7 +584,7 @@
   {
     "id": "kilo_010",
     "title": {
-      "tr": "Badem Unlu Muhallebi",
+      "tr": "Minişe Güç Veren Badem Unlu Muhallebi",
       "en": "Almond Flour Pudding"
     },
     "description": {
@@ -626,12 +620,12 @@
     ],
     "instructions": [
       {
-        "tr": "Badem ununu su veya sütle ocakta kıvam alana kadar sürekli karıştırarak pişirelim.",
-        "en": "Cook almond flour with water or milk on the stove, stirring constantly until thickened."
+        "tr": "Besleyici badem unumuzu su veya sütle, ocakta göz göz olup mis gibi muhallebi kıvamı alana kadar tatlı tatlı karıştırarak pişirelim.",
+        "en": "Cook almond flour with water or milk on the stove, stirring constantly until it thickens into a pudding."
       },
       {
-        "tr": "Ilındıktan sonra bebişimize servis edelim.",
-        "en": "Serve to your baby once it cools down to warm."
+        "tr": "Anne eli sıcaklığına gelip güzelce ılındıktan sonra, bal küpümüze afiyetle yedirelim. Şifa olsun bıcıdığımıza!",
+        "en": "Let it cool down to warm and serve happily to your baby."
       }
     ],
     "imageUrl": ""
