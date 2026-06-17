@@ -2,7 +2,7 @@
   {
     "id": "kahvalti_001",
     "title": {
-      "tr": "Peynirli Yumurta Ezmesi",
+      "tr": "Kuzuma Enerji Veren Peynirli Yumurta Ezmesi",
       "en": "Egg Mash with Cheese"
     },
     "description": {
@@ -57,11 +57,11 @@
     ],
     "instructions": [
       {
-        "tr": "Haşlanmış yumurta sarısını ve tuzsuz peyniri bir kasede buluşturalım.",
+        "tr": "Haşlanmış yumurta sarısını ve tuzsuz peyniri temiz bir kasede şefkatle buluşturalım.",
         "en": "Place boiled egg yolk and unsalted cheese in a bowl."
       },
       {
-        "tr": "Çatalla ezip kıvamını yumuşatmak için birkaç damla anne sütü veya su ekleyelim.",
+        "tr": "Çatalla bir güzel ezip kıvamını yumuşatmak için içine canım anne sütünden veya azıcık temiz sudan birkaç damlacık ekleyelim.",
         "en": "Mash with a fork and add a few drops of breast milk or water to soften the texture."
       }
     ],
@@ -70,7 +70,7 @@
   {
     "id": "kahvalti_002",
     "title": {
-      "tr": "Pekmezli İrmik Lapası",
+      "tr": "Bal Küpüne Pekmezli İrmik Lapası",
       "en": "Semolina Porridge with Molasses"
     },
     "description": {
@@ -121,11 +121,11 @@
     ],
     "instructions": [
       {
-        "tr": "İrmiği suyla muhallebi kıvamına gelene kadar karıştırarak pişirelim.",
+        "tr": "Mis kokulu irmiğimizi suyla, muhallebi kıvamına gelene kadar tatlı tatlı karıştırarak pişirelim.",
         "en": "Cook semolina with water, stirring constantly until it reaches a pudding consistency."
       },
       {
-        "tr": "Lapa ılındıktan sonra üzerine bir tatlı kaşığı pekmez gezdirip karıştıralım.",
+        "tr": "Lapamız anne eli sıcaklığına gelip ılındıktan sonra üzerine bir tatlı kaşığı şifalı pekmez gezdirip sevgiyle karıştıralım.",
         "en": "Once the porridge is warm, drizzle a teaspoon of molasses on top and mix."
       }
     ],
@@ -134,7 +134,7 @@
   {
     "id": "kahvalti_003",
     "title": {
-      "tr": "Cevizli Muzlu Kahvaltı",
+      "tr": "Akıllı Bıdıklara Cevizli Muzlu Kahvaltı",
       "en": "Banana Breakfast with Walnuts"
     },
     "description": {
@@ -185,11 +185,11 @@
     ],
     "instructions": [
       {
-        "tr": "Muzu çatal yardımıyla pürüzsüzleşene kadar ezelim.",
+        "tr": "Muzumuzu çatal yardımıyla minişimizin narin diline uygun, pürüzsüz bir kıvama gelene kadar narince ezelim.",
         "en": "Mash the banana with a fork until smooth."
       },
       {
-        "tr": "İçine un gibi çekilmiş cevizi ilave edip iyice harmanlayalım.",
+        "tr": "İçine un gibi incecik çekilmiş şifa kaynağı cevizimizi ilave edip sevgiyle harmanlayalım.",
         "en": "Add finely ground walnuts and mix well."
       }
     ],
@@ -198,7 +198,7 @@
   {
     "id": "kahvalti_004",
     "title": {
-      "tr": "Labneli Avokado",
+      "tr": "Yumuşacık Labneli Avokado Ezmesi",
       "en": "Avocado with Labneh"
     },
     "description": {
@@ -249,11 +249,11 @@
     ],
     "instructions": [
       {
-        "tr": "Olgun avokadonun içini kaşıkla çıkarıp labne peyniriyle karıştıralım.",
+        "tr": "Tam kıvamında olgunlaşmış avokadonun içini kaşıkla narince çıkarıp, mis gibi labne peyniriyle buluşturalım.",
         "en": "Scoop out a ripe avocado and mix it with labneh cheese."
       },
       {
-        "tr": "Pürüzsüz olana dek ezip ekmek içi ekleyerek veya sade olarak servis edelim.",
+        "tr": "Kuzumuzun kolayca yutabileceği pürüzsüz bir kıvama gelene dek ezip, isteğe göre yumuşacık ekmek içi ekleyerek veya sade olarak sevgiyle servis edelim.",
         "en": "Mash until smooth and serve either plain or mixed with breadcrumbs."
       }
     ],
@@ -262,7 +262,7 @@
   {
     "id": "kahvalti_005",
     "title": {
-      "tr": "Yulaf Unlu Krep",
+      "tr": "Minişlerin Lokmalık Yulaf Unlu Krepi",
       "en": "Oat Flour Crepe"
     },
     "description": {
@@ -317,11 +317,11 @@
     ],
     "instructions": [
       {
-        "tr": "Yulaf unu, yumurta sarısı ve az suyu pürüzsüz olana kadar çırpalım.",
+        "tr": "Besleyici yulaf ununu, şifa deposu yumurta sarısını and azucık temiz suyu pürüzsüz olana kadar anne sevgisiyle çırpalım.",
         "en": "Whisk oat flour, egg yolk, and a little water until smooth."
       },
       {
-        "tr": "Hafifçe yağlanmış tavada arkalı önlü pişirip şeritler halinde dilimleyelim.",
+        "tr": "Hafifçe yağladığımız tavada arkalı önlü, lokum gibi pişirip miniğimizin kavrayabileceği şirin şeritler halinde dilimleyelim.",
         "en": "Cook in a lightly greased pan on both sides and slice into strips."
       }
     ],
@@ -330,7 +330,7 @@
   {
     "id": "kahvalti_006",
     "title": {
-      "tr": "Peynirli Krep",
+      "tr": "Minik Ellere Yumuşacık Peynirli Krep",
       "en": "Cheese Crepe"
     },
     "description": {
@@ -385,11 +385,11 @@
     ],
     "instructions": [
       {
-        "tr": "Krep harcını tavaya döküp pişirelim, ocaktan almadan önce içine peynir ekleyip katlayalım.",
+        "tr": "Nefis krep harcımızı tavaya döküp pişirelim, ocaktan almadan hemen önce içine kuzumuza özel tuzsuz peynirinden ekleyip şefkatle katlayalım.",
         "en": "Pour the crepe batter into a pan and cook, add cheese inside and fold before removing from heat."
       },
       {
-        "tr": "Ilındıktan sonra dilimleyerek servis edelim.",
+        "tr": "Minişimizin ağzını yakmaması için güzelce ılındıktan sonra dilimleyerek neşeyle servis edelim.",
         "en": "Slice and serve after it cools slightly."
       }
     ],
@@ -398,11 +398,11 @@
   {
     "id": "kahvalti_007",
     "title": {
-      "tr": "Muzlu Yulaf Ezmesi",
+      "tr": "Bal Küpüne Muzlu Yulaf Ezmesi",
       "en": "Oatmeal with Banana"
     },
     "description": {
-      "tr": "Yulafın lif gücü ve muzun doğal tatlılığıyla bebişinize uzun süre tokluk hissi verecek lezzetli bir sabah öğünü.",
+      "tr": "Yulafın lif gücü and muzun doğal tatlılığıyla bebişinize uzun süre tokluk hissi verecek lezzetli bir sabah öğünü.",
       "en": "A delicious morning meal combining the fiber power of oats and the natural sweetness of banana to keep your baby full."
     },
     "category": 8,
@@ -449,11 +449,11 @@
     ],
     "instructions": [
       {
-        "tr": "Yulaf ezmesini suda pişirip lapa haline getirelim.",
+        "tr": "Lif kaynağı yulaf ezmesini temiz suda tatlı tatlı pişirip yumuşacık bir lapa haline getirelim.",
         "en": "Cook rolled oats in water to form a porridge."
       },
       {
-        "tr": "İçine ezilmiş muz ekleyip karıştırarak ılık servis edelim.",
+        "tr": "İçine güzelce ezdiğimiz bal gibi muzu ekleyip sevgiyle karıştırarak kuzumuza ılık ılık servis edelim.",
         "en": "Add mashed banana, mix well, and serve warm."
       }
     ],
@@ -462,7 +462,7 @@
   {
     "id": "kahvalti_008",
     "title": {
-      "tr": "Kayısı Püreli Lor",
+      "tr": "Tatlış Kayısı Püreli Lor Sürprizi",
       "en": "Curd with Apricot Puree"
     },
     "description": {
@@ -513,11 +513,11 @@
     ],
     "instructions": [
       {
-        "tr": "Kuru kayısıyı suda haşlayıp yumuşatıp ezelim.",
+        "tr": "Gün kurusu kayısılarimizi temiz suda pamuk gibi yumuşayana kadar haşlayıp çatalla narince ezelim.",
         "en": "Boil dried apricot in water to soften, then mash it."
       },
       {
-        "tr": "Hazırladığımız kayısı püresini lor peyniriyle karıştırarak kahvaltıda verelim.",
+        "tr": "Hazırladığımız bu mis kokulu kayısı püresini tuzsuz lor peyniriyle bir güzel karıştırarak bebişimizin kahvaltısına neşe katalım.",
         "en": "Mix the prepared apricot puree with curd cheese and serve for breakfast."
       }
     ],
@@ -526,7 +526,7 @@
   {
     "id": "kahvalti_009",
     "title": {
-      "tr": "Avokadolu Yumurta",
+      "tr": "Güne Güçlü Başlayan Minişlere Avokadolu Yumurta",
       "en": "Egg with Avocado"
     },
     "description": {
@@ -577,11 +577,11 @@
     ],
     "instructions": [
       {
-        "tr": "Avokado ve haşlanmış yumurta sarısını bir tabağa alalım.",
+        "tr": "Olgunlaşmış avokadomuzu ve vitamin deposu haşlanmış yumurta sarısını şirin bir tabağa alalım.",
         "en": "Place avocado and boiled egg yolk on a plate."
       },
       {
-        "tr": "Çatalla ezip karıştırarak homojen bir püre elde edelim.",
+        "tr": "Çatalla anne özeniyle ezip karıştırarak, bebişimizin yutabileceği ipeksi ve homojen bir püre elde edelim.",
         "en": "Mash with a fork and mix to obtain a homogeneous puree."
       }
     ],
@@ -590,7 +590,7 @@
   {
     "id": "kahvalti_010",
     "title": {
-      "tr": "Bebe Bisküvili Kahvaltı",
+      "tr": "Pratik ve Leziz Bebe Bisküvili Kahvaltı",
       "en": "Breakfast with Baby Biscuits"
     },
     "description": {
@@ -623,11 +623,11 @@
     ],
     "instructions": [
       {
-        "tr": "Bebe bisküvilerini kaseye alıp ılık süt ile ıslatarak yumuşatalım.",
+        "tr": "Ev yapımı mis kokulu bebe bisküvilerini kaseye alıp, ılık anne sütü veya mama ile ıslatarak pamuk gibi yumuşatalım.",
         "en": "Place baby biscuits in a bowl and soften them by soaking in warm milk."
       },
       {
-        "tr": "Çatalla ezip püre kıvamında bebişimize yedirelim.",
+        "tr": "Çatalla tatlı tatlı ezip püre kıvamına getirdikten sonra meleğimize afiyetle yedirelim.",
         "en": "Mash with a fork and feed to your baby in a puree consistency."
       }
     ],
