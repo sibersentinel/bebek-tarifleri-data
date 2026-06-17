@@ -2,8 +2,8 @@
   {
     "id": "pratik_001",
     "title": {
-      "tr": "Çatalla Ezilmiş Doğal Muz Püresi",
-      "en": "Fork-Mashed Natural Banana Puree"
+      "tr": "Kuzuma Enerji Veren Şirin Muz Ezmesi",
+      "en": "Fork-Mashed Banana"
     },
     "description": {
       "tr": "Dışarıdayken veya acil durumlarda saniyeler içinde hazırlayabileceğiniz, muzun en doğal ve lezzetli hali.",
@@ -33,12 +33,12 @@
     "allergicIngredients": [],
     "instructions": [
       {
-        "tr": "İyice olgunlaşmış yumuşak bir muzu soyup temiz bir tabağa alalım ve üzerindeki lifli ipleri güzelce temizleyelim.",
-        "en": "Peel a ripe, soft banana, place it on a clean plate, and carefully remove any fibrous strings."
+        "tr": "Bal gibi tatlı muzumuzu soyup temiz ve şirin bir tabağa sevgiyle alalım.",
+        "en": "Peel the banana and place it on a clean plate."
       },
       {
-        "tr": "Bir çatalın arkasını kullanarak muzu tamamen pürüzsüz ve topaksız bir kıvama gelene kadar ezelim. Bebişinizin yutma durumuna göre gerekirse birkaç damla anne sütü ile kıvamını açarak yedirelim.",
-        "en": "Using the back of a fork, mash the banana until it reaches a completely smooth and lump-free consistency. If needed, thin it with a few drops of breast milk based on your baby's swallowing progress before feeding."
+        "tr": "Çatalın arkasıyla minişimizin narin diline layık, pürüzsüz bir kıvam alana kadar tatlı tatlı ezip yedirelim.",
+        "en": "Mash with the back of a fork until smooth and feed your baby."
       }
     ],
     "imageUrl": ""
@@ -46,12 +46,56 @@
   {
     "id": "pratik_002",
     "title": {
-      "tr": "Yoğurtlu Yumuşak Ekmek İçi",
-      "en": "Soft Bread Crumbs with Yogurt"
+      "tr": "Miniğin Avucuna Özel Yumuşacık Olgun Avokado",
+      "en": "Avocado Wedges"
     },
     "description": {
-      "tr": "Yoğurdun içinde yumuşatılmış ekmek içi ile bebişinizi hemen doyuracak hızlı ve pratik bir çözüm.",
-      "en": "A quick and practical solution that will fill your baby up instantly with breadcrumbs softened in yogurt."
+      "tr":Sağlıklı yağlar içeren avokadonun, pişirme gerektirmeden dilimlenerek bebişin eline verilen en hızlı BLW atıştırmalığı.",
+      "en": "The fastest BLW snack requiring no cooking, where healthy fat-rich avocado is sliced and handed to the baby."
+    },
+    "category": 13,
+    "ingredients": [
+      {
+        "amount": 0.5,
+        "unit": {
+          "tr": "adet",
+          "en": "pcs"
+        },
+        "baseName": {
+          "tr": "olgun avokado",
+          "en": "ripe avocado"
+        },
+        "shoppingLabel": {
+          "tr": "Avokado",
+          "en": "Avocado"
+        }
+      }
+    ],
+    "preparationTime": 2,
+    "calories": 110,
+    "suitableAgeInMonths": 7,
+    "allergicIngredients": [],
+    "instructions": [
+      {
+        "tr": "Tam kıvamında olgunlaşmış avokadomuzu ortadan ikiye bölüp çekirdeğini narince çıkaralım.",
+        "en": "Cut a ripe avocado in half and gently remove its pit."
+      },
+      {
+        "tr": "Kuzumuzun o minik parmaklarıyla kolayca kavrayabileceği, elinden kaymayacak şirin dilimler halinde kesip avucuna teslim edelim.",
+        "en": "Cut it into segments that are easy for your baby to grasp and serve."
+      }
+    ],
+    "imageUrl": ""
+  },
+  {
+    "id": "pratik_003",
+    "title": {
+      "tr": "Saniyeler İçinde Hazır Yoğurtlu Ceviz Rüyası",
+      "en": "Yogurt with Walnuts"
+    },
+    "description": {
+      "tr": "Ev yoğurduna incecik çekilmiş ceviz karıştırılarak saniyeler içinde hazırlanan, besleyici ve pratik bir ikindi kasesi.",
+      "en": "A nutritious and practical afternoon bowl prepared in seconds by mixing finely ground walnuts into homemade yogurt."
     },
     "category": 13,
     "ingredients": [
@@ -62,8 +106,8 @@
           "en": "tbsp"
         },
         "baseName": {
-          "tr": "yoğurt",
-          "en": "yogurt"
+          "tr": "ev yoğurdu",
+          "en": "homemade yogurt"
         },
         "shoppingLabel": {
           "tr": "Yoğurt",
@@ -73,78 +117,40 @@
       {
         "amount": 1,
         "unit": {
-          "tr": "dilim",
-          "en": "slice"
+          "tr": "tatlı kaşığı",
+          "en": "tsp"
         },
         "baseName": {
-          "tr": "ekmek içi",
-          "en": "bread crumbs"
+          "tr": "un gibi çekilmiş ceviz",
+          "en": "finely ground walnuts"
         },
-        "shoppingLabel": null
+        "shoppingLabel": {
+          "tr": "Ceviz",
+          "en": "Walnut"
+        }
       }
     ],
-    "preparationTime": 3,
-    "calories": 110,
-    "suitableAgeInMonths": 7,
+    "preparationTime": 2,
+    "calories": 85,
+    "suitableAgeInMonths": 9,
     "allergicIngredients": [
       {
-        "tr": "yoğurt",
-        "en": "yogurt"
+        "tr": "süt",
+        "en": "milk"
       },
       {
-        "tr": "buğday",
-        "en": "wheat"
+        "tr": "ceviz",
+        "en": "walnut"
       }
     ],
     "instructions": [
       {
-        "tr": "Bebekler için uygun olan tuzsuz ekmeğin iç kısmını kabuksuz olacak şekilde elinizle küçük küçük parçalara bölüp derin bir kaseye alalım.",
-        "en": "Tear the inner part of baby-safe, salt-free bread into tiny pieces (ensuring no crusts) with your hands and place them in a deep bowl."
+        "tr": "Oda sıcaklığına getirdiğimiz mis kokulu ev yoğurdumuzu şirin bir kaseye anne şefkatiyle alalım.",
+        "en": "Place room-temperature homemade yogurt in a small bowl."
       },
       {
-        "tr": "Üzerine oda sıcaklığındaki yoğurdu ekleyip ekmekler yoğurdu tamamen çekene ve bulamaç gibi yumuşacık olana dek çatalla ezerek karıştıralım.",
-        "en": "Add room-temperature yogurt on top and mix while mashing with a fork until the bread pieces fully absorb the yogurt and become completely soft and mushy."
-      }
-    ],
-    "imageUrl": ""
-  },
-  {
-    "id": "pratik_003",
-    "title": {
-      "tr": "10 Dakikalık Hızlı Sebze Çorbası",
-      "en": "Quick 10-Minute Vegetable Soup"
-    },
-    "description": {
-      "tr": "Dondurucudaki hazır sebzelerle 10 dakikada hazırlayabileceğiniz acil durum çorbası.",
-      "en": "An emergency soup that you can prepare in 10 minutes using ready-to-use frozen vegetables."
-    },
-    "category": 13,
-    "ingredients": [
-      {
-        "amount": 1,
-        "unit": {
-          "tr": "avuç",
-          "en": "handful"
-        },
-        "baseName": {
-          "tr": "karışık dondurulmuş sebze",
-          "en": "mixed frozen vegetables"
-        },
-        "shoppingLabel": null
-      }
-    ],
-    "preparationTime": 10,
-    "calories": 60,
-    "suitableAgeInMonths": 8,
-    "allergicIngredients": [],
-    "instructions": [
-      {
-        "tr": "Dondurucudan çıkardığınız minik doğranmış sebzeleri küçük bir cezveye alıp, üzerini geçecek kadar kaynar su ekleyerek yumuşayana kadar haşlayalım.",
-        "en": "Place the finely chopped frozen vegetables into a small pot, add enough boiling water to cover them, and boil until completely tender."
-      },
-      {
-        "tr": "Haşlanan sebzeleri ocaktan alıp blender yardımıyla pürüzsüz bir çorba kıvamına getirelim. İçine zeytinyağı ekleyip karıştırarak ılık şekilde servis edelim.",
-        "en": "Remove the boiled vegetables from the heat and blend until a smooth soup consistency is achieved. Add olive oil, mix well, and serve warm."
+        "tr": "İçine un gibi incecik çekilmiş, kuzumuzun boğazına kaçmayacak şifa kaynağı cevizimizi ekleyip neşeyle karıştıralım.",
+        "en": "Add finely ground walnuts to the yogurt and stir well."
       }
     ],
     "imageUrl": ""
@@ -152,17 +158,61 @@
   {
     "id": "pratik_004",
     "title": {
-      "tr": "Peynirli Avokado Ezmesi",
-      "en": "Avocado Mash with Cheese"
+      "tr": "Bal Küpüne Tatlı Kayısı Sürprizi",
+      "en": "Soaked Dried Apricot"
     },
     "description": {
-      "tr": "Pişirme gerektirmeyen, avokado ve lor peynirinin sağlıklı yağ ve protein uyumunu sunan hızlı kahvaltı.",
-      "en": "A no-cook, quick breakfast offering the healthy fat and protein harmony of avocado and curd cheese."
+      "tr": "Sıcak suda saniyeler içinde yumuşayan gün kurusu kayısının ezilmesiyle hazırlanan, bağırsak dostu tatlı bir ara öğün.",
+      "en": "A bowel-friendly sweet snack prepared by mashing sun-dried apricots that soften in hot water in seconds."
     },
     "category": 13,
     "ingredients": [
       {
-        "amount": 0.5,
+        "amount": 2,
+        "unit": {
+          "tr": "adet",
+          "en": "pcs"
+        },
+        "baseName": {
+          "tr": "gün kurusu kayısı",
+          "en": "dried apricot"
+        },
+        "shoppingLabel": {
+          "tr": "Kayısı",
+          "en": "Apricot"
+        }
+      }
+    ],
+    "preparationTime": 5,
+    "calories": 40,
+    "suitableAgeInMonths": 7,
+    "allergicIngredients": [],
+    "instructions": [
+      {
+        "tr": "Kan deposu gün kurusu kayısılarımızı sıcak suya bırakıp, pamuk gibi yumuşayana kadar birkaç dakikacık keyifle bekletelim.",
+        "en": "Soak dried apricots in hot water for a few minutes until soft."
+      },
+      {
+        "tr": "Yumuşacık olan kayısıları sudan alıp çatalla narince ezelim, minişimizin yutması kolay olsun diye pürüzsüz bir püre kıvamına getirelim.",
+        "en": "Remove the soft apricots from water and mash with a fork to a puree consistency."
+      }
+    ],
+    "imageUrl": ""
+  },
+  {
+    "id": "pratik_005",
+    "title": {
+      "tr": "Güne Güçlü Başlayan Minişlere Labneli Avokado",
+      "en": "Avocado with Labneh"
+    },
+    "description": {
+      "tr": "Çatalla ezilmiş avokado ve kremamsı labne peynirinin karıştırılmasıyla oluşan, pişirme gerektirmeyen besleyici kahvaltı sosu.",
+      "en": "A nutritious, no-cook breakfast spread made by mixing mashed avocado and creamy labneh cheese."
+    },
+    "category": 13,
+    "ingredients": [
+      {
+        "amount": 0.25,
         "unit": {
           "tr": "adet",
           "en": "pcs"
@@ -179,21 +229,21 @@
       {
         "amount": 1,
         "unit": {
-          "tr": "tatlı kaşığı",
-          "en": "tsp"
+          "tr": "yemek kaşığı",
+          "en": "tbsp"
         },
         "baseName": {
-          "tr": "lor peyniri",
-          "en": "curd cheese"
+          "tr": "bebek labnesi (tuzsuz)",
+          "en": "baby labneh (unsalted)"
         },
         "shoppingLabel": {
-          "tr": "Peynir",
-          "en": "Cheese"
+          "tr": "Labne",
+          "en": "Labneh"
         }
       }
     ],
-    "preparationTime": 4,
-    "calories": 100,
+    "preparationTime": 3,
+    "calories": 80,
     "suitableAgeInMonths": 7,
     "allergicIngredients": [
       {
@@ -203,41 +253,41 @@
     ],
     "instructions": [
       {
-        "tr": "Olgunlaşmış yumuşak bir avokadoyu ikiye bölüp içini kaşıkla çıkaralım ve derin bir mama kasesine alıp ezelim.",
-        "en": "Cut a ripe, soft avocado in half, scoop out the flesh with a spoon, place it in a baby bowl, and mash it."
+        "tr": "Olgun avokadomuzu tabakta çatalla pürüzsüz olana dek anne özeniyle ezelim.",
+        "en": "Mash the ripe avocado on a plate with a fork until smooth."
       },
       {
-        "tr": "Üzerine tuzsuz lor peynirini ekleyip çatalla her iki malzeme tamamen bütünleşene ve pürüzsüz bir ezme haline gelene kadar iyice karıştıralım.",
-        "en": "Add unsalted curd cheese on top and mix thoroughly with a fork until both ingredients are completely combined into a smooth paste."
+        "tr": "Üzerine kuzumuza özel o mis kokulu tuzsuz labnesini ekleyip, ipeksi bir kahvaltılık krema olana kadar tatlı tatlı harmanlayalım.",
+        "en": "Add unsalted baby labneh and mix until it forms a smooth breakfast cream."
       }
     ],
     "imageUrl": ""
   },
   {
-    "id": "pratik_005",
+    "id": "pratik_006",
     "title": {
-      "tr": "Ev Yapımı Hızlı Meyveli Yoğurt",
-      "en": "Quick Homemade Fruit Yogurt"
+      "tr": "Minişlerin Lokmalık Peynirli Ekmek İçi",
+      "en": "Breadcrumbs with Cheese"
     },
     "description": {
-      "tr": "Paketli ve şekerli meyveli yoğurtlara en sağlıklı ve en hızlı ev yapımı alternatif.",
-      "en": "The healthiest and fastest homemade alternative to packaged, sugary fruit yogurts."
+      "tr": "Yumuşak ekmek içinin lor peyniri ve zeytinyağı ile ıslatılmasıyla hazırlanan, bebişlerin parmaklarıyla yiyebileceği pratik lokmalar.",
+      "en": "Quick bites prepared by moistening soft breadcrumbs with curd cheese and olive oil, perfect for baby's fingers."
     },
     "category": 13,
     "ingredients": [
       {
-        "amount": 0.5,
+        "amount": 1,
         "unit": {
-          "tr": "çay bardağı",
-          "en": "cup"
+          "tr": "dilim",
+          "en": "slice"
         },
         "baseName": {
-          "tr": "yoğurt",
-          "en": "yogurt"
+          "tr": "ekmek içi (yumuşak)",
+          "en": "breadcrumbs (soft)"
         },
         "shoppingLabel": {
-          "tr": "Yoğurt",
-          "en": "Yogurt"
+          "tr": "Ekmek",
+          "en": "Bread"
         }
       },
       {
@@ -247,15 +297,86 @@
           "en": "tbsp"
         },
         "baseName": {
-          "tr": "meyve püresi",
-          "en": "fruit puree"
+          "tr": "tuzsuz lor peyniri",
+          "en": "unsalted curd cheese"
         },
-        "shoppingLabel": null
+        "shoppingLabel": {
+          "tr": "Lor Peyniri",
+          "en": "Curd Cheese"
+        }
       }
     ],
-    "preparationTime": 2,
-    "calories": 80,
-    "suitableAgeInMonths": 6,
+    "preparationTime": 3,
+    "calories": 110,
+    "suitableAgeInMonths": 9,
+    "allergicIngredients": [
+      {
+        "tr": "buğday",
+        "en": "wheat"
+      },
+      {
+        "tr": "süt",
+        "en": "milk"
+      }
+    ],
+    "instructions": [
+      {
+        "tr": "Taze ekmeğimizin o yumuşacık içini minişimizin parmaklarına layık küçük parçalara ufalayalım.",
+        "en": "Crumble the soft inside of fresh bread into tiny pieces."
+      },
+      {
+        "tr": "Ufalanan ekmekleri tuzsuz lor peyniri ve şifa niyetine birkaç damla sızma zeytinyağı ile nemlendirip, kuzumuza lokma lokman sunalım.",
+        "en": "Mix with unsalted curd cheese and a few drops of olive oil, then serve as tiny bites."
+      }
+    ],
+    "imageUrl": ""
+  },
+  {
+    "id": "pratik_007",
+    "title": {
+      "tr": "Akıllı Bıdıklara Pekmezli Gurme Yoğurt",
+      "en": "Yogurt with Molasses"
+    },
+    "description": {
+      "tr": "Ek gıda saatlerinde can kurtaran, taze ev yoğurdunun pekmezle tatlandırılmış en hızlı ve tatlı hali.",
+      "en": "A lifesaver during snack times, featuring fresh homemade yogurt sweetened quickly with a touch of molasses."
+    },
+    "category": 13,
+    "ingredients": [
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "kase",
+          "en": "bowl"
+        },
+        "baseName": {
+          "tr": "ev yoğurdu",
+          "en": "homemade yogurt"
+        },
+        "shoppingLabel": {
+          "tr": "Yoğurt",
+          "en": "Yogurt"
+        }
+      },
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "tatlı kaşığı",
+          "en": "tsp"
+        },
+        "baseName": {
+          "tr": "üzüm pekmezi",
+          "en": "grape molasses"
+        },
+        "shoppingLabel": {
+          "tr": "Pekmez",
+          "en": "Molasses"
+        }
+      }
+    ],
+    "preparationTime": 1,
+    "calories": 75,
+    "suitableAgeInMonths": 8,
     "allergicIngredients": [
       {
         "tr": "süt",
@@ -264,25 +385,25 @@
     ],
     "instructions": [
       {
-        "tr": "Bebeğinizin ayına uygun taze bir meyveyi cam rendede rendeleyerek veya çatalla tamamen ezerek pürüzsüz bir püre haline getirelim.",
-        "en": "Grate a fresh fruit appropriate for your baby's age using a glass grater or mash it thoroughly with a fork into a smooth puree."
+        "tr": "Kalsiyum deposu ev yoğurdumuzu minişimizin kasesine güzelce paylaştıralım.",
+        "en": "Scoop fresh homemade yogurt into your baby's bowl."
       },
       {
-        "tr": "Elde ettiğimiz taze meyve püresini ev yoğurduyla birleştirip kaşıkla homojen bir renk alana kadar karıştırarak hemen servis edelim.",
-        "en": "Combine the fresh fruit puree with homemade yogurt, mix with a spoon until it achieves a homogenous color, and serve immediately."
+        "tr": "Üzerine kan yapıcı, şifa kaynağı üzüm pekmezimizi gezdirip, ebru sanatı gibi tatlı sarmallar oluşturarak karıştırıp yedirelim.",
+        "en": "Drizzle grape molasses on top and mix gently before feeding."
       }
     ],
     "imageUrl": ""
   },
   {
-    "id": "pratik_006",
+    "id": "pratik_008",
     "title": {
-      "tr": "Gevşetilmiş Bebek Lor Peyniri",
-      "en": "Loosened Baby Curd Cheese"
+      "tr": "Minişe Güç Veren Zeytinyağlı Lor Ezmesi",
+      "en": "Mashed Curd with Olive Oil"
     },
     "description": {
-      "tr": "Saniyeler içinde tabağa alıp sunabileceğiniz, bebişiniz için hazır ve katkısız protein kaynağı.",
-      "en": "A ready and pure source of protein for your baby that you can plate and serve in seconds."
+      "tr": "Tuzsuz lor peynirinin halis zeytinyağı ile ezilerek saniyeler içinde yumuşacık bir kıvama getirildiği pratik kahvaltılık.",
+      "en": "A quick breakfast dish where unsalted curd cheese is mashed with olive oil into a soft texture within seconds."
     },
     "category": 13,
     "ingredients": [
@@ -300,9 +421,24 @@
           "tr": "Peynir",
           "en": "Cheese"
         }
+      },
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "tatlı kaşığı",
+          "en": "tsp"
+        },
+        "baseName": {
+          "tr": "sızma zeytinyağı",
+          "en": "olive oil"
+        },
+        "shoppingLabel": {
+          "tr": "Zeytinyağı",
+          "en": "Olive Oil"
+        }
       }
     ],
-    "preparationTime": 1,
+    "preparationTime": 2,
     "calories": 70,
     "suitableAgeInMonths": 7,
     "allergicIngredients": [
@@ -313,120 +449,12 @@
     ],
     "instructions": [
       {
-        "tr": "Tuzsuz ve taze olduğuna emin olduğumuz bebek lor peynirini temiz bir mama tabağına alalım.",
-        "en": "Place fresh and salt-free baby curd cheese onto a clean baby plate."
+        "tr": "Kuzumuz için hazırladığımız o yumuşacık, tuzsuz lor peynirini kahvaltı tabağına alalım.",
+        "en": "Place unsalted curd cheese on a breakfast plate."
       },
       {
-        "tr": "Peynir topaklarını önlemek için çatalla hafifçe bastırarak gevşetelim. Yutmayı kolaylaştırmak için isteğe göre birkaç damla anne sütü veya zeytinyağı ile nemlendirip bebişimizin önüne koyalım.",
-        "en": "Loosen the cheese chunks by pressing gently with a fork to avoid lumps. If desired, moisten with a few drops of breast milk or olive oil to make swallowing easier, then serve to your baby."
-      }
-    ],
-    "imageUrl": ""
-  },
-  {
-    "id": "pratik_007",
-    "title": {
-      "tr": "Lifli Ezilmiş Şeftali Püresi",
-      "en": "Mashed Peach Puree"
-    },
-    "description": {
-      "tr": "Mevsiminde taze şeftalinin çatalla ezilerek hazırlanan, bol lifli ve sulu pratik meyve öğünü.",
-      "en": "A high-fiber, juicy, practical fruit meal prepared by mashing seasonal fresh peach with a fork."
-    },
-    "category": 13,
-    "ingredients": [
-      {
-        "amount": 1,
-        "unit": {
-          "tr": "adet",
-          "en": "pcs"
-        },
-        "baseName": {
-          "tr": "şeftali",
-          "en": "peach"
-        },
-        "shoppingLabel": {
-          "tr": "Şeftali",
-          "en": "Peach"
-        }
-      }
-    ],
-    "preparationTime": 3,
-    "calories": 40,
-    "suitableAgeInMonths": 6,
-    "allergicIngredients": [],
-    "instructions": [
-      {
-        "tr": "Taze şeftalinin kabuklarını güzelce soyup çekirdeğini çıkaralım ve sert kısımları kalmayacak şekilde temizleyelim.",
-        "en": "Thoroughly peel a fresh peach, remove its seed, and clean it so no hard parts are left."
-      },
-      {
-        "tr": "Şeftaliyi tabakta çatalla iyice ezelim. Çıkan faydalı şeftali suyunu ziyan etmeden posasıyla birlikte karıştırarak taze taze yedirelim.",
-        "en": "Thoroughly mash the peach with a fork on a plate. Mix the nutritious extracted juice back with its pulp and feed fresh without wasting any."
-      }
-    ],
-    "imageUrl": ""
-  },
-  {
-    "id": "pratik_008",
-    "title": {
-      "tr": "İnce Cevizli Enerji Pekmezi",
-      "en": "Finely Ground Walnut Molasses"
-    },
-    "description": {
-      "tr": "Cevizin faydalı yağları ve pekmezin demir gücünün karıştırılmasıyla saniyeler içinde hazır olan enerji bombası.",
-      "en": "An energy bomb prepared in seconds by mixing beneficial walnut fats and the iron power of molasses."
-    },
-    "category": 13,
-    "ingredients": [
-      {
-        "amount": 1,
-        "unit": {
-          "tr": "tatlı kaşığı",
-          "en": "tsp"
-        },
-        "baseName": {
-          "tr": "pekmez",
-          "en": "molasses"
-        },
-        "shoppingLabel": {
-          "tr": "Pekmez",
-          "en": "Molasses"
-        }
-      },
-      {
-        "amount": 1,
-        "unit": {
-          "tr": "adet",
-          "en": "pcs"
-        },
-        "baseName": {
-          "tr": "ceviz",
-          "en": "walnut"
-        },
-        "shoppingLabel": {
-          "tr": "Ceviz",
-          "en": "Walnut"
-        }
-      }
-    ],
-    "preparationTime": 2,
-    "calories": 90,
-    "suitableAgeInMonths": 10,
-    "allergicIngredients": [
-      {
-        "tr": "ceviz",
-        "en": "walnut"
-      }
-    ],
-    "instructions": [
-      {
-        "tr": "Ceviz içini boğaza kaçma riskini önlemek için havanda un ufak olana dek ezelim veya incecik rendeleyerek toz haline getirelim.",
-        "en": "To eliminate choking hazards, crush the walnut kernel in a mortar until finely ground or grate it until it becomes a fine powder."
-      },
-      {
-        "tr": "Bir tatlı kaşığı pekmezi kaseye alıp üzerine toz cevizi ekleyelim ve tamamen karışana kadar kaşıkla çırpıp bebişimize verelim.",
-        "en": "Place a teaspoon of molasses in a bowl, add the powdered walnut, mix thoroughly with a spoon, and give it to your baby."
+        "tr": "Üzerine halis sızma zeytinyağını gezdirip çatalla tatlı tatlı ezerek, bebişimizin damağında eriyecek ipeksi bir kıvam yakalayalım.",
+        "en": "Drizzle extra virgin olive oil and mash with a fork until it reaches a smooth, spreadable consistency."
       }
     ],
     "imageUrl": ""
@@ -434,12 +462,12 @@
   {
     "id": "pratik_009",
     "title": {
-      "tr": "Taze Domates Suyu ve Yumuşak Ekmek İçi",
-      "en": "Fresh Tomato Juice and Soft Bread Crumbs"
+      "tr": "Yaz Güneşi Domates Sulu Ekmek Aşı",
+      "en": "Breadcrumbs in Tomato Juice"
     },
     "description": {
-      "tr": "Yaz aylarında domatesin taze suyuyla ıslatılmış ekmek içinin doyurucu ve leziz birlikteliği.",
-      "en": "A filling and tasty combination of breadcrumbs soaked in fresh tomato juice during summer."
+      "tr": "Mevsiminde rendelenmiş domatesin suyu ile yumuşatılan ekmek içlerinden oluşan, pişirme gerektirmeyen çok pratik bir yaz öğünü.",
+      "en": "A highly practical, no-cook summer dish consisting of breadcrumbs softened in fresh seasonal tomato juice."
     },
     "category": 13,
     "ingredients": [
@@ -450,18 +478,33 @@
           "en": "pcs"
         },
         "baseName": {
-          "tr": "domates",
-          "en": "tomato"
+          "tr": "tatlı yaz domatesi",
+          "en": "sweet summer tomato"
         },
         "shoppingLabel": {
           "tr": "Domates",
           "en": "Tomato"
         }
+      },
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "dilim",
+          "en": "slice"
+        },
+        "baseName": {
+          "tr": "ekmek içi",
+          "en": "breadcrumbs"
+        },
+        "shoppingLabel": {
+          "tr": "Ekmek",
+          "en": "Bread"
+        }
       }
     ],
     "preparationTime": 5,
-    "calories": 80,
-    "suitableAgeInMonths": 12,
+    "calories": 85,
+    "suitableAgeInMonths": 10,
     "allergicIngredients": [
       {
         "tr": "domates",
@@ -474,12 +517,12 @@
     ],
     "instructions": [
       {
-        "tr": "Taze yaz domatesini güzelce yıkayıp kabuğunu soyduktan sonra cam rendede rendeleyelim ve suyunu süzgeçten geçirerek ayıralım.",
-        "en": "Thoroughly wash and peel a fresh summer tomato, grate it on a glass grater, and strain its juice."
+        "tr": "Yaz güneşiyle olgunlaşmış domatesimizi cam rendede anne özeniyle rendeleyip o şifalı, taze suyunu çıkaralım.",
+        "en": "Grate a sweet summer tomato using a glass grater to collect its fresh juice."
       },
       {
-        "tr": "Küçük parçalara böldüğümüz tuzsuz ekmek içlerini bu domates suyuyla tamamen ıslatıp yumuşamasını bekleyelim, ardından kaşıkla yedirelim.",
-        "en": "Soak small pieces of salt-free breadcrumbs completely in this tomato juice, wait until they soften, and feed with a spoon."
+        "tr": "Ekmek içlerimizi bu taze domates suyuyla buluşturup pamuk gibi yumuşamasını sağlayarak bal küpümüze keyifle yedirelim.",
+        "en": "Soak breadcrumbs in this tomato juice, let them soften, and feed."
       }
     ],
     "imageUrl": ""
@@ -487,11 +530,11 @@
   {
     "id": "pratik_010",
     "title": {
-      "tr": "Anne Sütü veya Mama ile Yumuşatılmış Bisküvi",
-      "en": "Baby Biscuits Softened with Breast Milk or Formula"
+      "tr": "Geleneksel ve Hızlı Yoğurtlu Bisküvi Lapası",
+      "en": "Milky Biscuits"
     },
     "description": {
-      "tr": "Sütte yumuşatılmış bebe bisküvisinin pürüzsüz dokusuyla hazırlanan geleneksel ve hızlı ara... öğün.",
+      "tr": "Sütte yumuşatılmış bebe bisküvisinin pürüzsüz dokusuyla hazırlanan geleneksel ve hızlı ara öğün.",
       "en": "A traditional and quick snack prepared with the smooth texture of baby biscuits softened in milk."
     },
     "category": 13,
@@ -524,12 +567,12 @@
     ],
     "instructions": [
       {
-        "tr": "Ilık anne sütünü veya talimatına göre yeni hazırlanmış ılık formül mamayı derin bir mama kasesine alalım.",
-        "en": "Place warm breast milk or freshly prepared warm formula into a deep baby bowl."
+        "tr": "Ev yapımı mis kokulu bebe bisküvilerini tabağa alıp, üzerini geçecek kadar ılık süt ekleyerek pamuk gibi yumuşatalım.",
+        "en": "Place baby biscuits in a bowl and soften them by soaking in warm milk."
       },
       {
-        "tr": "Bebe bisküvilerini sütün içine atıp yumuşaması için 1 dakika bekletelim. Ardından çatalla tamamen ezerek pürüzsüz püre kıvamında yedirelim.",
-        "en": "Drop the baby biscuits into the milk and wait 1 minute for them to soften. Then mash completely with a fork and feed in a smooth puree consistency."
+        "tr": "Çatalla hafifçe bastırarak saniyeler içinde pürüzsüz bir lapa haline getirelim and bebişimize afiyetle yedirelim. Şifa olsun meleğimize!",
+        "en": "Mash gently into a smooth paste and serve immediately."
       }
     ],
     "imageUrl": ""
