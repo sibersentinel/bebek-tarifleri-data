@@ -2,7 +2,7 @@
   {
     "id": "meyve_001",
     "title": {
-      "tr": "Armut Püresi",
+      "tr": "Sindirim Dostu Tatlış Armut Püresi",
       "en": "Pear Puree"
     },
     "description": {
@@ -33,12 +33,12 @@
     "allergicIngredients": [],
     "instructions": [
       {
-        "tr": "Armudun kabuğunu soyup çekirdeklerini çıkaralım ve buharda 5 dakika haşlayalım.",
+        "tr": "Bal küpümüz için armudun kabuğunu soyup çekirdeklerini tertemiz çıkaralım ve buharda 5 dakika şefkatle haşlayalım.",
         "en": "Peel the pear, remove the seeds, and steam for 5 minutes."
       },
       {
-        "tr": "Yumuşayan armudu cam rende kullanarak rendeleyip taze olarak yedirelim.",
-        "en": "Grate the softened pear using a glass grater and serve fresh."
+        "tr": "Yumuşacık olan armudu tüm vitaminlerini koruması için cam rende kullanarak narince rendeleyip kuzumuza taze taze yedirelim.",
+        "en": "Grate the softened pear using a glass grater and feed fresh."
       }
     ],
     "imageUrl": ""
@@ -46,71 +46,12 @@
   {
     "id": "meyve_002",
     "title": {
-      "tr": "Muzlu Avokado",
-      "en": "Banana Avocado"
+      "tr": "Miniğin İlk Adımı Mis Kokulu Elma Püresi",
+      "en": "Apple Mash"
     },
     "description": {
-      "tr": "Muzun tatlı aroması ile avokadonun krema kıvamındaki sağlıklı yağlarının muhteşem buluşması.",
-      "en": "The wonderful combination of sweet banana aroma and healthy fats of creamy avocado."
-    },
-    "category": 3,
-    "ingredients": [
-      {
-        "amount": 0.5,
-        "unit": {
-          "tr": "adet",
-          "en": "pcs"
-        },
-        "baseName": {
-          "tr": "muz",
-          "en": "banana"
-        },
-        "shoppingLabel": {
-          "tr": "Muz",
-          "en": "Banana"
-        }
-      },
-      {
-        "amount": 0.25,
-        "unit": {
-          "tr": "adet",
-          "en": "pcs"
-        },
-        "baseName": {
-          "tr": "avokado",
-          "en": "avocado"
-        },
-        "shoppingLabel": {
-          "tr": "Avokado",
-          "en": "Avocado"
-        }
-      }
-    ],
-    "preparationTime": 5,
-    "calories": 120,
-    "suitableAgeInMonths": 7,
-    "allergicIngredients": [],
-    "instructions": [
-      {
-        "tr": "Muz ve avokadonun içlerini bir kaseye alalım.",
-        "en": "Place banana and avocado flesh in a bowl."
-      },
-      {
-        "tr": "Çatalla ezerek pürüzsüz ve homojen bir kıvam alana kadar karıştıralım.",
-        "en": "Mash with a fork and mix until you achieve a smooth and homogeneous consistency."
-      }
-    ],
-    "imageUrl": ""
-  },
-  {
-    "id": "meyve_003",
-    "title": {
-      "tr": "Şeftali Suyu",
-      "en": "Peach Juice"
-    },
-    "description": {
-      "tr": "Yaz aylarının bol vitaminli, tatlı şeftalisinin süzülmesiyle elde edilen mis kokulu taze meyve suyu.",
-      "en": "A fragrant fresh juice obtained by straining vitamin-rich, sweet summer peaches."
+      "tr": "Alerji riski en düşük meyvelerden olan tatlı elmanın buharda pişirilip ezilmesiyle hazırlanan ilk meyve başlangıcı.",
+      "en": "The perfect first fruit starter prepared by steaming and mashing sweet apple, one of the lowest allergy-risk fruits."
     },
     "category": 3,
     "ingredients": [
@@ -121,8 +62,52 @@
           "en": "pcs"
         },
         "baseName": {
-          "tr": "şeftali",
-          "en": "peach"
+          "tr": "tatlı elma",
+          "en": "sweet apple"
+        },
+        "shoppingLabel": {
+          "tr": "Elma",
+          "en": "Apple"
+        }
+      }
+    ],
+    "preparationTime": 12,
+    "calories": 52,
+    "suitableAgeInMonths": 6,
+    "allergicIngredients": [],
+    "instructions": [
+      {
+        "tr": "Mis kokulu tatlı elmamızın kabuklarını soyup, bebişimizin narin göbüşü için çabucak pişsin diye minik küpler halinde doğrayalım.",
+        "en": "Peel the sweet apple and chop into small cubes for fast cooking."
+      },
+      {
+        "tr": "Buhar aparatında elma dilimleri pamuk gibi yumuşayana kadar pişirdikten sonra, çatalla bir güzel ezerek minişimize pürüzsüzce sunalım.",
+        "en": "Steam until the apple pieces are tender, then mash smoothly with a fork."
+      }
+    ],
+    "imageUrl": ""
+  },
+  {
+    "id": "meyve_003",
+    "title": {
+      "tr": "Hassas Bağırsaklara Yumuşacık Şeftali Ezmesi",
+      "en": "Peach Puree"
+    },
+    "description": {
+      "tr": "Yaz aylarının bol sulu ve tatlı şeftalisiyle hazırlanan, bebişinizin içini ferahlatacak ipeksi meyve öğünü.",
+      "en": "A refreshing, velvety fruit meal prepared with juicy and sweet summer peaches to delight your baby."
+    },
+    "category": 3,
+    "ingredients": [
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "adet",
+          "en": "pcs"
+        },
+        "baseName": {
+          "tr": "olgun şeftali",
+          "en": "ripe peach"
         },
         "shoppingLabel": {
           "tr": "Şeftali",
@@ -131,17 +116,17 @@
       }
     ],
     "preparationTime": 8,
-    "calories": 40,
+    "calories": 43,
     "suitableAgeInMonths": 6,
     "allergicIngredients": [],
     "instructions": [
       {
-        "tr": "Şeftalinin kabuğunu soyup dilimleyelim.",
-        "en": "Peel and slice the peach."
+        "tr": "Bal gibi olgunlaşmış şeftalimizin kabuğunu narince soyup çekirdeğini sevgiyle ayıralım.",
+        "en": "Peel a ripe peach gently and remove its pit."
       },
       {
-        "tr": "Temiz bir tülbentten veya ince süzgeçten geçirip sıkarak suyunu çıkaralım.",
-        "en": "Pass through a clean cheesecloth or fine sieve, squeezing to extract the juice."
+        "tr": "Meyvemizi cam rendede anne özeniyle rendeleyerek sulu ve ipeksi bir kıvam elde edelim, canım vitaminleri kaçmasın diye bekletmeden yedirelim.",
+        "en": "Grate the fruit using a glass grater to get a juicy consistency and serve immediately."
       }
     ],
     "imageUrl": ""
@@ -149,56 +134,12 @@
   {
     "id": "meyve_004",
     "title": {
-      "tr": "Kayısı Kurusu Püresi",
-      "en": "Dried Apricot Puree"
+      "tr": "Göz Nuru Kayısılı Vitamin Püresi",
+      "en": "Apricot Mash"
     },
     "description": {
-      "tr": "Kabızlık çeken miniklerimiz için gün kurusu kayısıların haşlanmasıyla hazırlanan doğal ve etkili püre.",
-      "en": "A natural and effective puree prepared by boiling sun-dried apricots for babies suffering from constipation."
-    },
-    "category": 3,
-    "ingredients": [
-      {
-        "amount": 3,
-        "unit": {
-          "tr": "adet",
-          "en": "pcs"
-        },
-        "baseName": {
-          "tr": "gün kurusu kayısı",
-          "en": "dried apricot"
-        },
-        "shoppingLabel": {
-          "tr": "Kayısı",
-          "en": "Apricot"
-        }
-      }
-    ],
-    "preparationTime": 15,
-    "calories": 50,
-    "suitableAgeInMonths": 7,
-    "allergicIngredients": [],
-    "instructions": [
-      {
-        "tr": "Kuru kayısıları sıcak suda 1 saat bekleterek yumuşatalım.",
-        "en": "Soak dried apricots in hot water for 1 hour to soften."
-      },
-      {
-        "tr": "Yumuşayan kayısıları az suda haşlayıp çatalla püre haline getirelim.",
-        "en": "Boil the softened apricots in a little water and mash with a fork into a puree."
-      }
-    ],
-    "imageUrl": ""
-  },
-  {
-    "id": "meyve_005",
-    "title": {
-      "tr": "Erik Marmelatı",
-      "en": "Plum Marmalade"
-    },
-    "description": {
-      "tr": "Tatlı ve mayhoş eriklerin çekirdeği çıkarılarak pişirilmesiyle elde edilen iştah açıcı marmelat.",
-      "en": "An appetizing marmalade obtained by pitting and cooking sweet and sour plums."
+      "tr": "A ve C vitaminleri yönünden zengin taze kayısıların buharda hafifçe yumuşatılmasıyla hazırlanan iştah açıcı püre.",
+      "en": "An appetizing puree rich in vitamins A and C, prepared by gently steaming fresh apricots."
     },
     "category": 3,
     "ingredients": [
@@ -209,8 +150,52 @@
           "en": "pcs"
         },
         "baseName": {
-          "tr": "mürdüm eriği",
-          "en": "plum"
+          "tr": "taze kayısı",
+          "en": "fresh apricot"
+        },
+        "shoppingLabel": {
+          "tr": "Kayısı",
+          "en": "Apricot"
+        }
+      }
+    ],
+    "preparationTime": 10,
+    "calories": 48,
+    "suitableAgeInMonths": 7,
+    "allergicIngredients": [],
+    "instructions": [
+      {
+        "tr": "Taptaze kayısılarımızı güzelce yıkayıp kabuklarını soyalım ve çekirdeklerini içinden ayıklayalım.",
+        "en": "Wash and peel the fresh apricots, then remove their pits."
+      },
+      {
+        "tr": "Buharda pamuk gibi olana kadar 5 dakika nazikçe pişirip, sıcakken çatalla bir güzel ezerek püre haline getirelim.",
+        "en": "Steam for about 5 minutes until soft and mash with a fork while warm."
+      }
+    ],
+    "imageUrl": ""
+  },
+  {
+    "id": "meyve_005",
+    "title": {
+      "tr": "Mideyi Rahatlatan Mis Kokulu Erik Püresi",
+      "en": "Plum Puree"
+    },
+    "description": {
+      "tr": "Mayhoş aromasıyla bebişlerin çok seveceği, bağırsak hareketlerini düzenleyen şifalı kırmızı erik püresi.",
+      "en": "A healing red plum puree with a pleasant tart flavor that regulates bowel movements and increases appetite."
+    },
+    "category": 3,
+    "ingredients": [
+      {
+        "amount": 2,
+        "unit": {
+          "tr": "adet",
+          "en": "pcs"
+        },
+        "baseName": {
+          "tr": "kırmızı erik",
+          "en": "red plum"
         },
         "shoppingLabel": {
           "tr": "Erik",
@@ -218,18 +203,18 @@
         }
       }
     ],
-    "preparationTime": 20,
-    "calories": 30,
-    "suitableAgeInMonths": 8,
+    "preparationTime": 12,
+    "calories": 46,
+    "suitableAgeInMonths": 7,
     "allergicIngredients": [],
     "instructions": [
       {
-        "tr": "Eriklerin çekirdeklerini ayırıp az suda yumuşayana dek pişirelim.",
-        "en": "Remove seeds from the plums and cook in a little water until soft."
+        "tr": "Kırmızı eriklerimizi yıkayıp kabuklarını soyalım, çekirdek yataklarını anne titizliğiyle temizleyelim.",
+        "en": "Wash, peel, and core the red plums carefully."
       },
       {
-        "tr": "Süzgeçten geçirerek pürüzsüz bir kıvam kazandıralım.",
-        "en": "Pass through a sieve to give it a smooth texture."
+        "tr": "Azıcık temiz su eklediğimiz tencerede erikler lokum gibi eriyene kadar pişirip, süzgeçten geçirerek pürüzsüz kıvama getirelim.",
+        "en": "Simmer in a small amount of water until tender and press through a sieve for a smooth texture."
       }
     ],
     "imageUrl": ""
@@ -237,12 +222,12 @@
   {
     "id": "meyve_006",
     "title": {
-      "tr": "Kavun Püresi",
+      "tr": "Yaz Güneşi Mis Kokulu Kavun Püresi",
       "en": "Melon Puree"
     },
     "description": {
-      "tr": "Yazın en sulu meyvesi kavunun çatalla ezilerek hazırlanan, ferahlatıcı ve tatlı meyve saati.",
-      "en": "A refreshing and sweet fruit time prepared by mashing summer's juiciest melon with a fork."
+      "tr": "Yüksek su oranıyla yaz sıcaklarında bebişinizin içini ferahlatacak, tatlı ve sulu kavun ezmesi.",
+      "en": "A sweet and juicy melon puree with high water content to keep your baby hydrated and refreshed during summer."
     },
     "category": 3,
     "ingredients": [
@@ -253,8 +238,8 @@
           "en": "slice"
         },
         "baseName": {
-          "tr": "kavun",
-          "en": "melon"
+          "tr": "tatlı kavun",
+          "en": "sweet melon"
         },
         "shoppingLabel": {
           "tr": "Kavun",
@@ -263,17 +248,17 @@
       }
     ],
     "preparationTime": 5,
-    "calories": 35,
+    "calories": 36,
     "suitableAgeInMonths": 8,
     "allergicIngredients": [],
     "instructions": [
       {
-        "tr": "Kavunun çekirdekli kısımlarını temizleyip sulu etli kısmını tabağa alalım.",
-        "en": "Clean the seeded parts of the melon and place the juicy flesh on a plate."
+        "tr": "Bal gibi tatlı kavun dilimimizin çekirdeklerini ve kabuğunu tamamen temizleyelim.",
+        "en": "Remove the seeds and rind completely from a sweet melon slice."
       },
       {
-        "tr": "Çatalla iyice ezerek bebişimize bekletmeden verelim.",
-        "en": "Mash thoroughly with a fork and serve to your baby immediately."
+        "tr": "Yumuşacık kavun etini cam rendede veya çatalla ezerek minişimizin narin diline uygun, sulu bir püre haline getirelim.",
+        "en": "Grate the soft melon using a glass grater or mash with a fork until juicy and smooth."
       }
     ],
     "imageUrl": ""
@@ -281,100 +266,12 @@
   {
     "id": "meyve_007",
     "title": {
-      "tr": "Vişne Kompostosu",
-      "en": "Sour Cherry Compote"
+      "tr": "Kan Deposu Şirin Pekmezli Avokado",
+      "en": "Avocado with Molasses"
     },
     "description": {
-      "tr": "Vişnelerin haşlanmasıyla elde edilen, bebişlerin iştahını açacak vitaminli ve ferahlatıcı komposto suyu.",
-      "en": "A vitamin-rich and refreshing compote juice obtained by boiling sour cherries to boost baby's appetite."
-    },
-    "category": 3,
-    "ingredients": [
-      {
-        "amount": 10,
-        "unit": {
-          "tr": "adet",
-          "en": "pcs"
-        },
-        "baseName": {
-          "tr": "vişne",
-          "en": "sour cherry"
-        },
-        "shoppingLabel": {
-          "tr": "Vişne",
-          "en": "Sour Cherry"
-        }
-      }
-    ],
-    "preparationTime": 15,
-    "calories": 45,
-    "suitableAgeInMonths": 10,
-    "allergicIngredients": [],
-    "instructions": [
-      {
-        "tr": "Çekirdeksiz vişneleri tencerede suyla kaynatalım.",
-        "en": "Boil pitted sour cherries with water in a pot."
-      },
-      {
-        "tr": "Süzüp suyunu oda sıcaklığına getirerek bebişimize içirelim.",
-        "en": "Strain the broth, bring it to room temperature, and give it to your baby to drink."
-      }
-    ],
-    "imageUrl": ""
-  },
-  {
-    "id": "meyve_008",
-    "title": {
-      "tr": "Yaban Mersini Ezmesi",
-      "en": "Blueberry Mash"
-    },
-    "description": {
-      "tr": "Antioksidan deposu yaban mersini tanelerinin ezilip süzülmesiyle hazırlanan mor renkli şifa püresi.",
-      "en": "A purple-colored healing puree prepared by mashing and straining antioxidant-rich blueberries."
-    },
-    "category": 3,
-    "ingredients": [
-      {
-        "amount": 10,
-        "unit": {
-          "tr": "adet",
-          "en": "pcs"
-        },
-        "baseName": {
-          "tr": "yaban mersini",
-          "en": "blueberries"
-        },
-        "shoppingLabel": {
-          "tr": "Yaban Mersini",
-          "en": "Blueberries"
-        }
-      }
-    ],
-    "preparationTime": 5,
-    "calories": 50,
-    "suitableAgeInMonths": 10,
-    "allergicIngredients": [],
-    "instructions": [
-      {
-        "tr": "Yaban mersinlerini iyice yıkayıp bir kasede ezelim.",
-        "en": "Wash the blueberries thoroughly and mash them in a bowl."
-      },
-      {
-        "tr": "Kabuk ve çekirdeklerinin geçmemesi için ince süzgeçten süzerek servis edelim.",
-        "en": "Strain through a fine sieve to ensure no skins or seeds pass through, and serve."
-      }
-    ],
-    "imageUrl": ""
-  },
-  {
-    "id": "meyve_009",
-    "title": {
-      "tr": "Mango Püresi",
-      "en": "Mango Puree"
-    },
-    "description": {
-      "tr": "Tropikal meyve mangonun ipeksi dokusu ve tatlı aromasıyla hazırlanan kadife gibi pürüzsüz püre.",
-      "en": "A velvety smooth puree prepared with the silky texture and sweet aroma of tropical mango."
+      "tr": "Avokadonun ipeksi dokusu ile üzüm pekmezinin demir gücünün birleştiği besleyici ve kilo alımına yardımcı öğün.",
+      "en": "A nutritious and weight-supporting meal combining the velvety texture of avocado and the iron power of molasses."
     },
     "category": 3,
     "ingredients": [
@@ -385,8 +282,111 @@
           "en": "pcs"
         },
         "baseName": {
-          "tr": "mango",
-          "en": "mango"
+          "tr": "olgun avokado",
+          "en": "ripe avocado"
+        },
+        "shoppingLabel": {
+          "tr": "Avokado",
+          "en": "Avocado"
+        }
+      },
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "tatlı kaşığı",
+          "en": "tsp"
+        },
+        "baseName": {
+          "tr": "üzüm pekmezi",
+          "en": "grape molasses"
+        },
+        "shoppingLabel": {
+          "tr": "Pekmez",
+          "en": "Molasses"
+        }
+      }
+    ],
+    "preparationTime": 5,
+    "calories": 115,
+    "suitableAgeInMonths": 6,
+    "allergicIngredients": [],
+    "instructions": [
+      {
+        "tr": "Tam kıvamında olgunlaşmış avokadomuzun içini kaşıkla narince çıkarıp şirin bir kaseye alalım.",
+        "en": "Scoop out a ripe avocado and place it in a small bowl."
+      },
+      {
+        "tr": "Çatalla anne özeniyle pürüzsüz olana dek ezdikten sonra, üzerine o şifalı kan yapıcı pekmezimizi gezdirip sevgiyle karıştıralım.",
+        "en": "Mash thoroughly with a fork until smooth, then drizzle molasses on top and mix well."
+      }
+    ],
+    "imageUrl": ""
+  },
+  {
+    "id": "meyve_008",
+    "title": {
+      "tr": "Kuzuma Enerji Veren Cici Muz Püresi",
+      "en": "Banana Mash"
+    },
+    "description": {
+      "tr": "Potasyum deposu muzun anne sütüyle yumuşatılarak hazırlandığı, bebişlerin bayılarak yiyeceği tok tutucu püre.",
+      "en": "A satisfying, potassium-rich banana mash softened with breast milk that babies will absolutely love."
+    },
+    "category": 3,
+    "ingredients": [
+      {
+        "amount": 0.5,
+        "unit": {
+          "tr": "adet",
+          "en": "pcs"
+        },
+        "baseName": {
+          "tr": "olgun muz",
+          "en": "ripe banana"
+        },
+        "shoppingLabel": {
+          "tr": "Muz",
+          "en": "Banana"
+        }
+      }
+    ],
+    "preparationTime": 4,
+    "calories": 65,
+    "suitableAgeInMonths": 6,
+    "allergicIngredients": [],
+    "instructions": [
+      {
+        "tr": "Bal gibi tatlı olgun muzumuzu bir tabağa alıp çatalın arkasıyla un ufak, pürüzsüz olana dek güzelce ezelim.",
+        "en": "Place a ripe banana on a plate and mash it thoroughly with the back of a fork."
+      },
+      {
+        "tr": "Kıvamı bal küpümüze biraz katı gelirse, içine anne şefkati niyetine birkaç damla anne sütü ekleyerek ipeksi bir kıvama getirelim.",
+        "en": "Thin the consistency with a few drops of breast milk if needed to achieve a silky texture."
+      }
+    ],
+    "imageUrl": ""
+  },
+  {
+    "id": "meyve_009",
+    "title": {
+      "tr": "Egzotik Esintili Tropikal Mango Püresi",
+      "en": "Mango Puree"
+    },
+    "description": {
+      "tr": "A ve C vitaminleri yönünden son derece zengin, yumuşacık dokusuyla bebişlerin damak tadını zenginleştiren tropikal lezzet.",
+      "en": "A tropical treat rich in vitamins A and C, expanding your baby's palate with its smooth texture."
+    },
+    "category": 3,
+    "ingredients": [
+      {
+        "amount": 0.5,
+        "unit": {
+          "tr": "adet",
+          "en": "pcs"
+        },
+        "baseName": {
+          "tr": "olgun mango",
+          "en": "ripe mango"
         },
         "shoppingLabel": {
           "tr": "Mango",
@@ -394,18 +394,18 @@
         }
       }
     ],
-    "preparationTime": 5,
+    "preparationTime": 6,
     "calories": 60,
     "suitableAgeInMonths": 8,
     "allergicIngredients": [],
     "instructions": [
       {
-        "tr": "Olgun mangonun etli kısmını dilimleyip blender kabına alalım.",
+        "tr": "Olgun mangomuzun etli ve tatlı kısmını kabuğundan ayırıp dilimleyerek blender kabına sevgiyle alalım.",
         "en": "Slice the flesh of a ripe mango and place it in a blender."
       },
       {
-        "tr": "Pürüzsüz bir kıvam alana kadar çekip servis edelim.",
-        "en": "Blend until completely smooth and serve."
+        "tr": "Kuzumuzun narin boğazını acıtmaması için pürüzsüz bir kıvam alana kadar çekip taze taze servis edelim.",
+        "en": "Blend until completely smooth and serve immediately."
       }
     ],
     "imageUrl": ""
@@ -413,7 +413,7 @@
   {
     "id": "meyve_010",
     "title": {
-      "tr": "İncir Ezmesi",
+      "tr": "Akıllı Bıdıklara Bal Gibi İncir Ezmesi",
       "en": "Fig Mash"
     },
     "description": {
@@ -444,12 +444,12 @@
     "allergicIngredients": [],
     "instructions": [
       {
-        "tr": "Taze incirin kabuklarını incecik soyalım.",
-        "en": "Peel the skin of a fresh fig very thinly."
+        "tr": "Taptaze bal gibi incirimizin dış kabuğunu anne özeniyle incecik soyalım.",
+        "en": "Peel the outer skin of a fresh fig carefully."
       },
       {
-        "tr": "İç kısmını çatalla ezerek bebişimize taze taze sunalım.",
-        "en": "Mash the inner flesh with a fork and serve fresh to your baby."
+        "tr": "İçindeki o şifalı ve tatlı etli kısmı çatalla nazikçe ezerek, minişimizin yutabileceği kıvama getirip afiyetle yedirelim.",
+        "en": "Mash the sweet inner flesh gently with a fork and serve."
       }
     ],
     "imageUrl": ""
