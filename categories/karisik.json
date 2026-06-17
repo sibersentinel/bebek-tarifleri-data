@@ -2,7 +2,7 @@
   {
     "id": "karisik_001",
     "title": {
-      "tr": "Gökkuşağı Püresi",
+      "tr": "Minişlere Renkli Gökkuşağı Püresi",
       "en": "Rainbow Puree"
     },
     "description": {
@@ -58,17 +58,21 @@
       }
     ],
     "preparationTime": 25,
-    "calories": 130,
+    "calories": 85,
     "suitableAgeInMonths": 7,
     "allergicIngredients": [],
     "instructions": [
       {
-        "tr": "Havuç, kabak ve patates gibi sebzeleri yıkayıp doğrayarak haşlayalım.",
-        "en": "Wash, chop, and boil vegetables like carrots, zucchini, and potatoes."
+        "tr": "Vitamin küpü havuçlarımızı, balkabağımızı ve patatesimizi minişimizin kolayca yemesi için küp küp doğrayıp tencereye alalım.",
+        "en": "Chop carrot, pumpkin, and potato into cubes and place them in a pot."
       },
       {
-        "tr": "Sebzeleri süzüp içine sızma zeytinyağı ekleyerek pürüzsüzleşene dek ezelim.",
-        "en": "Drain the vegetables, add extra virgin olive oil, and mash until smooth."
+        "tr": "Sebzelerimizin üzerini geçecek kadar temiz su ekleyip, lokum gibi ezilecek kıvama gelene kadar sevgiyle haşlayalım.",
+        "en": "Add clean water and simmer until the vegetables are perfectly tender."
+      },
+      {
+        "tr": "Yumuşacık pişen sebzeleri ocaktan alıp çatalla pürüzsüz olana dek ezelim, içine şifa niyetine bir tatlı kaşığı sızma zeytinyağı ekleyip bal küpümüze sunalım.",
+        "en": "Mash the cooked vegetables with a fork, mix in a teaspoon of olive oil, and serve warm."
       }
     ],
     "imageUrl": ""
@@ -76,28 +80,369 @@
   {
     "id": "karisik_002",
     "title": {
-      "tr": "Pirinçli Ispanak Yemeği",
-      "en": "Spinach with Rice"
+      "tr": "Kuzuma Enerji Veren İpeksi İrmik Lapası",
+      "en": "Semolina Porridge with Pear"
     },
     "description": {
-      "tr": "Demir deposu taze ıspanak yaprakları ile doyurucu pirincin birlikte piştiği, tam bir öğle yemeği alternatifi.",
-      "en": "A complete lunch alternative featuring iron-rich fresh spinach leaves and filling rice cooked together."
+      "tr": "İrmiğin doyurucu gücü and armudun lifli yapısıyla hazırlanan, bebişinizin bağırsaklarını rahatlatacak lezzetli sabah lapası.",
+      "en": "A delicious breakfast porridge made with satisfying semolina and fiber-rich pear to ease your baby's digestion."
+    },
+    "category": 6,
+    "ingredients": [
+      {
+        "amount": 1.5,
+        "unit": {
+          "tr": "yemek kaşığı",
+          "en": "tbsp"
+        },
+        "baseName": {
+          "tr": "irmik",
+          "en": "semolina"
+        },
+        "shoppingLabel": {
+          "tr": "İrmik",
+          "en": "Semolina"
+        }
+      },
+      {
+        "amount": 0.5,
+        "unit": {
+          "tr": "adet",
+          "en": "pcs"
+        },
+        "baseName": {
+          "tr": "armut",
+          "en": "pear"
+        },
+        "shoppingLabel": {
+          "tr": "Armut",
+          "en": "Pear"
+        }
+      }
+    ],
+    "preparationTime": 15,
+    "calories": 110,
+    "suitableAgeInMonths": 7,
+    "allergicIngredients": [
+      {
+        "tr": "irmik",
+        "en": "semolina"
+      }
+    ],
+    "instructions": [
+      {
+        "tr": "Mis kokulu irmiğimizi suyla, muhallebi kıvamına gelene kadar ocakta tatlı tatlı karıştırarak pişirelim.",
+        "en": "Cook semolina with water, stirring constantly until it reaches a pudding consistency."
+      },
+      {
+        "tr": "Lapamız pişerken içine canım armudumuzu cam rendede narince rendeleyip ekleyelim, birkaç dakika daha birlikte tıkırdatalım.",
+        "en": "Grate the pear using a glass grater, add it to the porridge, and simmer for a few more minutes."
+      },
+      {
+        "tr": "Ocaktan alıp güzelce ılıttıktan sonra, kuzumuzun narin damağına layık ipeksi kıvamdaki lapamızı sevgiyle yedirelim.",
+        "en": "Remove from heat, let it cool to warm, and serve with love."
+      }
+    ],
+    "imageUrl": ""
+  },
+  {
+    "id": "karisik_003",
+    "title": {
+      "tr": "Demir Deposu Kuzu Etli Sebze Ziyafeti",
+      "en": "Minced Lamb with Zucchini"
+    },
+    "description": {
+      "tr": "Demir deposu kuzu kıyması ve sindirim dostu kabağın mükemmel uyumuyla hazırlanan besleyici ana öğün.",
+      "en": "A highly nutritious main meal prepared with iron-rich minced lamb and easily digestible zucchini."
     },
     "category": 6,
     "ingredients": [
       {
         "amount": 1,
         "unit": {
-          "tr": "avuç",
-          "en": "handful"
+          "tr": "yemek kaşığı",
+          "en": "tbsp"
         },
         "baseName": {
-          "tr": "ıspanak",
-          "en": "spinach"
+          "tr": "kuzu kıyma",
+          "en": "minced lamb"
         },
         "shoppingLabel": {
-          "tr": "Ispanak",
-          "en": "Spinach"
+          "tr": "Kıyma",
+          "en": "Minced Meat"
+        }
+      },
+      {
+        "amount": 0.5,
+        "unit": {
+          "tr": "adet",
+          "en": "pcs"
+        },
+        "baseName": {
+          "tr": "kabak",
+          "en": "zucchini"
+        },
+        "shoppingLabel": {
+          "tr": "Kabak",
+          "en": "Zucchini"
+        }
+      }
+    ],
+    "preparationTime": 20,
+    "calories": 130,
+    "suitableAgeInMonths": 8,
+    "allergicIngredients": [],
+    "instructions": [
+      {
+        "tr": "Kuzu kıymamızı küçük bir tencerede, kendi suyunu çekip anne özeniyle lokum gibi pişene kadar hafifçe çevirelim.",
+        "en": "Gently cook the minced lamb in a small pot in its own juices until tender."
+      },
+      {
+        "tr": "Kavrulan etimizin üzerine minik küpler halinde doğradığımız kabakları ve çok az temiz su ekleyip, kabaklar yumuşayana kadar pişmeye bırakalım.",
+        "en": "Add finely diced zucchini and a small amount of clean water, then cook until the zucchini is soft."
+      },
+      {
+        "tr": "Yemek piştikten sonra çatalla bir güzel ezip, minişimizin yutabileceği kıvama getirerek ılık ılık servis edelim.",
+        "en": "Mash thoroughly with a fork to adjust the consistency for your baby and serve warm."
+      }
+    ],
+    "imageUrl": ""
+  },
+  {
+    "id": "karisik_004",
+    "title": {
+      "tr": "Şifa Dolu Yoğurtlu Brokoli Ezmesi",
+      "en": "Broccoli Mash with Yogurt"
+    },
+    "description": {
+      "tr": "Buharda pişmiş brokoli çiçeklerinin, kalsiyum deposu ev yoğurduyla buluştuğu şifa dolu yeşil tabak.",
+      "en": "A healing green dish where steamed broccoli florets meet calcium-rich homemade yogurt."
+    },
+    "category": 6,
+    "ingredients": [
+      {
+        "amount": 3,
+        "unit": {
+          "tr": "çiçek",
+          "en": "florets"
+        },
+        "baseName": {
+          "tr": "brokoli",
+          "en": "broccoli"
+        },
+        "shoppingLabel": {
+          "tr": "Brokoli",
+          "en": "Broccoli"
+        }
+      },
+      {
+        "amount": 2,
+        "unit": {
+          "tr": "yemek kaşığı",
+          "en": "tbsp"
+        },
+        "baseName": {
+          "tr": "ev yoğurdu",
+          "en": "homemade yogurt"
+        },
+        "shoppingLabel": {
+          "tr": "Yoğurt",
+          "en": "Yogurt"
+        }
+      }
+    ],
+    "preparationTime": 15,
+    "calories": 70,
+    "suitableAgeInMonths": 7,
+    "allergicIngredients": [
+      {
+        "tr": "süt",
+        "en": "milk"
+      }
+    ],
+    "instructions": [
+      {
+        "tr": "Brokoli çiçeklerimizi, canlı yeşil rengini and vitaminlerini koruyacak şekilde buharda pamuk gibi olana kadar pişirelim.",
+        "en": "Steam the broccoli florets until fully soft, ensuring all vitamins are preserved."
+      },
+      {
+        "tr": "Haşlanan brokolileri sıcakken çatalla nazikçe ezip, oda sıcaklığındaki mis gibi ev yoğurdumuzla sevgiyle harmanlayalım.",
+        "en": "Mash the warm broccoli with a fork and mix it gently with room-temperature homemade yogurt."
+      }
+    ],
+    "imageUrl": ""
+  },
+  {
+    "id": "karisik_005",
+    "title": {
+      "tr": "Tatlış Elmalı Havuçlu Bebek Yoğurdu",
+      "en": "Yogurt with Apple and Carrot"
+    },
+    "description": {
+      "tr": "Meyve ve sebze tatlılığının taze ev yoğurduyla buluştuğu, bebişlerin iştahını açacak nefis bir ikindi öğünü.",
+      "en": "A delicious afternoon snack combining the sweetness of fruit and vegetable with fresh homemade yogurt."
+    },
+    "category": 6,
+    "ingredients": [
+      {
+        "amount": 0.25,
+        "unit": {
+          "tr": "adet",
+          "en": "pcs"
+        },
+        "baseName": {
+          "tr": "elma",
+          "en": "apple"
+        },
+        "shoppingLabel": {
+          "tr": "Elma",
+          "en": "Apple"
+        }
+      },
+      {
+        "amount": 0.25,
+        "unit": {
+          "tr": "adet",
+          "en": "pcs"
+        },
+        "baseName": {
+          "tr": "havuç",
+          "en": "carrot"
+        },
+        "shoppingLabel": {
+          "tr": "Havuç",
+          "en": "Carrot"
+        }
+      },
+      {
+        "amount": 3,
+        "unit": {
+          "tr": "yemek kaşığı",
+          "en": "tbsp"
+        },
+        "baseName": {
+          "tr": "ev yoğurdu",
+          "en": "homemade yogurt"
+        },
+        "shoppingLabel": {
+          "tr": "Yoğurt",
+          "en": "Yogurt"
+        }
+      }
+    ],
+    "preparationTime": 15,
+    "calories": 95,
+    "suitableAgeInMonths": 7,
+    "allergicIngredients": [
+      {
+        "tr": "süt",
+        "en": "milk"
+      }
+    ],
+    "instructions": [
+      {
+        "tr": "Elma and havuç dilimlerimizi küçük bir tencerede, üzerini geçecek kadar az suda yumuşacık olana kadar haşlayalım.",
+        "en": "Boil apple and carrot slices in a small amount of water until tender."
+      },
+      {
+        "tr": "Yumuşayan bu güzellikleri süzüp çatalla pürüzsüz püre haline getirelim ve soğumaya bırakalım.",
+        "en": "Drain and mash the softened ingredients into a smooth puree, then let it cool."
+      },
+      {
+        "tr": "Tamamen soğuyan meyveli püremizi, canım ev yoğurdumuzun içine ekleyip neşeyle karıştırarak miniğimize sunalım.",
+        "en": "Mix the cooled fruit puree into fresh homemade yogurt and serve."
+      }
+    ],
+    "imageUrl": ""
+  },
+  {
+    "id": "karisik_006",
+    "title": {
+      "tr": "Hassas Göbüşlere Avokadolu Patates Püresi",
+      "en": "Avocado and Potato Puree"
+    },
+    "description": {
+      "tr": "Patatesin doyuruculuğu ile avokadonun ipeksi dokusunun buluştuğu, bebişinizin midesini yormayacak besleyici püre.",
+      "en": "A highly nutritious puree combining satisfying potato and velvety avocado, gentle on your baby's tummy."
+    },
+    "category": 6,
+    "ingredients": [
+      {
+        "amount": 0.5,
+        "unit": {
+          "tr": "küçük",
+          "en": "small"
+        },
+        "baseName": {
+          "tr": "patates",
+          "en": "potato"
+        },
+        "shoppingLabel": {
+          "tr": "Patates",
+          "en": "Potato"
+        }
+      },
+      {
+        "amount": 0.25,
+        "unit": {
+          "tr": "adet",
+          "en": "pcs"
+        },
+        "baseName": {
+          "tr": "avokado",
+          "en": "avocado"
+        },
+        "shoppingLabel": {
+          "tr": "Avokado",
+          "en": "Avocado"
+        }
+      }
+    ],
+    "preparationTime": 20,
+    "calories": 120,
+    "suitableAgeInMonths": 7,
+    "allergicIngredients": [],
+    "instructions": [
+      {
+        "tr": "Patatesimizi temiz suda, çatalla dokununca dağılacak kadar yumuşacık olana dek haşlayıp ocaktan alalım.",
+        "en": "Boil the potato in water until it is completely soft and tender."
+      },
+      {
+        "tr": "Sıcak patatesin yanına olgunlaşmış avokado içini ekleyip, her ikisini de anne özeniyle pürüzsüz olana dek ezelim.",
+        "en": "Add ripe avocado to the warm potato and mash both together until perfectly smooth."
+      },
+      {
+        "tr": "Kıvamı minişimize biraz katı gelirse, içine birkaç damla anne sütü veya sızma zeytinyağı karıştırarak ipeksi bir yumuşaklık yakalayalım.",
+        "en": "Thin the consistency with a few drops of breast milk or olive oil if it's too thick for your baby."
+      }
+    ],
+    "imageUrl": ""
+  },
+  {
+    "id": "karisik_007",
+    "title": {
+      "tr": "Minişlere Özel Pirinçli Balkabağı Yemeği",
+      "en": "Pumpkin with Rice"
+    },
+    "description": {
+      "tr": "Alerji riski düşük balkabağı ve pirincin anne şefkatiyle pişirilmesiyle hazırlanan, sindirimi hafif lezzetli öğün.",
+      "en": "A light, easily digestible meal prepared by cooking low-allergen pumpkin and rice together."
+    },
+    "category": 6,
+    "ingredients": [
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "dilim",
+          "en": "slice"
+        },
+        "baseName": {
+          "tr": "balkabağı",
+          "en": "pumpkin"
+        },
+        "shoppingLabel": {
+          "tr": "Balkabağı",
+          "en": "Pumpkin"
         }
       },
       {
@@ -117,30 +462,34 @@
       }
     ],
     "preparationTime": 20,
-    "calories": 90,
-    "suitableAgeInMonths": 8,
+    "calories": 75,
+    "suitableAgeInMonths": 6,
     "allergicIngredients": [],
     "instructions": [
       {
-        "tr": "Ispanakları incecik kıyalım, pirinçle birlikte az suda pirinçler yumuşayana kadar pişirelim.",
-        "en": "Chop the spinach finely and cook with rice in a small amount of water until the rice is tender."
+        "tr": "Yıkadığımız pirinçleri and küp küp doğradığımız balkabaklarını küçük bir tencereye alıp üzerine azıcık temiz su ekleyelim.",
+        "en": "Place washed rice and diced pumpkin in a small pot with a little clean water."
       },
       {
-        "tr": "Ilındıktan sonra çatalla hafifçe ezerek yedirelim.",
-        "en": "Once cooled to warm, mash gently with a fork and feed."
+        "tr": "Pirincimiz and kabaklarımız yumuşacık, lokum gibi olana kadar kısık ateşte tatlı tatlı pişmeye bırakalım.",
+        "en": "Cook over low heat until both the rice and pumpkin are completely soft and tender."
+      },
+      {
+        "tr": "Ocaktan alıp çatalla güzelce ezdikten sonra, minişimizin yutabileceği narin kıvama getirip servis edelim.",
+        "en": "Mash well with a fork until smooth and serve warm to your baby."
       }
     ],
     "imageUrl": ""
   },
   {
-    "id": "karisik_003",
+    "id": "karisik_008",
     "title": {
-      "tr": "Kıymalı Bezelye",
-      "en": "Peas with Minced Meat"
+      "tr": "Bal Küpüne Tatlı Kayısılı Yulaf Lapası",
+      "en": "Oatmeal with Dried Apricots"
     },
     "description": {
-      "tr": "Taze bezelye taneleri ve az yağlı kuzu kıymasının besleyici uyumuyla hazırlanan proteinli püre.",
-      "en": "A protein-rich puree prepared with the nutritious combination of fresh peas and low-fat minced lamb."
+      "tr": "Lif oranı yüksek yulaf ve gün kurusu kayısının doğal tatlılığıyla bebişinizin bağırsaklarını nazikçe çalıştıracak nefis lapa.",
+      "en": "A wholesome oatmeal porridge with high fiber and naturally sweet dried apricots to gently support your baby's digestion."
     },
     "category": 6,
     "ingredients": [
@@ -151,78 +500,72 @@
           "en": "tbsp"
         },
         "baseName": {
-          "tr": "bezelye",
-          "en": "peas"
+          "tr": "yulaf ezmesi",
+          "en": "rolled oats"
         },
         "shoppingLabel": {
-          "tr": "Bezelye",
-          "en": "Peas"
+          "tr": "Yulaf",
+          "en": "Oats"
         }
       },
       {
-        "amount": 1,
+        "amount": 2,
         "unit": {
-          "tr": "yemek kaşığı",
-          "en": "tbsp"
+          "tr": "adet",
+          "en": "pcs"
         },
         "baseName": {
-          "tr": "kıyma",
-          "en": "minced meat"
+          "tr": "gün kurusu kayısı",
+          "en": "dried apricots"
         },
         "shoppingLabel": {
-          "tr": "Kıyma",
-          "en": "Minced Meat"
+          "tr": "Kayısı",
+          "en": "Apricot"
         }
       }
     ],
-    "preparationTime": 25,
-    "calories": 150,
-    "suitableAgeInMonths": 8,
-    "allergicIngredients": [],
+    "preparationTime": 15,
+    "calories": 115,
+    "suitableAgeInMonths": 7,
+    "allergicIngredients": [
+      {
+        "tr": "yulaf",
+        "en": "oats"
+      }
+    ],
     "instructions": [
       {
-        "tr": "Kıyma ve bezelyeleri tencerede yumuşayana kadar pişirelim.",
-        "en": "Cook the minced meat and peas in a pot until tender."
+        "tr": "Gün kurusu kayısılarımızı minik minik doğrayıp yulaf ezmesiyle birlikte tencereye alalım ve üzerine su ekleyelim.",
+        "en": "Chop dried apricots into small pieces, place them in a pot with rolled oats, and add water."
       },
       {
-        "tr": "Bebeğin yutabilmesi için süzgeçten veya blenderdan geçirerek pürüzsüzleştirelim.",
-        "en": "Pass through a sieve or blender to make it smooth and easy for your baby to swallow."
+        "tr": "Yulaflarımız ve kayısılarımız pamuk gibi yumuşayıp güzelce özleşene kadar ocakta sürekli karıştırarak pişirelim.",
+        "en": "Cook over medium heat, stirring constantly, until the oats and apricots are completely soft."
+      },
+      {
+        "tr": "Ocaktan aldığımız bu nefis lapayı çatalla bir güzel ezip, bal küpümüze ılık ılık yedirelim.",
+        "en": "Mash the porridge well with a fork and serve warm to your baby."
       }
     ],
     "imageUrl": ""
   },
   {
-    "id": "karisik_004",
+    "id": "karisik_009",
     "title": {
-      "tr": "Brokoli ve İrmik",
-      "en": "Broccoli and Semolina"
+      "tr": "Minişlere Özel Yumuşacık Sebzeli İrmik Lapası",
+      "en": "Semolina with Vegetables"
     },
     "description": {
-      "tr": "İrmiğin doyurucu dokusu ile brokolinin vitamin değerinin buluştuğu besleyici akşam öğünü.",
-      "en": "A nutritious evening meal combining the filling texture of semolina and the vitamin value of broccoli."
+      "tr": "Havuç ve kabağın vitamin gücüyle zenginleştirilmiş, irmikli yumuşacık ve doyurucu bir sebze lapası.",
+      "en": "A soft and satisfying vegetable porridge made with semolina and enriched with the vitamin power of carrot and zucchini."
     },
     "category": 6,
     "ingredients": [
       {
-        "amount": 2,
-        "unit": {
-          "tr": "çiçek",
-          "en": "florets"
-        },
-        "baseName": {
-          "tr": "brokoli",
-          "en": "broccoli"
-        },
-        "shoppingLabel": {
-          "tr": "Brokoli",
-          "en": "Broccoli"
-        }
-      },
-      {
         "amount": 1,
         "unit": {
-          "tr": "tatlı kaşığı",
-          "en": "tsp"
+          "tr": "yemek kaşığı",
+          "en": "tbsp"
         },
         "baseName": {
           "tr": "irmik",
@@ -232,144 +575,27 @@
           "tr": "İrmik",
           "en": "Semolina"
         }
-      }
-    ],
-    "preparationTime": 15,
-    "calories": 75,
-    "suitableAgeInMonths": 7,
-    "allergicIngredients": [
-      {
-        "tr": "irmik",
-        "en": "semolina"
-      }
-    ],
-    "instructions": [
-      {
-        "tr": "İrmiği pişirirken tencereye küçük brokoli çiçeklerini de ekleyip birlikte yumuşatalım.",
-        "en": "Add small broccoli florets to the pot while cooking semolina and soften them together."
       },
       {
-        "tr": "Sıcakken ezerek homojen bir karışım elde edelim.",
-        "en": "Mash while hot to obtain a homogeneous mixture."
-      }
-    ],
-    "imageUrl": ""
-  },
-  {
-    "id": "karisik_005",
-    "title": {
-      "tr": "Muzlu Yoğurtlu Yulaf",
-      "en": "Oatmeal with Banana and Yogurt"
-    },
-    "description": {
-      "tr": "Lif kaynağı yulaf, tatlı muz ve kalsiyum deposu yoğurdun buluştuğu doyurucu ve leziz bir ara öğün.",
-      "en": "A filling and delicious snack combining fiber-rich oats, sweet banana, and calcium-rich yogurt."
-    },
-    "category": 6,
-    "ingredients": [
-      {
-        "amount": 0.5,
+        "amount": 0.25,
         "unit": {
           "tr": "adet",
           "en": "pcs"
         },
         "baseName": {
-          "tr": "muz",
-          "en": "banana"
+          "tr": "havuç",
+          "en": "carrot"
         },
         "shoppingLabel": {
-          "tr": "Muz",
-          "en": "Banana"
+          "tr": "Havuç",
+          "en": "Carrot"
         }
       },
       {
-        "amount": 2,
+        "amount": 0.25,
         "unit": {
-          "tr": "yemek kaşığı",
-          "en": "tbsp"
-        },
-        "baseName": {
-          "tr": "yoğurt",
-          "en": "yogurt"
-        },
-        "shoppingLabel": {
-          "tr": "Yoğurt",
-          "en": "Yogurt"
-        }
-      },
-      {
-        "amount": 1,
-        "unit": {
-          "tr": "tatlı kaşığı",
-          "en": "tsp"
-        },
-        "baseName": {
-          "tr": "yulaf",
-          "en": "oats"
-        },
-        "shoppingLabel": {
-          "tr": "Yulaf",
-          "en": "Oat Flour"
-        }
-      }
-    ],
-    "preparationTime": 10,
-    "calories": 110,
-    "suitableAgeInMonths": 8,
-    "allergicIngredients": [
-      {
-        "tr": "yoğurt",
-        "en": "yogurt"
-      },
-      {
-        "tr": "yulaf",
-        "en": "oats"
-      }
-    ],
-    "instructions": [
-      {
-        "tr": "Yulafı suda yumuşayana kadar haşlayıp ılımasını bekleyelim.",
-        "en": "Boil the oats in water until soft and let it cool slightly."
-      },
-      {
-        "tr": "Ilıyan yulafa ezilmiş muz ve ev yoğurdu ekleyip karıştıralım.",
-        "en": "Add mashed banana and homemade yogurt to the cooled oats and mix."
-      }
-    ],
-    "imageUrl": ""
-  },
-  {
-    "id": "karisik_006",
-    "title": {
-      "tr": "Tavuklu Sebze Sote",
-      "en": "Chicken Vegetable Saute"
-    },
-    "description": {
-      "tr": "Bebişlerin protein ihtiyacını karşılayacak, yumuşacık tavuk eti ve taze mevsim sebzelerinin birlikteliği.",
-      "en": "A combination of soft chicken meat and fresh seasonal vegetables to meet your baby's protein needs."
-    },
-    "category": 6,
-    "ingredients": [
-      {
-        "amount": 30,
-        "unit": {
-          "tr": "gram",
-          "en": "g"
-        },
-        "baseName": {
-          "tr": "tavuk",
-          "en": "chicken"
-        },
-        "shoppingLabel": {
-          "tr": "Tavuk",
-          "en": "Chicken"
-        }
-      },
-      {
-        "amount": 1,
-        "unit": {
-          "tr": "küçük",
-          "en": "small"
+          "tr": "adet",
+          "en": "pcs"
         },
         "baseName": {
           "tr": "kabak",
@@ -381,214 +607,27 @@
         }
       }
     ],
-    "preparationTime": 25,
-    "calories": 140,
-    "suitableAgeInMonths": 9,
-    "allergicIngredients": [
-      {
-        "tr": "tavuk",
-        "en": "chicken"
-      }
-    ],
-    "instructions": [
-      {
-        "tr": "Tavuk göğsünü ve sebzeleri tencerede haşlayalım.",
-        "en": "Boil chicken breast and vegetables in a pot."
-      },
-      {
-        "tr": "Etleri didikleyip sebzelerle birlikte püre haline getirelim.",
-        "en": "Shred the meat and mash together with the vegetables into a puree."
-      }
-    ],
-    "imageUrl": ""
-  },
-  {
-    "id": "karisik_007",
-    "title": {
-      "tr": "Bulgurlu Pazı",
-      "en": "Chard with Bulgur"
-    },
-    "description": {
-      "tr": "Pazı yapraklarının besleyiciliği ve bulgurun doyuruculuğuyla hazırlanan, yoğurtla servis edilen akşam yemeği.",
-      "en": "An evening meal prepared with nutritious chard leaves and filling bulgur, served with yogurt."
-    },
-    "category": 6,
-    "ingredients": [
-      {
-        "amount": 3,
-        "unit": {
-          "tr": "yaprak",
-          "en": "leaves"
-        },
-        "baseName": {
-          "tr": "pazı",
-          "en": "chard"
-        },
-        "shoppingLabel": {
-          "tr": "Pazı",
-          "en": "Chard"
-        }
-      },
-      {
-        "amount": 1,
-        "unit": {
-          "tr": "tatlı kaşığı",
-          "en": "tsp"
-        },
-        "baseName": {
-          "tr": "bulgur",
-          "en": "bulgur"
-        },
-        "shoppingLabel": {
-          "tr": "Bulgur",
-          "en": "Bulgur"
-        }
-      }
-    ],
-    "preparationTime": 20,
-    "calories": 95,
-    "suitableAgeInMonths": 8,
-    "allergicIngredients": [
-      {
-        "tr": "bulgur",
-        "en": "bulgur"
-      }
-    ],
-    "instructions": [
-      {
-        "tr": "Pazı ve bulguru az suda bulgurlar şişene kadar pişirelim.",
-        "en": "Cook chard and bulgur in a small amount of water until the bulgur swells."
-      },
-      {
-        "tr": "Ilındıktan sonra yoğurtla karıştırıp bebişimize sunalım.",
-        "en": "Once cooled to warm, mix with yogurt and serve to your baby."
-      }
-    ],
-    "imageUrl": ""
-  },
-  {
-    "id": "karisik_008",
-    "title": {
-      "tr": "Peynirli Domatesli Makarna",
-      "en": "Pasta with Cheese and Tomato"
-    },
-    "description": {
-      "tr": "Bebekler için özel üretilmiş makarnanın, taze domates sosu ve peynirle zenginleştirilmiş hali.",
-      "en": "Special baby pasta enriched with fresh tomato sauce and cheese, a favorite among little ones."
-    },
-    "category": 6,
-    "ingredients": [
-      {
-        "amount": 0.5,
-        "unit": {
-          "tr": "çay bardağı",
-          "en": "cup"
-        },
-        "baseName": {
-          "tr": "bebek makarnası",
-          "en": "baby pasta"
-        },
-        "shoppingLabel": {
-          "tr": "Makarna",
-          "en": "Pasta"
-        }
-      },
-      {
-        "amount": 1,
-        "unit": {
-          "tr": "yemek kaşığı",
-          "en": "tbsp"
-        },
-        "baseName": {
-          "tr": "lor peyniri",
-          "en": "curd cheese"
-        },
-        "shoppingLabel": {
-          "tr": "Peynir",
-          "en": "Cheese"
-        }
-      }
-    ],
     "preparationTime": 15,
-    "calories": 160,
-    "suitableAgeInMonths": 10,
+    "calories": 90,
+    "suitableAgeInMonths": 7,
     "allergicIngredients": [
       {
-        "tr": "buğday",
-        "en": "wheat"
-      },
-      {
-        "tr": "süt",
-        "en": "milk"
+        "tr": "irmik",
+        "en": "semolina"
       }
     ],
     "instructions": [
       {
-        "tr": "Makarnayı yumuşacık olana kadar haşlayıp süzelim.",
-        "en": "Boil the pasta until very soft, then drain."
+        "tr": "Havuç and kabak dilimlerimizi azıcık suda, vitaminleri kaçmasın diye pamuk gibi olana kadar bir güzel haşlayalım.",
+        "en": "Boil carrot and zucchini pieces in a small amount of water until tender."
       },
       {
-        "tr": "Üzerine taze domates püresi ve peynir ekleyerek harmanlayalım.",
-        "en": "Toss with fresh tomato puree and cheese."
-      }
-    ],
-    "imageUrl": ""
-  },
-  {
-    "id": "karisik_009",
-    "title": {
-      "tr": "Kıymalı Karnabahar",
-      "en": "Cauliflower with Minced Meat"
-    },
-    "description": {
-      "tr": "C vitamini ve lif deposu karnabaharın, besleyici kıyma ile harmanlandığı lezzetli kış yemeği.",
-      "en": "A delicious winter dish blending cauliflower, rich in vitamin C and fiber, with nutritious minced meat."
-    },
-    "category": 6,
-    "ingredients": [
-      {
-        "amount": 1,
-        "unit": {
-          "tr": "yemek kaşığı",
-          "en": "tbsp"
-        },
-        "baseName": {
-          "tr": "kıyma",
-          "en": "minced meat"
-        },
-        "shoppingLabel": {
-          "tr": "Kıyma",
-          "en": "Minced Meat"
-        }
+        "tr": "Haşlanan sebzelerin suyuna irmiğimizi ekleyip, irmiklerimiz şişip muhallebi kıvamı alana kadar tatlı tatlı karıştırarak pişirelim.",
+        "en": "Add semolina to the vegetable broth and cook, stirring constantly, until it thickens."
       },
       {
-        "amount": 2,
-        "unit": {
-          "tr": "çiçek",
-          "en": "florets"
-        },
-        "baseName": {
-          "tr": "karnabahar",
-          "en": "cauliflower"
-        },
-        "shoppingLabel": {
-          "tr": "Karnabahar",
-          "en": "Cauliflower"
-        }
-      }
-    ],
-    "preparationTime": 20,
-    "calories": 130,
-    "suitableAgeInMonths": 8,
-    "allergicIngredients": [],
-    "instructions": [
-      {
-        "tr": "Kıymayı kavurup küçük çiçeklere ayrılmış karnabaharlarla birlikte pişirelim.",
-        "en": "Saute the minced meat and cook together with cauliflower broken into small florets."
-      },
-      {
-        "tr": "Karnabaharlar yumuşayınca çatalla ezerek kıvam verelim.",
-        "en": "Once the cauliflower is tender, mash with a fork to adjust consistency."
+        "tr": "Tüm malzemeleri çatalla pürüzsüz olana dek ezip, içine şifa niyetine birkaç drops sızma zeytinyağı gezdirelim. Bebişimize güç versin!",
+        "en": "Mash everything smoothly with a fork, add a few drops of olive oil, and serve warm."
       }
     ],
     "imageUrl": ""
@@ -596,7 +635,7 @@
   {
     "id": "karisik_010",
     "title": {
-      "tr": "Elmalı Tarçınlı Yulaf",
+      "tr": "Mis Kokulu Elmalı Tarçınlı Yulaf Lapası",
       "en": "Oatmeal with Apple and Cinnamon"
     },
     "description": {
@@ -634,6 +673,18 @@
           "tr": "Elma",
           "en": "Apple"
         }
+      },
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "fiske",
+          "en": "pinch"
+        },
+        "baseName": {
+          "tr": "tarçın",
+          "en": "cinnamon"
+        },
+        "shoppingLabel": null
       }
     ],
     "preparationTime": 12,
@@ -647,12 +698,16 @@
     ],
     "instructions": [
       {
-        "tr": "Yulafı su ve elma rendesiyle pişirip lapa kıvamına getirelim.",
-        "en": "Cook oats with water and grated apple to form a porridge."
+        "tr": "Yulafımızı temiz su ve küçük küçük doğranmış mis kokulu elma küpleriyle birlikte tencereye alıp yumuşayana kadar tatlı tatlı pişirelim.",
+        "en": "Cook oats with water and finely diced apple cubes in a pot until soft."
       },
       {
-        "tr": "Ocaktan aldıktan sonra üzerine çok az tarçın serperek tatlandıralım.",
-        "en": "Sweeten by sprinkling a tiny pinch of cinnamon after removing from heat."
+        "tr": "Lapamız kıvam aldığında ocaktan indirmeden hemen önce içine şifa niyetine bir fiske tarçın ekleyip sevgiyle karıştıralım.",
+        "en": "Add a pinch of cinnamon just before removing from heat and mix well."
+      },
+      {
+        "tr": "Ilındıktan sonra çatalla hafifçe ezerek bebişimize neşeyle servis edelim. Afiyet olsun meleğimize!",
+        "en": "Mash slightly with a fork and serve warm to your baby once it cools down."
       }
     ],
     "imageUrl": ""
