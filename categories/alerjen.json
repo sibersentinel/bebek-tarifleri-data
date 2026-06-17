@@ -1,8 +1,3 @@
-Bu JSON dosyasındaki tarif isimlerini ve yapılış adımlarını (`instructions`), annelerin içini ısıtacak, samimi ve sevgi dolu bir dille güncelledim. Teknik alanlara (id, category, ingredients, calories vb.) kesinlikle dokunmadım.
-
-İşte güncellenmiş JSON verisi:
-
-```json
 [
   {
     "id": "alerjen_001",
