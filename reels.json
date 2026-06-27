@@ -10,16 +10,6 @@
     }
   },
   {
-    "id": "info_102",
-    "title": {"tr": "Bal Vermeyin", "en": "No Honey"},
-    "category": {"tr": "Güvenlik", "en": "Safety"},
-    "colorHex": "#FF8A8A",
-    "description": {
-      "tr": "1 yaşından önce bal vermeyin.\nBotulizm riski vardır.",
-      "en": "Do not give honey before age 1.\nRisk of botulism."
-    }
-  },
-  {
     "id": "info_103",
     "title": {"tr": "Tuzdan Kaçının", "en": "Avoid Salt"},
     "category": {"tr": "Güvenlik", "en": "Safety"},
