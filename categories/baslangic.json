@@ -488,5 +488,102 @@
       }
     ],
     "imageUrl": "https://firebasestorage.googleapis.com/v0/b/bebeks-44765.firebasestorage.app/o/pirinc%20lapasi_1200x675.webp?alt=media&token=917d9f34-1659-4c77-aec2-042db62f46fc"
+  },
+  {
+    "id": "baslangic_011",
+    "title": {
+      "tr": "Zeytinyağlı Kabak ve Pirinç Ezmesi",
+      "en": "Tender Zucchini and Rice Purée with Olive Oil"
+    },
+    "description": {
+      "tr": "Kabak, pirinç ve zeytinyağının yumuşacık bir kıvamda buluştuğu, minik kaşıklar için sade ve şefkatli bir başlangıç tarifi.",
+      "en": "A gentle first-food purée that brings tender zucchini, soft rice, and olive oil together in a smooth, spoon-friendly texture."
+    },
+    "category": 1,
+    "ingredients": [
+      {
+        "amount": 50,
+        "unit": {
+          "tr": "g",
+          "en": "g"
+        },
+        "baseName": {
+          "tr": "kabak",
+          "en": "zucchini"
+        },
+        "shoppingLabel": {
+          "tr": "Taze kabak",
+          "en": "Fresh zucchini"
+        }
+      },
+      {
+        "amount": 10,
+        "unit": {
+          "tr": "g",
+          "en": "g"
+        },
+        "baseName": {
+          "tr": "pirinç",
+          "en": "rice"
+        },
+        "shoppingLabel": {
+          "tr": "Beyaz pirinç",
+          "en": "White rice"
+        }
+      },
+      {
+        "amount": 100,
+        "unit": {
+          "tr": "ml",
+          "en": "ml"
+        },
+        "baseName": {
+          "tr": "su",
+          "en": "water"
+        },
+        "shoppingLabel": {
+          "tr": "İçme suyu",
+          "en": "Drinking water"
+        }
+      },
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "çay kaşığı",
+          "en": "tsp"
+        },
+        "baseName": {
+          "tr": "zeytinyağı",
+          "en": "olive oil"
+        },
+        "shoppingLabel": {
+          "tr": "Zeytinyağı",
+          "en": "Olive oil"
+        }
+      }
+    ],
+    "preparationTime": 20,
+    "calories": 84,
+    "suitableAgeInMonths": 6,
+    "allergicIngredients": [],
+    "instructions": [
+      {
+        "tr": "Pirinci bol suyla iyice yıkayın. Kabağı soyup çekirdekli kısmı sertse çıkarın ve küçük küpler halinde doğrayın.",
+        "en": "Rinse the rice thoroughly. Peel the zucchini, remove any firm seedy center, and cut it into small cubes."
+      },
+      {
+        "tr": "Pirinç, kabak ve suyu küçük bir tencereye alın. Kaynayınca ateşi kısın; pirinç tamamen dağılana ve kabak çok yumuşayana kadar yaklaşık 15 dakika pişirin.",
+        "en": "Place the rice, zucchini, and water in a small saucepan. Once boiling, lower the heat and cook for about 15 minutes, until the rice breaks down and the zucchini is very tender."
+      },
+      {
+        "tr": "Karışımı pürüzsüz, yumuşak ve kaşıktan yavaşça akacak bir kıvama gelene kadar ezin veya blenderdan geçirin. Gerekirse az miktarda kaynatılıp soğutulmuş su ekleyin.",
+        "en": "Mash or blend until completely smooth, soft, and loose enough to fall slowly from a spoon. Add a little boiled and cooled water if needed."
+      },
+      {
+        "tr": "Zeytinyağını ekleyip karıştırın. Bebeğinize sunmadan önce ılımasını bekleyin ve sıcaklığını kontrol edin.",
+        "en": "Stir in the olive oil. Let the purée cool to a comfortably warm temperature and check it before serving."
+      }
+    ],
+    "imageUrl": ""
   }
 ]
