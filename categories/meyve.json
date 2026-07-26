@@ -453,5 +453,87 @@
       }
     ],
     "imageUrl": "https://firebasestorage.googleapis.com/v0/b/bebeks-44765.firebasestorage.app/o/meyve%2FI%CC%87ncir_Ezmesi_202607031456_1200x675.webp?alt=media&token=0ef5b990-a746-41d7-b065-18ad87966a15"
+  },
+  {
+    "id": "meyve_011",
+    "title": {
+      "tr": "Fırında Tarçınlı Ayva Ezmesi",
+      "en": "Baked Cinnamon Quince Mash"
+    },
+    "description": {
+      "tr": "Ayvayı fırında yumuşatıp hafifçe ezerek minik bir meyve tatlısı hazırladım.",
+      "en": "I softened quince in the oven and gently mashed it into a tiny fruit dessert."
+    },
+    "category": 3,
+    "ingredients": [
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "adet",
+          "en": "piece"
+        },
+        "baseName": {
+          "tr": "ayva",
+          "en": "quince"
+        },
+        "shoppingLabel": {
+          "tr": "1 adet ayva",
+          "en": "1 quince"
+        }
+      },
+      {
+        "amount": 2,
+        "unit": {
+          "tr": "yemek kaşığı",
+          "en": "tbsp"
+        },
+        "baseName": {
+          "tr": "su",
+          "en": "water"
+        },
+        "shoppingLabel": {
+          "tr": "2 yemek kaşığı su",
+          "en": "2 tbsp water"
+        }
+      },
+      {
+        "amount": 0.25,
+        "unit": {
+          "tr": "çay kaşığı",
+          "en": "tsp"
+        },
+        "baseName": {
+          "tr": "tarçın",
+          "en": "cinnamon"
+        },
+        "shoppingLabel": {
+          "tr": "bir tutam tarçın",
+          "en": "a pinch of cinnamon"
+        }
+      }
+    ],
+    "preparationTime": 20,
+    "calories": 55,
+    "suitableAgeInMonths": 12,
+    "allergicIngredients": [],
+    "instructions": [
+      {
+        "tr": "Ayvanın kabuğunu soyun, çekirdeklerini çıkarın ve çok küçük küpler doğrayın.",
+        "en": "Peel the quince, remove the seeds, and cut it into very small cubes."
+      },
+      {
+        "tr": "Su ile kapalı kapta fırında ya da küçük tencerede çok yumuşayana kadar pişirin.",
+        "en": "Cook it in a covered dish in the oven or in a small pot until very soft."
+      },
+      {
+        "tr": "Tarçını ekleyin ve çatalla hafifçe ezin; pütürsüz ama çok akışkan olmayan bir kıvam yapın.",
+        "en": "Add the cinnamon and gently mash with a fork; keep it smooth but not runny."
+      },
+      {
+        "tr": "Ilıkken bebeğinize küçük bir kaşıkla sunun.",
+        "en": "Serve it lukewarm with a small spoon."
+      }
+    ],
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/bebeks-44765.firebasestorage.app/o/meyve%2Fmeyve_011_1785095763159_1200x675.webp?alt=media&token=159fa28b-cf30-4974-9956-d4f0583a56cd"
   }
 ]
