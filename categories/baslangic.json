@@ -584,6 +584,103 @@
         "en": "Stir in the olive oil. Let the purée cool to a comfortably warm temperature and check it before serving."
       }
     ],
-    "imageUrl": ""
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/bebeks-44765.firebasestorage.app/o/baslangic%2Fbaslangic_011_1785094837941_1200x675.webp?alt=media&token=51ffdf20-7086-4841-b11b-ffb7e0c20111"
+  },
+  {
+    "id": "baslangic_012",
+    "title": {
+      "tr": "Kabaklı Pirinç Çorbası",
+      "en": "Gentle Zucchini and Rice Soup"
+    },
+    "description": {
+      "tr": "Yumuşacık pişen kabak ve pirinçle hazırlanan, minik kaşıklara uygun, pürüzsüz ve nazik bir başlangıç çorbası.",
+      "en": "A smooth, comforting first soup made with tender zucchini and rice, lovingly prepared for tiny spoonfuls."
+    },
+    "category": 1,
+    "ingredients": [
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "yemek kaşığı",
+          "en": "tbsp"
+        },
+        "baseName": {
+          "tr": "pirinç",
+          "en": "rice"
+        },
+        "shoppingLabel": {
+          "tr": "pirinç",
+          "en": "rice"
+        }
+      },
+      {
+        "amount": 40,
+        "unit": {
+          "tr": "gram",
+          "en": "g"
+        },
+        "baseName": {
+          "tr": "kabak",
+          "en": "zucchini"
+        },
+        "shoppingLabel": {
+          "tr": "taze kabak",
+          "en": "fresh zucchini"
+        }
+      },
+      {
+        "amount": 150,
+        "unit": {
+          "tr": "mililitre",
+          "en": "ml"
+        },
+        "baseName": {
+          "tr": "su",
+          "en": "water"
+        },
+        "shoppingLabel": {
+          "tr": "içme suyu",
+          "en": "drinking water"
+        }
+      },
+      {
+        "amount": 0.5,
+        "unit": {
+          "tr": "çay kaşığı",
+          "en": "tsp"
+        },
+        "baseName": {
+          "tr": "zeytinyağı",
+          "en": "olive oil"
+        },
+        "shoppingLabel": {
+          "tr": "zeytinyağı",
+          "en": "olive oil"
+        }
+      }
+    ],
+    "preparationTime": 20,
+    "calories": 60,
+    "suitableAgeInMonths": 6,
+    "allergicIngredients": [],
+    "instructions": [
+      {
+        "tr": "Pirinci bol suyla iyice yıkayın. Kabağı soyup küçük küpler halinde doğrayın.",
+        "en": "Rinse the rice thoroughly. Peel the zucchini and cut it into small cubes."
+      },
+      {
+        "tr": "Pirinç, kabak ve suyu küçük bir tencereye alın. Kaynayınca ateşi kısın; pirinç tamamen dağılana ve kabak çok yumuşayana kadar yaklaşık 15 dakika pişirin.",
+        "en": "Place the rice, zucchini, and water in a small saucepan. Once boiling, lower the heat and cook for about 15 minutes, until the rice breaks down and the zucchini is very soft."
+      },
+      {
+        "tr": "Karışımı ocaktan alın, zeytinyağını ekleyin ve tamamen pürüzsüz olana kadar ezin veya blenderdan geçirin. Gerekirse kaynatılıp ılıtılmış az miktarda suyla akışkan kıvama getirin.",
+        "en": "Remove from the heat, add the olive oil, and blend or mash until completely smooth. If needed, thin with a little boiled and cooled water."
+      },
+      {
+        "tr": "Bebeğinize sunmadan önce çorbayı ılıtın ve sıcaklığını kontrol edin. Tek porsiyon olarak, kaşıkta kolayca kayan pürüzsüz bir kıvamda servis edin.",
+        "en": "Let the soup cool to a lukewarm temperature and check it before serving. Offer one baby-sized portion with a smooth consistency that slips easily from the spoon."
+      }
+    ],
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/bebeks-44765.firebasestorage.app/o/baslangic%2Fbaslangic_012_1785095478728_1200x675.webp?alt=media&token=1f5b4fee-769e-4679-9d33-67a5061ec468"
   }
 ]
