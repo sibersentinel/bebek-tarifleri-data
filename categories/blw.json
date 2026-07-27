@@ -492,5 +492,196 @@
       }
     ],
     "imageUrl": "https://firebasestorage.googleapis.com/v0/b/bebeks-44765.firebasestorage.app/o/blw%2FF%C4%B1r%C4%B1nlanm%C4%B1s%CC%A7%20Armut_1200x675.webp?alt=media&token=ac494509-bc89-47b9-8746-f658e37c251a"
+  },
+  {
+    "id": "blw_011",
+    "title": {
+      "tr": "Fırında Pırasa Patates Parmakları",
+      "en": "Baked Leek Potato Fingers"
+    },
+    "description": {
+      "tr": "Pırasa ve patatesle hazırlanan, 6 aylık bebekler için yumuşacık BLW parmakları.",
+      "en": "Soft BLW fingers made with leek and potato for 6-month-old babies."
+    },
+    "category": 12,
+    "ingredients": [
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "adet",
+          "en": "piece"
+        },
+        "baseName": {
+          "tr": "orta boy patates",
+          "en": "medium potato"
+        },
+        "shoppingLabel": {
+          "tr": "orta boy patates",
+          "en": "medium potato"
+        }
+      },
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "adet",
+          "en": "piece"
+        },
+        "baseName": {
+          "tr": "küçük pırasa sapı",
+          "en": "small leek stalk"
+        },
+        "shoppingLabel": {
+          "tr": "küçük pırasa",
+          "en": "small leek"
+        }
+      },
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "yemek kaşığı",
+          "en": "tbsp"
+        },
+        "baseName": {
+          "tr": "zeytinyağı",
+          "en": "olive oil"
+        },
+        "shoppingLabel": {
+          "tr": "zeytinyağı",
+          "en": "olive oil"
+        }
+      }
+    ],
+    "preparationTime": 25,
+    "calories": 85,
+    "suitableAgeInMonths": 6,
+    "allergicIngredients": [],
+    "instructions": [
+      {
+        "tr": "Patatesi ve pırasayı çok iyi yumuşayana kadar buharda pişirin.",
+        "en": "Steam the potato and leek until very soft."
+      },
+      {
+        "tr": "Ezerek püre yapın, küçük bir kütle halinde karıştırın ve ince parmaklar şekillendirin.",
+        "en": "Mash into a purée, mix into a small dough-like mass, and shape into thick fingers."
+      },
+      {
+        "tr": "Az zeytinyağıyla hafifçe yağlanmış tepsiye dizin.",
+        "en": "Place on a tray lightly brushed with olive oil."
+      },
+      {
+        "tr": "Önceden ısıtılmış 180°C fırında 10-12 dakika, sadece toparlanana kadar pişirin.",
+        "en": "Bake at 180°C for 10-12 minutes, just until set."
+      },
+      {
+        "tr": "Ilıyınca bebeğin avucuna uygun şekilde sunun.",
+        "en": "Let cool and serve in palm-friendly pieces."
+      }
+    ],
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/bebeks-44765.firebasestorage.app/o/blw%2Fblw_011_1785180614025_1200x675.webp?alt=media&token=a6dd1c26-7946-4e99-a3b5-53b70b0e6f90"
+  },
+  {
+    "id": "blw_012",
+    "title": {
+      "tr": "Nohutlu Ispanaklı Yumuşak Lokmalar",
+      "en": "Soft Chickpea Spinach Bites"
+    },
+    "description": {
+      "tr": "7 aylık bebekler için nohut ve ıspanakla hazırlanan yumuşak, kolay tutulan BLW lokmaları.",
+      "en": "Soft, easy-to-grip BLW bites made with chickpeas and spinach for 7-month-old babies."
+    },
+    "category": 12,
+    "ingredients": [
+      {
+        "amount": 1.5,
+        "unit": {
+          "tr": "su bardağı",
+          "en": "cups"
+        },
+        "baseName": {
+          "tr": "haşlanmış nohut",
+          "en": "cooked chickpeas"
+        },
+        "shoppingLabel": {
+          "tr": "haşlanmış nohut",
+          "en": "cooked chickpeas"
+        }
+      },
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "avuç",
+          "en": "handful"
+        },
+        "baseName": {
+          "tr": "ıspanak",
+          "en": "spinach"
+        },
+        "shoppingLabel": {
+          "tr": "ıspanak",
+          "en": "spinach"
+        }
+      },
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "adet",
+          "en": "piece"
+        },
+        "baseName": {
+          "tr": "küçük patates",
+          "en": "small potato"
+        },
+        "shoppingLabel": {
+          "tr": "küçük patates",
+          "en": "small potato"
+        }
+      },
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "yemek kaşığı",
+          "en": "tbsp"
+        },
+        "baseName": {
+          "tr": "zeytinyağı",
+          "en": "olive oil"
+        },
+        "shoppingLabel": {
+          "tr": "zeytinyağı",
+          "en": "olive oil"
+        }
+      }
+    ],
+    "preparationTime": 30,
+    "calories": 140,
+    "suitableAgeInMonths": 7,
+    "allergicIngredients": [],
+    "instructions": [
+      {
+        "tr": "Patatesi çok yumuşayana kadar haşlayıp ezin.",
+        "en": "Boil the potato until very soft and mash it."
+      },
+      {
+        "tr": "Ispanağı kısa süre buharda pişirin ve ince kıyın.",
+        "en": "Steam the spinach briefly and chop it finely."
+      },
+      {
+        "tr": "Nohutları çatalla ezip patates ve ıspanakla karıştırın.",
+        "en": "Mash the chickpeas with a fork, then mix with the potato and spinach."
+      },
+      {
+        "tr": "Küçük yassı lokmalar yapın ve yağlı kağıt serili tepsiye dizin.",
+        "en": "Shape small flat bites and place them on a parchment-lined tray."
+      },
+      {
+        "tr": "180°C fırında 12-15 dakika, dışı toparlanana kadar pişirin.",
+        "en": "Bake at 180°C for 12-15 minutes, just until set."
+      },
+      {
+        "tr": "Ilık servis edin; parçalar yumuşak ve kolay ezilir olsun.",
+        "en": "Serve warm; the pieces should be soft and easy to squish."
+      }
+    ],
+    "imageUrl": ""
   }
 ]
