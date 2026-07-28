@@ -46,7 +46,7 @@
         "en": "Separate the yolk completely from the white, and mash it with a little breast milk or water to adjust the consistency for your baby."
       }
     ],
-    "imageUrl": ""
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/bebeks-44765.firebasestorage.app/o/protein%2Fprotein_001_1785097716367_1200x675.webp?alt=media&token=e7043504-4eed-4a54-81ff-01d856ce97e3"
   },
   {
     "id": "protein_002",
@@ -109,7 +109,7 @@
         "en": "Mash with a fork and serve warm to your baby."
       }
     ],
-    "imageUrl": ""
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/bebeks-44765.firebasestorage.app/o/protein%2Fprotein_002_1785097737514_1200x675.webp?alt=media&token=a75769fb-e447-4947-a02b-4c88c9966950"
   },
   {
     "id": "protein_003",
@@ -177,7 +177,7 @@
         "en": "Shred the chicken finely, then cook it in the chicken broth along with star noodles until soft."
       }
     ],
-    "imageUrl": ""
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/bebeks-44765.firebasestorage.app/o/protein%2Fprotein_003_1785097753319_1200x675.webp?alt=media&token=8f1e5895-8ac6-4502-8301-838a9580d83f"
   },
   {
     "id": "protein_004",
@@ -241,7 +241,7 @@
         "en": "Debone the fish carefully, mash the flesh with a fork along with the potato, and squeeze a hint of lemon juice on top."
       }
     ],
-    "imageUrl": ""
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/bebeks-44765.firebasestorage.app/o/protein%2Fprotein_004_1785097774397_1200x675.webp?alt=media&token=c0657847-1d8d-4de7-b75f-aedd59f58fc8"
   },
   {
     "id": "protein_005",
@@ -298,6 +298,971 @@
       {
         "tr": "Kabuksuz nohutlarımızı, içine halis zeytinyağı ve kıvamını yumuşatacak azıcık sıcak temiz su ekleyerek, pürüzsüz and ipeksi bir humus olana kadar çatalla veya blenderla bir güzel ezelim.",
         "en": "Mash the peeled chickpeas with olive oil and a splash of warm water until smooth."
+      }
+    ],
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/bebeks-44765.firebasestorage.app/o/protein%2Fprotein_005_1785097794135_1200x675.webp?alt=media&token=9aab12f1-fdb5-48c9-b66c-394222981330"
+  },
+  {
+    "id": "protein_006",
+    "title": {
+      "tr": "Ilık Tavuklu Kabak Püresi",
+      "en": "Warm Chicken and Zucchini Purée"
+    },
+    "description": {
+      "tr": "Yumuşak dokulu, kaşıkla kolay alınan hafif bir öğün.",
+      "en": "A soft, spoonable, gentle meal."
+    },
+    "category": 5,
+    "ingredients": [
+      {
+        "amount": 40,
+        "unit": {
+          "tr": "g",
+          "en": "g"
+        },
+        "baseName": {
+          "tr": "haşlanmış tavuk göğsü",
+          "en": "boiled chicken breast"
+        },
+        "shoppingLabel": {
+          "tr": "haşlanmış tavuk göğsü",
+          "en": "boiled chicken breast"
+        }
+      },
+      {
+        "amount": 60,
+        "unit": {
+          "tr": "g",
+          "en": "g"
+        },
+        "baseName": {
+          "tr": "kabak",
+          "en": "zucchini"
+        },
+        "shoppingLabel": {
+          "tr": "kabak",
+          "en": "zucchini"
+        }
+      },
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "yemek kaşığı",
+          "en": "tbsp"
+        },
+        "baseName": {
+          "tr": "zeytinyağı",
+          "en": "olive oil"
+        },
+        "shoppingLabel": {
+          "tr": "zeytinyağı",
+          "en": "olive oil"
+        }
+      }
+    ],
+    "preparationTime": 20,
+    "calories": 90,
+    "suitableAgeInMonths": 12,
+    "allergicIngredients": [],
+    "instructions": [
+      {
+        "tr": "Kabağı iyice yıkayın, küçük parçalar halinde doğrayın ve çok yumuşayana kadar buharda pişirin.",
+        "en": "Wash the zucchini well, cut it into small pieces, and steam until very soft."
+      },
+      {
+        "tr": "Tavuk göğsünü ve yumuşak kabağı birlikte çatalla ezerek veya blenderdan kısa süre geçirerek pürüzsüz, yumuşak bir kıvam elde edin.",
+        "en": "Mash the chicken breast and soft zucchini together with a fork, or briefly blend, until smooth and soft."
+      },
+      {
+        "tr": "Zeytinyağını ekleyip karıştırın. Gerekirse kıvamı biraz suyla açın ve ılık olarak servis edin.",
+        "en": "Stir in the olive oil. If needed, loosen the texture with a little water and serve warm."
+      }
+    ],
+    "imageUrl": ""
+  },
+  {
+    "id": "protein_AI_DRAFT_3",
+    "title": {
+      "tr": "Kıymalı Ispanak Ezmesi",
+      "en": "Mashed Spinach with Beef"
+    },
+    "description": {
+      "tr": "Demirli sebze ve kıymanın yumuşak birleşimi.",
+      "en": "A gentle blend of spinach and beef."
+    },
+    "category": 5,
+    "ingredients": [
+      {
+        "amount": 35,
+        "unit": {
+          "tr": "g",
+          "en": "g"
+        },
+        "baseName": {
+          "tr": "iyi pişmiş dana kıyma",
+          "en": "well-cooked ground beef"
+        },
+        "shoppingLabel": {
+          "tr": "iyi pişmiş dana kıyma",
+          "en": "well-cooked ground beef"
+        }
+      },
+      {
+        "amount": 50,
+        "unit": {
+          "tr": "g",
+          "en": "g"
+        },
+        "baseName": {
+          "tr": "ıspanak",
+          "en": "spinach"
+        },
+        "shoppingLabel": {
+          "tr": "ıspanak",
+          "en": "spinach"
+        }
+      },
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "çay kaşığı",
+          "en": "tsp"
+        },
+        "baseName": {
+          "tr": "zeytinyağı",
+          "en": "olive oil"
+        },
+        "shoppingLabel": {
+          "tr": "zeytinyağı",
+          "en": "olive oil"
+        }
+      }
+    ],
+    "preparationTime": 20,
+    "calories": 95,
+    "suitableAgeInMonths": 14,
+    "allergicIngredients": [],
+    "instructions": [
+      {
+        "tr": "Ispanağı az suyla, tamamen yumuşayıp kolayca ezilecek kıvama gelene kadar pişirin.",
+        "en": "Cook the spinach with a little water until it is fully soft and easy to mash."
+      },
+      {
+        "tr": "Pişen ıspanağı süzün, kıymayı ekleyin ve çatal ya da eziciyle birlikte pütürsüzleşene kadar ezin.",
+        "en": "Drain the spinach, add the beef, and mash together with a fork or masher until smooth."
+      },
+      {
+        "tr": "Karışımı bebeğinizin yiyebileceği kadar yumuşak ve küçük parçalı bırakıp ılık olarak servis edin.",
+        "en": "Keep the mixture very soft with no large pieces, and serve warm."
+      }
+    ],
+    "imageUrl": ""
+  },
+  {
+    "id": "protein_AI_DRAFT_2",
+    "title": {
+      "tr": "Yumuşak Yoğurtlu Hindi ve Yulaf",
+      "en": "Soft Yogurt Turkey and Oat Bowl"
+    },
+    "description": {
+      "tr": "Yumuşak kıvamlı, küçük lokmalı bir protein kasesi.",
+      "en": "A soft bowl with small, gentle bites."
+    },
+    "category": 5,
+    "ingredients": [
+      {
+        "amount": 35,
+        "unit": {
+          "tr": "g",
+          "en": "g"
+        },
+        "baseName": {
+          "tr": "haşlanmış hindi kıyması",
+          "en": "cooked ground turkey"
+        },
+        "shoppingLabel": {
+          "tr": "haşlanmış hindi kıyması",
+          "en": "cooked ground turkey"
+        }
+      },
+      {
+        "amount": 20,
+        "unit": {
+          "tr": "g",
+          "en": "g"
+        },
+        "baseName": {
+          "tr": "ince yulaf",
+          "en": "fine oats"
+        },
+        "shoppingLabel": {
+          "tr": "ince yulaf",
+          "en": "fine oats"
+        }
+      },
+      {
+        "amount": 80,
+        "unit": {
+          "tr": "g",
+          "en": "g"
+        },
+        "baseName": {
+          "tr": "yoğurt",
+          "en": "yogurt"
+        },
+        "shoppingLabel": {
+          "tr": "yoğurt",
+          "en": "yogurt"
+        }
+      }
+    ],
+    "preparationTime": 15,
+    "calories": 120,
+    "suitableAgeInMonths": 9,
+    "allergicIngredients": [
+      {
+        "tr": "süt ürünü",
+        "en": "dairy"
+      }
+    ],
+    "instructions": [
+      {
+        "tr": "İnce yulafı az suyla tamamen yumuşayıp lapa gibi olana kadar pişirin; soğumaya bırakın.",
+        "en": "Cook the fine oats with a little water until fully soft and porridge-like, then let them cool slightly."
+      },
+      {
+        "tr": "Haşlanmış hindi kıymasını ekleyin ve yoğurdu da katıp pürüzsüz olana kadar karıştırın.",
+        "en": "Add the cooked ground turkey and yogurt, then stir until smooth."
+      },
+      {
+        "tr": "Karışımı bebeğinizin rahatça yiyebileceği yumuşak, küçük kıvamda bırakın; gerekiyorsa az suyla açın.",
+        "en": "Keep the mixture soft and spoonable for your baby; thin it with a little water if needed."
+      }
+    ],
+    "imageUrl": ""
+  },
+  {
+    "id": "protein_007",
+    "title": {
+      "tr": "Mercimekli Patates Kreması",
+      "en": "Lentil and Potato Cream"
+    },
+    "description": {
+      "tr": "Kaşıkla yenebilen, yumuşak ve tok tutan bir karışım.",
+      "en": "A spoonable, soft, filling mix."
+    },
+    "category": 5,
+    "ingredients": [
+      {
+        "amount": 30,
+        "unit": {
+          "tr": "g",
+          "en": "g"
+        },
+        "baseName": {
+          "tr": "kırmızı mercimek",
+          "en": "red lentils"
+        },
+        "shoppingLabel": {
+          "tr": "kırmızı mercimek",
+          "en": "red lentils"
+        }
+      },
+      {
+        "amount": 50,
+        "unit": {
+          "tr": "g",
+          "en": "g"
+        },
+        "baseName": {
+          "tr": "patates",
+          "en": "potato"
+        },
+        "shoppingLabel": {
+          "tr": "patates",
+          "en": "potato"
+        }
+      },
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "çay kaşığı",
+          "en": "tsp"
+        },
+        "baseName": {
+          "tr": "zeytinyağı",
+          "en": "olive oil"
+        },
+        "shoppingLabel": {
+          "tr": "zeytinyağı",
+          "en": "olive oil"
+        }
+      }
+    ],
+    "preparationTime": 25,
+    "calories": 105,
+    "suitableAgeInMonths": 13,
+    "allergicIngredients": [],
+    "instructions": [
+      {
+        "tr": "Mercimek ve patatesi iyice yıkayın, az suyla tamamen yumuşayana kadar pişirin.",
+        "en": "Rinse the lentils and potato well, then cook them with a little water until completely soft."
+      },
+      {
+        "tr": "Ocaktan alın; biraz ılıyınca çatalla veya blenderla pürüzsüz, bebeğin rahatça yiyebileceği kıvamda ezin.",
+        "en": "Remove from the heat; once slightly cooled, mash or blend until smooth and easy for your baby to eat."
+      },
+      {
+        "tr": "Kıvam çok koyuysa, az miktarda pişirme suyuyla açın ve ılık servis edin.",
+        "en": "If the texture is too thick, thin it with a little cooking water and serve warm."
+      }
+    ],
+    "imageUrl": ""
+  },
+  {
+    "id": "protein_008",
+    "title": {
+      "tr": "Balkabaklı Peynirli Tarhana Lapası",
+      "en": "Tarhana Porridge with Pumpkin and Cheese"
+    },
+    "description": {
+      "tr": "Yumuşak, ılık ve tanıdık ev lezzetlerine yakın.",
+      "en": "Soft, warm, and close to familiar home flavors."
+    },
+    "category": 5,
+    "ingredients": [
+      {
+        "amount": 25,
+        "unit": {
+          "tr": "g",
+          "en": "g"
+        },
+        "baseName": {
+          "tr": "tarhana",
+          "en": "tarhana"
+        },
+        "shoppingLabel": {
+          "tr": "tarhana",
+          "en": "tarhana"
+        }
+      },
+      {
+        "amount": 40,
+        "unit": {
+          "tr": "g",
+          "en": "g"
+        },
+        "baseName": {
+          "tr": "balkabağı",
+          "en": "pumpkin"
+        },
+        "shoppingLabel": {
+          "tr": "balkabağı",
+          "en": "pumpkin"
+        }
+      },
+      {
+        "amount": 20,
+        "unit": {
+          "tr": "g",
+          "en": "g"
+        },
+        "baseName": {
+          "tr": "pastörize lor peyniri",
+          "en": "pasteurized curd cheese"
+        },
+        "shoppingLabel": {
+          "tr": "pastörize lor peyniri",
+          "en": "pasteurized curd cheese"
+        }
+      }
+    ],
+    "preparationTime": 20,
+    "calories": 115,
+    "suitableAgeInMonths": 10,
+    "allergicIngredients": [
+      {
+        "tr": "gluten",
+        "en": "gluten"
+      },
+      {
+        "tr": "süt ürünü",
+        "en": "dairy"
+      }
+    ],
+    "instructions": [
+      {
+        "tr": "Balkabağını çok yumuşayana kadar pişirin.",
+        "en": "Cook the pumpkin until very soft."
+      },
+      {
+        "tr": "Tarhanayı suyla topaksız pişirin.",
+        "en": "Cook the tarhana with water until smooth."
+      },
+      {
+        "tr": "Loru ekleyip kısa süre karıştırın.",
+        "en": "Add the curd and stir briefly."
+      }
+    ],
+    "imageUrl": ""
+  },
+  {
+    "id": "protein_009",
+    "title": {
+      "tr": "Fırın Köfteli Şehriye Kabak",
+      "en": "Baked Meatball, Vermicelli and Zucchini"
+    },
+    "description": {
+      "tr": "Yumuşak köfte parçalarıyla yaşa uygun küçük lokmalar.",
+      "en": "Age-appropriate small bites with soft meatball pieces."
+    },
+    "category": 5,
+    "ingredients": [
+      {
+        "amount": 40,
+        "unit": {
+          "tr": "g",
+          "en": "g"
+        },
+        "baseName": {
+          "tr": "çok iyi pişmiş dana köfte",
+          "en": "well-cooked beef meatball"
+        },
+        "shoppingLabel": {
+          "tr": "çok iyi pişmiş dana köfte",
+          "en": "well-cooked beef meatball"
+        }
+      },
+      {
+        "amount": 20,
+        "unit": {
+          "tr": "g",
+          "en": "g"
+        },
+        "baseName": {
+          "tr": "ince arpa şehriye",
+          "en": "thin vermicelli"
+        },
+        "shoppingLabel": {
+          "tr": "ince arpa şehriye",
+          "en": "thin vermicelli"
+        }
+      },
+      {
+        "amount": 50,
+        "unit": {
+          "tr": "g",
+          "en": "g"
+        },
+        "baseName": {
+          "tr": "kabak",
+          "en": "zucchini"
+        },
+        "shoppingLabel": {
+          "tr": "kabak",
+          "en": "zucchini"
+        }
+      }
+    ],
+    "preparationTime": 30,
+    "calories": 140,
+    "suitableAgeInMonths": 18,
+    "allergicIngredients": [
+      {
+        "tr": "gluten",
+        "en": "gluten"
+      }
+    ],
+    "instructions": [
+      {
+        "tr": "Köfteyi önce tamamen piştiğinden emin olun. Ardından bebeğin rahat çiğneyebileceği kadar küçük ve yumuşak parçalara ayırın.",
+        "en": "First make sure the meatball is fully cooked. Then cut it into very small, soft pieces that are easy for your baby to chew."
+      },
+      {
+        "tr": "Kabağı iyice yumuşayıncaya kadar pişirin. Şehriyeyi de çok iyi haşlayın; ikisi de parmakla kolayca ezilecek kadar yumuşak olsun.",
+        "en": "Cook the zucchini until it is very soft. Boil the vermicelli very well too, so both are soft enough to mash easily with a finger."
+      },
+      {
+        "tr": "Tüm malzemeleri birleştirip hafif nemli, yumuşak ve küçük tanecikli bir kıvam elde edin. Servis etmeden önce sıcaklığını kontrol edin.",
+        "en": "Combine all the ingredients to make a moist, soft, slightly textured mix. Check the temperature before serving."
+      }
+    ],
+    "imageUrl": ""
+  },
+  {
+    "id": "protein_011",
+    "title": {
+      "tr": "Nohutlu Yoğurtlu Havuç Kasesi",
+      "en": "Chickpea, Yogurt and Carrot Bowl"
+    },
+    "description": {
+      "tr": "Kabuksuz ve çok yumuşak yapıda, küçük kaşıklar için.",
+      "en": "Very soft and smooth for tiny spoons."
+    },
+    "category": 5,
+    "ingredients": [
+      {
+        "amount": 35,
+        "unit": {
+          "tr": "g",
+          "en": "g"
+        },
+        "baseName": {
+          "tr": "iyi pişmiş nohut",
+          "en": "well-cooked chickpeas"
+        },
+        "shoppingLabel": {
+          "tr": "iyi pişmiş nohut",
+          "en": "well-cooked chickpeas"
+        }
+      },
+      {
+        "amount": 60,
+        "unit": {
+          "tr": "g",
+          "en": "g"
+        },
+        "baseName": {
+          "tr": "pastörize yoğurt",
+          "en": "pasteurized yogurt"
+        },
+        "shoppingLabel": {
+          "tr": "pastörize yoğurt",
+          "en": "pasteurized yogurt"
+        }
+      },
+      {
+        "amount": 30,
+        "unit": {
+          "tr": "g",
+          "en": "g"
+        },
+        "baseName": {
+          "tr": "havuç",
+          "en": "carrot"
+        },
+        "shoppingLabel": {
+          "tr": "havuç",
+          "en": "carrot"
+        }
+      }
+    ],
+    "preparationTime": 20,
+    "calories": 130,
+    "suitableAgeInMonths": 16,
+    "allergicIngredients": [
+      {
+        "tr": "süt ürünü",
+        "en": "dairy"
+      }
+    ],
+    "instructions": [
+      {
+        "tr": "Nohutu kabuksuz olacak kadar iyice ezin.",
+        "en": "Mash the chickpeas until skinless and smooth."
+      },
+      {
+        "tr": "Havucu çok yumuşatıp ekleyin.",
+        "en": "Cook the carrot until very soft and add it."
+      },
+      {
+        "tr": "Yoğurtla karıştırıp minik parçalar bırakın.",
+        "en": "Mix with yogurt and leave tiny soft bits."
+      }
+    ],
+    "imageUrl": ""
+  },
+  {
+    "id": "protein_012",
+    "title": {
+      "tr": "Hindi ve Karnabahar Püresi",
+      "en": "Turkey and Cauliflower Purée"
+    },
+    "description": {
+      "tr": "Yumuşak, hafif ve kaşıkla kolay yenir.",
+      "en": "Soft, light, and easy to eat with a spoon."
+    },
+    "category": 5,
+    "ingredients": [
+      {
+        "amount": 35,
+        "unit": {
+          "tr": "g",
+          "en": "g"
+        },
+        "baseName": {
+          "tr": "haşlanmış hindi eti",
+          "en": "boiled turkey meat"
+        },
+        "shoppingLabel": {
+          "tr": "haşlanmış hindi eti",
+          "en": "boiled turkey meat"
+        }
+      },
+      {
+        "amount": 60,
+        "unit": {
+          "tr": "g",
+          "en": "g"
+        },
+        "baseName": {
+          "tr": "karnabahar",
+          "en": "cauliflower"
+        },
+        "shoppingLabel": {
+          "tr": "karnabahar",
+          "en": "cauliflower"
+        }
+      },
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "çay kaşığı",
+          "en": "tsp"
+        },
+        "baseName": {
+          "tr": "zeytinyağı",
+          "en": "olive oil"
+        },
+        "shoppingLabel": {
+          "tr": "zeytinyağı",
+          "en": "olive oil"
+        }
+      }
+    ],
+    "preparationTime": 18,
+    "calories": 85,
+    "suitableAgeInMonths": 9,
+    "allergicIngredients": [],
+    "instructions": [
+      {
+        "tr": "Karnabaharı buharda çok yumuşayana kadar pişirin.",
+        "en": "Steam the cauliflower until very soft."
+      },
+      {
+        "tr": "Hindiyi çok küçük parçalara ayırın ve ekleyin.",
+        "en": "Break the turkey into very small pieces and add it."
+      },
+      {
+        "tr": "Zeytinyağını ekleyin ve birlikte pürüzsüz olana kadar ezin; gerekirse az suyla inceltin.",
+        "en": "Add the olive oil and mash until smooth; thin with a little water if needed."
+      }
+    ],
+    "imageUrl": ""
+  },
+  {
+    "id": "protein_013",
+    "title": {
+      "tr": "Kıymalı Pirinç Çorbası",
+      "en": "Beef and Rice Soup"
+    },
+    "description": {
+      "tr": "Sulu, yumuşak ve küçük taneli bir çorba.",
+      "en": "A soupy, soft, small-grain soup."
+    },
+    "category": 5,
+    "ingredients": [
+      {
+        "amount": 30,
+        "unit": {
+          "tr": "g",
+          "en": "g"
+        },
+        "baseName": {
+          "tr": "çok iyi pişmiş dana kıyma",
+          "en": "well-cooked ground beef"
+        },
+        "shoppingLabel": {
+          "tr": "çok iyi pişmiş dana kıyma",
+          "en": "well-cooked ground beef"
+        }
+      },
+      {
+        "amount": 20,
+        "unit": {
+          "tr": "g",
+          "en": "g"
+        },
+        "baseName": {
+          "tr": "pirinç",
+          "en": "rice"
+        },
+        "shoppingLabel": {
+          "tr": "pirinç",
+          "en": "rice"
+        }
+      },
+      {
+        "amount": 40,
+        "unit": {
+          "tr": "g",
+          "en": "g"
+        },
+        "baseName": {
+          "tr": "havuç",
+          "en": "carrot"
+        },
+        "shoppingLabel": {
+          "tr": "havuç",
+          "en": "carrot"
+        }
+      }
+    ],
+    "preparationTime": 25,
+    "calories": 110,
+    "suitableAgeInMonths": 17,
+    "allergicIngredients": [],
+    "instructions": [
+      {
+        "tr": "Pirinç ve havucu iyice yumuşayana kadar pişirin.",
+        "en": "Cook the rice and carrot until very soft."
+      },
+      {
+        "tr": "İyi pişmiş kıymayı ekleyip bir çatal yardımıyla küçük parçalara ayırın.",
+        "en": "Add the well-cooked beef and break it into tiny pieces with a fork."
+      },
+      {
+        "tr": "Biraz daha kısık ateşte pişirin, ılıyınca bebeğinize servis edin.",
+        "en": "Cook briefly more over low heat, then serve when warm."
+      }
+    ],
+    "imageUrl": ""
+  },
+  {
+    "id": "protein_014",
+    "title": {
+      "tr": "Tavuklu Havuçlu Kabak Sote",
+      "en": "Chicken with Carrot and Zucchini Sauté"
+    },
+    "description": {
+      "tr": "İnce doğranmış, yumuşak lokmalık sıcak bir tabak.",
+      "en": "A warm plate with finely cut soft bites."
+    },
+    "category": 5,
+    "ingredients": [
+      {
+        "amount": 40,
+        "unit": {
+          "tr": "g",
+          "en": "g"
+        },
+        "baseName": {
+          "tr": "iyi pişmiş tavuk göğsü",
+          "en": "well-cooked chicken breast"
+        },
+        "shoppingLabel": {
+          "tr": "iyi pişmiş tavuk göğsü",
+          "en": "well-cooked chicken breast"
+        }
+      },
+      {
+        "amount": 40,
+        "unit": {
+          "tr": "g",
+          "en": "g"
+        },
+        "baseName": {
+          "tr": "havuç",
+          "en": "carrot"
+        },
+        "shoppingLabel": {
+          "tr": "havuç",
+          "en": "carrot"
+        }
+      },
+      {
+        "amount": 50,
+        "unit": {
+          "tr": "g",
+          "en": "g"
+        },
+        "baseName": {
+          "tr": "kabak",
+          "en": "zucchini"
+        },
+        "shoppingLabel": {
+          "tr": "kabak",
+          "en": "zucchini"
+        }
+      }
+    ],
+    "preparationTime": 20,
+    "calories": 95,
+    "suitableAgeInMonths": 15,
+    "allergicIngredients": [],
+    "instructions": [
+      {
+        "tr": "Havuç ve kabağı çok küçük ve yumuşak olacak şekilde pişirin.",
+        "en": "Cook the carrot and zucchini until very soft, cut into very small pieces."
+      },
+      {
+        "tr": "İyi pişmiş tavuğu ince didin, sebzelere ekleyip 1-2 dakika birlikte çevirin.",
+        "en": "Shred the well-cooked chicken finely, add it to the vegetables, and toss together for 1-2 minutes."
+      },
+      {
+        "tr": "Ilıyınca çatalla hafifçe ezip küçük, yumuşak parçalar halinde servis edin.",
+        "en": "Once warm, lightly mash with a fork and serve in small, soft pieces."
+      }
+    ],
+    "imageUrl": ""
+  },
+  {
+    "id": "protein_015",
+    "title": {
+      "tr": "Lor Peynirli Semizotu Püresi",
+      "en": "Curd Cheese and Purslane Purée"
+    },
+    "description": {
+      "tr": "Ekşi ve yumuşak notaları dengeli bir şekilde birleştirir.",
+      "en": "A balanced mix of soft, mild-sour notes."
+    },
+    "category": 5,
+    "ingredients": [
+      {
+        "amount": 25,
+        "unit": {
+          "tr": "g",
+          "en": "g"
+        },
+        "baseName": {
+          "tr": "pastörize lor peyniri",
+          "en": "pasteurized curd cheese"
+        },
+        "shoppingLabel": {
+          "tr": "pastörize lor peyniri",
+          "en": "pasteurized curd cheese"
+        }
+      },
+      {
+        "amount": 40,
+        "unit": {
+          "tr": "g",
+          "en": "g"
+        },
+        "baseName": {
+          "tr": "semizotu",
+          "en": "purslane"
+        },
+        "shoppingLabel": {
+          "tr": "semizotu",
+          "en": "purslane"
+        }
+      },
+      {
+        "amount": 30,
+        "unit": {
+          "tr": "g",
+          "en": "g"
+        },
+        "baseName": {
+          "tr": "patates",
+          "en": "potato"
+        },
+        "shoppingLabel": {
+          "tr": "patates",
+          "en": "potato"
+        }
+      }
+    ],
+    "preparationTime": 15,
+    "calories": 90,
+    "suitableAgeInMonths": 11,
+    "allergicIngredients": [
+      {
+        "tr": "süt ürünü",
+        "en": "dairy"
+      }
+    ],
+    "instructions": [
+      {
+        "tr": "Patates ve semizotunu çok yumuşatın.",
+        "en": "Cook the potato and purslane until very soft."
+      },
+      {
+        "tr": "Loru ekleyip pürüzsüzce ezin.",
+        "en": "Add the curd and mash smoothly."
+      },
+      {
+        "tr": "Ilık servis edin.",
+        "en": "Serve warm."
+      }
+    ],
+    "imageUrl": ""
+  },
+  {
+    "id": "protein_016",
+    "title": {
+      "tr": "Köfteli Karnabahar Topları",
+      "en": "Meatball and Cauliflower Bites"
+    },
+    "description": {
+      "tr": "Minik, çok yumuşak ve kolay ezilen lokmalar.",
+      "en": "Tiny, very soft bites that mash easily."
+    },
+    "category": 5,
+    "ingredients": [
+      {
+        "amount": 35,
+        "unit": {
+          "tr": "g",
+          "en": "g"
+        },
+        "baseName": {
+          "tr": "çok iyi pişmiş dana köfte",
+          "en": "well-cooked beef meatball"
+        },
+        "shoppingLabel": {
+          "tr": "çok iyi pişmiş dana köfte",
+          "en": "well-cooked beef meatball"
+        }
+      },
+      {
+        "amount": 60,
+        "unit": {
+          "tr": "g",
+          "en": "g"
+        },
+        "baseName": {
+          "tr": "karnabahar",
+          "en": "cauliflower"
+        },
+        "shoppingLabel": {
+          "tr": "karnabahar",
+          "en": "cauliflower"
+        }
+      },
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "çay kaşığı",
+          "en": "tsp"
+        },
+        "baseName": {
+          "tr": "zeytinyağı",
+          "en": "olive oil"
+        },
+        "shoppingLabel": {
+          "tr": "zeytinyağı",
+          "en": "olive oil"
+        }
+      }
+    ],
+    "preparationTime": 20,
+    "calories": 100,
+    "suitableAgeInMonths": 8,
+    "allergicIngredients": [],
+    "instructions": [
+      {
+        "tr": "Karnabaharı çok yumuşayıncaya kadar pişirin.",
+        "en": "Cook the cauliflower until very soft."
+      },
+      {
+        "tr": "Köfteyi ufak ufak ayırın.",
+        "en": "Break the meatball into tiny pieces."
+      },
+      {
+        "tr": "Birlikte hafifçe ezip minik toplar halinde verin.",
+        "en": "Mash lightly together and serve as tiny bites."
       }
     ],
     "imageUrl": ""
