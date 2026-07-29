@@ -2,20 +2,20 @@
   {
     "id": "baslangic_001",
     "title": {
-      "tr": "Minik Gurmelere Pamuk Elma Püresi",
-      "en": "Apple Puree"
+      "tr": "İlk Tadım Elma Püresi",
+      "en": "First-Taste Apple Puree"
     },
     "description": {
-      "tr": "Minik gurmeniz ek gıdaya ilk adımı atıyor! Alerji riski çok düşük, sindirimi ise pamuk gibi hafif, mis kokulu bir başlangıç.",
-      "en": "Your little foodie is taking the first step into solid foods! A fragrant start with very low allergy risk and silky smooth digestion."
+      "tr": "Tek malzemeli ve yumuşak kıvamlı bir başlangıç tarifidir. Elmayı ilk kez tanıtırken 3 günlük tek gıda gözlemi için kullanılabilir.",
+      "en": "A smooth, single-ingredient starter recipe suitable for a three-day single-food observation when introducing apple."
     },
     "category": 1,
     "ingredients": [
       {
-        "amount": 1,
+        "amount": 100,
         "unit": {
-          "tr": "adet",
-          "en": "pcs"
+          "tr": "g",
+          "en": "g"
         },
         "baseName": {
           "tr": "tatlı elma",
@@ -27,27 +27,26 @@
         }
       }
     ],
-    "preparationTime": 10,
+    "preparationTime": 12,
     "calories": 52,
     "suitableAgeInMonths": 6,
-    "allergicIngredients": [
-      {
-        "tr": "elma",
-        "en": "apple"
-      }
-    ],
+    "allergicIngredients": [],
     "instructions": [
       {
-        "tr": "Kuzumuz için tatlı ve taze elmamızı sevgiyle yıkayıp kabuklarını soyalım, ardından minik küpler halinde doğrayalım.",
-        "en": "Wash a sweet, fresh apple, peel it, and chop it into tiny cubes."
+        "tr": "Elmayı iyice yıkayın, kabuğunu soyun, çekirdeklerini çıkarın ve küçük küpler halinde doğrayın.",
+        "en": "Wash the apple thoroughly, peel it, remove the core, and cut it into small cubes."
       },
       {
-        "tr": "Doğradığımız elmaları küçük bir tencereye alıp üzerine çok az temiz su ekleyerek, çatalla lokum gibi ezilecek kadar yumuşayana dek kısık ateşte haşlayalım.",
-        "en": "Place the chopped apples in a small pot, add a tiny bit of clean water, and simmer over low heat until fork-tender."
+        "tr": "Elma küplerini buharda veya çok az suda tamamen yumuşayana kadar yaklaşık 8-10 dakika pişirin.",
+        "en": "Steam the apple cubes or cook them in a very small amount of water for about 8-10 minutes, until completely soft."
       },
       {
-        "tr": "Ilıyan bu güzel elma dilimlerini, tüm vitaminini koruması için cam rende kullanarak veya çatalla güzelce ezerek kuzumuzun kolayca yutabileceği pürüzsüz bir püre haline getirelim.",
-        "en": "Let the apples cool slightly, then mash them smoothly using a glass grater or a fork to preserve their nutritional value."
+        "tr": "Yumuşayan elmayı pürüzsüz olana kadar ezin. Gerekirse az miktarda kaynatılıp soğutulmuş su ekleyin.",
+        "en": "Mash the softened apple until smooth. Add a little boiled and cooled water if needed."
+      },
+      {
+        "tr": "İlk sunumda küçük bir miktarla başlayın. Elma ilk kez veriliyorsa 3 gün boyunca başka yeni bir gıda eklemeden bebeğinizi gözlemleyin.",
+        "en": "Start with a small amount. If this is the baby's first apple exposure, avoid adding another new food for three days and observe your baby."
       }
     ],
     "imageUrl": "https://firebasestorage.googleapis.com/v0/b/bebeks-44765.firebasestorage.app/o/elma%20puresi_1200x675.webp?alt=media&token=5bec7f12-c689-4ad1-8847-740aa9ddbbed"
@@ -55,20 +54,228 @@
   {
     "id": "baslangic_002",
     "title": {
-      "tr": "Güneş Renkli Tatlı Havuç Püresi",
-      "en": "Carrot Puree"
+      "tr": "İlk Tadım Armut Püresi",
+      "en": "First-Taste Pear Puree"
     },
     "description": {
-      "tr": "Hafif tatlı lezzetiyle bebişlerin kalbini çalan, vitamin deposu rengarenk bir başlangıç püresi.",
-      "en": "A vitamin-rich, colorful starter puree that wins babies' hearts with its naturally sweet taste."
+      "tr": "Olgun armutla hazırlanan sade ve pürüzsüz bir ilk tadım tarifidir. 3 günlük tek gıda gözlemine uygundur.",
+      "en": "A simple, smooth first-taste recipe made with ripe pear and suitable for a three-day single-food observation."
     },
     "category": 1,
     "ingredients": [
       {
-        "amount": 1,
+        "amount": 100,
         "unit": {
-          "tr": "orta boy",
-          "en": "medium"
+          "tr": "g",
+          "en": "g"
+        },
+        "baseName": {
+          "tr": "olgun armut",
+          "en": "ripe pear"
+        },
+        "shoppingLabel": {
+          "tr": "Armut",
+          "en": "Pear"
+        }
+      }
+    ],
+    "preparationTime": 12,
+    "calories": 57,
+    "suitableAgeInMonths": 6,
+    "allergicIngredients": [],
+    "instructions": [
+      {
+        "tr": "Armudu yıkayın, kabuğunu soyun, çekirdeklerini çıkarın ve küçük parçalar halinde doğrayın.",
+        "en": "Wash and peel the pear, remove the core, and cut it into small pieces."
+      },
+      {
+        "tr": "Armut parçalarını buharda veya çok az suda 6-8 dakika, iyice yumuşayana kadar pişirin.",
+        "en": "Steam the pear pieces or cook them in a very small amount of water for 6-8 minutes, until very soft."
+      },
+      {
+        "tr": "Armudu pürüzsüz bir kıvam alana kadar ezin. Gerekirse az miktarda kaynatılıp soğutulmuş su ekleyin.",
+        "en": "Mash the pear until smooth. Add a little boiled and cooled water if needed."
+      },
+      {
+        "tr": "İlk denemede küçük bir miktar sunun ve 3 gün boyunca başka yeni bir gıda eklemeyin.",
+        "en": "Offer a small amount for the first taste and do not add another new food for three days."
+      }
+    ],
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/bebeks-44765.firebasestorage.app/o/armut_puresi_1200x675.webp?alt=media&token=044b0f95-f1ff-4823-864d-7a8fc66a131c"
+  },
+  {
+    "id": "baslangic_003",
+    "title": {
+      "tr": "İlk Tadım Şeftali Püresi",
+      "en": "First-Taste Peach Puree"
+    },
+    "description": {
+      "tr": "Olgun şeftaliyle hazırlanan tek malzemeli bir meyve tadımıdır. Şeftaliyi 3 günlük gözlemle tanıtmak için kullanılabilir.",
+      "en": "A single-ingredient fruit taste made with ripe peach, suitable for introducing peach with a three-day observation."
+    },
+    "category": 1,
+    "ingredients": [
+      {
+        "amount": 100,
+        "unit": {
+          "tr": "g",
+          "en": "g"
+        },
+        "baseName": {
+          "tr": "olgun şeftali",
+          "en": "ripe peach"
+        },
+        "shoppingLabel": {
+          "tr": "Şeftali",
+          "en": "Peach"
+        }
+      }
+    ],
+    "preparationTime": 8,
+    "calories": 39,
+    "suitableAgeInMonths": 6,
+    "allergicIngredients": [],
+    "instructions": [
+      {
+        "tr": "Şeftaliyi iyice yıkayın, kabuğunu soyun ve çekirdeğini çıkarın.",
+        "en": "Wash the peach thoroughly, peel it, and remove the stone."
+      },
+      {
+        "tr": "Şeftali çok olgunsa doğrudan ezin. Sertse küçük parçalar halinde doğrayıp buharda 3-4 dakika yumuşatın.",
+        "en": "Mash the peach directly if it is very ripe. If firm, cut it into small pieces and steam for 3-4 minutes."
+      },
+      {
+        "tr": "Pürüzsüz, kaşıktan kolayca kayan bir kıvam elde edene kadar ezin.",
+        "en": "Mash until smooth and loose enough to slide easily from a spoon."
+      },
+      {
+        "tr": "Küçük bir miktarla başlayın ve şeftali ilk kez veriliyorsa 3 gün boyunca başka yeni bir gıda sunmayın.",
+        "en": "Start with a small amount and avoid offering another new food for three days if peach is being introduced for the first time."
+      }
+    ],
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/bebeks-44765.firebasestorage.app/o/gercek_seftali_1200x675.webp?alt=media&token=684b5b47-ab65-4283-9d88-d66278d96f56"
+  },
+  {
+    "id": "baslangic_004",
+    "title": {
+      "tr": "İlk Tadım Muz Ezmesi",
+      "en": "First-Taste Banana Mash"
+    },
+    "description": {
+      "tr": "Pişirme gerektirmeyen, tek malzemeli ve kolay ezilen bir başlangıç tadımıdır. 3 günlük gözleme uygundur.",
+      "en": "A no-cook, single-ingredient starter that is easy to mash and suitable for a three-day observation."
+    },
+    "category": 1,
+    "ingredients": [
+      {
+        "amount": 60,
+        "unit": {
+          "tr": "g",
+          "en": "g"
+        },
+        "baseName": {
+          "tr": "olgun muz",
+          "en": "ripe banana"
+        },
+        "shoppingLabel": {
+          "tr": "Muz",
+          "en": "Banana"
+        }
+      }
+    ],
+    "preparationTime": 3,
+    "calories": 53,
+    "suitableAgeInMonths": 6,
+    "allergicIngredients": [],
+    "instructions": [
+      {
+        "tr": "Olgun muzun kabuğunu soyun ve gerekli miktarı temiz bir tabağa alın.",
+        "en": "Peel the ripe banana and place the required amount on a clean plate."
+      },
+      {
+        "tr": "Muzu çatalla hiç parça kalmayacak şekilde iyice ezin.",
+        "en": "Mash the banana thoroughly with a fork until no firm pieces remain."
+      },
+      {
+        "tr": "Kıvam çok koyuysa birkaç damla kaynatılıp soğutulmuş suyla inceltin.",
+        "en": "If the texture is too thick, thin it with a few drops of boiled and cooled water."
+      },
+      {
+        "tr": "İlk sunumda küçük bir miktar verin ve 3 gün boyunca başka yeni bir gıda eklemeyin.",
+        "en": "Offer a small amount for the first serving and do not add another new food for three days."
+      }
+    ],
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/bebeks-44765.firebasestorage.app/o/baslangic%2Fbaslangic_004_1785320060925_1200x675.webp?alt=media&token=e08208a5-b2f5-43a2-9eb8-a09a7388f939"
+  },
+  {
+    "id": "baslangic_005",
+    "title": {
+      "tr": "İlk Tadım Avokado Ezmesi",
+      "en": "First-Taste Avocado Mash"
+    },
+    "description": {
+      "tr": "Olgun avokadoyla hazırlanan sade, yumuşak ve tek malzemeli bir başlangıç tarifidir.",
+      "en": "A simple, soft, single-ingredient starter made with ripe avocado."
+    },
+    "category": 1,
+    "ingredients": [
+      {
+        "amount": 30,
+        "unit": {
+          "tr": "g",
+          "en": "g"
+        },
+        "baseName": {
+          "tr": "olgun avokado",
+          "en": "ripe avocado"
+        },
+        "shoppingLabel": {
+          "tr": "Avokado",
+          "en": "Avocado"
+        }
+      }
+    ],
+    "preparationTime": 3,
+    "calories": 48,
+    "suitableAgeInMonths": 6,
+    "allergicIngredients": [],
+    "instructions": [
+      {
+        "tr": "Avokadoyu yıkayın, ikiye bölün ve çekirdeğini çıkarın.",
+        "en": "Wash the avocado, cut it in half, and remove the stone."
+      },
+      {
+        "tr": "Yumuşak iç kısmından 30 gram alın ve çatalla iyice ezin.",
+        "en": "Scoop out 30 grams of the soft flesh and mash it thoroughly with a fork."
+      },
+      {
+        "tr": "Kaşıktan kolayca kayan bir kıvam için gerekirse az miktarda kaynatılıp soğutulmuş su ekleyin.",
+        "en": "Add a little boiled and cooled water if needed to create a spoonable texture."
+      },
+      {
+        "tr": "Avokadoyu ilk kez sunuyorsanız küçük miktarla başlayın ve 3 gün başka yeni gıda eklemeyin.",
+        "en": "If introducing avocado for the first time, start with a small amount and avoid other new foods for three days."
+      }
+    ],
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/bebeks-44765.firebasestorage.app/o/baslangic%2Fbaslangic_005_1785320087332_1200x675.webp?alt=media&token=de6d71bb-b7fe-4782-a60b-d85c75c5fbfc"
+  },
+  {
+    "id": "baslangic_006",
+    "title": {
+      "tr": "İlk Tadım Havuç Püresi",
+      "en": "First-Taste Carrot Puree"
+    },
+    "description": {
+      "tr": "İyice pişirilmiş havuçla hazırlanan sade ve pürüzsüz bir sebze tadımıdır.",
+      "en": "A simple, smooth vegetable taste made with thoroughly cooked carrot."
+    },
+    "category": 1,
+    "ingredients": [
+      {
+        "amount": 60,
+        "unit": {
+          "tr": "g",
+          "en": "g"
         },
         "baseName": {
           "tr": "havuç",
@@ -81,42 +288,46 @@
       }
     ],
     "preparationTime": 15,
-    "calories": 40,
+    "calories": 25,
     "suitableAgeInMonths": 6,
     "allergicIngredients": [],
     "instructions": [
       {
-        "tr": "Taptaze ve tatlı havucumuzu bol suyla yıkayıp kabuklarını incecik soyalım, bebişimizin kaşığına layık halka halka dilimleyelim.",
-        "en": "Wash a fresh, sweet carrot thoroughly, peel it thinly, and slice it into rings."
+        "tr": "Havucu iyice yıkayın, ince biçimde soyun ve küçük dilimler halinde kesin.",
+        "en": "Wash the carrot thoroughly, peel it thinly, and cut it into small slices."
       },
       {
-        "tr": "O güzelim rengini ve tüm şifasını içinde saklasın diye buharda pişirme aparatında veya çok az suda pamuk gibi olana kadar haşlayalım.",
-        "en": "Steam or boil in a very small amount of water until completely soft to preserve its vitamins and vibrant color."
+        "tr": "Havucu buharda veya çok az suda tamamen yumuşayana kadar yaklaşık 10-12 dakika pişirin.",
+        "en": "Steam the carrot or cook it in a very small amount of water for about 10-12 minutes, until completely soft."
       },
       {
-        "tr": "Yumuşacık haşlanan havuçları ocaktan alıp çatalla pürüzsüz olana dek ezelim, gerekirse o şifalı haşlama suyundan birkaç damla ekleyip kıvamını bal küpümüze göre ayarlayalım.",
-        "en": "Take the cooked carrots, mash them until perfectly smooth with a fork, and add a few drops of cooking water to adjust the consistency if needed."
+        "tr": "Hiç sert parça kalmayacak şekilde ezin. Gerekirse kaynatılıp soğutulmuş suyla kıvamını açın.",
+        "en": "Mash until no firm pieces remain. Thin with boiled and cooled water if needed."
+      },
+      {
+        "tr": "İlk denemede küçük bir miktar sunun ve 3 günlük gözlem süresince başka yeni gıda eklemeyin.",
+        "en": "Offer a small amount for the first taste and avoid other new foods during the three-day observation."
       }
     ],
     "imageUrl": "https://firebasestorage.googleapis.com/v0/b/bebeks-44765.firebasestorage.app/o/havuc%20pu%CC%88resi_1200x675.webp?alt=media&token=a816a9fe-6a82-4de4-988f-d4a42d357f89"
   },
   {
-    "id": "baslangic_003",
+    "id": "baslangic_007",
     "title": {
-      "tr": "Hassas Göbüşlere Yumuşacık Kabak Püresi",
-      "en": "Zucchini Puree"
+      "tr": "İlk Tadım Kabak Püresi",
+      "en": "First-Taste Zucchini Puree"
     },
     "description": {
-      "tr": "Sindirimi son derece kolay olan, bebeğinizin hassas midesini yormayacak pamuk gibi bir sebze başlangıcı.",
-      "en": "An incredibly easy-to-digest vegetable starter that will be gentle on your baby's sensitive little tummy."
+      "tr": "Tek malzemeli, hafif ve yumuşak kıvamlı bir sebze başlangıç tarifidir.",
+      "en": "A light, soft, single-ingredient vegetable starter recipe."
     },
     "category": 1,
     "ingredients": [
       {
-        "amount": 1,
+        "amount": 60,
         "unit": {
-          "tr": "küçük",
-          "en": "small"
+          "tr": "g",
+          "en": "g"
         },
         "baseName": {
           "tr": "kabak",
@@ -129,42 +340,46 @@
       }
     ],
     "preparationTime": 12,
-    "calories": 20,
+    "calories": 10,
     "suitableAgeInMonths": 6,
     "allergicIngredients": [],
     "instructions": [
       {
-        "tr": "Canımız kabağımızı güzelce yıkayıp kabuklarını çok ince bir şekilde soyalım ve sevgiyle dilimleyelim.",
-        "en": "Wash the zucchini, peel it very thinly, and slice it into pieces."
+        "tr": "Kabağı yıkayın, ince biçimde soyun ve küçük küpler halinde doğrayın.",
+        "en": "Wash the zucchini, peel it thinly, and cut it into small cubes."
       },
       {
-        "tr": "Çok az su ekleyerek tencerede veya buharda, kabaklar miniğimizin narin diline layık şekilde tamamen yumuşayıp şeffaflaşana kadar pişmeye bırakalım.",
-        "en": "Cook in a pot with a tiny bit of water or steam until the zucchini is completely soft and translucent."
+        "tr": "Kabakları buharda veya çok az suda tamamen yumuşayana kadar yaklaşık 7-8 dakika pişirin.",
+        "en": "Steam the zucchini or cook it in a very small amount of water for about 7-8 minutes, until completely soft."
       },
       {
-        "tr": "Pişen kabakları süzüp çatalla nazikçe ezelim. Dilerseniz bu şifa kaynağını daha da tatlandırmak için içine birkaç damla anne sütü veya formül mama ekleyebilirsiniz. Şifa olsun kuşumuza!",
-        "en": "Drain the cooked zucchini and mash it with a fork. You can add a few drops of breast milk or formula to adjust the consistency."
+        "tr": "Kabakları pürüzsüz olana kadar ezin. Çok suluysa ilave su eklemeyin.",
+        "en": "Mash the zucchini until smooth. Do not add extra water if it is already loose."
+      },
+      {
+        "tr": "Küçük bir miktarla başlayın ve kabak ilk kez veriliyorsa 3 gün başka yeni gıda sunmayın.",
+        "en": "Start with a small amount and avoid other new foods for three days if zucchini is being introduced for the first time."
       }
     ],
     "imageUrl": "https://firebasestorage.googleapis.com/v0/b/bebeks-44765.firebasestorage.app/o/kabak_puresi_1200x675.webp?alt=media&token=e175c4bd-1fab-4f73-b18e-05769b8e101d"
   },
   {
-    "id": "baslangic_004",
+    "id": "baslangic_008",
     "title": {
-      "tr": "Kadife Dokulu Balkabağı Ziyafeti",
-      "en": "Pumpkin Puree"
+      "tr": "İlk Tadım Balkabağı Püresi",
+      "en": "First-Taste Pumpkin Puree"
     },
     "description": {
-      "tr": "Beta-karoten zengini, tatlımsı tadıyla bebişlerin bayılacağı, kadife dokulu besleyici bir lezzet.",
-      "en": "Rich in beta-carotene, this velvety, nutritious puree has a sweet taste that babies will absolutely adore."
+      "tr": "İyice yumuşatılmış balkabağıyla hazırlanan tek malzemeli ve pürüzsüz bir ilk tadımdır.",
+      "en": "A smooth, single-ingredient first taste made with thoroughly softened pumpkin."
     },
     "category": 1,
     "ingredients": [
       {
-        "amount": 1,
+        "amount": 80,
         "unit": {
-          "tr": "dilim",
-          "en": "slice"
+          "tr": "g",
+          "en": "g"
         },
         "baseName": {
           "tr": "balkabağı",
@@ -176,43 +391,99 @@
         }
       }
     ],
-    "preparationTime": 20,
-    "calories": 45,
+    "preparationTime": 18,
+    "calories": 21,
     "suitableAgeInMonths": 6,
     "allergicIngredients": [],
     "instructions": [
       {
-        "tr": "Mis kokulu balkabağımızın kabuklarını soyup çekirdekli kısmını anne titizliğiyle temizleyelim ve küçük küpler halinde doğrayalım.",
-        "en": "Peel the pumpkin, remove the seeds, and cut it into small cubes."
+        "tr": "Balkabağının kabuğunu ve çekirdekli bölümünü temizleyin, küçük küpler halinde doğrayın.",
+        "en": "Remove the pumpkin skin and seeds, then cut the flesh into small cubes."
       },
       {
-        "tr": "Doğradığımız balkabaklarını buharda ya da üzerini çok az geçecek kadar temiz suda, minişimizin narin ağzına layık, yumuşacık olana kadar haşlayalım.",
-        "en": "Steam the pumpkin cubes or boil them in a small amount of water until they are tender."
+        "tr": "Balkabağını buharda veya çok az suda yaklaşık 12-15 dakika, tamamen yumuşayana kadar pişirin.",
+        "en": "Steam the pumpkin or cook it in a very small amount of water for about 12-15 minutes, until completely soft."
       },
       {
-        "tr": "Haşlanan balkabaklarını çatalla pürüzsüz and ipeksi olana dek sevgiyle ezip, ılık olarak bebişimize tazece servis edelim.",
-        "en": "Mash the cooked pumpkin with a fork until perfectly smooth and serve it warm to your baby."
+        "tr": "Pürüzsüz olana kadar ezin ve servis öncesinde ılımasını bekleyin.",
+        "en": "Mash until smooth and allow it to cool to a comfortably warm temperature before serving."
+      },
+      {
+        "tr": "İlk sunumda küçük miktarla başlayın ve 3 gün boyunca başka yeni bir gıda eklemeyin.",
+        "en": "Start with a small amount and do not add another new food for three days."
       }
     ],
     "imageUrl": "https://firebasestorage.googleapis.com/v0/b/bebeks-44765.firebasestorage.app/o/balkabagi_puresi_1200x675.webp?alt=media&token=5ab7ddeb-72e5-4859-82ab-e757c942178c"
   },
   {
-    "id": "baslangic_005",
+    "id": "baslangic_009",
     "title": {
-      "tr": "Miniğe Enerji Veren Tok Tutucu Patates Püresi",
-      "en": "Potato Puree"
+      "tr": "İlk Tadım Tatlı Patates Püresi",
+      "en": "First-Taste Sweet Potato Puree"
     },
     "description": {
-      "tr": "Bebişimize enerji veren, tok tutucu özelliğiyle uyku öncesi veya gün ortasında tercih edebileceğiniz nefis bir püre.",
-      "en": "A delicious puree that gives your baby energy and keeps them full, perfect before bedtime or during the day."
+      "tr": "Tatlı patatesle hazırlanan sade, tek malzemeli ve yumuşak kıvamlı bir başlangıç tarifidir.",
+      "en": "A simple, soft, single-ingredient starter made with sweet potato."
     },
     "category": 1,
     "ingredients": [
       {
-        "amount": 1,
+        "amount": 60,
         "unit": {
-          "tr": "küçük",
-          "en": "small"
+          "tr": "g",
+          "en": "g"
+        },
+        "baseName": {
+          "tr": "tatlı patates",
+          "en": "sweet potato"
+        },
+        "shoppingLabel": {
+          "tr": "Tatlı Patates",
+          "en": "Sweet Potato"
+        }
+      }
+    ],
+    "preparationTime": 18,
+    "calories": 52,
+    "suitableAgeInMonths": 6,
+    "allergicIngredients": [],
+    "instructions": [
+      {
+        "tr": "Tatlı patatesi yıkayın, kabuğunu soyun ve küçük küpler halinde doğrayın.",
+        "en": "Wash and peel the sweet potato, then cut it into small cubes."
+      },
+      {
+        "tr": "Buharda veya çok az suda yaklaşık 12-15 dakika, çatalla kolayca dağılana kadar pişirin.",
+        "en": "Steam or cook in a very small amount of water for about 12-15 minutes, until it breaks apart easily with a fork."
+      },
+      {
+        "tr": "Pürüzsüz olana kadar ezin. Gerekirse az miktarda kaynatılıp soğutulmuş su ekleyin.",
+        "en": "Mash until smooth. Add a little boiled and cooled water if needed."
+      },
+      {
+        "tr": "İlk sunumda küçük bir miktar verin ve 3 günlük gözlem boyunca başka yeni gıda eklemeyin.",
+        "en": "Offer a small amount for the first serving and avoid other new foods during the three-day observation."
+      }
+    ],
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/bebeks-44765.firebasestorage.app/o/baslangic%2Fbaslangic_009_1785320107345_1200x675.webp?alt=media&token=8e5033c4-316b-489c-84b3-d0f722f404e9"
+  },
+  {
+    "id": "baslangic_010",
+    "title": {
+      "tr": "İlk Tadım Patates Püresi",
+      "en": "First-Taste Potato Puree"
+    },
+    "description": {
+      "tr": "Tuz ve süt ürünü eklenmeden hazırlanan sade bir patates tadımıdır.",
+      "en": "A simple potato taste prepared without added salt or dairy."
+    },
+    "category": 1,
+    "ingredients": [
+      {
+        "amount": 60,
+        "unit": {
+          "tr": "g",
+          "en": "g"
         },
         "baseName": {
           "tr": "patates",
@@ -224,43 +495,47 @@
         }
       }
     ],
-    "preparationTime": 20,
-    "calories": 80,
+    "preparationTime": 18,
+    "calories": 46,
     "suitableAgeInMonths": 6,
     "allergicIngredients": [],
     "instructions": [
       {
-        "tr": "Küçük bir patatesi güzelce yıkayıp soyalım, ardından minişimiz aç kalmasın, çabucak pişsin diye küpler halinde doğrayalım.",
-        "en": "Wash and peel a small potato, then cut it into cubes for faster cooking."
+        "tr": "Patatesi yıkayın, kabuğunu soyun ve küçük küpler halinde doğrayın.",
+        "en": "Wash and peel the potato, then cut it into small cubes."
       },
       {
-        "tr": "Doğradığımız patatesleri üzerini geçecek kadar temiz suda, çatalla dokununca dağılacak kadar yumuşacık olana dek haşlayalım.",
-        "en": "Boil the chopped potatoes in water until they are completely soft and tender."
+        "tr": "Patatesleri suda veya buharda yaklaşık 12-15 dakika, tamamen yumuşayana kadar pişirin.",
+        "en": "Cook the potato in water or steam for about 12-15 minutes, until completely soft."
       },
       {
-        "tr": "Patatesleri süzüp henüz sıcakken sevgiyle ezelim; kıvamı bebişimize biraz katı gelirse anne sütü veya birkaç damlacık sızma zeytinyağı ile yumuşatalım.",
-        "en": "Drain and mash the potatoes while hot; if the consistency is too thick, thin it with breast milk or olive oil."
+        "tr": "Patatesi sıcakken ezin ve pürüzsüz kıvam için kaynatılıp soğutulmuş su ekleyin. Tuz, süt veya tereyağı eklemeyin.",
+        "en": "Mash the potato while warm and add boiled and cooled water for a smooth texture. Do not add salt, milk, or butter."
+      },
+      {
+        "tr": "Küçük miktarla başlayın ve patates ilk kez veriliyorsa 3 gün başka yeni gıda sunmayın.",
+        "en": "Start with a small amount and avoid other new foods for three days if potato is being introduced for the first time."
       }
     ],
     "imageUrl": "https://firebasestorage.googleapis.com/v0/b/bebeks-44765.firebasestorage.app/o/patates_puresi_1200x675.webp?alt=media&token=8e024438-242a-41bc-99a9-5287a1748047"
   },
   {
-    "id": "baslangic_006",
+    "id": "baslangic_011",
     "title": {
-      "tr": "İlk Yeşillik Yumuşacık Brokoli Püresi",
-      "en": "Broccoli Puree"
+      "tr": "İlk Tadım Brokoli Püresi",
+      "en": "First-Taste Broccoli Puree"
     },
     "description": {
-      "tr": "Beklerin yeşil sebzelerle tanışması için harika, demir ve vitamin deposu çok özel bir başlangıç tarifi.",
-      "en": "A wonderful starter recipe packed with iron and vitamins to introduce your baby to healthy green vegetables."
+      "tr": "İyice pişirilmiş brokoliyle hazırlanan tek malzemeli bir sebze tadımıdır.",
+      "en": "A single-ingredient vegetable taste made with thoroughly cooked broccoli."
     },
     "category": 1,
     "ingredients": [
       {
-        "amount": 2,
+        "amount": 50,
         "unit": {
-          "tr": "çiçek",
-          "en": "florets"
+          "tr": "g",
+          "en": "g"
         },
         "baseName": {
           "tr": "brokoli",
@@ -272,232 +547,39 @@
         }
       }
     ],
-    "preparationTime": 10,
-    "calories": 35,
+    "preparationTime": 12,
+    "calories": 17,
     "suitableAgeInMonths": 6,
     "allergicIngredients": [],
     "instructions": [
       {
-        "tr": "Taze brokoli çiçeklerimizi bol suyla yıkayıp sirkeli suda bebişimizin sağlığı için biraz bekletelim and şirin küçük dallarına ayıralım.",
-        "en": "Wash fresh broccoli florets thoroughly, let them sit in vinegar water, and separate them into small pieces."
+        "tr": "Brokoliyi bol suyla yıkayın ve küçük çiçeklerine ayırın.",
+        "en": "Wash the broccoli thoroughly and separate it into small florets."
       },
       {
-        "tr": "Buharda ya da çok az suda brokoliler yumuşayıp o güzelim canlı yeşil rengini koruyacak şekilde, vitaminlerini kaçırmadan pişirelim.",
-        "en": "Steam or boil in a very small amount of water until soft but still retaining their bright green color."
+        "tr": "Brokoliyi buharda veya çok az suda yaklaşık 7-8 dakika, sapları da tamamen yumuşayana kadar pişirin.",
+        "en": "Steam the broccoli or cook it in a very small amount of water for about 7-8 minutes, until the stems are completely soft."
       },
       {
-        "tr": "Pişen brokolilerimizi çatalla pürüzsüz olana dek iyice ezelim, içine şifa niyetine birkaç damla zeytinyağı ekleyip neşeyle karıştıralım.",
-        "en": "Mash the cooked broccoli thoroughly with a fork, add a few drops of olive oil, and mix well."
+        "tr": "Hiç sert parça kalmayacak şekilde ezin. Gerekirse kaynatılıp soğutulmuş suyla inceltin.",
+        "en": "Mash until no firm pieces remain. Thin with boiled and cooled water if needed."
+      },
+      {
+        "tr": "İlk sunumda küçük bir miktar verin ve 3 gün boyunca başka yeni gıda eklemeyin.",
+        "en": "Offer a small amount for the first serving and do not add another new food for three days."
       }
     ],
-    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/bebeks-44765.firebasestorage.app/o/seftali%20puresi_1200x675.webp?alt=media&token=fd9783c7-a441-4d08-b2a9-157bbb551e19"
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/bebeks-44765.firebasestorage.app/o/baslangic%2Fbaslangic_011_1785320124813_1200x675.webp?alt=media&token=e2043894-8447-408d-aa51-91cce7df582a"
   },
   {
-    "id": "baslangic_007",
+    "id": "baslangic_012",
     "title": {
-      "tr": "Yaz Ferahlığı Mis Kokulu Şeftali Püresi",
-      "en": "Peach Puree"
+      "tr": "İlk Tadım Karnabahar Püresi",
+      "en": "First-Taste Cauliflower Puree"
     },
     "description": {
-      "tr": "Yaz aylarının o tatlı ve sulu şeftalisiyle hazırlanan, bebişinizin içini ferahlatacak mis kokulu bir meyve öğünü.",
-      "en": "A fragrant, refreshing fruit meal prepared with sweet and juicy summer peaches that will delight your baby."
-    },
-    "category": 1,
-    "ingredients": [
-      {
-        "amount": 1,
-        "unit": {
-          "tr": "adet",
-          "en": "pcs"
-        },
-        "baseName": {
-          "tr": "şeftali",
-          "en": "peach"
-        },
-        "shoppingLabel": {
-          "tr": "Şeftali",
-          "en": "Peach"
-        }
-      }
-    ],
-    "preparationTime": 8,
-    "calories": 40,
-    "suitableAgeInMonths": 6,
-    "allergicIngredients": [],
-    "instructions": [
-      {
-        "tr": "Bal gibi olgun ve tatlı bir şeftaliyi güzelce yıkayıp kabuklarını narince soyalım.",
-        "en": "Wash a ripe and sweet peach thoroughly, then peel off its skin."
-      },
-      {
-        "tr": "Şeftaliyi cam rende kullanarak anne özeniyle rendeleyelim veya çatalla ezerek sulu ve ipeksi bir kıvam elde edelim.",
-        "en": "Grate the peach using a glass grater or mash it with a fork to achieve a juicy and smooth consistency."
-      },
-      {
-        "tr": "Hemen bekletmeden, taze taze bebişimize yedirelim ki canım vitaminleri hiç kaybolmasın. Afiyet olsun meleğimize!",
-        "en": "Serve it fresh to your baby immediately so that the vitamins are not lost."
-      }
-    ],
-    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/bebeks-44765.firebasestorage.app/o/gercek_seftali_1200x675.webp?alt=media&token=684b5b47-ab65-4283-9d88-d66278d96f56"
-  },
-  {
-    "id": "baslangic_008",
-    "title": {
-      "tr": "Sindirim Dostu Tatlış Armut Püresi",
-      "en": "Pear Puree"
-    },
-    "description": {
-      "tr": "Lifli yapısıyla bağırsakları nazikçe çalıştıran, tatlı mı tatlı, sindirim dostu nefis bir armut püresi.",
-      "en": "A sweet, digestion-friendly pear puree that gently stimulates the bowels with its high fiber content."
-    },
-    "category": 1,
-    "ingredients": [
-      {
-        "amount": 1,
-        "unit": {
-          "tr": "adet",
-          "en": "pcs"
-        },
-        "baseName": {
-          "tr": "armut",
-          "en": "pear"
-        },
-        "shoppingLabel": {
-          "tr": "Armut",
-          "en": "Pear"
-        }
-      }
-    ],
-    "preparationTime": 10,
-    "calories": 50,
-    "suitableAgeInMonths": 6,
-    "allergicIngredients": [],
-    "instructions": [
-      {
-        "tr": "Bal küpümüz için armudun kabuklarını soyup çekirdeklerini tertemiz temizleyelim and dilimleyelim.",
-        "en": "Peel the pear, remove the seeds, and slice it into pieces."
-      },
-      {
-        "tr": "Armut dilimlerini buharda veya çok az su eklenmiş tencerede, kuzumuzun damağına layık yumuşacık bir kıvama gelene kadar pişirelim.",
-        "en": "Cook the pear slices in a steamer or a pot with a tiny bit of water until soft."
-      },
-      {
-        "tr": "Yumuşayan armutları cam rendeden narince geçirerek veya çatalla bir güzel ezerek pürüzsüz püre haline getirelim.",
-        "en": "Pass the soft pears through a glass grater or mash them with a fork to make a puree."
-      }
-    ],
-    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/bebeks-44765.firebasestorage.app/o/armut_puresi_1200x675.webp?alt=media&token=044b0f95-f1ff-4823-864d-7a8fc66a131c"
-  },
-  {
-    "id": "baslangic_009",
-    "title": {
-      "tr": "Miniğin İlk İpeksi Ev Yoğurdu",
-      "en": "Yogurt (First Taste)"
-    },
-    "description": {
-      "tr": "Mayasında sağlık olan, bebişinizin kalsiyum ihtiyacını karşılayacak ev yapımı ipeksi bir yoğurt.",
-      "en": "Silky homemade yogurt packed with health and calcium to support your baby's growth."
-    },
-    "category": 1,
-    "ingredients": [
-      {
-        "amount": 2,
-        "unit": {
-          "tr": "yemek kaşığı",
-          "en": "tbsp"
-        },
-        "baseName": {
-          "tr": "ev yoğurdu",
-          "en": "homemade yogurt"
-        },
-        "shoppingLabel": {
-          "tr": "Yoğurt",
-          "en": "Yogurt"
-        }
-      }
-    ],
-    "preparationTime": 2,
-    "calories": 60,
-    "suitableAgeInMonths": 6,
-    "allergicIngredients": [
-      {
-        "tr": "süt",
-        "en": "milk"
-      }
-    ],
-    "instructions": [
-      {
-        "tr": "Günlük taze sütümüzü kaynatıp anne usulü mayalama sıcaklığına (yani serçe parmağınızı tatlı tatlı ısıtacak o güzel ılıklığa) gelmesini bekleyelim.",
-        "en": "Boil daily fresh milk and let it cool down to fermentation temperature (warm enough not to burn your pinky finger)."
-      },
-      {
-        "tr": "Bir kaşık ev yoğurdu mayası ile sütümüzü şefkatle karıştırıp minik kavanozlara paylaştıralım, etrafını sevgiyle sarıp 6 saatçik mayalanmaya bırakalım.",
-        "en": "Gently mix the milk with a spoonful of homemade yogurt starter, pour into jars, wrap them warm, and ferment for 6 hours."
-      },
-      {
-        "tr": "Mis gibi mayalanan yoğurdu buzdolabında güzelce dinlendirdikten sonra, oda sıcaklığına getirerek meleğimize sunalım.",
-        "en": "After resting the fermented yogurt in the fridge, bring it to room temperature before serving to your baby."
-      }
-    ],
-    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/bebeks-44765.firebasestorage.app/o/ev%20yogurdu_1200x675.webp?alt=media&token=8bc78a00-6330-4f6c-9478-b17b36211be7"
-  },
-  {
-    "id": "baslangic_010",
-    "title": {
-      "tr": "Hassas Bağırsaklara Güvenli Pirinç Lapası",
-      "en": "Rice Porridge"
-    },
-    "description": {
-      "tr": "Mideyi yormayan yapısıyla ek gıdaya geçişte güvenli bir liman olan, pürüzsüz pirinç unu lapası.",
-      "en": "A smooth rice flour porridge that is a safe harbor when transitioning to solids due to its gentle nature."
-    },
-    "category": 1,
-    "ingredients": [
-      {
-        "amount": 1,
-        "unit": {
-          "tr": "yemek kaşığı",
-          "en": "tbsp"
-        },
-        "baseName": {
-          "tr": "pirinç unu",
-          "en": "rice flour"
-        },
-        "shoppingLabel": {
-          "tr": "Pirinç Unu",
-          "en": "Rice Flour"
-        }
-      }
-    ],
-    "preparationTime": 10,
-    "calories": 90,
-    "suitableAgeInMonths": 6,
-    "allergicIngredients": [],
-    "instructions": [
-      {
-        "tr": "1 yemek kaşığı pirinç unumuzu küçük bir cezveye alıp üzerine 1 çay bardağı temiz su ekleyelim.",
-        "en": "Place 1 tablespoon of rice flour in a small coffee pot and add 1 teacup of water."
-      },
-      {
-        "tr": "Kısık ateşte, topaklanıp minişimizin ağzına gelmemesi için tatlı tatlı, sürekli karıştırarak yumuşacık bir muhallebi kıvamı alana kadar pişirelim.",
-        "en": "Cook over low heat, stirring constantly to prevent lumps, until it reaches a pudding consistency."
-      },
-      {
-        "tr": "Ocaktan alıp güzelce ılıttıktan sonra, dilerseniz içine anne şefkati niyetine birkaç damla anne sütü ekleyerek bebişimize keyifle servis edelim.",
-        "en": "Remove from heat, let it cool to warm, and optionally add a few drops of breast milk before serving."
-      }
-    ],
-    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/bebeks-44765.firebasestorage.app/o/pirinc%20lapasi_1200x675.webp?alt=media&token=917d9f34-1659-4c77-aec2-042db62f46fc"
-  },
-  {
-    "id": "baslangic_011",
-    "title": {
-      "tr": "Zeytinyağlı Kabak ve Pirinç Ezmesi",
-      "en": "Tender Zucchini and Rice Purée with Olive Oil"
-    },
-    "description": {
-      "tr": "Kabak, pirinç ve zeytinyağının yumuşacık bir kıvamda buluştuğu, minik kaşıklar için sade ve şefkatli bir başlangıç tarifi.",
-      "en": "A gentle first-food purée that brings tender zucchini, soft rice, and olive oil together in a smooth, spoon-friendly texture."
+      "tr": "Karnabaharı tek başına tanıtmak için hazırlanmış sade ve pürüzsüz bir başlangıç tarifidir.",
+      "en": "A simple, smooth starter prepared to introduce cauliflower on its own."
     },
     "category": 1,
     "ingredients": [
@@ -508,14 +590,180 @@
           "en": "g"
         },
         "baseName": {
-          "tr": "kabak",
-          "en": "zucchini"
+          "tr": "karnabahar",
+          "en": "cauliflower"
         },
         "shoppingLabel": {
-          "tr": "Taze kabak",
-          "en": "Fresh zucchini"
+          "tr": "Karnabahar",
+          "en": "Cauliflower"
+        }
+      }
+    ],
+    "preparationTime": 12,
+    "calories": 13,
+    "suitableAgeInMonths": 6,
+    "allergicIngredients": [],
+    "instructions": [
+      {
+        "tr": "Karnabaharı bol suyla yıkayın ve küçük çiçeklerine ayırın.",
+        "en": "Wash the cauliflower thoroughly and separate it into small florets."
+      },
+      {
+        "tr": "Buharda veya çok az suda yaklaşık 8-10 dakika, tamamen yumuşayana kadar pişirin.",
+        "en": "Steam or cook in a very small amount of water for about 8-10 minutes, until completely soft."
+      },
+      {
+        "tr": "Pürüzsüz olana kadar ezin ve gerekirse az miktarda kaynatılıp soğutulmuş su ekleyin.",
+        "en": "Mash until smooth and add a little boiled and cooled water if needed."
+      },
+      {
+        "tr": "Küçük bir miktarla başlayın ve karnabahar ilk kez veriliyorsa 3 gün başka yeni gıda sunmayın.",
+        "en": "Start with a small amount and avoid other new foods for three days if cauliflower is being introduced for the first time."
+      }
+    ],
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/bebeks-44765.firebasestorage.app/o/baslangic%2Fbaslangic_012_1785320142933_1200x675.webp?alt=media&token=0b3a0c89-9730-456a-b5fc-2de3df952f72"
+  },
+  {
+    "id": "baslangic_013",
+    "title": {
+      "tr": "Süt Alerjeni Tadımı: Sade Yoğurt",
+      "en": "Milk Allergen Taste: Plain Yogurt"
+    },
+    "description": {
+      "tr": "Süt proteinini tek başına ve küçük miktarda tanıtmak için sade, tam yağlı ve pastörize yoğurtla hazırlanır.",
+      "en": "Prepared with plain, full-fat, pasteurized yogurt to introduce milk protein on its own in a small amount."
+    },
+    "category": 1,
+    "ingredients": [
+      {
+        "amount": 30,
+        "unit": {
+          "tr": "g",
+          "en": "g"
+        },
+        "baseName": {
+          "tr": "sade tam yağlı pastörize yoğurt",
+          "en": "plain full-fat pasteurized yogurt"
+        },
+        "shoppingLabel": {
+          "tr": "Sade Yoğurt",
+          "en": "Plain Yogurt"
+        }
+      }
+    ],
+    "preparationTime": 2,
+    "calories": 18,
+    "suitableAgeInMonths": 6,
+    "allergicIngredients": [
+      {
+        "tr": "süt",
+        "en": "milk"
+      }
+    ],
+    "instructions": [
+      {
+        "tr": "İlave şeker, bal, meyve veya aroma içermeyen sade, tam yağlı ve pastörize yoğurt kullanın.",
+        "en": "Use plain, full-fat, pasteurized yogurt with no added sugar, honey, fruit, or flavoring."
+      },
+      {
+        "tr": "Yoğurdu temiz bir kaba alın ve soğukluğu azalıncaya kadar birkaç dakika bekletin.",
+        "en": "Place the yogurt in a clean bowl and let it sit for a few minutes so it is not very cold."
+      },
+      {
+        "tr": "İlk denemeyi bebeğiniz sağlıklıyken ve gündüz saatlerinde 1 çay kaşığı kadar yoğurtla yapın.",
+        "en": "For the first exposure, offer about 1 teaspoon while your baby is well and during daytime hours."
+      },
+      {
+        "tr": "3 gün boyunca başka yeni gıda sunmayın. Herhangi bir alerji belirtisi görülürse vermeyi bırakın ve sağlık profesyoneline başvurun.",
+        "en": "Do not introduce another new food for three days. Stop offering it and contact a healthcare professional if any allergic symptoms appear."
+      }
+    ],
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/bebeks-44765.firebasestorage.app/o/ev%20yogurdu_1200x675.webp?alt=media&token=8bc78a00-6330-4f6c-9478-b17b36211be7"
+  },
+  {
+    "id": "baslangic_014",
+    "title": {
+      "tr": "Yumurta Alerjeni Tadımı",
+      "en": "Egg Allergen Taste"
+    },
+    "description": {
+      "tr": "İyice pişirilmiş yumurtayı tek başına ve küçük miktarda tanıtmak için hazırlanmış sade bir tadım tarifidir.",
+      "en": "A simple tasting recipe for introducing thoroughly cooked egg on its own in a small amount."
+    },
+    "category": 1,
+    "ingredients": [
+      {
+        "amount": 0.5,
+        "unit": {
+          "tr": "adet",
+          "en": "piece"
+        },
+        "baseName": {
+          "tr": "iyi pişmiş yumurta",
+          "en": "fully cooked egg"
+        },
+        "shoppingLabel": {
+          "tr": "Yumurta",
+          "en": "Egg"
         }
       },
+      {
+        "amount": 15,
+        "unit": {
+          "tr": "ml",
+          "en": "ml"
+        },
+        "baseName": {
+          "tr": "kaynatılıp soğutulmuş su",
+          "en": "boiled and cooled water"
+        },
+        "shoppingLabel": {
+          "tr": "İçme Suyu",
+          "en": "Drinking Water"
+        }
+      }
+    ],
+    "preparationTime": 12,
+    "calories": 36,
+    "suitableAgeInMonths": 6,
+    "allergicIngredients": [
+      {
+        "tr": "yumurta",
+        "en": "egg"
+      }
+    ],
+    "instructions": [
+      {
+        "tr": "Yumurtayı beyazı ve sarısı tamamen katılaşana kadar yaklaşık 10 dakika haşlayın.",
+        "en": "Boil the egg for about 10 minutes, until both the white and yolk are completely firm."
+      },
+      {
+        "tr": "Yarım yumurtayı çatalla çok ince ezin ve pürüzsüz kıvam için suyu azar azar ekleyin.",
+        "en": "Mash half of the egg very finely and gradually add water to create a smooth texture."
+      },
+      {
+        "tr": "İlk denemede karışımdan yaklaşık çeyrek çay kaşığı kadarını gündüz saatlerinde sunun.",
+        "en": "For the first exposure, offer about a quarter teaspoon of the mixture during daytime hours."
+      },
+      {
+        "tr": "3 gün başka yeni gıda eklemeyin. Şiddetli egzama veya bilinen gıda alerjisi varsa ilk denemeden önce çocuk doktoruna danışın.",
+        "en": "Do not add another new food for three days. Consult your baby's doctor before the first exposure if your baby has severe eczema or a known food allergy."
+      }
+    ],
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/bebeks-44765.firebasestorage.app/o/baslangic%2Fbaslangic_014_1785320166002_1200x675.webp?alt=media&token=acb221ab-da1c-4f78-89b7-679db91cc885"
+  },
+  {
+    "id": "baslangic_015",
+    "title": {
+      "tr": "Buğday Alerjeni Tadımı: İrmik Lapası",
+      "en": "Wheat Allergen Taste: Semolina Porridge"
+    },
+    "description": {
+      "tr": "Buğdayı tek başına tanıtmak için suyla hazırlanan sade ve pürüzsüz bir irmik lapasıdır.",
+      "en": "A plain, smooth semolina porridge made with water to introduce wheat on its own."
+    },
+    "category": 1,
+    "ingredients": [
       {
         "amount": 10,
         "unit": {
@@ -523,12 +771,12 @@
           "en": "g"
         },
         "baseName": {
-          "tr": "pirinç",
-          "en": "rice"
+          "tr": "buğday irmiği",
+          "en": "wheat semolina"
         },
         "shoppingLabel": {
-          "tr": "Beyaz pirinç",
-          "en": "White rice"
+          "tr": "İrmik",
+          "en": "Semolina"
         }
       },
       {
@@ -542,145 +790,383 @@
           "en": "water"
         },
         "shoppingLabel": {
-          "tr": "İçme suyu",
-          "en": "Drinking water"
-        }
-      },
-      {
-        "amount": 1,
-        "unit": {
-          "tr": "çay kaşığı",
-          "en": "tsp"
-        },
-        "baseName": {
-          "tr": "zeytinyağı",
-          "en": "olive oil"
-        },
-        "shoppingLabel": {
-          "tr": "Zeytinyağı",
-          "en": "Olive oil"
+          "tr": "İçme Suyu",
+          "en": "Drinking Water"
         }
       }
     ],
-    "preparationTime": 20,
-    "calories": 84,
+    "preparationTime": 10,
+    "calories": 36,
     "suitableAgeInMonths": 6,
-    "allergicIngredients": [],
+    "allergicIngredients": [
+      {
+        "tr": "buğday",
+        "en": "wheat"
+      }
+    ],
     "instructions": [
       {
-        "tr": "Pirinci bol suyla iyice yıkayın. Kabağı soyup çekirdekli kısmı sertse çıkarın ve küçük küpler halinde doğrayın.",
-        "en": "Rinse the rice thoroughly. Peel the zucchini, remove any firm seedy center, and cut it into small cubes."
+        "tr": "İrmiği ve suyu küçük bir tencereye alın.",
+        "en": "Place the semolina and water in a small saucepan."
       },
       {
-        "tr": "Pirinç, kabak ve suyu küçük bir tencereye alın. Kaynayınca ateşi kısın; pirinç tamamen dağılana ve kabak çok yumuşayana kadar yaklaşık 15 dakika pişirin.",
-        "en": "Place the rice, zucchini, and water in a small saucepan. Once boiling, lower the heat and cook for about 15 minutes, until the rice breaks down and the zucchini is very tender."
+        "tr": "Kısık ateşte sürekli karıştırarak irmik tamamen pişip pürüzsüz bir kıvam alana kadar yaklaşık 6-8 dakika pişirin.",
+        "en": "Cook over low heat for about 6-8 minutes, stirring continuously, until fully cooked and smooth."
       },
       {
-        "tr": "Karışımı pürüzsüz, yumuşak ve kaşıktan yavaşça akacak bir kıvama gelene kadar ezin veya blenderdan geçirin. Gerekirse az miktarda kaynatılıp soğutulmuş su ekleyin.",
-        "en": "Mash or blend until completely smooth, soft, and loose enough to fall slowly from a spoon. Add a little boiled and cooled water if needed."
+        "tr": "Lapayı ılıtın. İlk denemede yaklaşık çeyrek çay kaşığı kadarını gündüz saatlerinde sunun.",
+        "en": "Allow the porridge to cool. For the first exposure, offer about a quarter teaspoon during daytime hours."
       },
       {
-        "tr": "Zeytinyağını ekleyip karıştırın. Bebeğinize sunmadan önce ılımasını bekleyin ve sıcaklığını kontrol edin.",
-        "en": "Stir in the olive oil. Let the purée cool to a comfortably warm temperature and check it before serving."
+        "tr": "3 gün boyunca başka yeni gıda sunmayın. Alerji belirtisi görülürse vermeyi bırakın ve sağlık profesyoneline başvurun.",
+        "en": "Do not introduce another new food for three days. Stop offering it and contact a healthcare professional if allergic symptoms appear."
       }
     ],
-    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/bebeks-44765.firebasestorage.app/o/baslangic%2Fbaslangic_011_1785094837941_1200x675.webp?alt=media&token=51ffdf20-7086-4841-b11b-ffb7e0c20111"
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/bebeks-44765.firebasestorage.app/o/baslangic%2Fbaslangic_015_1785320185749_1200x675.webp?alt=media&token=c4f8e47c-9c92-4403-b55d-3d80a96f1d55"
   },
   {
-    "id": "baslangic_012",
+    "id": "baslangic_016",
     "title": {
-      "tr": "Kabaklı Pirinç Çorbası",
-      "en": "Gentle Zucchini and Rice Soup"
+      "tr": "Yer Fıstığı Alerjeni Tadımı",
+      "en": "Peanut Allergen Taste"
     },
     "description": {
-      "tr": "Yumuşacık pişen kabak ve pirinçle hazırlanan, minik kaşıklara uygun, pürüzsüz ve nazik bir başlangıç çorbası.",
-      "en": "A smooth, comforting first soup made with tender zucchini and rice, lovingly prepared for tiny spoonfuls."
+      "tr": "Şekersiz ve tuzsuz, pürüzsüz yer fıstığı ezmesini güvenli akışkan kıvamda tanıtmak için hazırlanmıştır.",
+      "en": "Prepared to introduce smooth, unsalted, unsweetened peanut butter in a safely thinned consistency."
     },
     "category": 1,
     "ingredients": [
       {
-        "amount": 1,
+        "amount": 5,
         "unit": {
-          "tr": "yemek kaşığı",
-          "en": "tbsp"
-        },
-        "baseName": {
-          "tr": "pirinç",
-          "en": "rice"
-        },
-        "shoppingLabel": {
-          "tr": "pirinç",
-          "en": "rice"
-        }
-      },
-      {
-        "amount": 40,
-        "unit": {
-          "tr": "gram",
+          "tr": "g",
           "en": "g"
         },
         "baseName": {
-          "tr": "kabak",
-          "en": "zucchini"
+          "tr": "%100 pürüzsüz yer fıstığı ezmesi",
+          "en": "100% smooth peanut butter"
         },
         "shoppingLabel": {
-          "tr": "taze kabak",
-          "en": "fresh zucchini"
+          "tr": "Yer Fıstığı Ezmesi",
+          "en": "Peanut Butter"
         }
       },
       {
-        "amount": 150,
+        "amount": 15,
         "unit": {
-          "tr": "mililitre",
+          "tr": "ml",
           "en": "ml"
         },
         "baseName": {
-          "tr": "su",
-          "en": "water"
+          "tr": "kaynatılıp soğutulmuş su",
+          "en": "boiled and cooled water"
         },
         "shoppingLabel": {
-          "tr": "içme suyu",
-          "en": "drinking water"
-        }
-      },
-      {
-        "amount": 0.5,
-        "unit": {
-          "tr": "çay kaşığı",
-          "en": "tsp"
-        },
-        "baseName": {
-          "tr": "zeytinyağı",
-          "en": "olive oil"
-        },
-        "shoppingLabel": {
-          "tr": "zeytinyağı",
-          "en": "olive oil"
+          "tr": "İçme Suyu",
+          "en": "Drinking Water"
         }
       }
     ],
-    "preparationTime": 20,
-    "calories": 60,
+    "preparationTime": 3,
+    "calories": 30,
     "suitableAgeInMonths": 6,
-    "allergicIngredients": [],
+    "allergicIngredients": [
+      {
+        "tr": "yer fıstığı",
+        "en": "peanut"
+      }
+    ],
     "instructions": [
       {
-        "tr": "Pirinci bol suyla iyice yıkayın. Kabağı soyup küçük küpler halinde doğrayın.",
-        "en": "Rinse the rice thoroughly. Peel the zucchini and cut it into small cubes."
+        "tr": "Parçacık içermeyen, şekersiz ve tuzsuz yüzde 100 yer fıstığı ezmesi kullanın. Bütün veya parçalı yer fıstığı kullanmayın.",
+        "en": "Use smooth, unsalted, unsweetened 100% peanut butter. Do not use whole or chunky peanuts."
       },
       {
-        "tr": "Pirinç, kabak ve suyu küçük bir tencereye alın. Kaynayınca ateşi kısın; pirinç tamamen dağılana ve kabak çok yumuşayana kadar yaklaşık 15 dakika pişirin.",
-        "en": "Place the rice, zucchini, and water in a small saucepan. Once boiling, lower the heat and cook for about 15 minutes, until the rice breaks down and the zucchini is very soft."
+        "tr": "Yer fıstığı ezmesini suyla karıştırarak kaşıktan kolayca akan, yapışkan olmayan bir kıvama getirin.",
+        "en": "Mix the peanut butter with water until it is loose, non-sticky, and slides easily from a spoon."
       },
       {
-        "tr": "Karışımı ocaktan alın, zeytinyağını ekleyin ve tamamen pürüzsüz olana kadar ezin veya blenderdan geçirin. Gerekirse kaynatılıp ılıtılmış az miktarda suyla akışkan kıvama getirin.",
-        "en": "Remove from the heat, add the olive oil, and blend or mash until completely smooth. If needed, thin with a little boiled and cooled water."
+        "tr": "İlk denemede yaklaşık çeyrek çay kaşığı kadarını bebeğiniz sağlıklıyken ve gündüz saatlerinde sunun.",
+        "en": "For the first exposure, offer about a quarter teaspoon while your baby is well and during daytime hours."
       },
       {
-        "tr": "Bebeğinize sunmadan önce çorbayı ılıtın ve sıcaklığını kontrol edin. Tek porsiyon olarak, kaşıkta kolayca kayan pürüzsüz bir kıvamda servis edin.",
-        "en": "Let the soup cool to a lukewarm temperature and check it before serving. Offer one baby-sized portion with a smooth consistency that slips easily from the spoon."
+        "tr": "3 gün başka yeni gıda eklemeyin. Şiddetli egzama veya yumurta alerjisi varsa yer fıstığı denemesinden önce çocuk doktoruna danışın.",
+        "en": "Do not add another new food for three days. Consult your baby's doctor before introducing peanut if your baby has severe eczema or an egg allergy."
       }
     ],
-    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/bebeks-44765.firebasestorage.app/o/baslangic%2Fbaslangic_012_1785095478728_1200x675.webp?alt=media&token=1f5b4fee-769e-4679-9d33-67a5061ec468"
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/bebeks-44765.firebasestorage.app/o/baslangic%2Fbaslangic_016_1785320205517_1200x675.webp?alt=media&token=6056f83b-4063-4ce5-b801-e6b6e1e2ee67"
+  },
+  {
+    "id": "baslangic_017",
+    "title": {
+      "tr": "Susam Alerjeni Tadımı: Tahin",
+      "en": "Sesame Allergen Taste: Tahini"
+    },
+    "description": {
+      "tr": "Susamı tek başına tanıtmak için sade tahinin suyla inceltilmesiyle hazırlanır.",
+      "en": "Prepared by thinning plain tahini with water to introduce sesame on its own."
+    },
+    "category": 1,
+    "ingredients": [
+      {
+        "amount": 5,
+        "unit": {
+          "tr": "g",
+          "en": "g"
+        },
+        "baseName": {
+          "tr": "%100 sade tahin",
+          "en": "100% plain tahini"
+        },
+        "shoppingLabel": {
+          "tr": "Tahin",
+          "en": "Tahini"
+        }
+      },
+      {
+        "amount": 15,
+        "unit": {
+          "tr": "ml",
+          "en": "ml"
+        },
+        "baseName": {
+          "tr": "kaynatılıp soğutulmuş su",
+          "en": "boiled and cooled water"
+        },
+        "shoppingLabel": {
+          "tr": "İçme Suyu",
+          "en": "Drinking Water"
+        }
+      }
+    ],
+    "preparationTime": 3,
+    "calories": 30,
+    "suitableAgeInMonths": 6,
+    "allergicIngredients": [
+      {
+        "tr": "susam",
+        "en": "sesame"
+      }
+    ],
+    "instructions": [
+      {
+        "tr": "İlave şeker, tuz veya başka kuruyemiş içermeyen yüzde 100 sade tahin kullanın.",
+        "en": "Use 100% plain tahini with no added sugar, salt, or other nuts."
+      },
+      {
+        "tr": "Tahini suyla iyice karıştırıp akışkan ve pürüzsüz bir kıvama getirin.",
+        "en": "Mix the tahini thoroughly with water until smooth and loose."
+      },
+      {
+        "tr": "İlk denemede yaklaşık çeyrek çay kaşığı kadarını gündüz saatlerinde sunun.",
+        "en": "For the first exposure, offer about a quarter teaspoon during daytime hours."
+      },
+      {
+        "tr": "3 gün başka yeni gıda sunmayın. Alerji belirtisi görülürse vermeyi bırakın ve sağlık profesyoneline başvurun.",
+        "en": "Do not introduce another new food for three days. Stop offering it and contact a healthcare professional if allergic symptoms appear."
+      }
+    ],
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/bebeks-44765.firebasestorage.app/o/baslangic%2Fbaslangic_017_1785320223914_1200x675.webp?alt=media&token=5a16da0e-9e11-4a66-bbff-4992db21e3b6"
+  },
+  {
+    "id": "baslangic_018",
+    "title": {
+      "tr": "Soya Alerjeni Tadımı: Sade Soya Yoğurdu",
+      "en": "Soy Allergen Taste: Plain Soy Yogurt"
+    },
+    "description": {
+      "tr": "Soyayı tek başına tanıtmak için şekersiz ve sade soya yoğurduyla hazırlanan küçük bir tadımdır.",
+      "en": "A small taste made with plain, unsweetened soy yogurt to introduce soy on its own."
+    },
+    "category": 1,
+    "ingredients": [
+      {
+        "amount": 30,
+        "unit": {
+          "tr": "g",
+          "en": "g"
+        },
+        "baseName": {
+          "tr": "sade şekersiz soya yoğurdu",
+          "en": "plain unsweetened soy yogurt"
+        },
+        "shoppingLabel": {
+          "tr": "Soya Yoğurdu",
+          "en": "Soy Yogurt"
+        }
+      }
+    ],
+    "preparationTime": 2,
+    "calories": 18,
+    "suitableAgeInMonths": 6,
+    "allergicIngredients": [
+      {
+        "tr": "soya",
+        "en": "soy"
+      }
+    ],
+    "instructions": [
+      {
+        "tr": "İçeriğinde süt, kuruyemiş veya başka ek alerjen bulunmayan sade ve şekersiz bir soya yoğurdu seçin.",
+        "en": "Choose plain, unsweetened soy yogurt that does not contain milk, nuts, or another added allergen."
+      },
+      {
+        "tr": "Soya yoğurdunu temiz bir kaba alın ve kıvamını karıştırarak eşitleyin.",
+        "en": "Place the soy yogurt in a clean bowl and stir until the texture is even."
+      },
+      {
+        "tr": "İlk denemede yaklaşık çeyrek çay kaşığı kadarını bebeğiniz sağlıklıyken ve gündüz saatlerinde sunun.",
+        "en": "For the first exposure, offer about a quarter teaspoon while your baby is well and during daytime hours."
+      },
+      {
+        "tr": "3 gün başka yeni gıda eklemeyin. Herhangi bir reaksiyon görülürse vermeyi bırakın ve sağlık profesyoneline başvurun.",
+        "en": "Do not add another new food for three days. Stop offering it and contact a healthcare professional if any reaction appears."
+      }
+    ],
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/bebeks-44765.firebasestorage.app/o/baslangic%2Fbaslangic_018_1785320248042_1200x675.webp?alt=media&token=d9b6685e-ccfd-40e4-8690-5ecb0584e83f"
+  },
+  {
+    "id": "baslangic_019",
+    "title": {
+      "tr": "Balık Alerjeni Tadımı: Beyaz Balık Püresi",
+      "en": "Fish Allergen Taste: White Fish Puree"
+    },
+    "description": {
+      "tr": "Kılçıksız ve tamamen pişmiş beyaz balığı tek başına tanıtmak için hazırlanmış pürüzsüz bir tadımdır.",
+      "en": "A smooth taste prepared to introduce boneless, fully cooked white fish on its own."
+    },
+    "category": 1,
+    "ingredients": [
+      {
+        "amount": 25,
+        "unit": {
+          "tr": "g",
+          "en": "g"
+        },
+        "baseName": {
+          "tr": "kılçıksız beyaz balık filetosu",
+          "en": "boneless white fish fillet"
+        },
+        "shoppingLabel": {
+          "tr": "Beyaz Balık Filetosu",
+          "en": "White Fish Fillet"
+        }
+      },
+      {
+        "amount": 20,
+        "unit": {
+          "tr": "ml",
+          "en": "ml"
+        },
+        "baseName": {
+          "tr": "kaynatılıp soğutulmuş su",
+          "en": "boiled and cooled water"
+        },
+        "shoppingLabel": {
+          "tr": "İçme Suyu",
+          "en": "Drinking Water"
+        }
+      }
+    ],
+    "preparationTime": 12,
+    "calories": 21,
+    "suitableAgeInMonths": 6,
+    "allergicIngredients": [
+      {
+        "tr": "balık",
+        "en": "fish"
+      }
+    ],
+    "instructions": [
+      {
+        "tr": "Balık filetosunu kılçık yönünden dikkatle kontrol edin ve buharda tamamen pişene kadar yaklaşık 8-10 dakika pişirin.",
+        "en": "Check the fish fillet carefully for bones and steam it for about 8-10 minutes, until fully cooked."
+      },
+      {
+        "tr": "Pişmiş balığı tekrar kılçık kontrolünden geçirin, suyla birlikte tamamen pürüzsüz olana kadar ezin.",
+        "en": "Check the cooked fish again for bones and mash it with the water until completely smooth."
+      },
+      {
+        "tr": "İlk denemede yaklaşık çeyrek çay kaşığı kadarını gündüz saatlerinde sunun.",
+        "en": "For the first exposure, offer about a quarter teaspoon during daytime hours."
+      },
+      {
+        "tr": "3 gün başka yeni gıda sunmayın. Alerji belirtisi görülürse vermeyi bırakın ve sağlık profesyoneline başvurun.",
+        "en": "Do not introduce another new food for three days. Stop offering it and contact a healthcare professional if allergic symptoms appear."
+      }
+    ],
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/bebeks-44765.firebasestorage.app/o/baslangic%2Fbaslangic_019_1785320272213_1200x675.webp?alt=media&token=3279981e-e5da-4bdb-90b4-9274e02bf8f9"
+  },
+  {
+    "id": "baslangic_020",
+    "title": {
+      "tr": "Badem Alerjeni Tadımı",
+      "en": "Almond Allergen Taste"
+    },
+    "description": {
+      "tr": "Bademi güvenli ve akışkan kıvamda tanıtmak için pürüzsüz badem ezmesinin suyla inceltilmesiyle hazırlanır.",
+      "en": "Prepared by thinning smooth almond butter with water to introduce almond in a safe, loose consistency."
+    },
+    "category": 1,
+    "ingredients": [
+      {
+        "amount": 5,
+        "unit": {
+          "tr": "g",
+          "en": "g"
+        },
+        "baseName": {
+          "tr": "%100 pürüzsüz badem ezmesi",
+          "en": "100% smooth almond butter"
+        },
+        "shoppingLabel": {
+          "tr": "Badem Ezmesi",
+          "en": "Almond Butter"
+        }
+      },
+      {
+        "amount": 15,
+        "unit": {
+          "tr": "ml",
+          "en": "ml"
+        },
+        "baseName": {
+          "tr": "kaynatılıp soğutulmuş su",
+          "en": "boiled and cooled water"
+        },
+        "shoppingLabel": {
+          "tr": "İçme Suyu",
+          "en": "Drinking Water"
+        }
+      }
+    ],
+    "preparationTime": 3,
+    "calories": 31,
+    "suitableAgeInMonths": 6,
+    "allergicIngredients": [
+      {
+        "tr": "badem",
+        "en": "almond"
+      }
+    ],
+    "instructions": [
+      {
+        "tr": "Parçacık içermeyen, şekersiz ve tuzsuz yüzde 100 badem ezmesi kullanın. Bütün veya parçalı badem kullanmayın.",
+        "en": "Use smooth, unsalted, unsweetened 100% almond butter. Do not use whole or chunky almonds."
+      },
+      {
+        "tr": "Badem ezmesini suyla karıştırarak yapışkan olmayan, kaşıktan kolayca akan bir kıvama getirin.",
+        "en": "Mix the almond butter with water until it is non-sticky and slides easily from a spoon."
+      },
+      {
+        "tr": "İlk denemede yaklaşık çeyrek çay kaşığı kadarını bebeğiniz sağlıklıyken ve gündüz saatlerinde sunun.",
+        "en": "For the first exposure, offer about a quarter teaspoon while your baby is well and during daytime hours."
+      },
+      {
+        "tr": "3 gün başka yeni gıda eklemeyin. Alerji belirtisi görülürse vermeyi bırakın ve sağlık profesyoneline başvurun.",
+        "en": "Do not add another new food for three days. Stop offering it and contact a healthcare professional if allergic symptoms appear."
+      }
+    ],
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/bebeks-44765.firebasestorage.app/o/baslangic%2Fbaslangic_020_1785320291527_1200x675.webp?alt=media&token=6692005e-583f-4a64-9ed9-1caf1c622986"
   }
 ]
