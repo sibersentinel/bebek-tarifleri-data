@@ -563,5 +563,1052 @@
       }
     ],
     "imageUrl": "https://firebasestorage.googleapis.com/v0/b/bebeks-44765.firebasestorage.app/o/corbalar%2FK%C4%B1ymal%C4%B1%20S%CC%A7ehriye%20C%CC%A7orbas%C4%B1_1200x675.webp?alt=media&token=a6ad2a5d-187c-4ad7-b24f-05299711b5e6"
+  },
+  {
+    "id": "corbalar_001",
+    "title": {
+      "tr": "Kabaklı Patatesli Çorba",
+      "en": "Zucchini and Potato Soup"
+    },
+    "description": {
+      "tr": "Yumuşacık, hafif ve sevgiyle hazırlanmış bir başlangıç çorbası.",
+      "en": "A soft, light, and lovingly prepared starter soup."
+    },
+    "category": 7,
+    "ingredients": [
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "adet",
+          "en": "piece"
+        },
+        "baseName": {
+          "tr": "kabak",
+          "en": "zucchini"
+        },
+        "shoppingLabel": {
+          "tr": "kabak",
+          "en": "zucchini"
+        }
+      },
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "adet",
+          "en": "adet"
+        },
+        "baseName": {
+          "tr": "patates",
+          "en": "potato"
+        },
+        "shoppingLabel": {
+          "tr": "patates",
+          "en": "potato"
+        }
+      },
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "yemek kaşığı",
+          "en": "tablespoon"
+        },
+        "baseName": {
+          "tr": "zeytinyağı",
+          "en": "olive oil"
+        },
+        "shoppingLabel": {
+          "tr": "zeytinyağı",
+          "en": "olive oil"
+        }
+      },
+      {
+        "amount": 2,
+        "unit": {
+          "tr": "su bardağı",
+          "en": "cups"
+        },
+        "baseName": {
+          "tr": "su",
+          "en": "water"
+        },
+        "shoppingLabel": {
+          "tr": "içme suyu",
+          "en": "drinking water"
+        }
+      }
+    ],
+    "preparationTime": 20,
+    "calories": 60,
+    "suitableAgeInMonths": 9,
+    "allergicIngredients": [],
+    "instructions": [
+      {
+        "tr": "Kabak ve patatesi soyup küçük küpler halinde doğrayın.",
+        "en": "Peel the zucchini and potato, then cut into small cubes."
+      },
+      {
+        "tr": "Su ile yumuşayana kadar pişirin.",
+        "en": "Cook with water until soft."
+      },
+      {
+        "tr": "Ezerek pürüzlü ama yumuşak bir doku elde edin.",
+        "en": "Mash to a soft, slightly textured finish."
+      },
+      {
+        "tr": "Zeytinyağını ekleyip ılık servis edin.",
+        "en": "Add olive oil and serve warm."
+      }
+    ],
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/bebeks-44765.firebasestorage.app/o/corbalar%2Fcorbalar_001_1785312037574_1200x675.webp?alt=media&token=fa38204c-ac3e-4003-8cdb-ebb34c2cec4f"
+  },
+  {
+    "id": "corbalar_002",
+    "title": {
+      "tr": "Kırmızı Mercimekli Kabak Çorbası",
+      "en": "Red Lentil and Zucchini Soup"
+    },
+    "description": {
+      "tr": "Nazik tadı olan, minik yudumlara uygun bir sebze çorbası.",
+      "en": "A gentle-flavored vegetable soup made for little sips."
+    },
+    "category": 7,
+    "ingredients": [
+      {
+        "amount": 2,
+        "unit": {
+          "tr": "yemek kaşığı",
+          "en": "tablespoons"
+        },
+        "baseName": {
+          "tr": "kırmızı mercimek",
+          "en": "red lentils"
+        },
+        "shoppingLabel": {
+          "tr": "kırmızı mercimek",
+          "en": "red lentils"
+        }
+      },
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "adet",
+          "en": "piece"
+        },
+        "baseName": {
+          "tr": "kabak",
+          "en": "zucchini"
+        },
+        "shoppingLabel": {
+          "tr": "kabak",
+          "en": "zucchini"
+        }
+      },
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "çay kaşığı",
+          "en": "teaspoon"
+        },
+        "baseName": {
+          "tr": "zeytinyağı",
+          "en": "olive oil"
+        },
+        "shoppingLabel": {
+          "tr": "zeytinyağı",
+          "en": "olive oil"
+        }
+      },
+      {
+        "amount": 2,
+        "unit": {
+          "tr": "su bardağı",
+          "en": "cups"
+        },
+        "baseName": {
+          "tr": "su",
+          "en": "water"
+        },
+        "shoppingLabel": {
+          "tr": "içme suyu",
+          "en": "drinking water"
+        }
+      }
+    ],
+    "preparationTime": 25,
+    "calories": 75,
+    "suitableAgeInMonths": 8,
+    "allergicIngredients": [],
+    "instructions": [
+      {
+        "tr": "Mercimeği iyice yıkayın.",
+        "en": "Rinse the lentils well."
+      },
+      {
+        "tr": "Kabakla birlikte tamamen yumuşayana kadar pişirin.",
+        "en": "Cook with zucchini until very soft."
+      },
+      {
+        "tr": "Pürüzsüz olacak şekilde blenderdan geçirin.",
+        "en": "Blend until smooth."
+      },
+      {
+        "tr": "Ilık servis edin.",
+        "en": "Serve warm."
+      }
+    ],
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/bebeks-44765.firebasestorage.app/o/corbalar%2Fcorbalar_002_1785312059572_1200x675.webp?alt=media&token=b04ae6c9-74b4-4175-a836-f4b274aec96c"
+  },
+  {
+    "id": "corbalar_003",
+    "title": {
+      "tr": "Yulaflı Kabak Çorbası",
+      "en": "Zucchini Oat Soup"
+    },
+    "description": {
+      "tr": "Sade, yumuşak ve ilk kaşıklara uygun bir çorba.",
+      "en": "Simple, soft, and suitable for first spoonfuls."
+    },
+    "category": 7,
+    "ingredients": [
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "adet",
+          "en": "piece"
+        },
+        "baseName": {
+          "tr": "kabak",
+          "en": "zucchini"
+        },
+        "shoppingLabel": {
+          "tr": "kabak",
+          "en": "zucchini"
+        }
+      },
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "yemek kaşığı",
+          "en": "tablespoon"
+        },
+        "baseName": {
+          "tr": "yulaf ezmesi",
+          "en": "oats"
+        },
+        "shoppingLabel": {
+          "tr": "yulaf ezmesi",
+          "en": "oats"
+        }
+      },
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "çay kaşığı",
+          "en": "teaspoon"
+        },
+        "baseName": {
+          "tr": "zeytinyağı",
+          "en": "olive oil"
+        },
+        "shoppingLabel": {
+          "tr": "zeytinyağı",
+          "en": "olive oil"
+        }
+      },
+      {
+        "amount": 2,
+        "unit": {
+          "tr": "su bardağı",
+          "en": "cups"
+        },
+        "baseName": {
+          "tr": "su",
+          "en": "water"
+        },
+        "shoppingLabel": {
+          "tr": "içme suyu",
+          "en": "drinking water"
+        }
+      }
+    ],
+    "preparationTime": 15,
+    "calories": 55,
+    "suitableAgeInMonths": 6,
+    "allergicIngredients": [
+      {
+        "tr": "yulaf",
+        "en": "oats"
+      }
+    ],
+    "instructions": [
+      {
+        "tr": "Kabağı rendeleyip suyla pişirin.",
+        "en": "Grate the zucchini and cook with water."
+      },
+      {
+        "tr": "Yulafı ekleyip iyice yumuşatın.",
+        "en": "Add oats and cook until very soft."
+      },
+      {
+        "tr": "Blenderdan geçirip ince bir kıvam yapın.",
+        "en": "Blend to a fine texture."
+      },
+      {
+        "tr": "Ilık verin.",
+        "en": "Serve warm."
+      }
+    ],
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/bebeks-44765.firebasestorage.app/o/corbalar%2Fcorbalar_003_1785312082793_1200x675.webp?alt=media&token=9927c65b-c6b2-4428-b834-958a623d1cf9"
+  },
+  {
+    "id": "corbalar_004",
+    "title": {
+      "tr": "Tavuklu Sebze Çorbası",
+      "en": "Chicken and Vegetable Soup"
+    },
+    "description": {
+      "tr": "Yumuşak sebzeler ve küçük tavuk parçalarıyla dengeli bir çorba.",
+      "en": "A balanced soup with soft vegetables and tiny chicken pieces."
+    },
+    "category": 7,
+    "ingredients": [
+      {
+        "amount": 30,
+        "unit": {
+          "tr": "gram",
+          "en": "g"
+        },
+        "baseName": {
+          "tr": "tavuk göğsü",
+          "en": "chicken breast"
+        },
+        "shoppingLabel": {
+          "tr": "tavuk göğsü",
+          "en": "chicken breast"
+        }
+      },
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "adet",
+          "en": "piece"
+        },
+        "baseName": {
+          "tr": "patates",
+          "en": "potato"
+        },
+        "shoppingLabel": {
+          "tr": "patates",
+          "en": "potato"
+        }
+      },
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "adet",
+          "en": "piece"
+        },
+        "baseName": {
+          "tr": "kabak",
+          "en": "zucchini"
+        },
+        "shoppingLabel": {
+          "tr": "kabak",
+          "en": "zucchini"
+        }
+      },
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "adet",
+          "en": "piece"
+        },
+        "baseName": {
+          "tr": "havuç",
+          "en": "carrot"
+        },
+        "shoppingLabel": {
+          "tr": "havuç",
+          "en": "carrot"
+        }
+      },
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "çay kaşığı",
+          "en": "teaspoon"
+        },
+        "baseName": {
+          "tr": "zeytinyağı",
+          "en": "olive oil"
+        },
+        "shoppingLabel": {
+          "tr": "zeytinyağı",
+          "en": "olive oil"
+        }
+      },
+      {
+        "amount": 2,
+        "unit": {
+          "tr": "su bardağı",
+          "en": "cups"
+        },
+        "baseName": {
+          "tr": "su",
+          "en": "water"
+        },
+        "shoppingLabel": {
+          "tr": "içme suyu",
+          "en": "drinking water"
+        }
+      }
+    ],
+    "preparationTime": 30,
+    "calories": 85,
+    "suitableAgeInMonths": 12,
+    "allergicIngredients": [],
+    "instructions": [
+      {
+        "tr": "Tavuk ve sebzeleri çok iyi pişirin.",
+        "en": "Cook the chicken and vegetables very well."
+      },
+      {
+        "tr": "Tavuğu çok küçük didikleyin.",
+        "en": "Shred the chicken into very small bits."
+      },
+      {
+        "tr": "Sebzeleri ezerek ve tavuğu ekleyerek servis edin.",
+        "en": "Mash the vegetables and serve with the chicken added."
+      },
+      {
+        "tr": "Ilık sunun.",
+        "en": "Serve warm."
+      }
+    ],
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/bebeks-44765.firebasestorage.app/o/corbalar%2Fcorbalar_004_1785312103245_1200x675.webp?alt=media&token=e400e495-5b20-41a6-a378-3d7d87d3505d"
+  },
+  {
+    "id": "corbalar_005",
+    "title": {
+      "tr": "Karnabahar Patates Çorbası",
+      "en": "Cauliflower and Potato Soup"
+    },
+    "description": {
+      "tr": "İpeksi ve hafif, miniklere uygun sade bir çorba.",
+      "en": "Silky and light, a simple soup for little ones."
+    },
+    "category": 7,
+    "ingredients": [
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "küçük baş",
+          "en": "small head"
+        },
+        "baseName": {
+          "tr": "karnabahar",
+          "en": "cauliflower"
+        },
+        "shoppingLabel": {
+          "tr": "karnabahar",
+          "en": "cauliflower"
+        }
+      },
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "adet",
+          "en": "piece"
+        },
+        "baseName": {
+          "tr": "patates",
+          "en": "potato"
+        },
+        "shoppingLabel": {
+          "tr": "patates",
+          "en": "potato"
+        }
+      },
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "çay kaşığı",
+          "en": "teaspoon"
+        },
+        "baseName": {
+          "tr": "zeytinyağı",
+          "en": "olive oil"
+        },
+        "shoppingLabel": {
+          "tr": "zeytinyağı",
+          "en": "olive oil"
+        }
+      },
+      {
+        "amount": 2,
+        "unit": {
+          "tr": "su bardağı",
+          "en": "cups"
+        },
+        "baseName": {
+          "tr": "su",
+          "en": "water"
+        },
+        "shoppingLabel": {
+          "tr": "içme suyu",
+          "en": "drinking water"
+        }
+      }
+    ],
+    "preparationTime": 20,
+    "calories": 58,
+    "suitableAgeInMonths": 6,
+    "allergicIngredients": [],
+    "instructions": [
+      {
+        "tr": "Karnabahar ve patatesi çok yumuşayana kadar pişirin.",
+        "en": "Cook the cauliflower and potato until very soft."
+      },
+      {
+        "tr": "Tamamen pürüzsüz olacak şekilde ezin veya blenderdan geçirin.",
+        "en": "Mash or blend until completely smooth."
+      },
+      {
+        "tr": "Zeytinyağı ekleyip ılık verin.",
+        "en": "Add olive oil and serve warm."
+      }
+    ],
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/bebeks-44765.firebasestorage.app/o/corbalar%2Fcorbalar_005_1785312123009_1200x675.webp?alt=media&token=672980cc-eef9-4c3f-ba4b-8226bbe94a4c"
+  },
+  {
+    "id": "corbalar_006",
+    "title": {
+      "tr": "Yeşil Mercimekli Sebze Çorbası",
+      "en": "Green Lentil Vegetable Soup"
+    },
+    "description": {
+      "tr": "Küçük pütürlü, doyurucu ama bebek dostu bir çorba.",
+      "en": "A filling but baby-friendly soup with tiny soft bits."
+    },
+    "category": 7,
+    "ingredients": [
+      {
+        "amount": 2,
+        "unit": {
+          "tr": "yemek kaşığı",
+          "en": "tablespoons"
+        },
+        "baseName": {
+          "tr": "yeşil mercimek",
+          "en": "green lentils"
+        },
+        "shoppingLabel": {
+          "tr": "yeşil mercimek",
+          "en": "green lentils"
+        }
+      },
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "adet",
+          "en": "piece"
+        },
+        "baseName": {
+          "tr": "kabak",
+          "en": "zucchini"
+        },
+        "shoppingLabel": {
+          "tr": "kabak",
+          "en": "zucchini"
+        }
+      },
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "adet",
+          "en": "piece"
+        },
+        "baseName": {
+          "tr": "patates",
+          "en": "potato"
+        },
+        "shoppingLabel": {
+          "tr": "patates",
+          "en": "potato"
+        }
+      },
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "çay kaşığı",
+          "en": "teaspoon"
+        },
+        "baseName": {
+          "tr": "zeytinyağı",
+          "en": "olive oil"
+        },
+        "shoppingLabel": {
+          "tr": "zeytinyağı",
+          "en": "olive oil"
+        }
+      },
+      {
+        "amount": 2.5,
+        "unit": {
+          "tr": "su bardağı",
+          "en": "cups"
+        },
+        "baseName": {
+          "tr": "su",
+          "en": "water"
+        },
+        "shoppingLabel": {
+          "tr": "içme suyu",
+          "en": "drinking water"
+        }
+      }
+    ],
+    "preparationTime": 25,
+    "calories": 78,
+    "suitableAgeInMonths": 10,
+    "allergicIngredients": [],
+    "instructions": [
+      {
+        "tr": "Mercimeği yumuşayana kadar pişirin.",
+        "en": "Cook the lentils until soft."
+      },
+      {
+        "tr": "Sebzeleri ekleyip birlikte iyice pişirin.",
+        "en": "Add the vegetables and cook well together."
+      },
+      {
+        "tr": "Bir kısmını ezin, küçük pütürler bırakın.",
+        "en": "Mash part of it and leave tiny soft bits."
+      },
+      {
+        "tr": "Ilık servis edin.",
+        "en": "Serve warm."
+      }
+    ],
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/bebeks-44765.firebasestorage.app/o/corbalar%2Fcorbalar_006_1785312150745_1200x675.webp?alt=media&token=4a9c4bc0-49f0-476a-8a7f-79c841e7f890"
+  },
+  {
+    "id": "corbalar_007",
+    "title": {
+      "tr": "Pırasalı Patates Çorbası",
+      "en": "Leek and Potato Soup"
+    },
+    "description": {
+      "tr": "Yumuşacık dokulu, sakin ve rahat içimli bir çorba.",
+      "en": "A soft-textured, calm, and easy-to-sip soup."
+    },
+    "category": 7,
+    "ingredients": [
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "küçük sap",
+          "en": "small stalk"
+        },
+        "baseName": {
+          "tr": "pırasa",
+          "en": "leek"
+        },
+        "shoppingLabel": {
+          "tr": "pırasa",
+          "en": "leek"
+        }
+      },
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "adet",
+          "en": "piece"
+        },
+        "baseName": {
+          "tr": "patates",
+          "en": "potato"
+        },
+        "shoppingLabel": {
+          "tr": "patates",
+          "en": "potato"
+        }
+      },
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "çay kaşığı",
+          "en": "teaspoon"
+        },
+        "baseName": {
+          "tr": "zeytinyağı",
+          "en": "olive oil"
+        },
+        "shoppingLabel": {
+          "tr": "zeytinyağı",
+          "en": "olive oil"
+        }
+      },
+      {
+        "amount": 2,
+        "unit": {
+          "tr": "su bardağı",
+          "en": "cups"
+        },
+        "baseName": {
+          "tr": "su",
+          "en": "water"
+        },
+        "shoppingLabel": {
+          "tr": "içme suyu",
+          "en": "drinking water"
+        }
+      }
+    ],
+    "preparationTime": 20,
+    "calories": 54,
+    "suitableAgeInMonths": 7,
+    "allergicIngredients": [],
+    "instructions": [
+      {
+        "tr": "Pırasayı çok iyi yıkayıp ince doğrayın.",
+        "en": "Wash the leek very well and chop it finely."
+      },
+      {
+        "tr": "Patatesle birlikte tamamen yumuşayana kadar pişirin.",
+        "en": "Cook with the potato until very soft."
+      },
+      {
+        "tr": "Blenderdan geçirip ince kıvam yapın.",
+        "en": "Blend to a fine texture."
+      },
+      {
+        "tr": "Ilık servis edin.",
+        "en": "Serve warm."
+      }
+    ],
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/bebeks-44765.firebasestorage.app/o/corbalar%2Fcorbalar_007_1785312174799_1200x675.webp?alt=media&token=8690c040-ff81-4739-9ffb-751faf103057"
+  },
+  {
+    "id": "corbalar_008",
+    "title": {
+      "tr": "Mısırlı Havuçlu Çorba",
+      "en": "Corn and Carrot Soup"
+    },
+    "description": {
+      "tr": "Tatlımsı tadı olan, yumuşak kıvamlı bir çorba.",
+      "en": "A mildly sweet soup with a soft, comforting texture."
+    },
+    "category": 7,
+    "ingredients": [
+      {
+        "amount": 2,
+        "unit": {
+          "tr": "yemek kaşığı",
+          "en": "tablespoons"
+        },
+        "baseName": {
+          "tr": "mısır tanesi",
+          "en": "corn kernels"
+        },
+        "shoppingLabel": {
+          "tr": "mısır tanesi",
+          "en": "corn kernels"
+        }
+      },
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "adet",
+          "en": "piece"
+        },
+        "baseName": {
+          "tr": "havuç",
+          "en": "carrot"
+        },
+        "shoppingLabel": {
+          "tr": "havuç",
+          "en": "carrot"
+        }
+      },
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "küçük adet",
+          "en": "small piece"
+        },
+        "baseName": {
+          "tr": "patates",
+          "en": "potato"
+        },
+        "shoppingLabel": {
+          "tr": "patates",
+          "en": "potato"
+        }
+      },
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "çay kaşığı",
+          "en": "teaspoon"
+        },
+        "baseName": {
+          "tr": "zeytinyağı",
+          "en": "olive oil"
+        },
+        "shoppingLabel": {
+          "tr": "zeytinyağı",
+          "en": "olive oil"
+        }
+      },
+      {
+        "amount": 2,
+        "unit": {
+          "tr": "su bardağı",
+          "en": "cups"
+        },
+        "baseName": {
+          "tr": "su",
+          "en": "water"
+        },
+        "shoppingLabel": {
+          "tr": "içme suyu",
+          "en": "drinking water"
+        }
+      }
+    ],
+    "preparationTime": 20,
+    "calories": 62,
+    "suitableAgeInMonths": 8,
+    "allergicIngredients": [],
+    "instructions": [
+      {
+        "tr": "Sebzeleri ve mısırı çok yumuşayana kadar pişirin.",
+        "en": "Cook the vegetables and corn until very soft."
+      },
+      {
+        "tr": "Mısırı iyice ezip ince bir çorba yapın.",
+        "en": "Mash the corn well to make a fine soup."
+      },
+      {
+        "tr": "Ilık servis edin.",
+        "en": "Serve warm."
+      }
+    ],
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/bebeks-44765.firebasestorage.app/o/corbalar%2Fcorbalar_008_1785312193397_1200x675.webp?alt=media&token=a29de564-1e21-4c61-9c5c-8993e5651025"
+  },
+  {
+    "id": "corbalar_009",
+    "title": {
+      "tr": "Nohutlu Sebze Çorbası",
+      "en": "Chickpea Vegetable Soup"
+    },
+    "description": {
+      "tr": "Yumuşacık nohut ve sebzelerle hazırlanan sıcak bir kase.",
+      "en": "A warm bowl made with very soft chickpeas and vegetables."
+    },
+    "category": 7,
+    "ingredients": [
+      {
+        "amount": 3,
+        "unit": {
+          "tr": "yemek kaşığı",
+          "en": "tablespoons"
+        },
+        "baseName": {
+          "tr": "haşlanmış nohut",
+          "en": "cooked chickpeas"
+        },
+        "shoppingLabel": {
+          "tr": "haşlanmış nohut",
+          "en": "cooked chickpeas"
+        }
+      },
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "adet",
+          "en": "piece"
+        },
+        "baseName": {
+          "tr": "kabak",
+          "en": "zucchini"
+        },
+        "shoppingLabel": {
+          "tr": "kabak",
+          "en": "zucchini"
+        }
+      },
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "adet",
+          "en": "piece"
+        },
+        "baseName": {
+          "tr": "patates",
+          "en": "potato"
+        },
+        "shoppingLabel": {
+          "tr": "patates",
+          "en": "potato"
+        }
+      },
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "çay kaşığı",
+          "en": "teaspoon"
+        },
+        "baseName": {
+          "tr": "zeytinyağı",
+          "en": "olive oil"
+        },
+        "shoppingLabel": {
+          "tr": "zeytinyağı",
+          "en": "olive oil"
+        }
+      },
+      {
+        "amount": 2.5,
+        "unit": {
+          "tr": "su bardağı",
+          "en": "cups"
+        },
+        "baseName": {
+          "tr": "su",
+          "en": "water"
+        },
+        "shoppingLabel": {
+          "tr": "içme suyu",
+          "en": "drinking water"
+        }
+      }
+    ],
+    "preparationTime": 30,
+    "calories": 80,
+    "suitableAgeInMonths": 11,
+    "allergicIngredients": [
+      {
+        "tr": "nohut",
+        "en": "chickpeas"
+      }
+    ],
+    "instructions": [
+      {
+        "tr": "Nohutu çok iyi haşlayın ve kabuklarını mümkünse ayıklayın.",
+        "en": "Cook the chickpeas very well and remove skins if possible."
+      },
+      {
+        "tr": "Sebzelerle birlikte iyice pişirin.",
+        "en": "Cook well with the vegetables."
+      },
+      {
+        "tr": "Tamamen ezip çok yumuşak bir kıvam yapın.",
+        "en": "Mash completely to a very soft texture."
+      },
+      {
+        "tr": "Ilık sunun.",
+        "en": "Serve warm."
+      }
+    ],
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/bebeks-44765.firebasestorage.app/o/corbalar%2Fcorbalar_009_1785312214386_1200x675.webp?alt=media&token=e9de512c-befc-40e0-8aef-c1f194cc65f2"
+  },
+  {
+    "id": "corbalar_010",
+    "title": {
+      "tr": "Balkabağısız Tatlı Patates Çorbası",
+      "en": "Sweet Potato Soup"
+    },
+    "description": {
+      "tr": "Tatlı patatesin yumuşak tadıyla hafif ve sevgi dolu bir çorba.",
+      "en": "A light and loving soup with the soft taste of sweet potato."
+    },
+    "category": 7,
+    "ingredients": [
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "adet",
+          "en": "piece"
+        },
+        "baseName": {
+          "tr": "tatlı patates",
+          "en": "sweet potato"
+        },
+        "shoppingLabel": {
+          "tr": "tatlı patates",
+          "en": "sweet potato"
+        }
+      },
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "adet",
+          "en": "piece"
+        },
+        "baseName": {
+          "tr": "elma",
+          "en": "apple"
+        },
+        "shoppingLabel": {
+          "tr": "elma",
+          "en": "apple"
+        }
+      },
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "çay kaşığı",
+          "en": "teaspoon"
+        },
+        "baseName": {
+          "tr": "zeytinyağı",
+          "en": "olive oil"
+        },
+        "shoppingLabel": {
+          "tr": "zeytinyağı",
+          "en": "olive oil"
+        }
+      },
+      {
+        "amount": 2,
+        "unit": {
+          "tr": "su bardağı",
+          "en": "cups"
+        },
+        "baseName": {
+          "tr": "su",
+          "en": "water"
+        },
+        "shoppingLabel": {
+          "tr": "içme suyu",
+          "en": "drinking water"
+        }
+      }
+    ],
+    "preparationTime": 18,
+    "calories": 57,
+    "suitableAgeInMonths": 7,
+    "allergicIngredients": [],
+    "instructions": [
+      {
+        "tr": "Tatlı patates ve elmayı soyup küçük doğrayın.",
+        "en": "Peel the sweet potato and apple, then cut them small."
+      },
+      {
+        "tr": "Yumuşayana kadar pişirin.",
+        "en": "Cook until soft."
+      },
+      {
+        "tr": "Blenderdan geçirip pürüzsüz yapın.",
+        "en": "Blend until smooth."
+      },
+      {
+        "tr": "Ilık servis edin.",
+        "en": "Serve warm."
+      }
+    ],
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/bebeks-44765.firebasestorage.app/o/corbalar%2Fcorbalar_010_1785312234729_1200x675.webp?alt=media&token=dd24176e-58c9-471f-8af9-e4814a077900"
   }
 ]

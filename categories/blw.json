@@ -683,5 +683,1089 @@
       }
     ],
     "imageUrl": "https://firebasestorage.googleapis.com/v0/b/bebeks-44765.firebasestorage.app/o/blw%2Fblw_012_1785180761201_1200x675.webp?alt=media&token=62fe9717-bd74-4ffe-9ab3-66a5ad1e177d"
+  },
+  {
+    "id": "blw_013",
+    "title": {
+      "tr": "Fırında Zeytinyağlı Kabak Parçaları",
+      "en": "Oven-Baked Zucchini Pieces"
+    },
+    "description": {
+      "tr": "Yumuşak, elde tutulabilir kabak parçaları.",
+      "en": "Soft, hand-held zucchini pieces."
+    },
+    "category": 12,
+    "ingredients": [
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "adet",
+          "en": "piece"
+        },
+        "baseName": {
+          "tr": "küçük kabak",
+          "en": "small zucchini"
+        },
+        "shoppingLabel": {
+          "tr": "küçük kabak",
+          "en": "small zucchini"
+        }
+      },
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "yemek kaşığı",
+          "en": "tbsp"
+        },
+        "baseName": {
+          "tr": "zeytinyağı",
+          "en": "olive oil"
+        },
+        "shoppingLabel": {
+          "tr": "zeytinyağı",
+          "en": "olive oil"
+        }
+      }
+    ],
+    "preparationTime": 20,
+    "calories": 60,
+    "suitableAgeInMonths": 12,
+    "allergicIngredients": [],
+    "instructions": [
+      {
+        "tr": "Kabağı kalın çubuklar halinde kes.",
+        "en": "Cut the zucchini into thick sticks."
+      },
+      {
+        "tr": "Zeytinyağıyla hafifçe karıştır.",
+        "en": "Toss gently with olive oil."
+      },
+      {
+        "tr": "180°C fırında, çatalla kolay ezilecek kadar pişir.",
+        "en": "Bake at 180°C until very soft and easily mashed with a fork."
+      }
+    ],
+    "imageUrl": ""
+  },
+  {
+    "id": "blw_014",
+    "title": {
+      "tr": "Yoğurtlu Dereotlu Kabak Mücver Topları",
+      "en": "Yogurt and Dill Zucchini Fritters"
+    },
+    "description": {
+      "tr": "Yumuşak, minik toplar halinde kabaklı atıştırmalık.",
+      "en": "Soft zucchini bites shaped as small rounds."
+    },
+    "category": 12,
+    "ingredients": [
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "adet",
+          "en": "piece"
+        },
+        "baseName": {
+          "tr": "orta kabak",
+          "en": "medium zucchini"
+        },
+        "shoppingLabel": {
+          "tr": "orta kabak",
+          "en": "medium zucchini"
+        }
+      },
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "adet",
+          "en": "piece"
+        },
+        "baseName": {
+          "tr": "yumurta",
+          "en": "egg"
+        },
+        "shoppingLabel": {
+          "tr": "yumurta",
+          "en": "egg"
+        }
+      },
+      {
+        "amount": 2,
+        "unit": {
+          "tr": "yemek kaşığı",
+          "en": "tbsp"
+        },
+        "baseName": {
+          "tr": "un",
+          "en": "flour"
+        },
+        "shoppingLabel": {
+          "tr": "un",
+          "en": "flour"
+        }
+      },
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "yemek kaşığı",
+          "en": "tbsp"
+        },
+        "baseName": {
+          "tr": "dereotu",
+          "en": "dill"
+        },
+        "shoppingLabel": {
+          "tr": "dereotu",
+          "en": "dill"
+        }
+      },
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "yemek kaşığı",
+          "en": "tbsp"
+        },
+        "baseName": {
+          "tr": "zeytinyağı",
+          "en": "olive oil"
+        },
+        "shoppingLabel": {
+          "tr": "zeytinyağı",
+          "en": "olive oil"
+        }
+      }
+    ],
+    "preparationTime": 25,
+    "calories": 110,
+    "suitableAgeInMonths": 13,
+    "allergicIngredients": [
+      {
+        "tr": "yumurta",
+        "en": "egg"
+      },
+      {
+        "tr": "gluten",
+        "en": "gluten"
+      }
+    ],
+    "instructions": [
+      {
+        "tr": "Kabağı rendele, suyunu iyice sık.",
+        "en": "Grate the zucchini and squeeze out the excess water."
+      },
+      {
+        "tr": "Yumurta, un ve dereotuyla karıştır.",
+        "en": "Mix with egg, flour, and dill."
+      },
+      {
+        "tr": "Kaşıkla küçük toplar yapıp yağlı kağıtta fırınla.",
+        "en": "Shape into small rounds with a spoon and bake on parchment."
+      },
+      {
+        "tr": "İçleri tamamen pişip yumuşayana kadar beklet.",
+        "en": "Bake until fully cooked and soft inside."
+      }
+    ],
+    "imageUrl": ""
+  },
+  {
+    "id": "blw_015",
+    "title": {
+      "tr": "Zeytinyağlı Tavada Karnabahar Çiçekleri",
+      "en": "Pan-Sautéed Cauliflower Florets"
+    },
+    "description": {
+      "tr": "Yumuşacık pişmiş karnabahar çiçekleri.",
+      "en": "Very soft cooked cauliflower florets."
+    },
+    "category": 12,
+    "ingredients": [
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "küçük baş",
+          "en": "small head"
+        },
+        "baseName": {
+          "tr": "karnabahar",
+          "en": "cauliflower"
+        },
+        "shoppingLabel": {
+          "tr": "karnabahar",
+          "en": "cauliflower"
+        }
+      },
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "yemek kaşığı",
+          "en": "tbsp"
+        },
+        "baseName": {
+          "tr": "zeytinyağı",
+          "en": "olive oil"
+        },
+        "shoppingLabel": {
+          "tr": "zeytinyağı",
+          "en": "olive oil"
+        }
+      }
+    ],
+    "preparationTime": 18,
+    "calories": 50,
+    "suitableAgeInMonths": 18,
+    "allergicIngredients": [],
+    "instructions": [
+      {
+        "tr": "Karnabaharı küçük çiçeklere ayır.",
+        "en": "Break the cauliflower into small florets."
+      },
+      {
+        "tr": "Az suda buharda yumuşat.",
+        "en": "Steam with a little water until soft."
+      },
+      {
+        "tr": "Tavada zeytinyağıyla kısa süre çevirip daha da yumuşat.",
+        "en": "Briefly sauté with olive oil to make it even softer."
+      }
+    ],
+    "imageUrl": ""
+  },
+  {
+    "id": "blw_016",
+    "title": {
+      "tr": "Fırın Tatlı Patates Çubukları",
+      "en": "Baked Sweet Potato Sticks"
+    },
+    "description": {
+      "tr": "Yumuşak ve kolay tutulabilen tatlı patates çubukları.",
+      "en": "Soft, easy-to-grip sweet potato sticks."
+    },
+    "category": 12,
+    "ingredients": [
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "orta",
+          "en": "medium"
+        },
+        "baseName": {
+          "tr": "tatlı patates",
+          "en": "sweet potato"
+        },
+        "shoppingLabel": {
+          "tr": "tatlı patates",
+          "en": "sweet potato"
+        }
+      },
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "tatlı kaşığı",
+          "en": "tsp"
+        },
+        "baseName": {
+          "tr": "zeytinyağı",
+          "en": "olive oil"
+        },
+        "shoppingLabel": {
+          "tr": "zeytinyağı",
+          "en": "olive oil"
+        }
+      }
+    ],
+    "preparationTime": 22,
+    "calories": 90,
+    "suitableAgeInMonths": 11,
+    "allergicIngredients": [],
+    "instructions": [
+      {
+        "tr": "Tatlı patatesi kalın çubuklar halinde kes.",
+        "en": "Cut the sweet potato into thick sticks."
+      },
+      {
+        "tr": "Zeytinyağıyla çok hafif kapla.",
+        "en": "Coat lightly with olive oil."
+      },
+      {
+        "tr": "Fırında tamamen yumuşayana kadar pişir.",
+        "en": "Bake until completely soft."
+      }
+    ],
+    "imageUrl": ""
+  },
+  {
+    "id": "blw_017",
+    "title": {
+      "tr": "Nohut Unlu Kabak Krep Şeritleri",
+      "en": "Zucchini Crepe Strips with Chickpea Flour"
+    },
+    "description": {
+      "tr": "İnce ama yumuşak şeritler halinde kabaklı krep.",
+      "en": "Soft zucchini crepes cut into strips."
+    },
+    "category": 12,
+    "ingredients": [
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "adet",
+          "en": "piece"
+        },
+        "baseName": {
+          "tr": "küçük kabak",
+          "en": "small zucchini"
+        },
+        "shoppingLabel": {
+          "tr": "küçük kabak",
+          "en": "small zucchini"
+        }
+      },
+      {
+        "amount": 3,
+        "unit": {
+          "tr": "yemek kaşığı",
+          "en": "tbsp"
+        },
+        "baseName": {
+          "tr": "nohut unu",
+          "en": "chickpea flour"
+        },
+        "shoppingLabel": {
+          "tr": "nohut unu",
+          "en": "chickpea flour"
+        }
+      },
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "adet",
+          "en": "piece"
+        },
+        "baseName": {
+          "tr": "yumurta",
+          "en": "egg"
+        },
+        "shoppingLabel": {
+          "tr": "yumurta",
+          "en": "egg"
+        }
+      },
+      {
+        "amount": 2,
+        "unit": {
+          "tr": "yemek kaşığı",
+          "en": "tbsp"
+        },
+        "baseName": {
+          "tr": "su",
+          "en": "water"
+        },
+        "shoppingLabel": {
+          "tr": "su",
+          "en": "water"
+        }
+      },
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "tatlı kaşığı",
+          "en": "tsp"
+        },
+        "baseName": {
+          "tr": "zeytinyağı",
+          "en": "olive oil"
+        },
+        "shoppingLabel": {
+          "tr": "zeytinyağı",
+          "en": "olive oil"
+        }
+      }
+    ],
+    "preparationTime": 20,
+    "calories": 120,
+    "suitableAgeInMonths": 10,
+    "allergicIngredients": [
+      {
+        "tr": "yumurta",
+        "en": "egg"
+      }
+    ],
+    "instructions": [
+      {
+        "tr": "Kabağı rendeleyip suyunu hafif sık.",
+        "en": "Grate the zucchini and gently squeeze out excess water."
+      },
+      {
+        "tr": "Nohut unu, yumurta ve suyla akışkan bir karışım yap.",
+        "en": "Make a pourable batter with chickpea flour, egg, and water."
+      },
+      {
+        "tr": "Tavada ince krep gibi pişir.",
+        "en": "Cook thinly like a crepe in a pan."
+      },
+      {
+        "tr": "Ilıyınca bebeğin tutacağı geniş şeritler halinde kes.",
+        "en": "When warm, cut into wide strips for baby to hold."
+      }
+    ],
+    "imageUrl": ""
+  },
+  {
+    "id": "blw_018",
+    "title": {
+      "tr": "Fırında Zerdeçallı Havuç ve Havuç Sapı",
+      "en": "Oven-Baked Turmeric Carrots and Tops"
+    },
+    "description": {
+      "tr": "Yumuşak havuç çubukları, elde tutulabilir şekilde.",
+      "en": "Soft carrot sticks that are easy to hold."
+    },
+    "category": 12,
+    "ingredients": [
+      {
+        "amount": 2,
+        "unit": {
+          "tr": "adet",
+          "en": "pieces"
+        },
+        "baseName": {
+          "tr": "orta havuç",
+          "en": "medium carrots"
+        },
+        "shoppingLabel": {
+          "tr": "orta havuç",
+          "en": "medium carrots"
+        }
+      },
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "çay kaşığı",
+          "en": "tsp"
+        },
+        "baseName": {
+          "tr": "zeytinyağı",
+          "en": "olive oil"
+        },
+        "shoppingLabel": {
+          "tr": "zeytinyağı",
+          "en": "olive oil"
+        }
+      },
+      {
+        "amount": 0.5,
+        "unit": {
+          "tr": "çay kaşığı",
+          "en": "tsp"
+        },
+        "baseName": {
+          "tr": "zerdeçal",
+          "en": "turmeric"
+        },
+        "shoppingLabel": {
+          "tr": "zerdeçal",
+          "en": "turmeric"
+        }
+      }
+    ],
+    "preparationTime": 20,
+    "calories": 55,
+    "suitableAgeInMonths": 10,
+    "allergicIngredients": [],
+    "instructions": [
+      {
+        "tr": "Havuçları kalın çubuklar halinde doğra.",
+        "en": "Cut the carrots into thick sticks."
+      },
+      {
+        "tr": "Zeytinyağı ve zerdeçalla karıştır.",
+        "en": "Toss with olive oil and turmeric."
+      },
+      {
+        "tr": "Fırında çok yumuşayana kadar pişir.",
+        "en": "Bake until very soft."
+      }
+    ],
+    "imageUrl": ""
+  },
+  {
+    "id": "blw_019",
+    "title": {
+      "tr": "Yoğurtlu Semizotu Pankekleri",
+      "en": "Yogurt Purslane Pancakes"
+    },
+    "description": {
+      "tr": "Yumuşak, minik ve elde dağılan pankekler.",
+      "en": "Soft mini pancakes that break gently in the mouth."
+    },
+    "category": 12,
+    "ingredients": [
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "adet",
+          "en": "piece"
+        },
+        "baseName": {
+          "tr": "yumurta",
+          "en": "egg"
+        },
+        "shoppingLabel": {
+          "tr": "yumurta",
+          "en": "egg"
+        }
+      },
+      {
+        "amount": 3,
+        "unit": {
+          "tr": "yemek kaşığı",
+          "en": "tbsp"
+        },
+        "baseName": {
+          "tr": "yoğurt",
+          "en": "yogurt"
+        },
+        "shoppingLabel": {
+          "tr": "yoğurt",
+          "en": "yogurt"
+        }
+      },
+      {
+        "amount": 2,
+        "unit": {
+          "tr": "yemek kaşığı",
+          "en": "tbsp"
+        },
+        "baseName": {
+          "tr": "ince doğranmış semizotu",
+          "en": "finely chopped purslane"
+        },
+        "shoppingLabel": {
+          "tr": "semizotu",
+          "en": "purslane"
+        }
+      },
+      {
+        "amount": 3,
+        "unit": {
+          "tr": "yemek kaşığı",
+          "en": "tbsp"
+        },
+        "baseName": {
+          "tr": "un",
+          "en": "flour"
+        },
+        "shoppingLabel": {
+          "tr": "un",
+          "en": "flour"
+        }
+      }
+    ],
+    "preparationTime": 18,
+    "calories": 115,
+    "suitableAgeInMonths": 14,
+    "allergicIngredients": [
+      {
+        "tr": "yumurta",
+        "en": "egg"
+      },
+      {
+        "tr": "süt",
+        "en": "milk"
+      },
+      {
+        "tr": "gluten",
+        "en": "gluten"
+      }
+    ],
+    "instructions": [
+      {
+        "tr": "Tüm malzemeleri pürüzsüz bir hamur yap.",
+        "en": "Mix all ingredients into a smooth batter."
+      },
+      {
+        "tr": "Tavada küçük ve yumuşak pankekler pişir.",
+        "en": "Cook small, soft pancakes in a pan."
+      },
+      {
+        "tr": "İçinin tam piştiğinden emin ol.",
+        "en": "Make sure the center is fully cooked."
+      }
+    ],
+    "imageUrl": ""
+  },
+  {
+    "id": "blw_020",
+    "title": {
+      "tr": "Fırında Balıksız Sebze Sufle Topları",
+      "en": "Vegetable Souffle Bites"
+    },
+    "description": {
+      "tr": "Yumuşak ve hafif kabaran sebze topları.",
+      "en": "Soft, lightly risen vegetable bites."
+    },
+    "category": 12,
+    "ingredients": [
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "adet",
+          "en": "piece"
+        },
+        "baseName": {
+          "tr": "küçük havuç",
+          "en": "small carrot"
+        },
+        "shoppingLabel": {
+          "tr": "küçük havuç",
+          "en": "small carrot"
+        }
+      },
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "adet",
+          "en": "piece"
+        },
+        "baseName": {
+          "tr": "küçük kabak",
+          "en": "small zucchini"
+        },
+        "shoppingLabel": {
+          "tr": "küçük kabak",
+          "en": "small zucchini"
+        }
+      },
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "adet",
+          "en": "piece"
+        },
+        "baseName": {
+          "tr": "yumurta",
+          "en": "egg"
+        },
+        "shoppingLabel": {
+          "tr": "yumurta",
+          "en": "egg"
+        }
+      },
+      {
+        "amount": 2,
+        "unit": {
+          "tr": "yemek kaşığı",
+          "en": "tbsp"
+        },
+        "baseName": {
+          "tr": "un",
+          "en": "flour"
+        },
+        "shoppingLabel": {
+          "tr": "un",
+          "en": "flour"
+        }
+      }
+    ],
+    "preparationTime": 25,
+    "calories": 105,
+    "suitableAgeInMonths": 12,
+    "allergicIngredients": [
+      {
+        "tr": "yumurta",
+        "en": "egg"
+      },
+      {
+        "tr": "gluten",
+        "en": "gluten"
+      }
+    ],
+    "instructions": [
+      {
+        "tr": "Sebzeleri rendele ve suyunu hafifçe sık.",
+        "en": "Grate the vegetables and gently squeeze out the water."
+      },
+      {
+        "tr": "Yumurta ve unla karıştır.",
+        "en": "Mix with egg and flour."
+      },
+      {
+        "tr": "Küçük kalıplarda ya da kaşıkla porsiyonlayıp fırınla.",
+        "en": "Portion into small molds or spoon onto a tray and bake."
+      },
+      {
+        "tr": "Tam yumuşayınca çıkar.",
+        "en": "Remove when fully soft."
+      }
+    ],
+    "imageUrl": ""
+  },
+  {
+    "id": "blw_021",
+    "title": {
+      "tr": "Buharda Ispanaklı Kuskus Topları",
+      "en": "Steamed Spinach Couscous Balls"
+    },
+    "description": {
+      "tr": "Yumuşak, minik ve kolay kavranan toplar.",
+      "en": "Soft, tiny, easy-to-grip balls."
+    },
+    "category": 12,
+    "ingredients": [
+      {
+        "amount": 4,
+        "unit": {
+          "tr": "yemek kaşığı",
+          "en": "tbsp"
+        },
+        "baseName": {
+          "tr": "kuskus",
+          "en": "couscous"
+        },
+        "shoppingLabel": {
+          "tr": "kuskus",
+          "en": "couscous"
+        }
+      },
+      {
+        "amount": 2,
+        "unit": {
+          "tr": "yemek kaşığı",
+          "en": "tbsp"
+        },
+        "baseName": {
+          "tr": "ince doğranmış ıspanak",
+          "en": "finely chopped spinach"
+        },
+        "shoppingLabel": {
+          "tr": "ıspanak",
+          "en": "spinach"
+        }
+      },
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "adet",
+          "en": "piece"
+        },
+        "baseName": {
+          "tr": "küçük soğan rendesi",
+          "en": "small grated onion"
+        },
+        "shoppingLabel": {
+          "tr": "soğan",
+          "en": "onion"
+        }
+      },
+      {
+        "amount": 6,
+        "unit": {
+          "tr": "yemek kaşığı",
+          "en": "tbsp"
+        },
+        "baseName": {
+          "tr": "sıcak su",
+          "en": "hot water"
+        },
+        "shoppingLabel": {
+          "tr": "sıcak su",
+          "en": "hot water"
+        }
+      }
+    ],
+    "preparationTime": 15,
+    "calories": 100,
+    "suitableAgeInMonths": 11,
+    "allergicIngredients": [
+      {
+        "tr": "gluten",
+        "en": "gluten"
+      }
+    ],
+    "instructions": [
+      {
+        "tr": "Kuskusu sıcak suyla şişir.",
+        "en": "Let the couscous swell with hot water."
+      },
+      {
+        "tr": "Ispanak ve az rendelenmiş soğanı ekle.",
+        "en": "Add spinach and a little grated onion."
+      },
+      {
+        "tr": "Minik toplar yapıp buharda iyice yumuşat.",
+        "en": "Shape into tiny balls and steam until very soft."
+      }
+    ],
+    "imageUrl": ""
+  },
+  {
+    "id": "blw_022",
+    "title": {
+      "tr": "Tahinli Balkabağı Püre Lokmaları",
+      "en": "Tahini Pumpkin Mash Bites"
+    },
+    "description": {
+      "tr": "Kaşıkla şekillendirilen yumuşak balkabağı lokmaları.",
+      "en": "Soft pumpkin bites shaped with a spoon."
+    },
+    "category": 12,
+    "ingredients": [
+      {
+        "amount": 200,
+        "unit": {
+          "tr": "gram",
+          "en": "g"
+        },
+        "baseName": {
+          "tr": "balkabağı",
+          "en": "pumpkin"
+        },
+        "shoppingLabel": {
+          "tr": "balkabağı",
+          "en": "pumpkin"
+        }
+      },
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "tatlı kaşığı",
+          "en": "tsp"
+        },
+        "baseName": {
+          "tr": "tahin",
+          "en": "tahini"
+        },
+        "shoppingLabel": {
+          "tr": "tahin",
+          "en": "tahini"
+        }
+      },
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "çay kaşığı",
+          "en": "tsp"
+        },
+        "baseName": {
+          "tr": "zeytinyağı",
+          "en": "olive oil"
+        },
+        "shoppingLabel": {
+          "tr": "zeytinyağı",
+          "en": "olive oil"
+        }
+      }
+    ],
+    "preparationTime": 25,
+    "calories": 95,
+    "suitableAgeInMonths": 16,
+    "allergicIngredients": [
+      {
+        "tr": "susam",
+        "en": "sesame"
+      }
+    ],
+    "instructions": [
+      {
+        "tr": "Balkabağını buharda çok yumuşayana kadar pişir.",
+        "en": "Steam the pumpkin until very soft."
+      },
+      {
+        "tr": "Ezip tahin ve zeytinyağıyla karıştır.",
+        "en": "Mash and mix with tahini and olive oil."
+      },
+      {
+        "tr": "Kaşıkla küçük lokmalar yapıp kısa süre fırınla ya da soğuk servis et.",
+        "en": "Shape small bites with a spoon and bake briefly or serve chilled."
+      }
+    ],
+    "imageUrl": ""
+  },
+  {
+    "id": "blw_023",
+    "title": {
+      "tr": "Fırında Soğanlı Kıymalı Kabak Sandalları",
+      "en": "Baked Zucchini Boats with Minced Beef"
+    },
+    "description": {
+      "tr": "Yumuşak kabak içinde sulu kıymalı harç.",
+      "en": "Soft zucchini filled with a juicy minced beef mixture."
+    },
+    "category": 12,
+    "ingredients": [
+      {
+        "amount": 2,
+        "unit": {
+          "tr": "adet",
+          "en": "pieces"
+        },
+        "baseName": {
+          "tr": "küçük kabak",
+          "en": "small zucchini"
+        },
+        "shoppingLabel": {
+          "tr": "küçük kabak",
+          "en": "small zucchini"
+        }
+      },
+      {
+        "amount": 100,
+        "unit": {
+          "tr": "gram",
+          "en": "g"
+        },
+        "baseName": {
+          "tr": "dana kıyma",
+          "en": "beef mince"
+        },
+        "shoppingLabel": {
+          "tr": "dana kıyma",
+          "en": "beef mince"
+        }
+      },
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "adet",
+          "en": "piece"
+        },
+        "baseName": {
+          "tr": "çok küçük soğan",
+          "en": "very small onion"
+        },
+        "shoppingLabel": {
+          "tr": "soğan",
+          "en": "onion"
+        }
+      },
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "yemek kaşığı",
+          "en": "tbsp"
+        },
+        "baseName": {
+          "tr": "domates püresi",
+          "en": "tomato puree"
+        },
+        "shoppingLabel": {
+          "tr": "domates püresi",
+          "en": "tomato puree"
+        }
+      }
+    ],
+    "preparationTime": 30,
+    "calories": 140,
+    "suitableAgeInMonths": 17,
+    "allergicIngredients": [],
+    "instructions": [
+      {
+        "tr": "Kabakları boydan ikiye bölüp içini az oy.",
+        "en": "Cut the zucchinis in half lengthwise and scoop a little from the center."
+      },
+      {
+        "tr": "Kıymayı soğan ve domates püresiyle iyice pişir.",
+        "en": "Cook the beef with onion and tomato puree until done."
+      },
+      {
+        "tr": "Kabakları doldurup fırında tamamen yumuşayana kadar pişir.",
+        "en": "Fill the zucchinis and bake until completely soft."
+      }
+    ],
+    "imageUrl": ""
+  },
+  {
+    "id": "blw_024",
+    "title": {
+      "tr": "Fırın Kıymalı Karnabahar Brokoli Çiçekleri",
+      "en": "Baked Beef with Cauliflower and Broccoli Florets"
+    },
+    "description": {
+      "tr": "Sebze çiçekleriyle yumuşak kıymalı fırın tabak.",
+      "en": "A soft baked plate with vegetables and minced beef."
+    },
+    "category": 12,
+    "ingredients": [
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "küçük baş",
+          "en": "small head"
+        },
+        "baseName": {
+          "tr": "karnabahar",
+          "en": "cauliflower"
+        },
+        "shoppingLabel": {
+          "tr": "karnabahar",
+          "en": "cauliflower"
+        }
+      },
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "küçük baş",
+          "en": "small head"
+        },
+        "baseName": {
+          "tr": "brokoli",
+          "en": "broccoli"
+        },
+        "shoppingLabel": {
+          "tr": "brokoli",
+          "en": "broccoli"
+        }
+      },
+      {
+        "amount": 80,
+        "unit": {
+          "tr": "gram",
+          "en": "g"
+        },
+        "baseName": {
+          "tr": "dana kıyma",
+          "en": "beef mince"
+        },
+        "shoppingLabel": {
+          "tr": "dana kıyma",
+          "en": "beef mince"
+        }
+      },
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "yemek kaşığı",
+          "en": "tbsp"
+        },
+        "baseName": {
+          "tr": "zeytinyağı",
+          "en": "olive oil"
+        },
+        "shoppingLabel": {
+          "tr": "zeytinyağı",
+          "en": "olive oil"
+        }
+      }
+    ],
+    "preparationTime": 28,
+    "calories": 155,
+    "suitableAgeInMonths": 15,
+    "allergicIngredients": [],
+    "instructions": [
+      {
+        "tr": "Karnabahar ve brokoliyi küçük çiçeklere ayır.",
+        "en": "Separate the cauliflower and broccoli into small florets."
+      },
+      {
+        "tr": "Kıymayı küçük parçalar halinde pişir.",
+        "en": "Cook the beef mince into tiny soft pieces."
+      },
+      {
+        "tr": "Sebzeleri kısa süre buharda yumuşat, sonra kıymayla fırınla.",
+        "en": "Steam the vegetables briefly until soft, then bake with the beef."
+      }
+    ],
+    "imageUrl": ""
   }
 ]

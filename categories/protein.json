@@ -303,84 +303,6 @@
     "imageUrl": "https://firebasestorage.googleapis.com/v0/b/bebeks-44765.firebasestorage.app/o/protein%2Fprotein_005_1785097794135_1200x675.webp?alt=media&token=9aab12f1-fdb5-48c9-b66c-394222981330"
   },
   {
-    "id": "protein_006",
-    "title": {
-      "tr": "Ilık Tavuklu Kabak Püresi",
-      "en": "Warm Chicken and Zucchini Purée"
-    },
-    "description": {
-      "tr": "Yumuşak dokulu, kaşıkla kolay alınan hafif bir öğün.",
-      "en": "A soft, spoonable, gentle meal."
-    },
-    "category": 5,
-    "ingredients": [
-      {
-        "amount": 40,
-        "unit": {
-          "tr": "g",
-          "en": "g"
-        },
-        "baseName": {
-          "tr": "haşlanmış tavuk göğsü",
-          "en": "boiled chicken breast"
-        },
-        "shoppingLabel": {
-          "tr": "haşlanmış tavuk göğsü",
-          "en": "boiled chicken breast"
-        }
-      },
-      {
-        "amount": 60,
-        "unit": {
-          "tr": "g",
-          "en": "g"
-        },
-        "baseName": {
-          "tr": "kabak",
-          "en": "zucchini"
-        },
-        "shoppingLabel": {
-          "tr": "kabak",
-          "en": "zucchini"
-        }
-      },
-      {
-        "amount": 1,
-        "unit": {
-          "tr": "yemek kaşığı",
-          "en": "tbsp"
-        },
-        "baseName": {
-          "tr": "zeytinyağı",
-          "en": "olive oil"
-        },
-        "shoppingLabel": {
-          "tr": "zeytinyağı",
-          "en": "olive oil"
-        }
-      }
-    ],
-    "preparationTime": 20,
-    "calories": 90,
-    "suitableAgeInMonths": 12,
-    "allergicIngredients": [],
-    "instructions": [
-      {
-        "tr": "Kabağı iyice yıkayın, küçük parçalar halinde doğrayın ve çok yumuşayana kadar buharda pişirin.",
-        "en": "Wash the zucchini well, cut it into small pieces, and steam until very soft."
-      },
-      {
-        "tr": "Tavuk göğsünü ve yumuşak kabağı birlikte çatalla ezerek veya blenderdan kısa süre geçirerek pürüzsüz, yumuşak bir kıvam elde edin.",
-        "en": "Mash the chicken breast and soft zucchini together with a fork, or briefly blend, until smooth and soft."
-      },
-      {
-        "tr": "Zeytinyağını ekleyip karıştırın. Gerekirse kıvamı biraz suyla açın ve ılık olarak servis edin.",
-        "en": "Stir in the olive oil. If needed, loosen the texture with a little water and serve warm."
-      }
-    ],
-    "imageUrl": ""
-  },
-  {
     "id": "protein_AI_DRAFT_3",
     "title": {
       "tr": "Kıymalı Ispanak Ezmesi",
@@ -456,7 +378,7 @@
         "en": "Keep the mixture very soft with no large pieces, and serve warm."
       }
     ],
-    "imageUrl": ""
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/bebeks-44765.firebasestorage.app/o/protein%2Fprotein_a_draft_3_1785226339770_1200x675.webp?alt=media&token=f6074a41-e76a-4090-b07f-1907652e94a6"
   },
   {
     "id": "protein_AI_DRAFT_2",
@@ -539,7 +461,7 @@
         "en": "Keep the mixture soft and spoonable for your baby; thin it with a little water if needed."
       }
     ],
-    "imageUrl": ""
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/bebeks-44765.firebasestorage.app/o/protein%2Fprotein_a_draft_2_1785226386416_1200x675.webp?alt=media&token=3708eda2-0ca9-451d-ac18-bb7113602604"
   },
   {
     "id": "protein_007",
@@ -617,7 +539,7 @@
         "en": "If the texture is too thick, thin it with a little cooking water and serve warm."
       }
     ],
-    "imageUrl": ""
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/bebeks-44765.firebasestorage.app/o/protein%2Fprotein_007_1785226411935_1200x675.webp?alt=media&token=ea0c4bef-d67e-46b2-8be7-ab7607d5da7b"
   },
   {
     "id": "protein_008",
@@ -679,7 +601,7 @@
     ],
     "preparationTime": 20,
     "calories": 115,
-    "suitableAgeInMonths": 10,
+    "suitableAgeInMonths": 12,
     "allergicIngredients": [
       {
         "tr": "gluten",
@@ -704,7 +626,7 @@
         "en": "Add the curd and stir briefly."
       }
     ],
-    "imageUrl": ""
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/bebeks-44765.firebasestorage.app/o/protein%2Fprotein_008_1785226679476_1200x675.webp?alt=media&token=ee645ea6-21c6-4f75-a7de-183464578ae4"
   },
   {
     "id": "protein_009",
@@ -787,7 +709,7 @@
         "en": "Combine all the ingredients to make a moist, soft, slightly textured mix. Check the temperature before serving."
       }
     ],
-    "imageUrl": ""
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/bebeks-44765.firebasestorage.app/o/protein%2Fprotein_009_1785226432382_1200x675.webp?alt=media&token=37304f36-59a1-4472-8a77-7516d3f45833"
   },
   {
     "id": "protein_011",
@@ -870,7 +792,7 @@
         "en": "Mix with yogurt and leave tiny soft bits."
       }
     ],
-    "imageUrl": ""
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/bebeks-44765.firebasestorage.app/o/protein%2Fprotein_011_1785226507888_1200x675.webp?alt=media&token=af2b94b8-8f3f-430c-87b6-7ac52f830a4a"
   },
   {
     "id": "protein_012",
@@ -948,7 +870,7 @@
         "en": "Add the olive oil and mash until smooth; thin with a little water if needed."
       }
     ],
-    "imageUrl": ""
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/bebeks-44765.firebasestorage.app/o/protein%2Fprotein_012_1785226527906_1200x675.webp?alt=media&token=516d4a6b-d20f-4e82-ac31-672baa90ea61"
   },
   {
     "id": "protein_013",
@@ -1026,7 +948,7 @@
         "en": "Cook briefly more over low heat, then serve when warm."
       }
     ],
-    "imageUrl": ""
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/bebeks-44765.firebasestorage.app/o/protein%2Fprotein_013_1785226554630_1200x675.webp?alt=media&token=feb585e4-ac23-424a-b798-fa25d0dbbcbf"
   },
   {
     "id": "protein_014",
@@ -1104,7 +1026,7 @@
         "en": "Once warm, lightly mash with a fork and serve in small, soft pieces."
       }
     ],
-    "imageUrl": ""
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/bebeks-44765.firebasestorage.app/o/protein%2Fprotein_014_1785226576109_1200x675.webp?alt=media&token=bf9052a6-5d74-4129-b28c-b3f81bd0d19f"
   },
   {
     "id": "protein_015",
@@ -1187,7 +1109,7 @@
         "en": "Serve warm."
       }
     ],
-    "imageUrl": ""
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/bebeks-44765.firebasestorage.app/o/protein%2Fprotein_015_1785226603013_1200x675.webp?alt=media&token=263e6a1e-00a7-4bf7-844a-1fab6f40b1b3"
   },
   {
     "id": "protein_016",
@@ -1265,6 +1187,6 @@
         "en": "Mash lightly together and serve as tiny bites."
       }
     ],
-    "imageUrl": ""
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/bebeks-44765.firebasestorage.app/o/protein%2Fprotein_016_1785226625401_1200x675.webp?alt=media&token=bba54552-978d-42fe-b746-9ad2b72bcf62"
   }
 ]

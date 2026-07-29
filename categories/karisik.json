@@ -711,5 +711,702 @@
       }
     ],
     "imageUrl": "https://firebasestorage.googleapis.com/v0/b/bebeks-44765.firebasestorage.app/o/karisik%2FElmal%C4%B1_Tarc%CC%A7%C4%B1nl%C4%B1_Yulaf_Lapas%C4%B1_202607031416_1200x675.webp?alt=media&token=7c2501c0-b0b9-4066-a989-d724082451d1"
+  },
+  {
+    "id": "karisik_011",
+    "title": {
+      "tr": "Balkabağı ve Kabaklı İpeksi Çorba",
+      "en": "Silky Pumpkin and Zucchini Soup"
+    },
+    "description": {
+      "tr": "7 aylık bebekler için pürüzsüz, yumuşak ve kaşıkta kolay akan bir çorba.",
+      "en": "A smooth, soft soup that flows easily off the spoon for 7-month-olds."
+    },
+    "category": 6,
+    "ingredients": [
+      {
+        "amount": 60,
+        "unit": {
+          "tr": "g",
+          "en": "g"
+        },
+        "baseName": {
+          "tr": "kabak",
+          "en": "zucchini"
+        },
+        "shoppingLabel": {
+          "tr": "kabak",
+          "en": "zucchini"
+        }
+      },
+      {
+        "amount": 50,
+        "unit": {
+          "tr": "g",
+          "en": "g"
+        },
+        "baseName": {
+          "tr": "havuç",
+          "en": "carrot"
+        },
+        "shoppingLabel": {
+          "tr": "havuç",
+          "en": "carrot"
+        }
+      },
+      {
+        "amount": 20,
+        "unit": {
+          "tr": "g",
+          "en": "g"
+        },
+        "baseName": {
+          "tr": "pirinç",
+          "en": "rice"
+        },
+        "shoppingLabel": {
+          "tr": "pirinç",
+          "en": "rice"
+        }
+      },
+      {
+        "amount": 250,
+        "unit": {
+          "tr": "ml",
+          "en": "ml"
+        },
+        "baseName": {
+          "tr": "su",
+          "en": "water"
+        },
+        "shoppingLabel": {
+          "tr": "içme suyu",
+          "en": "drinking water"
+        }
+      },
+      {
+        "amount": 3,
+        "unit": {
+          "tr": "ml",
+          "en": "ml"
+        },
+        "baseName": {
+          "tr": "zeytinyağı",
+          "en": "olive oil"
+        },
+        "shoppingLabel": {
+          "tr": "zeytinyağı",
+          "en": "olive oil"
+        }
+      }
+    ],
+    "preparationTime": 20,
+    "calories": 85,
+    "suitableAgeInMonths": 7,
+    "allergicIngredients": [],
+    "instructions": [
+      {
+        "tr": "Kabak, havuç ve pirinci iyice yıkayın.",
+        "en": "Wash the zucchini, carrot, and rice well."
+      },
+      {
+        "tr": "Su ile birlikte yumuşayana kadar pişirin.",
+        "en": "Cook with the water until very soft."
+      },
+      {
+        "tr": "Blenderdan geçirip tamamen pürüzsüz hale getirin.",
+        "en": "Blend until completely smooth."
+      },
+      {
+        "tr": "Ilıyınca zeytinyağını ekleyin.",
+        "en": "Add the olive oil once lukewarm."
+      }
+    ],
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/bebeks-44765.firebasestorage.app/o/karisik%2Fkarisik_011_1785311658333_1200x675.webp?alt=media&token=0acd7095-3c81-484a-a626-f9b72a726167"
+  },
+  {
+    "id": "karisik_012",
+    "title": {
+      "tr": "Fırında Püf Püf Tavuk ve Karnabahar Ezmesi",
+      "en": "Baked Chicken and Cauliflower Mash"
+    },
+    "description": {
+      "tr": "11 aylık bebekler için yumuşak, kolay ezilen ve küçük parçaya ayrılan doyurucu bir öğün.",
+      "en": "A filling meal for 11-month-olds with soft textures that mash easily into tiny pieces."
+    },
+    "category": 6,
+    "ingredients": [
+      {
+        "amount": 70,
+        "unit": {
+          "tr": "g",
+          "en": "g"
+        },
+        "baseName": {
+          "tr": "tavuk göğsü",
+          "en": "chicken breast"
+        },
+        "shoppingLabel": {
+          "tr": "tavuk göğsü",
+          "en": "chicken breast"
+        }
+      },
+      {
+        "amount": 80,
+        "unit": {
+          "tr": "g",
+          "en": "g"
+        },
+        "baseName": {
+          "tr": "karnabahar",
+          "en": "cauliflower"
+        },
+        "shoppingLabel": {
+          "tr": "karnabahar",
+          "en": "cauliflower"
+        }
+      },
+      {
+        "amount": 40,
+        "unit": {
+          "tr": "g",
+          "en": "g"
+        },
+        "baseName": {
+          "tr": "havuç",
+          "en": "carrot"
+        },
+        "shoppingLabel": {
+          "tr": "havuç",
+          "en": "carrot"
+        }
+      },
+      {
+        "amount": 10,
+        "unit": {
+          "tr": "ml",
+          "en": "ml"
+        },
+        "baseName": {
+          "tr": "zeytinyağı",
+          "en": "olive oil"
+        },
+        "shoppingLabel": {
+          "tr": "zeytinyağı",
+          "en": "olive oil"
+        }
+      },
+      {
+        "amount": 100,
+        "unit": {
+          "tr": "ml",
+          "en": "ml"
+        },
+        "baseName": {
+          "tr": "su",
+          "en": "water"
+        },
+        "shoppingLabel": {
+          "tr": "içme suyu",
+          "en": "drinking water"
+        }
+      }
+    ],
+    "preparationTime": 30,
+    "calories": 110,
+    "suitableAgeInMonths": 11,
+    "allergicIngredients": [],
+    "instructions": [
+      {
+        "tr": "Tavuğu ve sebzeleri küçük küpler halinde hazırlayın.",
+        "en": "Cut the chicken and vegetables into small cubes."
+      },
+      {
+        "tr": "Az suyla fırında ya da tencerede çok yumuşayana kadar pişirin.",
+        "en": "Cook in the oven or on the stove with a little water until very soft."
+      },
+      {
+        "tr": "Sebzeleri çatalla ezin, tavuğu lif lif ayırın.",
+        "en": "Mash the vegetables with a fork and shred the chicken finely."
+      },
+      {
+        "tr": "Zeytinyağını ekleyip ılıkken servis edin.",
+        "en": "Add the olive oil and serve warm."
+      }
+    ],
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/bebeks-44765.firebasestorage.app/o/karisik%2Fkarisik_012_1785311682793_1200x675.webp?alt=media&token=e750d61f-5442-4d52-b94d-56b6db993f0b"
+  },
+  {
+    "id": "karisik_013",
+    "title": {
+      "tr": "Mercimekli Ispanaklı Yumuşak Püre",
+      "en": "Soft Lentil and Spinach Purée"
+    },
+    "description": {
+      "tr": "9 aylık bebekler için besleyici, hafif taneli ama kolay ezilen sıcak bir püre.",
+      "en": "A nourishing warm purée for 9-month-olds with a light texture that mashes easily."
+    },
+    "category": 6,
+    "ingredients": [
+      {
+        "amount": 40,
+        "unit": {
+          "tr": "g",
+          "en": "g"
+        },
+        "baseName": {
+          "tr": "kırmızı mercimek",
+          "en": "red lentils"
+        },
+        "shoppingLabel": {
+          "tr": "kırmızı mercimek",
+          "en": "red lentils"
+        }
+      },
+      {
+        "amount": 25,
+        "unit": {
+          "tr": "g",
+          "en": "g"
+        },
+        "baseName": {
+          "tr": "ıspanak",
+          "en": "spinach"
+        },
+        "shoppingLabel": {
+          "tr": "ıspanak",
+          "en": "spinach"
+        }
+      },
+      {
+        "amount": 30,
+        "unit": {
+          "tr": "g",
+          "en": "g"
+        },
+        "baseName": {
+          "tr": "patates",
+          "en": "potato"
+        },
+        "shoppingLabel": {
+          "tr": "patates",
+          "en": "potato"
+        }
+      },
+      {
+        "amount": 220,
+        "unit": {
+          "tr": "ml",
+          "en": "ml"
+        },
+        "baseName": {
+          "tr": "su",
+          "en": "water"
+        },
+        "shoppingLabel": {
+          "tr": "içme suyu",
+          "en": "drinking water"
+        }
+      },
+      {
+        "amount": 3,
+        "unit": {
+          "tr": "ml",
+          "en": "ml"
+        },
+        "baseName": {
+          "tr": "zeytinyağı",
+          "en": "olive oil"
+        },
+        "shoppingLabel": {
+          "tr": "zeytinyağı",
+          "en": "olive oil"
+        }
+      }
+    ],
+    "preparationTime": 25,
+    "calories": 95,
+    "suitableAgeInMonths": 9,
+    "allergicIngredients": [],
+    "instructions": [
+      {
+        "tr": "Mercimeği yıkayın, patatesi küçük doğrayın.",
+        "en": "Rinse the lentils and dice the potato small."
+      },
+      {
+        "tr": "Suda yumuşayana kadar pişirin.",
+        "en": "Cook in water until soft."
+      },
+      {
+        "tr": "Ispanağı son dakikalarda ekleyin.",
+        "en": "Add the spinach in the last minutes."
+      },
+      {
+        "tr": "Kıvamı hafif taneli kalacak şekilde ezin veya kısaca blenderdan geçirin.",
+        "en": "Mash or briefly blend so the texture stays slightly textured."
+      }
+    ],
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/bebeks-44765.firebasestorage.app/o/karisik%2Fkarisik_013_1785311722489_1200x675.webp?alt=media&token=888ca6cd-5b06-4c4d-9c4e-9338bfdc643d"
+  },
+  {
+    "id": "karisik_014",
+    "title": {
+      "tr": "Armutlu Yulaf ve Tarçınsız Ilık Lapası",
+      "en": "Warm Oat and Pear Porridge"
+    },
+    "description": {
+      "tr": "10 aylık bebekler için yumuşak, kaşıktan kolay akan ve minik parçalı bir lapa.",
+      "en": "A soft porridge for 10-month-olds that flows easily from the spoon with tiny soft bits."
+    },
+    "category": 6,
+    "ingredients": [
+      {
+        "amount": 25,
+        "unit": {
+          "tr": "g",
+          "en": "g"
+        },
+        "baseName": {
+          "tr": "yulaf ezmesi",
+          "en": "oats"
+        },
+        "shoppingLabel": {
+          "tr": "yulaf ezmesi",
+          "en": "oats"
+        }
+      },
+      {
+        "amount": 70,
+        "unit": {
+          "tr": "g",
+          "en": "g"
+        },
+        "baseName": {
+          "tr": "armut",
+          "en": "pear"
+        },
+        "shoppingLabel": {
+          "tr": "armut",
+          "en": "pear"
+        }
+      },
+      {
+        "amount": 180,
+        "unit": {
+          "tr": "ml",
+          "en": "ml"
+        },
+        "baseName": {
+          "tr": "su",
+          "en": "water"
+        },
+        "shoppingLabel": {
+          "tr": "içme suyu",
+          "en": "drinking water"
+        }
+      },
+      {
+        "amount": 5,
+        "unit": {
+          "tr": "ml",
+          "en": "ml"
+        },
+        "baseName": {
+          "tr": "anne sütü veya devam sütü",
+          "en": "breast milk or formula"
+        },
+        "shoppingLabel": {
+          "tr": "anne sütü veya devam sütü",
+          "en": "breast milk or formula"
+        }
+      }
+    ],
+    "preparationTime": 15,
+    "calories": 92,
+    "suitableAgeInMonths": 10,
+    "allergicIngredients": [
+      {
+        "tr": "gluten",
+        "en": "gluten"
+      }
+    ],
+    "instructions": [
+      {
+        "tr": "Armutu soyup çok küçük küpler halinde hazırlayın.",
+        "en": "Peel the pear and cut it into very small cubes."
+      },
+      {
+        "tr": "Yulafı suyla yumuşayana kadar pişirin.",
+        "en": "Cook the oats with water until soft."
+      },
+      {
+        "tr": "Armutu ekleyip birkaç dakika daha pişirin.",
+        "en": "Add the pear and cook for a few more minutes."
+      },
+      {
+        "tr": "Ilıyınca anne sütü veya devam sütüyle kıvam verin.",
+        "en": "When lukewarm, adjust the texture with breast milk or formula."
+      }
+    ],
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/bebeks-44765.firebasestorage.app/o/karisik%2Fkarisik_014_1785311749356_1200x675.webp?alt=media&token=46cd695a-e75d-4345-aac1-3eb21368173a"
+  },
+  {
+    "id": "karisik_015",
+    "title": {
+      "tr": "Nohutlu Sebzeli Bebek Güveci",
+      "en": "Chickpea and Vegetable Baby Stew"
+    },
+    "description": {
+      "tr": "12 aylık bebekler için çok yumuşak nohut ve sebzelerle hazırlanmış hafif bir güveç.",
+      "en": "A light stew for 12-month-olds with very soft chickpeas and vegetables."
+    },
+    "category": 6,
+    "ingredients": [
+      {
+        "amount": 60,
+        "unit": {
+          "tr": "g",
+          "en": "g"
+        },
+        "baseName": {
+          "tr": "haşlanmış nohut",
+          "en": "cooked chickpeas"
+        },
+        "shoppingLabel": {
+          "tr": "haşlanmış nohut",
+          "en": "cooked chickpeas"
+        }
+      },
+      {
+        "amount": 50,
+        "unit": {
+          "tr": "g",
+          "en": "g"
+        },
+        "baseName": {
+          "tr": "kabak",
+          "en": "zucchini"
+        },
+        "shoppingLabel": {
+          "tr": "kabak",
+          "en": "zucchini"
+        }
+      },
+      {
+        "amount": 40,
+        "unit": {
+          "tr": "g",
+          "en": "g"
+        },
+        "baseName": {
+          "tr": "havuç",
+          "en": "carrot"
+        },
+        "shoppingLabel": {
+          "tr": "havuç",
+          "en": "carrot"
+        }
+      },
+      {
+        "amount": 30,
+        "unit": {
+          "tr": "g",
+          "en": "g"
+        },
+        "baseName": {
+          "tr": "domates",
+          "en": "tomato"
+        },
+        "shoppingLabel": {
+          "tr": "domates",
+          "en": "tomato"
+        }
+      },
+      {
+        "amount": 120,
+        "unit": {
+          "tr": "ml",
+          "en": "ml"
+        },
+        "baseName": {
+          "tr": "su",
+          "en": "water"
+        },
+        "shoppingLabel": {
+          "tr": "içme suyu",
+          "en": "drinking water"
+        }
+      },
+      {
+        "amount": 5,
+        "unit": {
+          "tr": "ml",
+          "en": "ml"
+        },
+        "baseName": {
+          "tr": "zeytinyağı",
+          "en": "olive oil"
+        },
+        "shoppingLabel": {
+          "tr": "zeytinyağı",
+          "en": "olive oil"
+        }
+      }
+    ],
+    "preparationTime": 28,
+    "calories": 105,
+    "suitableAgeInMonths": 12,
+    "allergicIngredients": [],
+    "instructions": [
+      {
+        "tr": "Sebzeleri küçük küpler halinde doğrayın.",
+        "en": "Dice the vegetables small."
+      },
+      {
+        "tr": "Nohutla birlikte çok yumuşayana kadar pişirin.",
+        "en": "Cook with the chickpeas until very soft."
+      },
+      {
+        "tr": "İsterseniz çatalla hafifçe ezin; taneler yumuşak kalsın.",
+        "en": "Mash lightly with a fork if needed; keep the bits soft."
+      },
+      {
+        "tr": "Zeytinyağını ekleyip ılık servis edin.",
+        "en": "Add the olive oil and serve warm."
+      }
+    ],
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/bebeks-44765.firebasestorage.app/o/karisik%2Fkarisik_015_1785311769863_1200x675.webp?alt=media&token=578e1efc-17e6-4d1d-a876-35f1408a4be2"
+  },
+  {
+    "id": "karisik_016",
+    "title": {
+      "tr": "Tavuklu Şehriyeli Sebze Suyu",
+      "en": "Chicken and Tiny Pasta Vegetable Broth"
+    },
+    "description": {
+      "tr": "8 aylık bebekler için yumuşacık sebze, çok küçük şehriye ve hafif tavuk suyu ile hazırlanır.",
+      "en": "Made for 8-month-olds with soft vegetables, tiny pasta, and a gentle chicken broth."
+    },
+    "category": 6,
+    "ingredients": [
+      {
+        "amount": 40,
+        "unit": {
+          "tr": "g",
+          "en": "g"
+        },
+        "baseName": {
+          "tr": "tavuk eti",
+          "en": "chicken"
+        },
+        "shoppingLabel": {
+          "tr": "tavuk eti",
+          "en": "chicken"
+        }
+      },
+      {
+        "amount": 20,
+        "unit": {
+          "tr": "g",
+          "en": "g"
+        },
+        "baseName": {
+          "tr": "arpa şehriye",
+          "en": "tiny pasta"
+        },
+        "shoppingLabel": {
+          "tr": "arpa şehriye",
+          "en": "tiny pasta"
+        }
+      },
+      {
+        "amount": 40,
+        "unit": {
+          "tr": "g",
+          "en": "g"
+        },
+        "baseName": {
+          "tr": "havuç",
+          "en": "carrot"
+        },
+        "shoppingLabel": {
+          "tr": "havuç",
+          "en": "carrot"
+        }
+      },
+      {
+        "amount": 30,
+        "unit": {
+          "tr": "g",
+          "en": "g"
+        },
+        "baseName": {
+          "tr": "kereviz sapı",
+          "en": "celery stalk"
+        },
+        "shoppingLabel": {
+          "tr": "kereviz sapı",
+          "en": "celery stalk"
+        }
+      },
+      {
+        "amount": 300,
+        "unit": {
+          "tr": "ml",
+          "en": "ml"
+        },
+        "baseName": {
+          "tr": "su",
+          "en": "water"
+        },
+        "shoppingLabel": {
+          "tr": "içme suyu",
+          "en": "drinking water"
+        }
+      },
+      {
+        "amount": 3,
+        "unit": {
+          "tr": "ml",
+          "en": "ml"
+        },
+        "baseName": {
+          "tr": "zeytinyağı",
+          "en": "olive oil"
+        },
+        "shoppingLabel": {
+          "tr": "zeytinyağı",
+          "en": "olive oil"
+        }
+      }
+    ],
+    "preparationTime": 25,
+    "calories": 88,
+    "suitableAgeInMonths": 8,
+    "allergicIngredients": [
+      {
+        "tr": "gluten",
+        "en": "gluten"
+      }
+    ],
+    "instructions": [
+      {
+        "tr": "Tavuğu ve sebzeleri suda pişirin.",
+        "en": "Cook the chicken and vegetables in water."
+      },
+      {
+        "tr": "Tavuğu didikleyin, sebzeleri çok yumuşatın.",
+        "en": "Shred the chicken and soften the vegetables well."
+      },
+      {
+        "tr": "Şehriyeyi tamamen yumuşayana kadar ekleyin.",
+        "en": "Add the tiny pasta and cook until fully soft."
+      },
+      {
+        "tr": "Gerekirse çok az ezerek servis edin.",
+        "en": "If needed, lightly mash before serving."
+      }
+    ],
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/bebeks-44765.firebasestorage.app/o/karisik%2Fkarisik_016_1785311791604_1200x675.webp?alt=media&token=f186fb51-4fd3-4690-805e-baaf980daf5d"
   }
 ]

@@ -632,5 +632,977 @@
       }
     ],
     "imageUrl": "https://firebasestorage.googleapis.com/v0/b/bebeks-44765.firebasestorage.app/o/kahvalti%2FBebe_Bisku%CC%88vili_Kahvalt%C4%B1_202607031359_1200x675.webp?alt=media&token=10695167-89d7-43f4-be71-6d0e664e5d92"
+  },
+  {
+    "id": "kahvalti_011",
+    "title": {
+      "tr": "Fırında Kabaklı Mini Yumurta Kekleri",
+      "en": "Baked Mini Egg Cakes with Zucchini"
+    },
+    "description": {
+      "tr": "Yumuşacık dokulu, 11 aylık bebekler için uygun sıcak bir kahvaltı.",
+      "en": "A soft-textured warm breakfast for 11-month-old babies."
+    },
+    "category": 8,
+    "ingredients": [
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "adet",
+          "en": "piece"
+        },
+        "baseName": {
+          "tr": "yumurta",
+          "en": "egg"
+        },
+        "shoppingLabel": {
+          "tr": "yumurta",
+          "en": "egg"
+        }
+      },
+      {
+        "amount": 3,
+        "unit": {
+          "tr": "yemek kaşığı",
+          "en": "tablespoon"
+        },
+        "baseName": {
+          "tr": "ince rendelenmiş kabak",
+          "en": "finely grated zucchini"
+        },
+        "shoppingLabel": {
+          "tr": "kabak",
+          "en": "zucchini"
+        }
+      },
+      {
+        "amount": 2,
+        "unit": {
+          "tr": "yemek kaşığı",
+          "en": "tablespoon"
+        },
+        "baseName": {
+          "tr": "yulaf unu",
+          "en": "oat flour"
+        },
+        "shoppingLabel": {
+          "tr": "yulaf unu",
+          "en": "oat flour"
+        }
+      },
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "yemek kaşığı",
+          "en": "tablespoon"
+        },
+        "baseName": {
+          "tr": "yoğurt",
+          "en": "yogurt"
+        },
+        "shoppingLabel": {
+          "tr": "yoğurt",
+          "en": "yogurt"
+        }
+      },
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "tatlı kaşığı",
+          "en": "teaspoon"
+        },
+        "baseName": {
+          "tr": "zeytinyağı",
+          "en": "olive oil"
+        },
+        "shoppingLabel": {
+          "tr": "zeytinyağı",
+          "en": "olive oil"
+        }
+      }
+    ],
+    "preparationTime": 20,
+    "calories": 120,
+    "suitableAgeInMonths": 11,
+    "allergicIngredients": [
+      {
+        "tr": "yumurta",
+        "en": "egg"
+      },
+      {
+        "tr": "süt ürünü",
+        "en": "dairy"
+      },
+      {
+        "tr": "gluten",
+        "en": "gluten"
+      }
+    ],
+    "instructions": [
+      {
+        "tr": "Fırını 180°C ısıtın. Kabak suyunu hafifçe sıkın.",
+        "en": "Preheat the oven to 180°C. Gently squeeze the zucchini."
+      },
+      {
+        "tr": "Yumurta, kabak, yulaf unu ve yoğurdu karıştırın.",
+        "en": "Mix the egg, zucchini, oat flour, and yogurt."
+      },
+      {
+        "tr": "Küçük kalıplara paylaştırıp 12-15 dakika pişirin.",
+        "en": "Divide into small molds and bake for 12-15 minutes."
+      },
+      {
+        "tr": "Ilıyınca minik lokmalar halinde servis edin.",
+        "en": "Serve in tiny soft bites once warm."
+      }
+    ],
+    "imageUrl": ""
+  },
+  {
+    "id": "kahvalti_012",
+    "title": {
+      "tr": "Armutlu Pirinç Unu Lapası",
+      "en": "Pear Rice Flour Porridge"
+    },
+    "description": {
+      "tr": "7 aylık bebekler için pürüzsüz, kaşıklık hafif bir kahvaltı.",
+      "en": "A smooth, spoonable breakfast for 7-month-old babies."
+    },
+    "category": 8,
+    "ingredients": [
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "adet",
+          "en": "piece"
+        },
+        "baseName": {
+          "tr": "armut",
+          "en": "pear"
+        },
+        "shoppingLabel": {
+          "tr": "armut",
+          "en": "pear"
+        }
+      },
+      {
+        "amount": 2,
+        "unit": {
+          "tr": "yemek kaşığı",
+          "en": "tablespoon"
+        },
+        "baseName": {
+          "tr": "pirinç unu",
+          "en": "rice flour"
+        },
+        "shoppingLabel": {
+          "tr": "pirinç unu",
+          "en": "rice flour"
+        }
+      },
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "su bardağı",
+          "en": "cup"
+        },
+        "baseName": {
+          "tr": "su",
+          "en": "water"
+        },
+        "shoppingLabel": {
+          "tr": "su",
+          "en": "water"
+        }
+      },
+      {
+        "amount": 0.5,
+        "unit": {
+          "tr": "çay kaşığı",
+          "en": "teaspoon"
+        },
+        "baseName": {
+          "tr": "tarçın",
+          "en": "cinnamon"
+        },
+        "shoppingLabel": {
+          "tr": "tarçın",
+          "en": "cinnamon"
+        }
+      }
+    ],
+    "preparationTime": 15,
+    "calories": 95,
+    "suitableAgeInMonths": 7,
+    "allergicIngredients": [],
+    "instructions": [
+      {
+        "tr": "Armutu soyup rendeleyin ya da çok küçük doğrayın.",
+        "en": "Peel and grate the pear or chop it very small."
+      },
+      {
+        "tr": "Su ve pirinç ununu kısık ateşte karıştırarak pişirin.",
+        "en": "Cook the water and rice flour over low heat, stirring."
+      },
+      {
+        "tr": "Armutu ekleyip 2-3 dakika daha pişirin.",
+        "en": "Add the pear and cook for 2-3 minutes more."
+      },
+      {
+        "tr": "Ilıyınca pürüzsüz olacak şekilde ezerek servis edin.",
+        "en": "Serve warm, mashed smooth."
+      }
+    ],
+    "imageUrl": ""
+  },
+  {
+    "id": "kahvalti_013",
+    "title": {
+      "tr": "Elmalı Darı Unlu Sıcak Püre",
+      "en": "Warm Apple Millet Porridge"
+    },
+    "description": {
+      "tr": "8 aylık bebekler için hafif taneli ama yumuşak bir kahvaltı.",
+      "en": "A lightly textured yet soft breakfast for 8-month-old babies."
+    },
+    "category": 8,
+    "ingredients": [
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "adet",
+          "en": "piece"
+        },
+        "baseName": {
+          "tr": "elma",
+          "en": "apple"
+        },
+        "shoppingLabel": {
+          "tr": "elma",
+          "en": "apple"
+        }
+      },
+      {
+        "amount": 2,
+        "unit": {
+          "tr": "yemek kaşığı",
+          "en": "tablespoon"
+        },
+        "baseName": {
+          "tr": "darı unu",
+          "en": "millet flour"
+        },
+        "shoppingLabel": {
+          "tr": "darı unu",
+          "en": "millet flour"
+        }
+      },
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "su bardağı",
+          "en": "cup"
+        },
+        "baseName": {
+          "tr": "su",
+          "en": "water"
+        },
+        "shoppingLabel": {
+          "tr": "su",
+          "en": "water"
+        }
+      },
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "çay kaşığı",
+          "en": "teaspoon"
+        },
+        "baseName": {
+          "tr": "zeytinyağı",
+          "en": "olive oil"
+        },
+        "shoppingLabel": {
+          "tr": "zeytinyağı",
+          "en": "olive oil"
+        }
+      }
+    ],
+    "preparationTime": 15,
+    "calories": 105,
+    "suitableAgeInMonths": 8,
+    "allergicIngredients": [],
+    "instructions": [
+      {
+        "tr": "Elmayı soyup rendeleyin.",
+        "en": "Peel and grate the apple."
+      },
+      {
+        "tr": "Su ve darı ununu kısık ateşte koyulaştırın.",
+        "en": "Thicken the water and millet flour over low heat."
+      },
+      {
+        "tr": "Elmayı ekleyip yumuşayana kadar pişirin.",
+        "en": "Add the apple and cook until soft."
+      },
+      {
+        "tr": "Ilıtıp çok küçük pütürlerle servis edin.",
+        "en": "Let it warm and serve with very tiny soft bits."
+      }
+    ],
+    "imageUrl": ""
+  },
+  {
+    "id": "kahvalti_014",
+    "title": {
+      "tr": "Patatesli Ispanaklı Yumuşak Omlet",
+      "en": "Soft Omelet with Potato and Spinach"
+    },
+    "description": {
+      "tr": "9 aylık bebekler için yumuşak, küçük parçalı bir kahvaltı.",
+      "en": "A soft breakfast cut into tiny pieces for 9-month-old babies."
+    },
+    "category": 8,
+    "ingredients": [
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "adet",
+          "en": "piece"
+        },
+        "baseName": {
+          "tr": "yumurta",
+          "en": "egg"
+        },
+        "shoppingLabel": {
+          "tr": "yumurta",
+          "en": "egg"
+        }
+      },
+      {
+        "amount": 2,
+        "unit": {
+          "tr": "yemek kaşığı",
+          "en": "tablespoon"
+        },
+        "baseName": {
+          "tr": "haşlanmış patates",
+          "en": "boiled potato"
+        },
+        "shoppingLabel": {
+          "tr": "patates",
+          "en": "potato"
+        }
+      },
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "yemek kaşığı",
+          "en": "tablespoon"
+        },
+        "baseName": {
+          "tr": "ince doğranmış ıspanak",
+          "en": "finely chopped spinach"
+        },
+        "shoppingLabel": {
+          "tr": "ıspanak",
+          "en": "spinach"
+        }
+      },
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "çay kaşığı",
+          "en": "teaspoon"
+        },
+        "baseName": {
+          "tr": "zeytinyağı",
+          "en": "olive oil"
+        },
+        "shoppingLabel": {
+          "tr": "zeytinyağı",
+          "en": "olive oil"
+        }
+      }
+    ],
+    "preparationTime": 18,
+    "calories": 130,
+    "suitableAgeInMonths": 9,
+    "allergicIngredients": [
+      {
+        "tr": "yumurta",
+        "en": "egg"
+      }
+    ],
+    "instructions": [
+      {
+        "tr": "Ispanak ve patatesi çok yumuşayana kadar hazırlayın.",
+        "en": "Prepare the spinach and potato until very soft."
+      },
+      {
+        "tr": "Yumurtayı çırpıp sebzelerle karıştırın.",
+        "en": "Whisk the egg and mix with the vegetables."
+      },
+      {
+        "tr": "Az yağlı tavada iki yüzünü de iyice pişirin.",
+        "en": "Cook well on both sides in a lightly oiled pan."
+      },
+      {
+        "tr": "Soğutmadan, minik lokmalar halinde verin.",
+        "en": "Serve warm in tiny bites."
+      }
+    ],
+    "imageUrl": ""
+  },
+  {
+    "id": "kahvalti_015",
+    "title": {
+      "tr": "Kayısılı Yulaf Kreması",
+      "en": "Apricot Oat Cream"
+    },
+    "description": {
+      "tr": "7 aylık bebekler için pürüzsüz ve hafif meyveli bir kahvaltı.",
+      "en": "A smooth, lightly fruity breakfast for 7-month-old babies."
+    },
+    "category": 8,
+    "ingredients": [
+      {
+        "amount": 2,
+        "unit": {
+          "tr": "adet",
+          "en": "piece"
+        },
+        "baseName": {
+          "tr": "taze kayısı",
+          "en": "fresh apricot"
+        },
+        "shoppingLabel": {
+          "tr": "taze kayısı",
+          "en": "fresh apricot"
+        }
+      },
+      {
+        "amount": 2,
+        "unit": {
+          "tr": "yemek kaşığı",
+          "en": "tablespoon"
+        },
+        "baseName": {
+          "tr": "yulaf unu",
+          "en": "oat flour"
+        },
+        "shoppingLabel": {
+          "tr": "yulaf unu",
+          "en": "oat flour"
+        }
+      },
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "su bardağı",
+          "en": "cup"
+        },
+        "baseName": {
+          "tr": "su",
+          "en": "water"
+        },
+        "shoppingLabel": {
+          "tr": "su",
+          "en": "water"
+        }
+      }
+    ],
+    "preparationTime": 12,
+    "calories": 90,
+    "suitableAgeInMonths": 7,
+    "allergicIngredients": [
+      {
+        "tr": "gluten",
+        "en": "gluten"
+      }
+    ],
+    "instructions": [
+      {
+        "tr": "Kayısıları soyup yumuşayana kadar pişirin.",
+        "en": "Peel the apricots and cook until soft."
+      },
+      {
+        "tr": "Yulaf ununu suyla kısa süre karıştırarak pişirin.",
+        "en": "Cook the oat flour with water, stirring briefly."
+      },
+      {
+        "tr": "Kayısıyı ekleyip birlikte ezin.",
+        "en": "Add the apricot and mash together."
+      },
+      {
+        "tr": "Ilıyınca pürüzsüz servis edin.",
+        "en": "Serve smooth once warm."
+      }
+    ],
+    "imageUrl": ""
+  },
+  {
+    "id": "kahvalti_016",
+    "title": {
+      "tr": "Kabaklı Havuçlu Sade Sebze Ezmesi",
+      "en": "Simple Zucchini and Carrot Mash"
+    },
+    "description": {
+      "tr": "6 aylık bebekler için ilk kaşıklara uygun, ince püre kıvamında bir kahvaltı.",
+      "en": "A finely mashed breakfast for first spoon-feeding at 6 months."
+    },
+    "category": 8,
+    "ingredients": [
+      {
+        "amount": 3,
+        "unit": {
+          "tr": "yemek kaşığı",
+          "en": "tablespoon"
+        },
+        "baseName": {
+          "tr": "kabak",
+          "en": "zucchini"
+        },
+        "shoppingLabel": {
+          "tr": "kabak",
+          "en": "zucchini"
+        }
+      },
+      {
+        "amount": 2,
+        "unit": {
+          "tr": "yemek kaşığı",
+          "en": "tablespoon"
+        },
+        "baseName": {
+          "tr": "havuç",
+          "en": "carrot"
+        },
+        "shoppingLabel": {
+          "tr": "havuç",
+          "en": "carrot"
+        }
+      },
+      {
+        "amount": 0.5,
+        "unit": {
+          "tr": "su bardağı",
+          "en": "cup"
+        },
+        "baseName": {
+          "tr": "su",
+          "en": "water"
+        },
+        "shoppingLabel": {
+          "tr": "su",
+          "en": "water"
+        }
+      }
+    ],
+    "preparationTime": 15,
+    "calories": 55,
+    "suitableAgeInMonths": 6,
+    "allergicIngredients": [],
+    "instructions": [
+      {
+        "tr": "Kabak ve havucu çok yumuşayana kadar buharda pişirin.",
+        "en": "Steam the zucchini and carrot until very soft."
+      },
+      {
+        "tr": "Az suyla pürüzsüz olacak şekilde ezin.",
+        "en": "Mash smooth with a little water."
+      },
+      {
+        "tr": "Ilıtıp kaşıkla verin.",
+        "en": "Let it warm and feed by spoon."
+      }
+    ],
+    "imageUrl": ""
+  },
+  {
+    "id": "kahvalti_017",
+    "title": {
+      "tr": "Ispanaklı Yumurta Kapama",
+      "en": "Covered Egg with Spinach"
+    },
+    "description": {
+      "tr": "12 aylık bebekler için iyi pişmiş, yumuşak ve küçük parçalı bir kahvaltı.",
+      "en": "A well-cooked, soft breakfast cut into small pieces for 12-month-old babies."
+    },
+    "category": 8,
+    "ingredients": [
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "adet",
+          "en": "piece"
+        },
+        "baseName": {
+          "tr": "yumurta",
+          "en": "egg"
+        },
+        "shoppingLabel": {
+          "tr": "yumurta",
+          "en": "egg"
+        }
+      },
+      {
+        "amount": 2,
+        "unit": {
+          "tr": "yemek kaşığı",
+          "en": "tablespoon"
+        },
+        "baseName": {
+          "tr": "doğranmış ıspanak",
+          "en": "chopped spinach"
+        },
+        "shoppingLabel": {
+          "tr": "ıspanak",
+          "en": "spinach"
+        }
+      },
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "dilim",
+          "en": "slice"
+        },
+        "baseName": {
+          "tr": "yumuşak ekmek içi",
+          "en": "soft bread crumb"
+        },
+        "shoppingLabel": {
+          "tr": "ekmek",
+          "en": "bread"
+        }
+      },
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "çay kaşığı",
+          "en": "teaspoon"
+        },
+        "baseName": {
+          "tr": "zeytinyağı",
+          "en": "olive oil"
+        },
+        "shoppingLabel": {
+          "tr": "zeytinyağı",
+          "en": "olive oil"
+        }
+      }
+    ],
+    "preparationTime": 15,
+    "calories": 135,
+    "suitableAgeInMonths": 12,
+    "allergicIngredients": [
+      {
+        "tr": "yumurta",
+        "en": "egg"
+      },
+      {
+        "tr": "gluten",
+        "en": "gluten"
+      }
+    ],
+    "instructions": [
+      {
+        "tr": "Ispanağı çok yumuşayana kadar pişirin.",
+        "en": "Cook the spinach until very soft."
+      },
+      {
+        "tr": "Yumurtayı tamamen pişirin.",
+        "en": "Cook the egg through completely."
+      },
+      {
+        "tr": "Ekmek içiyle birlikte minik parçalara ayırın.",
+        "en": "Break into tiny pieces with the bread crumb."
+      },
+      {
+        "tr": "Ilıkken servis edin.",
+        "en": "Serve warm."
+      }
+    ],
+    "imageUrl": ""
+  },
+  {
+    "id": "kahvalti_018",
+    "title": {
+      "tr": "Tatlı Patatesli Yoğurtlu Püre",
+      "en": "Sweet Potato and Yogurt Mash"
+    },
+    "description": {
+      "tr": "8 aylık bebekler için yumuşak, kaşıklık ve hafif tatlı bir kahvaltı.",
+      "en": "A soft, spoonable breakfast with gentle sweetness for 8-month-old babies."
+    },
+    "category": 8,
+    "ingredients": [
+      {
+        "amount": 3,
+        "unit": {
+          "tr": "yemek kaşığı",
+          "en": "tablespoon"
+        },
+        "baseName": {
+          "tr": "tatlı patates",
+          "en": "sweet potato"
+        },
+        "shoppingLabel": {
+          "tr": "tatlı patates",
+          "en": "sweet potato"
+        }
+      },
+      {
+        "amount": 2,
+        "unit": {
+          "tr": "yemek kaşığı",
+          "en": "tablespoon"
+        },
+        "baseName": {
+          "tr": "yoğurt",
+          "en": "yogurt"
+        },
+        "shoppingLabel": {
+          "tr": "yoğurt",
+          "en": "yogurt"
+        }
+      },
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "tatlı kaşığı",
+          "en": "teaspoon"
+        },
+        "baseName": {
+          "tr": "zeytinyağı",
+          "en": "olive oil"
+        },
+        "shoppingLabel": {
+          "tr": "zeytinyağı",
+          "en": "olive oil"
+        }
+      }
+    ],
+    "preparationTime": 15,
+    "calories": 100,
+    "suitableAgeInMonths": 8,
+    "allergicIngredients": [
+      {
+        "tr": "süt ürünü",
+        "en": "dairy"
+      }
+    ],
+    "instructions": [
+      {
+        "tr": "Tatlı patatesi çok yumuşayana kadar buharda pişirin.",
+        "en": "Steam the sweet potato until very soft."
+      },
+      {
+        "tr": "Yoğurtla birlikte ezin.",
+        "en": "Mash with the yogurt."
+      },
+      {
+        "tr": "Ilıtıp pürüzsüz servis edin.",
+        "en": "Serve warm and smooth."
+      }
+    ],
+    "imageUrl": ""
+  },
+  {
+    "id": "kahvalti_019",
+    "title": {
+      "tr": "Armutlu İrmiksiz Sütlü Muhallebi",
+      "en": "Milk Pudding with Pear"
+    },
+    "description": {
+      "tr": "6 aylık bebekler için çok yumuşak, kaşığa kolay gelen bir kahvaltı.",
+      "en": "A very soft, easy-to-spoon breakfast for 6-month-old babies."
+    },
+    "category": 8,
+    "ingredients": [
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "adet",
+          "en": "piece"
+        },
+        "baseName": {
+          "tr": "armut",
+          "en": "pear"
+        },
+        "shoppingLabel": {
+          "tr": "armut",
+          "en": "pear"
+        }
+      },
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "su bardağı",
+          "en": "cup"
+        },
+        "baseName": {
+          "tr": "pastörize süt",
+          "en": "pasteurized milk"
+        },
+        "shoppingLabel": {
+          "tr": "pastörize süt",
+          "en": "pasteurized milk"
+        }
+      },
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "yemek kaşığı",
+          "en": "tablespoon"
+        },
+        "baseName": {
+          "tr": "pirinç unu",
+          "en": "rice flour"
+        },
+        "shoppingLabel": {
+          "tr": "pirinç unu",
+          "en": "rice flour"
+        }
+      }
+    ],
+    "preparationTime": 12,
+    "calories": 95,
+    "suitableAgeInMonths": 6,
+    "allergicIngredients": [
+      {
+        "tr": "süt ürünü",
+        "en": "dairy"
+      }
+    ],
+    "instructions": [
+      {
+        "tr": "Armutu soyup çok küçük doğrayın ve yumuşatın.",
+        "en": "Peel the pear, chop it very small, and soften it."
+      },
+      {
+        "tr": "Süt ve pirinç ununu karıştırarak pişirin.",
+        "en": "Cook the milk and rice flour while stirring."
+      },
+      {
+        "tr": "Armutu ekleyip ezerek birleştirin.",
+        "en": "Add the pear and mash together."
+      },
+      {
+        "tr": "Ilıyınca pürüzsüz servis edin.",
+        "en": "Serve smooth once warm."
+      }
+    ],
+    "imageUrl": ""
+  },
+  {
+    "id": "kahvalti_020",
+    "title": {
+      "tr": "Tahinli Muzsuz Yulaf Pankeki",
+      "en": "Tahini Oat Pancake Without Banana"
+    },
+    "description": {
+      "tr": "10 aylık bebekler için yumuşak, ince ve küçük parçalı bir kahvaltı.",
+      "en": "A soft, thin breakfast cut into small pieces for 10-month-old babies."
+    },
+    "category": 8,
+    "ingredients": [
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "adet",
+          "en": "piece"
+        },
+        "baseName": {
+          "tr": "yumurta",
+          "en": "egg"
+        },
+        "shoppingLabel": {
+          "tr": "yumurta",
+          "en": "egg"
+        }
+      },
+      {
+        "amount": 3,
+        "unit": {
+          "tr": "yemek kaşığı",
+          "en": "tablespoon"
+        },
+        "baseName": {
+          "tr": "yulaf unu",
+          "en": "oat flour"
+        },
+        "shoppingLabel": {
+          "tr": "yulaf unu",
+          "en": "oat flour"
+        }
+      },
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "yemek kaşığı",
+          "en": "tablespoon"
+        },
+        "baseName": {
+          "tr": "tahin",
+          "en": "tahini"
+        },
+        "shoppingLabel": {
+          "tr": "tahin",
+          "en": "tahini"
+        }
+      },
+      {
+        "amount": 3,
+        "unit": {
+          "tr": "yemek kaşığı",
+          "en": "tablespoon"
+        },
+        "baseName": {
+          "tr": "su",
+          "en": "water"
+        },
+        "shoppingLabel": {
+          "tr": "su",
+          "en": "water"
+        }
+      }
+    ],
+    "preparationTime": 15,
+    "calories": 140,
+    "suitableAgeInMonths": 10,
+    "allergicIngredients": [
+      {
+        "tr": "yumurta",
+        "en": "egg"
+      },
+      {
+        "tr": "susam",
+        "en": "sesame"
+      },
+      {
+        "tr": "gluten",
+        "en": "gluten"
+      }
+    ],
+    "instructions": [
+      {
+        "tr": "Malzemeleri pürüzsüz bir hamur olana kadar karıştırın.",
+        "en": "Mix until you get a smooth batter."
+      },
+      {
+        "tr": "Yapışmaz tavada ince pankekler pişirin.",
+        "en": "Cook thin pancakes in a nonstick pan."
+      },
+      {
+        "tr": "Tam pişince küçük karelere kesin.",
+        "en": "When fully cooked, cut into tiny squares."
+      },
+      {
+        "tr": "Ilıkken servis edin.",
+        "en": "Serve warm."
+      }
+    ],
+    "imageUrl": ""
   }
 ]

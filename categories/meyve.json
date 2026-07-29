@@ -539,12 +539,75 @@
   {
     "id": "meyve_012",
     "title": {
-      "tr": "Fırında Tarçınlı Ayva Ezmesi",
-      "en": "Baked Cinnamon Quince Mash"
+      "tr": "Bebeklere Yumuşak Yaban Mersini Kompostosu",
+      "en": "Soft Blueberry Compote for Babies"
     },
     "description": {
-      "tr": "Ayvayı fırında yumuşatıp hafifçe ezerek minik bir meyve tatlısı hazırladım.",
-      "en": "I softened quince in the oven and gently mashed it into a tiny fruit dessert."
+      "tr": "Yaban mersini kısa süre pişirilip ezilerek 7 aylık bebekler için yumuşak bir dokuya getirilir.",
+      "en": "Blueberries are gently cooked and mashed into a soft texture for 7-month-old babies."
+    },
+    "category": 3,
+    "ingredients": [
+      {
+        "amount": 60,
+        "unit": {
+          "tr": "gram",
+          "en": "g"
+        },
+        "baseName": {
+          "tr": "yaban mersini",
+          "en": "blueberries"
+        },
+        "shoppingLabel": {
+          "tr": "yaban mersini",
+          "en": "blueberries"
+        }
+      },
+      {
+        "amount": 40,
+        "unit": {
+          "tr": "mililitre",
+          "en": "ml"
+        },
+        "baseName": {
+          "tr": "içme suyu",
+          "en": "water"
+        },
+        "shoppingLabel": {
+          "tr": "içme suyu",
+          "en": "water"
+        }
+      }
+    ],
+    "preparationTime": 10,
+    "calories": 28,
+    "suitableAgeInMonths": 7,
+    "allergicIngredients": [],
+    "instructions": [
+      {
+        "tr": "Yaban mersinlerini suyla küçük bir tencerede 5-6 dakika yumuşayana kadar pişirin.",
+        "en": "Cook the blueberries with water in a small pot for 5-6 minutes until soft."
+      },
+      {
+        "tr": "Ocaktan alın, çatalla ezin ve gerekirse kısa süre süzgeçten geçirin.",
+        "en": "Remove from heat, mash with a fork, and strain briefly if needed."
+      },
+      {
+        "tr": "Ilıyınca pürüzsüz ve akışkan şekilde servis edin.",
+        "en": "Serve warm, smooth, and slightly runny."
+      }
+    ],
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/bebeks-44765.firebasestorage.app/o/meyve%2Fmeyve_012_1785310985102_1200x675.webp?alt=media&token=f12db2ed-88c4-499f-9acc-17ace1c9e4e8"
+  },
+  {
+    "id": "meyve_013",
+    "title": {
+      "tr": "Fırınlanmış Şeftali ve Yulaf Püresi",
+      "en": "Baked Peach and Oat Puree"
+    },
+    "description": {
+      "tr": "Şeftali fırınlanıp yulafla ezilerek 8 aylık bebekler için yumuşak bir karışım hazırlanır.",
+      "en": "Peach is baked and mashed with oats into a soft mix for 8-month-old babies."
     },
     "category": 3,
     "ingredients": [
@@ -555,67 +618,312 @@
           "en": "piece"
         },
         "baseName": {
-          "tr": "ayva",
-          "en": "quince"
+          "tr": "olgun şeftali",
+          "en": "ripe peach"
         },
         "shoppingLabel": {
-          "tr": "1 adet ayva",
-          "en": "1 quince"
+          "tr": "olgun şeftali",
+          "en": "ripe peach"
         }
       },
       {
-        "amount": 2,
+        "amount": 10,
         "unit": {
-          "tr": "yemek kaşığı",
-          "en": "tbsp"
+          "tr": "gram",
+          "en": "g"
         },
         "baseName": {
-          "tr": "su",
+          "tr": "yulaf ezmesi",
+          "en": "oats"
+        },
+        "shoppingLabel": {
+          "tr": "yulaf ezmesi",
+          "en": "oats"
+        }
+      },
+      {
+        "amount": 50,
+        "unit": {
+          "tr": "mililitre",
+          "en": "ml"
+        },
+        "baseName": {
+          "tr": "içme suyu",
           "en": "water"
         },
         "shoppingLabel": {
-          "tr": "2 yemek kaşığı su",
-          "en": "2 tbsp water"
-        }
-      },
-      {
-        "amount": 0.25,
-        "unit": {
-          "tr": "çay kaşığı",
-          "en": "tsp"
-        },
-        "baseName": {
-          "tr": "tarçın",
-          "en": "cinnamon"
-        },
-        "shoppingLabel": {
-          "tr": "bir tutam tarçın",
-          "en": "a pinch of cinnamon"
+          "tr": "içme suyu",
+          "en": "water"
         }
       }
     ],
-    "preparationTime": 20,
-    "calories": 55,
-    "suitableAgeInMonths": 12,
+    "preparationTime": 15,
+    "calories": 54,
+    "suitableAgeInMonths": 8,
+    "allergicIngredients": [
+      {
+        "tr": "gluten içerebilir",
+        "en": "may contain gluten"
+      }
+    ],
+    "instructions": [
+      {
+        "tr": "Şeftaliyi kabuğu soyulmuş halde küçük parçalarla fırınlayın ya da çok az suda yumuşatın.",
+        "en": "Bake the peeled peach in small pieces or soften it with a little water."
+      },
+      {
+        "tr": "Yulafı ekleyip 2-3 dakika daha pişirin.",
+        "en": "Add the oats and cook for 2-3 more minutes."
+      },
+      {
+        "tr": "Ezerek yumuşak, hafif taneli ama pütürsüz bir doku elde edin.",
+        "en": "Mash to get a soft texture with a very mild graininess, without chunks."
+      }
+    ],
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/bebeks-44765.firebasestorage.app/o/meyve%2Fmeyve_013_1785311010871_1200x675.webp?alt=media&token=c1cf346b-dd2d-48cb-b4b8-189ec2daf94a"
+  },
+  {
+    "id": "meyve_014",
+    "title": {
+      "tr": "Ilık Çilek ve Yoğurt Ezmesi",
+      "en": "Warm Strawberry and Yogurt Mash"
+    },
+    "description": {
+      "tr": "Çilek hafifçe pişirilip yoğurtla karıştırılarak 6 aylık bebekler için yumuşak bir öğün yapılır.",
+      "en": "Strawberries are lightly cooked and mixed with yogurt for a soft meal for 6-month-old babies."
+    },
+    "category": 3,
+    "ingredients": [
+      {
+        "amount": 5,
+        "unit": {
+          "tr": "adet",
+          "en": "pieces"
+        },
+        "baseName": {
+          "tr": "çilek",
+          "en": "strawberries"
+        },
+        "shoppingLabel": {
+          "tr": "çilek",
+          "en": "strawberries"
+        }
+      },
+      {
+        "amount": 30,
+        "unit": {
+          "tr": "gram",
+          "en": "g"
+        },
+        "baseName": {
+          "tr": "sade yoğurt",
+          "en": "plain yogurt"
+        },
+        "shoppingLabel": {
+          "tr": "sade yoğurt",
+          "en": "plain yogurt"
+        }
+      },
+      {
+        "amount": 20,
+        "unit": {
+          "tr": "mililitre",
+          "en": "ml"
+        },
+        "baseName": {
+          "tr": "içme suyu",
+          "en": "water"
+        },
+        "shoppingLabel": {
+          "tr": "içme suyu",
+          "en": "water"
+        }
+      }
+    ],
+    "preparationTime": 8,
+    "calories": 32,
+    "suitableAgeInMonths": 6,
+    "allergicIngredients": [
+      {
+        "tr": "süt ürünü",
+        "en": "dairy"
+      }
+    ],
+    "instructions": [
+      {
+        "tr": "Çilekleri yıkayıp küçük bir kapta birkaç dakika yumuşayıncaya kadar pişirin.",
+        "en": "Wash the strawberries and cook them briefly in a small pan until soft."
+      },
+      {
+        "tr": "Soğutun, ezin ve yoğurtla karıştırın.",
+        "en": "Cool slightly, mash, and mix with yogurt."
+      },
+      {
+        "tr": "İlk lokmalar için çok pürüzsüz servis edin.",
+        "en": "Serve very smooth for first bites."
+      }
+    ],
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/bebeks-44765.firebasestorage.app/o/meyve%2Fmeyve_014_1785311031406_1200x675.webp?alt=media&token=d2c10579-8230-406c-91af-af30f7afc1cd"
+  },
+  {
+    "id": "meyve_015",
+    "title": {
+      "tr": "Buharda Kayısı ve İrmik Ezmesi",
+      "en": "Steamed Apricot and Semolina Mash"
+    },
+    "description": {
+      "tr": "Kayısı buharda yumuşatılıp irmikle bağlanarak 10 aylık bebekler için kaşıklanabilir bir kıvam hazırlanır.",
+      "en": "Apricot is steamed and combined with semolina for a spoonable texture for 10-month-old babies."
+    },
+    "category": 3,
+    "ingredients": [
+      {
+        "amount": 2,
+        "unit": {
+          "tr": "adet",
+          "en": "pieces"
+        },
+        "baseName": {
+          "tr": "olgun nektarin",
+          "en": "ripe nectarine"
+        },
+        "shoppingLabel": {
+          "tr": "olgun nektarin",
+          "en": "ripe nectarine"
+        }
+      },
+      {
+        "amount": 12,
+        "unit": {
+          "tr": "gram",
+          "en": "g"
+        },
+        "baseName": {
+          "tr": "irmik",
+          "en": "semolina"
+        },
+        "shoppingLabel": {
+          "tr": "irmik",
+          "en": "semolina"
+        }
+      },
+      {
+        "amount": 90,
+        "unit": {
+          "tr": "mililitre",
+          "en": "ml"
+        },
+        "baseName": {
+          "tr": "içme suyu",
+          "en": "water"
+        },
+        "shoppingLabel": {
+          "tr": "içme suyu",
+          "en": "water"
+        }
+      }
+    ],
+    "preparationTime": 12,
+    "calories": 68,
+    "suitableAgeInMonths": 10,
+    "allergicIngredients": [
+      {
+        "tr": "gluten içerebilir",
+        "en": "may contain gluten"
+      }
+    ],
+    "instructions": [
+      {
+        "tr": "Nektarinleri soyup minik küpler halinde buharda yumuşatın.",
+        "en": "Peel the nectarines and soften them in tiny cubes by steaming."
+      },
+      {
+        "tr": "İrmiki suyla kısa süre pişirip koyulaştırın.",
+        "en": "Cook the semolina briefly with water to thicken it."
+      },
+      {
+        "tr": "Meyveyi ekleyip ezerek yarı pütürlü bir kıvam elde edin.",
+        "en": "Add the fruit and mash to a half-smooth texture."
+      }
+    ],
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/bebeks-44765.firebasestorage.app/o/meyve%2Fmeyve_015_1785311054909_1200x675.webp?alt=media&token=1096eb66-524a-4f0a-aa70-696b72e23ba1"
+  },
+  {
+    "id": "meyve_016",
+    "title": {
+      "tr": "Elmalı Üzümsüz Fırın Kasesi",
+      "en": "Baked Apple Bowl Without Grapes"
+    },
+    "description": {
+      "tr": "Elma ve armut birlikte fırınlanıp yumuşatılarak 9 aylık bebekler için tatlı ama sade bir kase hazırlanır.",
+      "en": "Apple and pear are baked together into a soft, simple bowl for 9-month-old babies."
+    },
+    "category": 3,
+    "ingredients": [
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "adet",
+          "en": "piece"
+        },
+        "baseName": {
+          "tr": "tatlı elma",
+          "en": "sweet apple"
+        },
+        "shoppingLabel": {
+          "tr": "tatlı elma",
+          "en": "sweet apple"
+        }
+      },
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "adet",
+          "en": "piece"
+        },
+        "baseName": {
+          "tr": "olgun armut",
+          "en": "ripe pear"
+        },
+        "shoppingLabel": {
+          "tr": "olgun armut",
+          "en": "ripe pear"
+        }
+      },
+      {
+        "amount": 30,
+        "unit": {
+          "tr": "mililitre",
+          "en": "ml"
+        },
+        "baseName": {
+          "tr": "içme suyu",
+          "en": "water"
+        },
+        "shoppingLabel": {
+          "tr": "içme suyu",
+          "en": "water"
+        }
+      }
+    ],
+    "preparationTime": 18,
+    "calories": 47,
+    "suitableAgeInMonths": 9,
     "allergicIngredients": [],
     "instructions": [
       {
-        "tr": "Ayvanın kabuğunu soyun, çekirdeklerini çıkarın ve çok küçük küpler doğrayın.",
-        "en": "Peel the quince, remove the seeds, and cut it into very small cubes."
+        "tr": "Meyveleri soyup çekirdeklerini çıkarın, küçük küpler halinde kesin.",
+        "en": "Peel the fruits, remove the cores, and cut them into tiny cubes."
       },
       {
-        "tr": "Su ile kapalı kapta fırında ya da küçük tencerede çok yumuşayana kadar pişirin.",
-        "en": "Cook it in a covered dish in the oven or in a small pot until very soft."
+        "tr": "Az suyla kapalı kapta fırında ya da ocakta tamamen yumuşayana kadar pişirin.",
+        "en": "Cook in a covered dish in the oven or on the stove with a little water until fully soft."
       },
       {
-        "tr": "Tarçını ekleyin ve çatalla hafifçe ezin; pütürsüz ama çok akışkan olmayan bir kıvam yapın.",
-        "en": "Add the cinnamon and gently mash with a fork; keep it smooth but not runny."
-      },
-      {
-        "tr": "Ilıkken bebeğinize küçük bir kaşıkla sunun.",
-        "en": "Serve it lukewarm with a small spoon."
+        "tr": "Çatalla ezin; isterseniz çok hafif pütürlü bırakın.",
+        "en": "Mash with a fork; you may leave it only very slightly textured."
       }
     ],
-    "imageUrl": ""
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/bebeks-44765.firebasestorage.app/o/meyve%2Fmeyve_016_1785311073971_1200x675.webp?alt=media&token=8a0a5f4b-13e3-431b-8b1d-fbbc6116afc1"
   }
 ]

@@ -523,5 +523,909 @@
       }
     ],
     "imageUrl": "https://firebasestorage.googleapis.com/v0/b/bebeks-44765.firebasestorage.app/o/atistirmalik%2FCevizli%20Hurma%20Toplar%C4%B1_1200x675.webp?alt=media&token=3fb09827-014a-4407-8533-bf3c9b294a11"
+  },
+  {
+    "id": "atistirmalik_011",
+    "title": {
+      "tr": "Fırında Kabaklı Patates Lokmaları",
+      "en": "Baked Zucchini Potato Bites"
+    },
+    "description": {
+      "tr": "Yumuşacık dokulu, minik lokmalar halinde sunulan tuzsuz bir ara öğün.",
+      "en": "A soft, bite-sized unsalted snack for little hands."
+    },
+    "category": 9,
+    "ingredients": [
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "adet",
+          "en": "piece"
+        },
+        "baseName": {
+          "tr": "küçük kabak",
+          "en": "small zucchini"
+        },
+        "shoppingLabel": {
+          "tr": "küçük kabak",
+          "en": "small zucchini"
+        }
+      },
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "adet",
+          "en": "piece"
+        },
+        "baseName": {
+          "tr": "küçük patates",
+          "en": "small potato"
+        },
+        "shoppingLabel": {
+          "tr": "küçük patates",
+          "en": "small potato"
+        }
+      },
+      {
+        "amount": 2,
+        "unit": {
+          "tr": "yemek kaşığı",
+          "en": "tbsp"
+        },
+        "baseName": {
+          "tr": "zeytinyağı",
+          "en": "olive oil"
+        },
+        "shoppingLabel": {
+          "tr": "zeytinyağı",
+          "en": "olive oil"
+        }
+      },
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "yemek kaşığı",
+          "en": "tbsp"
+        },
+        "baseName": {
+          "tr": "ince çekilmiş yulaf unu",
+          "en": "finely ground oat flour"
+        },
+        "shoppingLabel": {
+          "tr": "ince çekilmiş yulaf unu",
+          "en": "finely ground oat flour"
+        }
+      }
+    ],
+    "preparationTime": 25,
+    "calories": 90,
+    "suitableAgeInMonths": 11,
+    "allergicIngredients": [
+      {
+        "tr": "yulaf",
+        "en": "oats"
+      }
+    ],
+    "instructions": [
+      {
+        "tr": "Kabağı ve patatesi rendeleyip fazla suyunu sıkın.",
+        "en": "Grate the zucchini and potato, then squeeze out excess liquid."
+      },
+      {
+        "tr": "Yulaf unu ve zeytinyağıyla karıştırın.",
+        "en": "Mix with oat flour and olive oil."
+      },
+      {
+        "tr": "Minik parçalar yapıp fırında yumuşayana kadar pişirin.",
+        "en": "Shape into tiny pieces and bake until soft."
+      },
+      {
+        "tr": "Ilıyınca servis edin.",
+        "en": "Serve once warm."
+      }
+    ],
+    "imageUrl": ""
+  },
+  {
+    "id": "atistirmalik_012",
+    "title": {
+      "tr": "Armutlu İrmik Kasesi",
+      "en": "Pear Semolina Cup"
+    },
+    "description": {
+      "tr": "Kaşıkla yenebilen, pürüzsüz ve hafif bir ara öğün.",
+      "en": "A smooth, light snack served by spoon."
+    },
+    "category": 9,
+    "ingredients": [
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "adet",
+          "en": "piece"
+        },
+        "baseName": {
+          "tr": "armut",
+          "en": "pear"
+        },
+        "shoppingLabel": {
+          "tr": "armut",
+          "en": "pear"
+        }
+      },
+      {
+        "amount": 2,
+        "unit": {
+          "tr": "yemek kaşığı",
+          "en": "tbsp"
+        },
+        "baseName": {
+          "tr": "irmik",
+          "en": "semolina"
+        },
+        "shoppingLabel": {
+          "tr": "irmik",
+          "en": "semolina"
+        }
+      },
+      {
+        "amount": 120,
+        "unit": {
+          "tr": "mililitre",
+          "en": "ml"
+        },
+        "baseName": {
+          "tr": "su",
+          "en": "water"
+        },
+        "shoppingLabel": {
+          "tr": "su",
+          "en": "water"
+        }
+      }
+    ],
+    "preparationTime": 15,
+    "calories": 70,
+    "suitableAgeInMonths": 7,
+    "allergicIngredients": [
+      {
+        "tr": "gluten",
+        "en": "gluten"
+      }
+    ],
+    "instructions": [
+      {
+        "tr": "Armutu soyup rendeleyin ve suyla kısa süre pişirin.",
+        "en": "Peel and grate the pear, then cook briefly with water."
+      },
+      {
+        "tr": "İrmiği ekleyip koyulaşana kadar karıştırın.",
+        "en": "Add semolina and stir until thickened."
+      },
+      {
+        "tr": "Ilıtıp pürüzsüz kıvamda servis edin.",
+        "en": "Cool slightly and serve smooth."
+      }
+    ],
+    "imageUrl": ""
+  },
+  {
+    "id": "atistirmalik_013",
+    "title": {
+      "tr": "Fırında Karpuz Kabuğu Mücveri",
+      "en": "Baked Watermelon Rind Fritters"
+    },
+    "description": {
+      "tr": "Yumuşak iç dokulu, minik ve pişmiş sebze atıştırmalığı.",
+      "en": "A small, cooked vegetable snack with a soft interior."
+    },
+    "category": 9,
+    "ingredients": [
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "su bardağı",
+          "en": "cup"
+        },
+        "baseName": {
+          "tr": "ince rendelenmiş kabak",
+          "en": "finely grated zucchini"
+        },
+        "shoppingLabel": {
+          "tr": "ince rendelenmiş kabak",
+          "en": "finely grated zucchini"
+        }
+      },
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "adet",
+          "en": "piece"
+        },
+        "baseName": {
+          "tr": "küçük havuç",
+          "en": "small carrot"
+        },
+        "shoppingLabel": {
+          "tr": "küçük havuç",
+          "en": "small carrot"
+        }
+      },
+      {
+        "amount": 2,
+        "unit": {
+          "tr": "yemek kaşığı",
+          "en": "tbsp"
+        },
+        "baseName": {
+          "tr": "nohut unu",
+          "en": "chickpea flour"
+        },
+        "shoppingLabel": {
+          "tr": "nohut unu",
+          "en": "chickpea flour"
+        }
+      },
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "yemek kaşığı",
+          "en": "tbsp"
+        },
+        "baseName": {
+          "tr": "zeytinyağı",
+          "en": "olive oil"
+        },
+        "shoppingLabel": {
+          "tr": "zeytinyağı",
+          "en": "olive oil"
+        }
+      }
+    ],
+    "preparationTime": 30,
+    "calories": 85,
+    "suitableAgeInMonths": 8,
+    "allergicIngredients": [
+      {
+        "tr": "baklagil",
+        "en": "legume"
+      }
+    ],
+    "instructions": [
+      {
+        "tr": "Kabak ve havucu rendeleyip suyunu hafifçe sıkın.",
+        "en": "Grate the zucchini and carrot, then lightly squeeze out the liquid."
+      },
+      {
+        "tr": "Nohut unu ve zeytinyağıyla yumuşak bir harç yapın.",
+        "en": "Make a soft mixture with chickpea flour and olive oil."
+      },
+      {
+        "tr": "Minik parçalar halinde fırınlayın.",
+        "en": "Bake as tiny pieces."
+      },
+      {
+        "tr": "Tamamen yumuşayınca servis edin.",
+        "en": "Serve when fully soft."
+      }
+    ],
+    "imageUrl": ""
+  },
+  {
+    "id": "atistirmalik_014",
+    "title": {
+      "tr": "Balkabaklı Tahinli Kaşık Atıştırması",
+      "en": "Pumpkin Tahini Spoon Snack"
+    },
+    "description": {
+      "tr": "Küçük porsiyonlarda, yumuşak ve tok tutan bir ara öğün.",
+      "en": "A soft, filling snack in small portions."
+    },
+    "category": 9,
+    "ingredients": [
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "su bardağı",
+          "en": "cup"
+        },
+        "baseName": {
+          "tr": "balkabağı püresi",
+          "en": "pumpkin puree"
+        },
+        "shoppingLabel": {
+          "tr": "balkabağı püresi",
+          "en": "pumpkin puree"
+        }
+      },
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "yemek kaşığı",
+          "en": "tbsp"
+        },
+        "baseName": {
+          "tr": "tahin",
+          "en": "tahini"
+        },
+        "shoppingLabel": {
+          "tr": "tahin",
+          "en": "tahini"
+        }
+      },
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "yemek kaşığı",
+          "en": "tbsp"
+        },
+        "baseName": {
+          "tr": "pirinç unu",
+          "en": "rice flour"
+        },
+        "shoppingLabel": {
+          "tr": "pirinç unu",
+          "en": "rice flour"
+        }
+      }
+    ],
+    "preparationTime": 20,
+    "calories": 95,
+    "suitableAgeInMonths": 9,
+    "allergicIngredients": [
+      {
+        "tr": "susam",
+        "en": "sesame"
+      }
+    ],
+    "instructions": [
+      {
+        "tr": "Balkabağı püresini kısa süre pişirin.",
+        "en": "Cook the pumpkin puree briefly."
+      },
+      {
+        "tr": "Tahin ve pirinç ununu ekleyip karıştırın.",
+        "en": "Add tahini and rice flour, then mix."
+      },
+      {
+        "tr": "Kıvamı hafif koyulaşınca küçük kaşık porsiyonları halinde verin.",
+        "en": "When slightly thickened, serve in small spoon portions."
+      }
+    ],
+    "imageUrl": ""
+  },
+  {
+    "id": "atistirmalik_015",
+    "title": {
+      "tr": "Elmalı Yulaflı Minik Pankek",
+      "en": "Apple Oat Mini Pancake"
+    },
+    "description": {
+      "tr": "Yumuşak, elde tutulan küçük pankekler.",
+      "en": "Soft mini pancakes for tiny hands."
+    },
+    "category": 9,
+    "ingredients": [
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "adet",
+          "en": "piece"
+        },
+        "baseName": {
+          "tr": "elma rendesi",
+          "en": "grated apple"
+        },
+        "shoppingLabel": {
+          "tr": "elma",
+          "en": "apple"
+        }
+      },
+      {
+        "amount": 3,
+        "unit": {
+          "tr": "yemek kaşığı",
+          "en": "tbsp"
+        },
+        "baseName": {
+          "tr": "yulaf unu",
+          "en": "oat flour"
+        },
+        "shoppingLabel": {
+          "tr": "yulaf unu",
+          "en": "oat flour"
+        }
+      },
+      {
+        "amount": 60,
+        "unit": {
+          "tr": "mililitre",
+          "en": "ml"
+        },
+        "baseName": {
+          "tr": "su",
+          "en": "water"
+        },
+        "shoppingLabel": {
+          "tr": "su",
+          "en": "water"
+        }
+      }
+    ],
+    "preparationTime": 15,
+    "calories": 80,
+    "suitableAgeInMonths": 7,
+    "allergicIngredients": [
+      {
+        "tr": "yulaf",
+        "en": "oats"
+      }
+    ],
+    "instructions": [
+      {
+        "tr": "Elma rendesini yulaf unu ve suyla karıştırın.",
+        "en": "Mix grated apple with oat flour and water."
+      },
+      {
+        "tr": "Yapışmaz tavada çok küçük pankekler halinde pişirin.",
+        "en": "Cook as very small pancakes in a nonstick pan."
+      },
+      {
+        "tr": "Tamamen yumuşak olduğundan emin olup servis edin.",
+        "en": "Make sure they are fully soft before serving."
+      }
+    ],
+    "imageUrl": ""
+  },
+  {
+    "id": "atistirmalik_016",
+    "title": {
+      "tr": "Kabaklı Pirinç Lapası Topları",
+      "en": "Zucchini Rice Porridge Balls"
+    },
+    "description": {
+      "tr": "Kaşıkla değil, yumuşak toplar halinde sunulan sade bir ara öğün.",
+      "en": "A simple snack served as soft little balls."
+    },
+    "category": 9,
+    "ingredients": [
+      {
+        "amount": 3,
+        "unit": {
+          "tr": "yemek kaşığı",
+          "en": "tbsp"
+        },
+        "baseName": {
+          "tr": "pişmiş pirinç lapası",
+          "en": "cooked rice porridge"
+        },
+        "shoppingLabel": {
+          "tr": "pirinç",
+          "en": "rice"
+        }
+      },
+      {
+        "amount": 2,
+        "unit": {
+          "tr": "yemek kaşığı",
+          "en": "tbsp"
+        },
+        "baseName": {
+          "tr": "kabak püresi",
+          "en": "zucchini puree"
+        },
+        "shoppingLabel": {
+          "tr": "kabak",
+          "en": "zucchini"
+        }
+      },
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "tatlı kaşığı",
+          "en": "tsp"
+        },
+        "baseName": {
+          "tr": "zeytinyağı",
+          "en": "olive oil"
+        },
+        "shoppingLabel": {
+          "tr": "zeytinyağı",
+          "en": "olive oil"
+        }
+      }
+    ],
+    "preparationTime": 18,
+    "calories": 65,
+    "suitableAgeInMonths": 6,
+    "allergicIngredients": [],
+    "instructions": [
+      {
+        "tr": "Pirinç lapasını ve kabak püresini karıştırın.",
+        "en": "Mix the rice porridge and zucchini puree."
+      },
+      {
+        "tr": "Az zeytinyağıyla bağlayıp çok küçük toplar yapın.",
+        "en": "Bind with a little olive oil and shape into very small balls."
+      },
+      {
+        "tr": "Yumuşak kalacak şekilde kısa süre ısıtın ve ılıtın.",
+        "en": "Warm briefly so they stay soft, then cool slightly."
+      }
+    ],
+    "imageUrl": ""
+  },
+  {
+    "id": "atistirmalik_017",
+    "title": {
+      "tr": "Fırında Kıymalı Patates Çubukları",
+      "en": "Baked Minced Meat Potato Sticks"
+    },
+    "description": {
+      "tr": "İyi pişmiş, yumuşak ve elde tutulabilen küçük çubuklar.",
+      "en": "Well-cooked, soft sticks for little hands."
+    },
+    "category": 9,
+    "ingredients": [
+      {
+        "amount": 80,
+        "unit": {
+          "tr": "gram",
+          "en": "g"
+        },
+        "baseName": {
+          "tr": "az yağlı dana kıyma",
+          "en": "lean ground beef"
+        },
+        "shoppingLabel": {
+          "tr": "az yağlı dana kıyma",
+          "en": "lean ground beef"
+        }
+      },
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "adet",
+          "en": "piece"
+        },
+        "baseName": {
+          "tr": "patates",
+          "en": "potato"
+        },
+        "shoppingLabel": {
+          "tr": "patates",
+          "en": "potato"
+        }
+      },
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "adet",
+          "en": "piece"
+        },
+        "baseName": {
+          "tr": "küçük soğan",
+          "en": "small onion"
+        },
+        "shoppingLabel": {
+          "tr": "küçük soğan",
+          "en": "small onion"
+        }
+      },
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "yemek kaşığı",
+          "en": "tbsp"
+        },
+        "baseName": {
+          "tr": "zeytinyağı",
+          "en": "olive oil"
+        },
+        "shoppingLabel": {
+          "tr": "zeytinyağı",
+          "en": "olive oil"
+        }
+      }
+    ],
+    "preparationTime": 30,
+    "calories": 110,
+    "suitableAgeInMonths": 12,
+    "allergicIngredients": [],
+    "instructions": [
+      {
+        "tr": "Kıymayı çok iyi pişirin.",
+        "en": "Cook the minced meat thoroughly."
+      },
+      {
+        "tr": "Pişmiş patates ve az soğanla karıştırın.",
+        "en": "Mix with cooked potato and a little onion."
+      },
+      {
+        "tr": "Minik çubuklar şekillendirip fırında yumuşatın.",
+        "en": "Shape into tiny sticks and bake until soft."
+      },
+      {
+        "tr": "Ilıyınca servis edin.",
+        "en": "Serve once warm."
+      }
+    ],
+    "imageUrl": ""
+  },
+  {
+    "id": "atistirmalik_018",
+    "title": {
+      "tr": "Şeftalili Sütlü Muhallebi",
+      "en": "Peach Milk Pudding"
+    },
+    "description": {
+      "tr": "Yumuşak, kaşıklık ve hafif bir sütlü ara öğün.",
+      "en": "A gentle spoonable milk pudding."
+    },
+    "category": 9,
+    "ingredients": [
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "adet",
+          "en": "piece"
+        },
+        "baseName": {
+          "tr": "şeftali",
+          "en": "peach"
+        },
+        "shoppingLabel": {
+          "tr": "şeftali",
+          "en": "peach"
+        }
+      },
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "yemek kaşığı",
+          "en": "tbsp"
+        },
+        "baseName": {
+          "tr": "pirinç unu",
+          "en": "rice flour"
+        },
+        "shoppingLabel": {
+          "tr": "pirinç unu",
+          "en": "rice flour"
+        }
+      },
+      {
+        "amount": 150,
+        "unit": {
+          "tr": "mililitre",
+          "en": "ml"
+        },
+        "baseName": {
+          "tr": "pastörize tam yağlı süt",
+          "en": "pasteurized whole milk"
+        },
+        "shoppingLabel": {
+          "tr": "pastörize tam yağlı süt",
+          "en": "pasteurized whole milk"
+        }
+      }
+    ],
+    "preparationTime": 15,
+    "calories": 85,
+    "suitableAgeInMonths": 8,
+    "allergicIngredients": [
+      {
+        "tr": "süt",
+        "en": "milk"
+      }
+    ],
+    "instructions": [
+      {
+        "tr": "Şeftaliyi soyup püre haline getirin.",
+        "en": "Peel the peach and puree it."
+      },
+      {
+        "tr": "Süt ve pirinç unu ile kısık ateşte koyulaştırın.",
+        "en": "Thicken with milk and rice flour over low heat."
+      },
+      {
+        "tr": "Şeftali püresini ekleyip kısa süre karıştırın.",
+        "en": "Add the peach puree and stir briefly."
+      },
+      {
+        "tr": "Ilıtıp servis edin.",
+        "en": "Cool slightly and serve."
+      }
+    ],
+    "imageUrl": ""
+  },
+  {
+    "id": "atistirmalik_019",
+    "title": {
+      "tr": "Avokadolu Yoğurt Ezmesi",
+      "en": "Avocado Yogurt Mash"
+    },
+    "description": {
+      "tr": "Kremamsı, sade ve kaşıkla sunulan serin bir ara öğün.",
+      "en": "A creamy, simple snack served by spoon."
+    },
+    "category": 9,
+    "ingredients": [
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "adet",
+          "en": "piece"
+        },
+        "baseName": {
+          "tr": "olgun avokado",
+          "en": "ripe avocado"
+        },
+        "shoppingLabel": {
+          "tr": "olgun avokado",
+          "en": "ripe avocado"
+        }
+      },
+      {
+        "amount": 3,
+        "unit": {
+          "tr": "yemek kaşığı",
+          "en": "tbsp"
+        },
+        "baseName": {
+          "tr": "pastörize yoğurt",
+          "en": "pasteurized yogurt"
+        },
+        "shoppingLabel": {
+          "tr": "pastörize yoğurt",
+          "en": "pasteurized yogurt"
+        }
+      },
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "tatlı kaşığı",
+          "en": "tsp"
+        },
+        "baseName": {
+          "tr": "zeytinyağı",
+          "en": "olive oil"
+        },
+        "shoppingLabel": {
+          "tr": "zeytinyağı",
+          "en": "olive oil"
+        }
+      }
+    ],
+    "preparationTime": 10,
+    "calories": 95,
+    "suitableAgeInMonths": 6,
+    "allergicIngredients": [
+      {
+        "tr": "süt",
+        "en": "milk"
+      }
+    ],
+    "instructions": [
+      {
+        "tr": "Avokadoyu ezip yoğurtla karıştırın.",
+        "en": "Mash the avocado and mix with yogurt."
+      },
+      {
+        "tr": "İsterseniz az zeytinyağı ekleyin.",
+        "en": "Add a little olive oil if desired."
+      },
+      {
+        "tr": "Pürüzsüz kıvamda hemen servis edin.",
+        "en": "Serve right away with a smooth texture."
+      }
+    ],
+    "imageUrl": ""
+  },
+  {
+    "id": "atistirmalik_020",
+    "title": {
+      "tr": "Fırında Tatlı Patates ve Kırmızı Mercimek Köftesi",
+      "en": "Baked Sweet Potato and Red Lentil Patties"
+    },
+    "description": {
+      "tr": "Yumuşak, minik ve elde dağılan bir atıştırmalık.",
+      "en": "Soft, tiny patties that easily break apart."
+    },
+    "category": 9,
+    "ingredients": [
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "adet",
+          "en": "piece"
+        },
+        "baseName": {
+          "tr": "tatlı patates",
+          "en": "sweet potato"
+        },
+        "shoppingLabel": {
+          "tr": "tatlı patates",
+          "en": "sweet potato"
+        }
+      },
+      {
+        "amount": 3,
+        "unit": {
+          "tr": "yemek kaşığı",
+          "en": "tbsp"
+        },
+        "baseName": {
+          "tr": "haşlanmış kırmızı mercimek",
+          "en": "cooked red lentils"
+        },
+        "shoppingLabel": {
+          "tr": "kırmızı mercimek",
+          "en": "red lentils"
+        }
+      },
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "yemek kaşığı",
+          "en": "tbsp"
+        },
+        "baseName": {
+          "tr": "ince çekilmiş yulaf unu",
+          "en": "finely ground oat flour"
+        },
+        "shoppingLabel": {
+          "tr": "ince çekilmiş yulaf unu",
+          "en": "finely ground oat flour"
+        }
+      },
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "tatlı kaşığı",
+          "en": "tsp"
+        },
+        "baseName": {
+          "tr": "zeytinyağı",
+          "en": "olive oil"
+        },
+        "shoppingLabel": {
+          "tr": "zeytinyağı",
+          "en": "olive oil"
+        }
+      }
+    ],
+    "preparationTime": 28,
+    "calories": 100,
+    "suitableAgeInMonths": 10,
+    "allergicIngredients": [
+      {
+        "tr": "yulaf",
+        "en": "oats"
+      },
+      {
+        "tr": "baklagil",
+        "en": "legume"
+      }
+    ],
+    "instructions": [
+      {
+        "tr": "Tatlı patatesi haşlayıp ezin.",
+        "en": "Boil and mash the sweet potato."
+      },
+      {
+        "tr": "Mercimek, yulaf unu ve zeytinyağıyla karıştırın.",
+        "en": "Mix with lentils, oat flour, and olive oil."
+      },
+      {
+        "tr": "Minik köfteler yapıp fırında pişirin.",
+        "en": "Shape into tiny patties and bake."
+      },
+      {
+        "tr": "Yumuşak kalınca ılıtıp servis edin.",
+        "en": "Serve warm while still soft."
+      }
+    ],
+    "imageUrl": ""
   }
 ]

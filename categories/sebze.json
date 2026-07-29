@@ -458,5 +458,923 @@
       }
     ],
     "imageUrl": "https://firebasestorage.googleapis.com/v0/b/bebeks-44765.firebasestorage.app/o/sebze%2Fsebze_010_1785097509461_1200x675.webp?alt=media&token=a0d5a6e5-9abd-4aea-ab50-99ae758cc17d"
+  },
+  {
+    "id": "sebze_011",
+    "title": {
+      "tr": "Ispanaklı Pirinç Lapası",
+      "en": "Spinach Rice Porridge"
+    },
+    "description": {
+      "tr": "Yumuşacık ıspanak ve pirinçle hazırlanan, ilk kaşıklara uygun sıcak bir öğün.",
+      "en": "A soft, warm meal made with spinach and rice for early spoon-feeding."
+    },
+    "category": 2,
+    "ingredients": [
+      {
+        "amount": 20,
+        "unit": {
+          "tr": "g",
+          "en": "g"
+        },
+        "baseName": {
+          "tr": "ıspanak",
+          "en": "spinach"
+        },
+        "shoppingLabel": {
+          "tr": "ayıklanmış ıspanak",
+          "en": "cleaned spinach"
+        }
+      },
+      {
+        "amount": 2,
+        "unit": {
+          "tr": "yemek kaşığı",
+          "en": "tbsp"
+        },
+        "baseName": {
+          "tr": "pirinç",
+          "en": "rice"
+        },
+        "shoppingLabel": {
+          "tr": "pirinç",
+          "en": "rice"
+        }
+      },
+      {
+        "amount": 120,
+        "unit": {
+          "tr": "ml",
+          "en": "ml"
+        },
+        "baseName": {
+          "tr": "su",
+          "en": "water"
+        },
+        "shoppingLabel": {
+          "tr": "içme suyu",
+          "en": "drinking water"
+        }
+      },
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "tatlı kaşığı",
+          "en": "tsp"
+        },
+        "baseName": {
+          "tr": "zeytinyağı",
+          "en": "olive oil"
+        },
+        "shoppingLabel": {
+          "tr": "sızma zeytinyağı",
+          "en": "extra virgin olive oil"
+        }
+      }
+    ],
+    "preparationTime": 20,
+    "calories": 85,
+    "suitableAgeInMonths": 8,
+    "allergicIngredients": [],
+    "instructions": [
+      {
+        "tr": "Pirinci suyla iyice yumuşayana kadar pişir.",
+        "en": "Cook the rice with water until very soft."
+      },
+      {
+        "tr": "Ispanağı ekleyip birkaç dakika daha pişir.",
+        "en": "Add the spinach and cook for a few more minutes."
+      },
+      {
+        "tr": "Pütürsüz olacak şekilde ez veya blenderdan geçir, zeytinyağı ekle.",
+        "en": "Mash or blend smooth, then add olive oil."
+      }
+    ],
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/bebeks-44765.firebasestorage.app/o/sebze%2Fsebze_011_1785236902871_1200x675.webp?alt=media&token=89e0fc47-0f89-448e-9698-9663fe656a33"
+  },
+  {
+    "id": "sebze_012",
+    "title": {
+      "tr": "Karnabaharlı Pırasa Yemeği",
+      "en": "Cauliflower and Leek Bowl"
+    },
+    "description": {
+      "tr": "Yumuşacık karnabahar ve pırasayla, minik lokmalara uygun bir sebze yemeği.",
+      "en": "A soft vegetable bowl with cauliflower and leek, suited to tiny bites."
+    },
+    "category": 2,
+    "ingredients": [
+      {
+        "amount": 80,
+        "unit": {
+          "tr": "g",
+          "en": "g"
+        },
+        "baseName": {
+          "tr": "karnabahar",
+          "en": "cauliflower"
+        },
+        "shoppingLabel": {
+          "tr": "karnabahar",
+          "en": "cauliflower"
+        }
+      },
+      {
+        "amount": 40,
+        "unit": {
+          "tr": "g",
+          "en": "g"
+        },
+        "baseName": {
+          "tr": "pırasa",
+          "en": "leek"
+        },
+        "shoppingLabel": {
+          "tr": "pırasa",
+          "en": "leek"
+        }
+      },
+      {
+        "amount": 100,
+        "unit": {
+          "tr": "ml",
+          "en": "ml"
+        },
+        "baseName": {
+          "tr": "su",
+          "en": "water"
+        },
+        "shoppingLabel": {
+          "tr": "içme suyu",
+          "en": "drinking water"
+        }
+      },
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "tatlı kaşığı",
+          "en": "tsp"
+        },
+        "baseName": {
+          "tr": "zeytinyağı",
+          "en": "olive oil"
+        },
+        "shoppingLabel": {
+          "tr": "sızma zeytinyağı",
+          "en": "extra virgin olive oil"
+        }
+      }
+    ],
+    "preparationTime": 25,
+    "calories": 70,
+    "suitableAgeInMonths": 16,
+    "allergicIngredients": [],
+    "instructions": [
+      {
+        "tr": "Sebzeleri çok yumuşayana kadar buharda ya da az suda pişir.",
+        "en": "Steam or cook the vegetables in little water until very soft."
+      },
+      {
+        "tr": "Çatalla hafifçe ez; tamamen püre yapma, minik yumuşak parçalar bırak.",
+        "en": "Lightly mash; do not puree completely, leave tiny soft pieces."
+      },
+      {
+        "tr": "Zeytinyağı ile karıştırıp ılık servis et.",
+        "en": "Mix with olive oil and serve warm."
+      }
+    ],
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/bebeks-44765.firebasestorage.app/o/sebze%2Fsebze_012_1785236926626_1200x675.webp?alt=media&token=f9b0c9ff-1ed6-4b1b-a8fd-1123f8afd2e9"
+  },
+  {
+    "id": "sebze_013",
+    "title": {
+      "tr": "Mercimekli Ispanak Ezmesi",
+      "en": "Lentil Spinach Mash"
+    },
+    "description": {
+      "tr": "Yumuşak mercimek ve ıspanakla hazırlanan, kaşıkla kolay yenilen doyurucu bir öğün.",
+      "en": "A filling spoonable meal made with soft lentils and spinach."
+    },
+    "category": 2,
+    "ingredients": [
+      {
+        "amount": 3,
+        "unit": {
+          "tr": "yemek kaşığı",
+          "en": "tbsp"
+        },
+        "baseName": {
+          "tr": "kırmızı mercimek",
+          "en": "red lentils"
+        },
+        "shoppingLabel": {
+          "tr": "kırmızı mercimek",
+          "en": "red lentils"
+        }
+      },
+      {
+        "amount": 15,
+        "unit": {
+          "tr": "g",
+          "en": "g"
+        },
+        "baseName": {
+          "tr": "ıspanak",
+          "en": "spinach"
+        },
+        "shoppingLabel": {
+          "tr": "ayıklanmış ıspanak",
+          "en": "cleaned spinach"
+        }
+      },
+      {
+        "amount": 150,
+        "unit": {
+          "tr": "ml",
+          "en": "ml"
+        },
+        "baseName": {
+          "tr": "su",
+          "en": "water"
+        },
+        "shoppingLabel": {
+          "tr": "içme suyu",
+          "en": "drinking water"
+        }
+      },
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "tatlı kaşığı",
+          "en": "tsp"
+        },
+        "baseName": {
+          "tr": "zeytinyağı",
+          "en": "olive oil"
+        },
+        "shoppingLabel": {
+          "tr": "sızma zeytinyağı",
+          "en": "extra virgin olive oil"
+        }
+      }
+    ],
+    "preparationTime": 22,
+    "calories": 110,
+    "suitableAgeInMonths": 11,
+    "allergicIngredients": [],
+    "instructions": [
+      {
+        "tr": "Mercimeği iyice yumuşayana kadar pişir.",
+        "en": "Cook the lentils until very soft."
+      },
+      {
+        "tr": "Ispanağı ekleyip kısa süre daha pişir.",
+        "en": "Add the spinach and cook briefly."
+      },
+      {
+        "tr": "Çatalla ezerek pürüzsüz ama hafif kıvamlı hale getir.",
+        "en": "Mash until smooth but still lightly textured."
+      }
+    ],
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/bebeks-44765.firebasestorage.app/o/sebze%2Fsebze_013_1785236949030_1200x675.webp?alt=media&token=1b41270f-317c-4802-8b92-dd6f736f5538"
+  },
+  {
+    "id": "sebze_014",
+    "title": {
+      "tr": "Fırında Pancar Ezmesi",
+      "en": "Baked Beet Mash"
+    },
+    "description": {
+      "tr": "Fırında yumuşayan pancarın tatlımsı lezzetiyle hazırlanan sade bir ezme.",
+      "en": "A simple mash with the naturally sweet taste of oven-softened beetroot."
+    },
+    "category": 2,
+    "ingredients": [
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "adet",
+          "en": "piece"
+        },
+        "baseName": {
+          "tr": "pancar",
+          "en": "beetroot"
+        },
+        "shoppingLabel": {
+          "tr": "orta boy pancar",
+          "en": "medium beetroot"
+        }
+      },
+      {
+        "amount": 2,
+        "unit": {
+          "tr": "tatlı kaşığı",
+          "en": "tsp"
+        },
+        "baseName": {
+          "tr": "zeytinyağı",
+          "en": "olive oil"
+        },
+        "shoppingLabel": {
+          "tr": "sızma zeytinyağı",
+          "en": "extra virgin olive oil"
+        }
+      },
+      {
+        "amount": 2,
+        "unit": {
+          "tr": "yemek kaşığı",
+          "en": "tbsp"
+        },
+        "baseName": {
+          "tr": "su",
+          "en": "water"
+        },
+        "shoppingLabel": {
+          "tr": "içme suyu",
+          "en": "drinking water"
+        }
+      }
+    ],
+    "preparationTime": 30,
+    "calories": 60,
+    "suitableAgeInMonths": 9,
+    "allergicIngredients": [],
+    "instructions": [
+      {
+        "tr": "Pancarı folyo içinde çok yumuşayana kadar fırınla.",
+        "en": "Bake the beetroot in foil until very soft."
+      },
+      {
+        "tr": "Kabuklarını soyup küçük parçalar halinde ez.",
+        "en": "Peel and mash into a smooth puree."
+      },
+      {
+        "tr": "İstersen az suyla kıvamını aç, zeytinyağı ekle.",
+        "en": "Thin with a little water if needed, then add olive oil."
+      }
+    ],
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/bebeks-44765.firebasestorage.app/o/sebze%2Fsebze_014_1785236971314_1200x675.webp?alt=media&token=43526865-2c99-4433-8a03-3eae58dbc273"
+  },
+  {
+    "id": "sebze_015",
+    "title": {
+      "tr": "Kıymalı Patlıcan Güveç",
+      "en": "Eggplant Stew with Minced Meat"
+    },
+    "description": {
+      "tr": "İnce doğranmış ve iyice pişmiş patlıcanla hazırlanan, yumuşak lokmalı bir güveç.",
+      "en": "A soft-bite stew with finely cut, well-cooked eggplant."
+    },
+    "category": 2,
+    "ingredients": [
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "adet",
+          "en": "piece"
+        },
+        "baseName": {
+          "tr": "patlıcan",
+          "en": "eggplant"
+        },
+        "shoppingLabel": {
+          "tr": "küçük patlıcan",
+          "en": "small eggplant"
+        }
+      },
+      {
+        "amount": 40,
+        "unit": {
+          "tr": "g",
+          "en": "g"
+        },
+        "baseName": {
+          "tr": "yağsız dana kıyma",
+          "en": "lean ground beef"
+        },
+        "shoppingLabel": {
+          "tr": "yağsız dana kıyma",
+          "en": "lean ground beef"
+        }
+      },
+      {
+        "amount": 60,
+        "unit": {
+          "tr": "ml",
+          "en": "ml"
+        },
+        "baseName": {
+          "tr": "su",
+          "en": "water"
+        },
+        "shoppingLabel": {
+          "tr": "içme suyu",
+          "en": "drinking water"
+        }
+      },
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "tatlı kaşığı",
+          "en": "tsp"
+        },
+        "baseName": {
+          "tr": "zeytinyağı",
+          "en": "olive oil"
+        },
+        "shoppingLabel": {
+          "tr": "sızma zeytinyağı",
+          "en": "extra virgin olive oil"
+        }
+      }
+    ],
+    "preparationTime": 35,
+    "calories": 120,
+    "suitableAgeInMonths": 14,
+    "allergicIngredients": [],
+    "instructions": [
+      {
+        "tr": "Kıymayı tamamen pişir.",
+        "en": "Cook the meat through completely."
+      },
+      {
+        "tr": "Patlıcanı küçük küp doğra ve çok yumuşayana kadar pişir.",
+        "en": "Dice the eggplant small and cook until very soft."
+      },
+      {
+        "tr": "Birlikte kısa süre kaynatıp minik yumuşak parçalar halinde servis et.",
+        "en": "Simmer together briefly and serve in tiny soft pieces."
+      }
+    ],
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/bebeks-44765.firebasestorage.app/o/sebze%2Fsebze_015_1785236992033_1200x675.webp?alt=media&token=cf913052-8b6e-4ae5-9e6f-1a94931ce906"
+  },
+  {
+    "id": "sebze_016",
+    "title": {
+      "tr": "Ispanaklı Yulaf Köftesi",
+      "en": "Spinach Oat Bites"
+    },
+    "description": {
+      "tr": "Fırında pişen, elde kolay tutulan yumuşak sebze köfteleri.",
+      "en": "Soft baked vegetable bites that are easy to hold."
+    },
+    "category": 2,
+    "ingredients": [
+      {
+        "amount": 30,
+        "unit": {
+          "tr": "g",
+          "en": "g"
+        },
+        "baseName": {
+          "tr": "ıspanak",
+          "en": "spinach"
+        },
+        "shoppingLabel": {
+          "tr": "ayıklanmış ıspanak",
+          "en": "cleaned spinach"
+        }
+      },
+      {
+        "amount": 3,
+        "unit": {
+          "tr": "yemek kaşığı",
+          "en": "tbsp"
+        },
+        "baseName": {
+          "tr": "yulaf unu",
+          "en": "oat flour"
+        },
+        "shoppingLabel": {
+          "tr": "yulaf unu",
+          "en": "oat flour"
+        }
+      },
+      {
+        "amount": 30,
+        "unit": {
+          "tr": "g",
+          "en": "g"
+        },
+        "baseName": {
+          "tr": "kabak çekirdeği içi tozu",
+          "en": "ground pumpkin seeds"
+        },
+        "shoppingLabel": {
+          "tr": "öğütülmüş kabak çekirdeği",
+          "en": "ground pumpkin seeds"
+        }
+      },
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "tatlı kaşığı",
+          "en": "tsp"
+        },
+        "baseName": {
+          "tr": "zeytinyağı",
+          "en": "olive oil"
+        },
+        "shoppingLabel": {
+          "tr": "sızma zeytinyağı",
+          "en": "extra virgin olive oil"
+        }
+      }
+    ],
+    "preparationTime": 25,
+    "calories": 95,
+    "suitableAgeInMonths": 13,
+    "allergicIngredients": [
+      {
+        "tr": "gluten",
+        "en": "gluten"
+      },
+      {
+        "tr": "çekirdek",
+        "en": "seeds"
+      }
+    ],
+    "instructions": [
+      {
+        "tr": "Ispanağı yumuşatıp ince doğra.",
+        "en": "Soften the spinach and chop finely."
+      },
+      {
+        "tr": "Yulaf unu ve çekirdek tozuyla karıştır, küçük yuvarlaklar yap.",
+        "en": "Mix with oat flour and ground seeds, then shape small rounds."
+      },
+      {
+        "tr": "Fırında iyice pişir, dışı hafif içi yumuşak kalsın.",
+        "en": "Bake until fully done, keeping the inside soft."
+      }
+    ],
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/bebeks-44765.firebasestorage.app/o/sebze%2Fsebze_016_1785237014471_1200x675.webp?alt=media&token=dad24efb-a49a-4626-bbc7-2a63c043e847"
+  },
+  {
+    "id": "sebze_017",
+    "title": {
+      "tr": "Domatesli Taze Fasulye Ezmesi",
+      "en": "Tomato Green Bean Mash"
+    },
+    "description": {
+      "tr": "İpeksi dokuda, iyi pişmiş taze fasulyeyle hazırlanan hafif bir öğün.",
+      "en": "A light meal with well-cooked green beans and a silky texture."
+    },
+    "category": 2,
+    "ingredients": [
+      {
+        "amount": 80,
+        "unit": {
+          "tr": "g",
+          "en": "g"
+        },
+        "baseName": {
+          "tr": "taze fasulye",
+          "en": "green beans"
+        },
+        "shoppingLabel": {
+          "tr": "ayıklanmış taze fasulye",
+          "en": "trimmed green beans"
+        }
+      },
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "adet",
+          "en": "piece"
+        },
+        "baseName": {
+          "tr": "domates",
+          "en": "tomato"
+        },
+        "shoppingLabel": {
+          "tr": "olgun domates",
+          "en": "ripe tomato"
+        }
+      },
+      {
+        "amount": 80,
+        "unit": {
+          "tr": "ml",
+          "en": "ml"
+        },
+        "baseName": {
+          "tr": "su",
+          "en": "water"
+        },
+        "shoppingLabel": {
+          "tr": "içme suyu",
+          "en": "drinking water"
+        }
+      },
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "tatlı kaşığı",
+          "en": "tsp"
+        },
+        "baseName": {
+          "tr": "zeytinyağı",
+          "en": "olive oil"
+        },
+        "shoppingLabel": {
+          "tr": "sızma zeytinyağı",
+          "en": "extra virgin olive oil"
+        }
+      }
+    ],
+    "preparationTime": 25,
+    "calories": 75,
+    "suitableAgeInMonths": 10,
+    "allergicIngredients": [],
+    "instructions": [
+      {
+        "tr": "Fasulyeyi çok yumuşayana kadar pişir.",
+        "en": "Cook the green beans until very soft."
+      },
+      {
+        "tr": "Kabuksuz domatesi ekleyip birlikte yumuşat.",
+        "en": "Add peeled tomato and soften together."
+      },
+      {
+        "tr": "Ezerek pürüzsüzleştir, zeytinyağı ile bitir.",
+        "en": "Mash smooth and finish with olive oil."
+      }
+    ],
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/bebeks-44765.firebasestorage.app/o/sebze%2Fsebze_017_1785237036927_1200x675.webp?alt=media&token=67e71fad-6b52-4f7d-806b-98f6582b4666"
+  },
+  {
+    "id": "sebze_018",
+    "title": {
+      "tr": "Karnabahar Mücveri",
+      "en": "Cauliflower Patties"
+    },
+    "description": {
+      "tr": "Yumuşak içli, minik elde tutulabilen fırın mücverleri.",
+      "en": "Soft-centered baked patties that are easy to hold."
+    },
+    "category": 2,
+    "ingredients": [
+      {
+        "amount": 100,
+        "unit": {
+          "tr": "g",
+          "en": "g"
+        },
+        "baseName": {
+          "tr": "karnabahar",
+          "en": "cauliflower"
+        },
+        "shoppingLabel": {
+          "tr": "karnabahar",
+          "en": "cauliflower"
+        }
+      },
+      {
+        "amount": 2,
+        "unit": {
+          "tr": "yemek kaşığı",
+          "en": "tbsp"
+        },
+        "baseName": {
+          "tr": "yoğurt",
+          "en": "yogurt"
+        },
+        "shoppingLabel": {
+          "tr": "pastörize yoğurt",
+          "en": "pasteurized yogurt"
+        }
+      },
+      {
+        "amount": 2,
+        "unit": {
+          "tr": "yemek kaşığı",
+          "en": "tbsp"
+        },
+        "baseName": {
+          "tr": "un",
+          "en": "flour"
+        },
+        "shoppingLabel": {
+          "tr": "buğday unu",
+          "en": "wheat flour"
+        }
+      },
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "tatlı kaşığı",
+          "en": "tsp"
+        },
+        "baseName": {
+          "tr": "zeytinyağı",
+          "en": "olive oil"
+        },
+        "shoppingLabel": {
+          "tr": "sızma zeytinyağı",
+          "en": "extra virgin olive oil"
+        }
+      }
+    ],
+    "preparationTime": 30,
+    "calories": 105,
+    "suitableAgeInMonths": 17,
+    "allergicIngredients": [
+      {
+        "tr": "süt",
+        "en": "milk"
+      },
+      {
+        "tr": "gluten",
+        "en": "gluten"
+      }
+    ],
+    "instructions": [
+      {
+        "tr": "Karnabaharı çok yumuşayana kadar haşla ve ezin.",
+        "en": "Boil the cauliflower until very soft and mash it."
+      },
+      {
+        "tr": "Yoğurt ve unla karıştırıp küçük parçalar yap.",
+        "en": "Mix with yogurt and flour, then shape small pieces."
+      },
+      {
+        "tr": "Fırında tamamen pişir ve ılık servis et.",
+        "en": "Bake fully and serve warm."
+      }
+    ],
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/bebeks-44765.firebasestorage.app/o/sebze%2Fsebze_018_1785237070077_1200x675.webp?alt=media&token=a672a63b-0603-410c-8093-13a5dd8e07b9"
+  },
+  {
+    "id": "sebze_019",
+    "title": {
+      "tr": "Börülceli Sebze Tenceresi",
+      "en": "Cowpea Vegetable Pot"
+    },
+    "description": {
+      "tr": "Yumuşacık börülce ve sebzelerle yapılan sade bir tencere yemeği.",
+      "en": "A simple pot dish with soft cowpeas and vegetables."
+    },
+    "category": 2,
+    "ingredients": [
+      {
+        "amount": 60,
+        "unit": {
+          "tr": "g",
+          "en": "g"
+        },
+        "baseName": {
+          "tr": "börülce",
+          "en": "cowpeas"
+        },
+        "shoppingLabel": {
+          "tr": "ayıklanmış börülce",
+          "en": "trimmed cowpeas"
+        }
+      },
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "adet",
+          "en": "piece"
+        },
+        "baseName": {
+          "tr": "soğan",
+          "en": "onion"
+        },
+        "shoppingLabel": {
+          "tr": "küçük soğan",
+          "en": "small onion"
+        }
+      },
+      {
+        "amount": 120,
+        "unit": {
+          "tr": "ml",
+          "en": "ml"
+        },
+        "baseName": {
+          "tr": "su",
+          "en": "water"
+        },
+        "shoppingLabel": {
+          "tr": "içme suyu",
+          "en": "drinking water"
+        }
+      },
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "tatlı kaşığı",
+          "en": "tsp"
+        },
+        "baseName": {
+          "tr": "zeytinyağı",
+          "en": "olive oil"
+        },
+        "shoppingLabel": {
+          "tr": "sızma zeytinyağı",
+          "en": "extra virgin olive oil"
+        }
+      }
+    ],
+    "preparationTime": 35,
+    "calories": 90,
+    "suitableAgeInMonths": 15,
+    "allergicIngredients": [],
+    "instructions": [
+      {
+        "tr": "Börülceyi ve soğanı çok yumuşayana kadar pişir.",
+        "en": "Cook the cowpeas and onion until very soft."
+      },
+      {
+        "tr": "Gerekiyorsa biraz su ekleyerek sulu ama küçük taneli bırak.",
+        "en": "Add a little water if needed; keep it moist with tiny soft bits."
+      },
+      {
+        "tr": "Zeytinyağıyla tamamla.",
+        "en": "Finish with olive oil."
+      }
+    ],
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/bebeks-44765.firebasestorage.app/o/sebze%2Fsebze_019_1785237114605_1200x675.webp?alt=media&token=a6835f66-a06b-4cbb-b995-4b9962b089ac"
+  },
+  {
+    "id": "sebze_020",
+    "title": {
+      "tr": "Buharda Enginar Ezmesi",
+      "en": "Steamed Artichoke Mash"
+    },
+    "description": {
+      "tr": "Enginarın yumuşak kalbiyle hazırlanan hafif ve pürüzsüz bir ezme.",
+      "en": "A light, smooth mash made with the tender heart of artichoke."
+    },
+    "category": 2,
+    "ingredients": [
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "adet",
+          "en": "piece"
+        },
+        "baseName": {
+          "tr": "enginar",
+          "en": "artichoke"
+        },
+        "shoppingLabel": {
+          "tr": "enginar kalbi",
+          "en": "artichoke heart"
+        }
+      },
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "tatlı kaşığı",
+          "en": "tsp"
+        },
+        "baseName": {
+          "tr": "zeytinyağı",
+          "en": "olive oil"
+        },
+        "shoppingLabel": {
+          "tr": "sızma zeytinyağı",
+          "en": "extra virgin olive oil"
+        }
+      },
+      {
+        "amount": 50,
+        "unit": {
+          "tr": "ml",
+          "en": "ml"
+        },
+        "baseName": {
+          "tr": "su",
+          "en": "water"
+        },
+        "shoppingLabel": {
+          "tr": "içme suyu",
+          "en": "drinking water"
+        }
+      }
+    ],
+    "preparationTime": 20,
+    "calories": 55,
+    "suitableAgeInMonths": 12,
+    "allergicIngredients": [],
+    "instructions": [
+      {
+        "tr": "Enginar kalbini buharda veya az suda çok yumuşayana kadar pişir.",
+        "en": "Steam or cook the artichoke heart in little water until very soft."
+      },
+      {
+        "tr": "İnce ezip pürüzsüz hale getir.",
+        "en": "Mash finely until smooth."
+      },
+      {
+        "tr": "Zeytinyağı ekleyip ılık servis et.",
+        "en": "Add olive oil and serve warm."
+      }
+    ],
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/bebeks-44765.firebasestorage.app/o/sebze%2Fsebze_020_1785237133587_1200x675.webp?alt=media&token=175f32ab-510a-4343-b2f7-8934b1e6b9f8"
   }
 ]
