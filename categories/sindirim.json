@@ -510,5 +510,842 @@
       }
     ],
     "imageUrl": "https://firebasestorage.googleapis.com/v0/b/bebeks-44765.firebasestorage.app/o/sindirim%2Fsindirim_010_1785236579753_1200x675.webp?alt=media&token=2605faef-d949-4841-ac45-af3edc3fb1ab"
+  },
+  {
+    "id": "sindirim_011",
+    "title": {
+      "tr": "Kabaklı İrmik Çorbası",
+      "en": "Zucchini Semolina Soup"
+    },
+    "description": {
+      "tr": "Yumuşak dokulu, hafif ve sıcak bir çorba.",
+      "en": "A soft, light, and warm soup."
+    },
+    "category": 15,
+    "ingredients": [
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "adet",
+          "en": "piece"
+        },
+        "baseName": {
+          "tr": "küçük kabak",
+          "en": "small zucchini"
+        },
+        "shoppingLabel": {
+          "tr": "küçük kabak",
+          "en": "small zucchini"
+        }
+      },
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "yemek kaşığı",
+          "en": "tbsp"
+        },
+        "baseName": {
+          "tr": "ince irmik",
+          "en": "fine semolina"
+        },
+        "shoppingLabel": {
+          "tr": "ince irmik",
+          "en": "fine semolina"
+        }
+      },
+      {
+        "amount": 1.5,
+        "unit": {
+          "tr": "su bardağı",
+          "en": "cups"
+        },
+        "baseName": {
+          "tr": "su",
+          "en": "water"
+        },
+        "shoppingLabel": {
+          "tr": "su",
+          "en": "water"
+        }
+      },
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "çay kaşığı",
+          "en": "tsp"
+        },
+        "baseName": {
+          "tr": "zeytinyağı",
+          "en": "olive oil"
+        },
+        "shoppingLabel": {
+          "tr": "zeytinyağı",
+          "en": "olive oil"
+        }
+      }
+    ],
+    "preparationTime": 20,
+    "calories": 90,
+    "suitableAgeInMonths": 10,
+    "allergicIngredients": [
+      {
+        "tr": "gluten",
+        "en": "gluten"
+      }
+    ],
+    "instructions": [
+      {
+        "tr": "Kabağı soyup rendeleyin ve suyla yumuşayana kadar pişirin.",
+        "en": "Peel and grate the zucchini, then cook with water until soft."
+      },
+      {
+        "tr": "İnce irmiği ekleyip 3-4 dakika daha karıştırarak pişirin.",
+        "en": "Add the semolina and cook for 3-4 more minutes, stirring."
+      },
+      {
+        "tr": "Ilıyınca zeytinyağını ekleyip pürüzsüz ya da çok küçük parçalı servis edin.",
+        "en": "Let it cool, then add olive oil and serve smooth or with very tiny pieces."
+      }
+    ],
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/bebeks-44765.firebasestorage.app/o/sindirim%2Fsindirim_011_1785318459150_1200x675.webp?alt=media&token=100bb1d4-2c22-45e7-b606-75e14a690f63"
+  },
+  {
+    "id": "sindirim_012",
+    "title": {
+      "tr": "Kıymalı Kabak Yemeği",
+      "en": "Ground Meat and Zucchini Stew"
+    },
+    "description": {
+      "tr": "Yumuşak sebze ve iyi pişmiş kıymayla hazırlanır.",
+      "en": "Made with soft vegetables and fully cooked ground meat."
+    },
+    "category": 15,
+    "ingredients": [
+      {
+        "amount": 40,
+        "unit": {
+          "tr": "gram",
+          "en": "g"
+        },
+        "baseName": {
+          "tr": "az yağlı dana kıyma",
+          "en": "lean ground beef"
+        },
+        "shoppingLabel": {
+          "tr": "az yağlı dana kıyma",
+          "en": "lean ground beef"
+        }
+      },
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "adet",
+          "en": "piece"
+        },
+        "baseName": {
+          "tr": "küçük kabak",
+          "en": "small zucchini"
+        },
+        "shoppingLabel": {
+          "tr": "küçük kabak",
+          "en": "small zucchini"
+        }
+      },
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "adet",
+          "en": "piece"
+        },
+        "baseName": {
+          "tr": "küçük domates",
+          "en": "small tomato"
+        },
+        "shoppingLabel": {
+          "tr": "küçük domates",
+          "en": "small tomato"
+        }
+      },
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "çay kaşığı",
+          "en": "tsp"
+        },
+        "baseName": {
+          "tr": "zeytinyağı",
+          "en": "olive oil"
+        },
+        "shoppingLabel": {
+          "tr": "zeytinyağı",
+          "en": "olive oil"
+        }
+      }
+    ],
+    "preparationTime": 30,
+    "calories": 130,
+    "suitableAgeInMonths": 15,
+    "allergicIngredients": [
+      {
+        "tr": "yok",
+        "en": "none"
+      }
+    ],
+    "instructions": [
+      {
+        "tr": "Kıymayı su ekleyerek tamamen pişirin.",
+        "en": "Cook the ground meat fully with a little water."
+      },
+      {
+        "tr": "Kabağı ve domatesi çok küçük doğrayıp yumuşayana kadar ekleyin.",
+        "en": "Add the zucchini and tomato in very small pieces and cook until soft."
+      },
+      {
+        "tr": "Ilıyınca ezerek ya da minik parçalı servis edin.",
+        "en": "Cool slightly and serve mashed or with tiny pieces."
+      }
+    ],
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/bebeks-44765.firebasestorage.app/o/sindirim%2Fsindirim_012_1785318485432_1200x675.webp?alt=media&token=c61e0946-da3c-47d7-af12-b9efc5fd5b9d"
+  },
+  {
+    "id": "sindirim_013",
+    "title": {
+      "tr": "Balkabaklı Yoğurtlu Püre",
+      "en": "Pumpkin Yogurt Purée"
+    },
+    "description": {
+      "tr": "Tatlımsı sebze ve yoğurtla yumuşak bir karışım.",
+      "en": "A soft mix of sweet pumpkin and yogurt."
+    },
+    "category": 15,
+    "ingredients": [
+      {
+        "amount": 3,
+        "unit": {
+          "tr": "yemek kaşığı",
+          "en": "tbsp"
+        },
+        "baseName": {
+          "tr": "balkabağı püresi",
+          "en": "pumpkin purée"
+        },
+        "shoppingLabel": {
+          "tr": "balkabağı",
+          "en": "pumpkin"
+        }
+      },
+      {
+        "amount": 2,
+        "unit": {
+          "tr": "yemek kaşığı",
+          "en": "tbsp"
+        },
+        "baseName": {
+          "tr": "sade yoğurt",
+          "en": "plain yogurt"
+        },
+        "shoppingLabel": {
+          "tr": "sade yoğurt",
+          "en": "plain yogurt"
+        }
+      },
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "çay kaşığı",
+          "en": "tsp"
+        },
+        "baseName": {
+          "tr": "zeytinyağı",
+          "en": "olive oil"
+        },
+        "shoppingLabel": {
+          "tr": "zeytinyağı",
+          "en": "olive oil"
+        }
+      }
+    ],
+    "preparationTime": 15,
+    "calories": 85,
+    "suitableAgeInMonths": 12,
+    "allergicIngredients": [
+      {
+        "tr": "süt",
+        "en": "milk"
+      }
+    ],
+    "instructions": [
+      {
+        "tr": "Balkabağını buharda iyice yumuşatıp ezin.",
+        "en": "Steam the pumpkin until very soft, then mash it."
+      },
+      {
+        "tr": "Ilıdıktan sonra yoğurtla karıştırın.",
+        "en": "Mix with yogurt after it has cooled a bit."
+      },
+      {
+        "tr": "Zeytinyağı ekleyip pürüzsüz servis edin.",
+        "en": "Add olive oil and serve smooth."
+      }
+    ],
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/bebeks-44765.firebasestorage.app/o/sindirim%2Fsindirim_013_1785318505174_1200x675.webp?alt=media&token=10a1ce07-2288-4e2a-b170-41c6c02f4cd4"
+  },
+  {
+    "id": "sindirim_014",
+    "title": {
+      "tr": "Mercimekli Dereotlu Püre",
+      "en": "Lentil and Dill Purée"
+    },
+    "description": {
+      "tr": "Yumuşak bakliyat ve ferah ot dokunuşu.",
+      "en": "Soft legumes with a fresh herb touch."
+    },
+    "category": 15,
+    "ingredients": [
+      {
+        "amount": 3,
+        "unit": {
+          "tr": "yemek kaşığı",
+          "en": "tbsp"
+        },
+        "baseName": {
+          "tr": "kırmızı mercimek",
+          "en": "red lentils"
+        },
+        "shoppingLabel": {
+          "tr": "kırmızı mercimek",
+          "en": "red lentils"
+        }
+      },
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "yemek kaşığı",
+          "en": "tbsp"
+        },
+        "baseName": {
+          "tr": "ince doğranmış dereotu",
+          "en": "finely chopped dill"
+        },
+        "shoppingLabel": {
+          "tr": "dereotu",
+          "en": "dill"
+        }
+      },
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "çay kaşığı",
+          "en": "tsp"
+        },
+        "baseName": {
+          "tr": "zeytinyağı",
+          "en": "olive oil"
+        },
+        "shoppingLabel": {
+          "tr": "zeytinyağı",
+          "en": "olive oil"
+        }
+      },
+      {
+        "amount": 2,
+        "unit": {
+          "tr": "su bardağı",
+          "en": "cups"
+        },
+        "baseName": {
+          "tr": "su",
+          "en": "water"
+        },
+        "shoppingLabel": {
+          "tr": "su",
+          "en": "water"
+        }
+      }
+    ],
+    "preparationTime": 25,
+    "calories": 110,
+    "suitableAgeInMonths": 14,
+    "allergicIngredients": [
+      {
+        "tr": "yok",
+        "en": "none"
+      }
+    ],
+    "instructions": [
+      {
+        "tr": "Mercimeği iyice yıkayıp suyla tamamen yumuşayana kadar pişirin.",
+        "en": "Rinse the lentils well and cook with water until fully soft."
+      },
+      {
+        "tr": "Dereotunu ekleyip kısa süre daha pişirin.",
+        "en": "Add the dill and cook a little more."
+      },
+      {
+        "tr": "Ezerek püre yapın ve zeytinyağı ile servis edin.",
+        "en": "Mash into a purée and serve with olive oil."
+      }
+    ],
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/bebeks-44765.firebasestorage.app/o/sindirim%2Fsindirim_014_1785318523401_1200x675.webp?alt=media&token=5616272f-3267-461e-a749-98587c7fd03c"
+  },
+  {
+    "id": "sindirim_015",
+    "title": {
+      "tr": "Hindi Sebzeli Bulgur Pilavı",
+      "en": "Turkey and Vegetable Bulgur Pilaf"
+    },
+    "description": {
+      "tr": "Yumuşak taneli, küçük doğranmış sebzeli bir pilav.",
+      "en": "A soft-grained pilaf with tiny vegetable pieces."
+    },
+    "category": 15,
+    "ingredients": [
+      {
+        "amount": 2,
+        "unit": {
+          "tr": "yemek kaşığı",
+          "en": "tbsp"
+        },
+        "baseName": {
+          "tr": "ince bulgur",
+          "en": "fine bulgur"
+        },
+        "shoppingLabel": {
+          "tr": "ince bulgur",
+          "en": "fine bulgur"
+        }
+      },
+      {
+        "amount": 40,
+        "unit": {
+          "tr": "gram",
+          "en": "g"
+        },
+        "baseName": {
+          "tr": "haşlanmış hindi eti",
+          "en": "cooked turkey meat"
+        },
+        "shoppingLabel": {
+          "tr": "haşlanmış hindi eti",
+          "en": "cooked turkey meat"
+        }
+      },
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "adet",
+          "en": "piece"
+        },
+        "baseName": {
+          "tr": "küçük kabak",
+          "en": "small zucchini"
+        },
+        "shoppingLabel": {
+          "tr": "küçük kabak",
+          "en": "small zucchini"
+        }
+      },
+      {
+        "amount": 1.5,
+        "unit": {
+          "tr": "su bardağı",
+          "en": "cups"
+        },
+        "baseName": {
+          "tr": "su",
+          "en": "water"
+        },
+        "shoppingLabel": {
+          "tr": "su",
+          "en": "water"
+        }
+      }
+    ],
+    "preparationTime": 30,
+    "calories": 140,
+    "suitableAgeInMonths": 17,
+    "allergicIngredients": [
+      {
+        "tr": "gluten",
+        "en": "gluten"
+      }
+    ],
+    "instructions": [
+      {
+        "tr": "Kabağı çok küçük doğrayıp yumuşayana kadar pişirin.",
+        "en": "Dice the zucchini very small and cook until soft."
+      },
+      {
+        "tr": "İnce bulguru ve suyu ekleyip yumuşak kıvamda pişirin.",
+        "en": "Add the fine bulgur and water, then cook to a soft texture."
+      },
+      {
+        "tr": "Hindi etini didikleyip karışıma ekleyin.",
+        "en": "Shred the turkey and mix it in."
+      }
+    ],
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/bebeks-44765.firebasestorage.app/o/sindirim%2Fsindirim_015_1785318544371_1200x675.webp?alt=media&token=0c74f2ad-cb3a-4b39-833c-a89b304af447"
+  },
+  {
+    "id": "sindirim_016",
+    "title": {
+      "tr": "Armutlu Yulaf Kreması",
+      "en": "Pear Oat Cream"
+    },
+    "description": {
+      "tr": "Pürüzsüz, kaşıkla kolay yenebilen hafif bir karışım.",
+      "en": "A smooth, spoon-friendly, light mix."
+    },
+    "category": 15,
+    "ingredients": [
+      {
+        "amount": 2,
+        "unit": {
+          "tr": "yemek kaşığı",
+          "en": "tbsp"
+        },
+        "baseName": {
+          "tr": "yulaf ezmesi",
+          "en": "rolled oats"
+        },
+        "shoppingLabel": {
+          "tr": "yulaf ezmesi",
+          "en": "rolled oats"
+        }
+      },
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "adet",
+          "en": "piece"
+        },
+        "baseName": {
+          "tr": "olgun armut",
+          "en": "ripe pear"
+        },
+        "shoppingLabel": {
+          "tr": "armut",
+          "en": "pear"
+        }
+      },
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "su bardağı",
+          "en": "cup"
+        },
+        "baseName": {
+          "tr": "su",
+          "en": "water"
+        },
+        "shoppingLabel": {
+          "tr": "su",
+          "en": "water"
+        }
+      }
+    ],
+    "preparationTime": 15,
+    "calories": 95,
+    "suitableAgeInMonths": 8,
+    "allergicIngredients": [
+      {
+        "tr": "gluten çapraz bulaş riski olabilir",
+        "en": "may contain cross-contact with gluten"
+      }
+    ],
+    "instructions": [
+      {
+        "tr": "Armutu soyup küp küp doğrayın ve yumuşayana kadar pişirin.",
+        "en": "Peel and dice the pear, then cook until soft."
+      },
+      {
+        "tr": "Yulafı ekleyip lapa kıvamına gelene kadar pişirin.",
+        "en": "Add the oats and cook into a porridge texture."
+      },
+      {
+        "tr": "Gerekirse ezerek pürüzsüzleştirip servis edin.",
+        "en": "Mash smooth if needed and serve."
+      }
+    ],
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/bebeks-44765.firebasestorage.app/o/sindirim%2Fsindirim_016_1785318566366_1200x675.webp?alt=media&token=be158a73-a15a-4816-9c85-883e6737292f"
+  },
+  {
+    "id": "sindirim_017",
+    "title": {
+      "tr": "Ispanaklı Yumurta Omleti",
+      "en": "Spinach Egg Omelet"
+    },
+    "description": {
+      "tr": "Yumuşak pişmiş, ince şeritli omlet.",
+      "en": "A softly cooked omelet cut into thin strips."
+    },
+    "category": 15,
+    "ingredients": [
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "adet",
+          "en": "piece"
+        },
+        "baseName": {
+          "tr": "yumurta",
+          "en": "egg"
+        },
+        "shoppingLabel": {
+          "tr": "yumurta",
+          "en": "egg"
+        }
+      },
+      {
+        "amount": 2,
+        "unit": {
+          "tr": "yemek kaşığı",
+          "en": "tbsp"
+        },
+        "baseName": {
+          "tr": "ince doğranmış ıspanak",
+          "en": "finely chopped spinach"
+        },
+        "shoppingLabel": {
+          "tr": "ıspanak",
+          "en": "spinach"
+        }
+      },
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "çay kaşığı",
+          "en": "tsp"
+        },
+        "baseName": {
+          "tr": "zeytinyağı",
+          "en": "olive oil"
+        },
+        "shoppingLabel": {
+          "tr": "zeytinyağı",
+          "en": "olive oil"
+        }
+      }
+    ],
+    "preparationTime": 12,
+    "calories": 80,
+    "suitableAgeInMonths": 13,
+    "allergicIngredients": [
+      {
+        "tr": "yumurta",
+        "en": "egg"
+      }
+    ],
+    "instructions": [
+      {
+        "tr": "Ispanağı çok az suyla yumuşatın.",
+        "en": "Wilt the spinach with a little water."
+      },
+      {
+        "tr": "Yumurtayı ekleyip tamamen pişirin.",
+        "en": "Add the egg and cook fully."
+      },
+      {
+        "tr": "Omleti ince şeritler halinde kesin ve servis edin.",
+        "en": "Cut the omelet into thin strips and serve."
+      }
+    ],
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/bebeks-44765.firebasestorage.app/o/sindirim%2Fsindirim_017_1785318586612_1200x675.webp?alt=media&token=d3233751-bd49-4c0f-a9c0-7cac71b6da9c"
+  },
+  {
+    "id": "sindirim_018",
+    "title": {
+      "tr": "Sebzeli Erişte Çorbası",
+      "en": "Vegetable Noodle Soup"
+    },
+    "description": {
+      "tr": "Yumuşak erişteli, sebze tadı önde olan bir çorba.",
+      "en": "A soup with soft noodles and a gentle vegetable flavor."
+    },
+    "category": 15,
+    "ingredients": [
+      {
+        "amount": 2,
+        "unit": {
+          "tr": "yemek kaşığı",
+          "en": "tbsp"
+        },
+        "baseName": {
+          "tr": "ince erişte",
+          "en": "thin noodles"
+        },
+        "shoppingLabel": {
+          "tr": "ince erişte",
+          "en": "thin noodles"
+        }
+      },
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "adet",
+          "en": "piece"
+        },
+        "baseName": {
+          "tr": "küçük havuç",
+          "en": "small carrot"
+        },
+        "shoppingLabel": {
+          "tr": "küçük havuç",
+          "en": "small carrot"
+        }
+      },
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "adet",
+          "en": "piece"
+        },
+        "baseName": {
+          "tr": "küçük kabak",
+          "en": "small zucchini"
+        },
+        "shoppingLabel": {
+          "tr": "küçük kabak",
+          "en": "small zucchini"
+        }
+      },
+      {
+        "amount": 2,
+        "unit": {
+          "tr": "su bardağı",
+          "en": "cups"
+        },
+        "baseName": {
+          "tr": "su",
+          "en": "water"
+        },
+        "shoppingLabel": {
+          "tr": "su",
+          "en": "water"
+        }
+      }
+    ],
+    "preparationTime": 20,
+    "calories": 100,
+    "suitableAgeInMonths": 18,
+    "allergicIngredients": [
+      {
+        "tr": "gluten",
+        "en": "gluten"
+      }
+    ],
+    "instructions": [
+      {
+        "tr": "Sebzeleri çok küçük doğrayıp yumuşayana kadar pişirin.",
+        "en": "Dice the vegetables very small and cook until soft."
+      },
+      {
+        "tr": "Erişteyi ekleyip tamamen pişirin.",
+        "en": "Add the noodles and cook fully."
+      },
+      {
+        "tr": "Sulu ve yumuşak kıvamda servis edin.",
+        "en": "Serve with a soft, soupy texture."
+      }
+    ],
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/bebeks-44765.firebasestorage.app/o/sindirim%2Fsindirim_018_1785318606735_1200x675.webp?alt=media&token=414019a9-8541-4406-8f79-5736a99a0505"
+  },
+  {
+    "id": "sindirim_019",
+    "title": {
+      "tr": "Kabaklı Pirinçsiz Sebze Püresi",
+      "en": "Zucchini Vegetable Purée"
+    },
+    "description": {
+      "tr": "Sade, yumuşak ve kaşıkla kolay alınan bir püre.",
+      "en": "A simple, soft purée that is easy to spoon."
+    },
+    "category": 15,
+    "ingredients": [
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "adet",
+          "en": "piece"
+        },
+        "baseName": {
+          "tr": "küçük kabak",
+          "en": "small zucchini"
+        },
+        "shoppingLabel": {
+          "tr": "küçük kabak",
+          "en": "small zucchini"
+        }
+      },
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "adet",
+          "en": "piece"
+        },
+        "baseName": {
+          "tr": "küçük patates",
+          "en": "small potato"
+        },
+        "shoppingLabel": {
+          "tr": "küçük patates",
+          "en": "small potato"
+        }
+      },
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "çay kaşığı",
+          "en": "tsp"
+        },
+        "baseName": {
+          "tr": "zeytinyağı",
+          "en": "olive oil"
+        },
+        "shoppingLabel": {
+          "tr": "zeytinyağı",
+          "en": "olive oil"
+        }
+      },
+      {
+        "amount": 0.5,
+        "unit": {
+          "tr": "su bardağı",
+          "en": "cup"
+        },
+        "baseName": {
+          "tr": "su",
+          "en": "water"
+        },
+        "shoppingLabel": {
+          "tr": "su",
+          "en": "water"
+        }
+      }
+    ],
+    "preparationTime": 18,
+    "calories": 95,
+    "suitableAgeInMonths": 9,
+    "allergicIngredients": [
+      {
+        "tr": "yok",
+        "en": "none"
+      }
+    ],
+    "instructions": [
+      {
+        "tr": "Kabak ve patatesi soyup küçük doğrayın.",
+        "en": "Peel and dice the zucchini and potato small."
+      },
+      {
+        "tr": "Su ile tamamen yumuşayana kadar pişirin.",
+        "en": "Cook with water until fully soft."
+      },
+      {
+        "tr": "Ezerek püre yapın ve zeytinyağı ekleyin.",
+        "en": "Mash into a purée and add olive oil."
+      }
+    ],
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/bebeks-44765.firebasestorage.app/o/sindirim%2Fsindirim_019_1785318633316_1200x675.webp?alt=media&token=7d73e6c7-8ef3-48fe-8c3b-73c67ed96b3c"
   }
 ]

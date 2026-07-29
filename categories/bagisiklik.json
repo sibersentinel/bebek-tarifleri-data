@@ -518,5 +518,890 @@
       }
     ],
     "imageUrl": "https://firebasestorage.googleapis.com/v0/b/bebeks-44765.firebasestorage.app/o/bagisiklik%2FKemik%20Suyu%20Lapas%C4%B1_1200x675.webp?alt=media&token=cd5cf238-97fb-4939-a554-4367ec9dad9c"
+  },
+  {
+    "id": "bagisiklik_011",
+    "title": {
+      "tr": "Elma Armutlu Yulaf Lapası",
+      "en": "Apple Pear Oat Porridge"
+    },
+    "description": {
+      "tr": "Yumuşacık, tarçınsız ve doğal tatlı bir kahvaltı.",
+      "en": "A soft, naturally sweet breakfast."
+    },
+    "category": 17,
+    "ingredients": [
+      {
+        "amount": 3,
+        "unit": {
+          "tr": "adet",
+          "en": "pcs"
+        },
+        "baseName": {
+          "tr": "elma",
+          "en": "apple"
+        },
+        "shoppingLabel": {
+          "tr": "elma",
+          "en": "apple"
+        }
+      },
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "adet",
+          "en": "pcs"
+        },
+        "baseName": {
+          "tr": "armut",
+          "en": "pear"
+        },
+        "shoppingLabel": {
+          "tr": "armut",
+          "en": "pear"
+        }
+      },
+      {
+        "amount": 3,
+        "unit": {
+          "tr": "yemek kaşığı",
+          "en": "tbsp"
+        },
+        "baseName": {
+          "tr": "ince yulaf",
+          "en": "rolled oats"
+        },
+        "shoppingLabel": {
+          "tr": "ince yulaf",
+          "en": "rolled oats"
+        }
+      },
+      {
+        "amount": 240,
+        "unit": {
+          "tr": "ml",
+          "en": "ml"
+        },
+        "baseName": {
+          "tr": "su",
+          "en": "water"
+        },
+        "shoppingLabel": {
+          "tr": "su",
+          "en": "water"
+        }
+      }
+    ],
+    "preparationTime": 20,
+    "calories": 115,
+    "suitableAgeInMonths": 17,
+    "allergicIngredients": [
+      {
+        "tr": "yulaf",
+        "en": "oats"
+      }
+    ],
+    "instructions": [
+      {
+        "tr": "Elma ve armudu soyup küçük küpler halinde doğrayın.",
+        "en": "Peel and dice the apple and pear small."
+      },
+      {
+        "tr": "Meyveleri suyla yumuşayana kadar pişirin.",
+        "en": "Cook the fruit with water until soft."
+      },
+      {
+        "tr": "Yulafı ekleyip lapa kıvamına gelene kadar karıştırarak pişirin.",
+        "en": "Add the oats and cook, stirring, until porridge-like."
+      },
+      {
+        "tr": "Ilık servis edin; iri parça bırakmayın.",
+        "en": "Serve warm; leave no large pieces."
+      }
+    ],
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/bebeks-44765.firebasestorage.app/o/bagisiklik%2Fbagisiklik_011_1785315683876_1200x675.webp?alt=media&token=5916dcf1-e918-4b8d-a31b-8ab314616037"
+  },
+  {
+    "id": "bagisiklik_012",
+    "title": {
+      "tr": "Tavuklu Sebze Püresi",
+      "en": "Chicken and Vegetable Purée"
+    },
+    "description": {
+      "tr": "Sebzelerle yumuşatılmış, pürüzsüz bir öğle tabağı.",
+      "en": "A smooth midday bowl softened with vegetables."
+    },
+    "category": 17,
+    "ingredients": [
+      {
+        "amount": 40,
+        "unit": {
+          "tr": "g",
+          "en": "g"
+        },
+        "baseName": {
+          "tr": "haşlanmış tavuk göğsü",
+          "en": "boiled chicken breast"
+        },
+        "shoppingLabel": {
+          "tr": "haşlanmış tavuk göğsü",
+          "en": "boiled chicken breast"
+        }
+      },
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "adet",
+          "en": "pcs"
+        },
+        "baseName": {
+          "tr": "kabak",
+          "en": "zucchini"
+        },
+        "shoppingLabel": {
+          "tr": "kabak",
+          "en": "zucchini"
+        }
+      },
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "adet",
+          "en": "pcs"
+        },
+        "baseName": {
+          "tr": "havuç",
+          "en": "carrot"
+        },
+        "shoppingLabel": {
+          "tr": "havuç",
+          "en": "carrot"
+        }
+      },
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "adet",
+          "en": "pcs"
+        },
+        "baseName": {
+          "tr": "küçük patates",
+          "en": "small potato"
+        },
+        "shoppingLabel": {
+          "tr": "küçük patates",
+          "en": "small potato"
+        }
+      },
+      {
+        "amount": 120,
+        "unit": {
+          "tr": "ml",
+          "en": "ml"
+        },
+        "baseName": {
+          "tr": "su",
+          "en": "water"
+        },
+        "shoppingLabel": {
+          "tr": "su",
+          "en": "water"
+        }
+      }
+    ],
+    "preparationTime": 30,
+    "calories": 160,
+    "suitableAgeInMonths": 15,
+    "allergicIngredients": [
+      {
+        "tr": "tavuk",
+        "en": "chicken"
+      }
+    ],
+    "instructions": [
+      {
+        "tr": "Sebzeleri küçük doğrayıp yumuşayana kadar haşlayın.",
+        "en": "Dice the vegetables and boil until soft."
+      },
+      {
+        "tr": "Tavukla birlikte ezip pürüzsüzleştirin.",
+        "en": "Mash with the chicken until smooth."
+      },
+      {
+        "tr": "Gerekirse az su ekleyin.",
+        "en": "Add a little water if needed."
+      },
+      {
+        "tr": "Ilık ve akışkan kıvamda sunun.",
+        "en": "Serve warm with a spoonable texture."
+      }
+    ],
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/bebeks-44765.firebasestorage.app/o/bagisiklik%2Fbagisiklik_012_1785315703034_1200x675.webp?alt=media&token=01728943-ad96-424e-b8b6-788e8b3340c9"
+  },
+  {
+    "id": "bagisiklik_013",
+    "title": {
+      "tr": "Balkabaklı Pirinç Püresi",
+      "en": "Pumpkin Rice Purée"
+    },
+    "description": {
+      "tr": "8 aylık bebekler için yumuşacık ve tek dokulu bir öğün.",
+      "en": "A very soft single-texture meal for 8 months."
+    },
+    "category": 17,
+    "ingredients": [
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "su bardağı",
+          "en": "cup"
+        },
+        "baseName": {
+          "tr": "balkabağı",
+          "en": "pumpkin"
+        },
+        "shoppingLabel": {
+          "tr": "balkabağı",
+          "en": "pumpkin"
+        }
+      },
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "yemek kaşığı",
+          "en": "tbsp"
+        },
+        "baseName": {
+          "tr": "pirinç",
+          "en": "rice"
+        },
+        "shoppingLabel": {
+          "tr": "pirinç",
+          "en": "rice"
+        }
+      },
+      {
+        "amount": 180,
+        "unit": {
+          "tr": "ml",
+          "en": "ml"
+        },
+        "baseName": {
+          "tr": "su",
+          "en": "water"
+        },
+        "shoppingLabel": {
+          "tr": "su",
+          "en": "water"
+        }
+      }
+    ],
+    "preparationTime": 25,
+    "calories": 90,
+    "suitableAgeInMonths": 8,
+    "allergicIngredients": [
+      {
+        "tr": "pirinç",
+        "en": "rice"
+      }
+    ],
+    "instructions": [
+      {
+        "tr": "Balkabağını küçük parçalara ayırın, pirinçle birlikte pişirin.",
+        "en": "Cut the pumpkin small and cook it with the rice."
+      },
+      {
+        "tr": "Tamamen yumuşayınca ezin ya da blenderdan geçirin.",
+        "en": "When fully soft, mash or blend."
+      },
+      {
+        "tr": "Pütür bırakmadan sunun.",
+        "en": "Serve without lumps."
+      },
+      {
+        "tr": "Kıvamı gerekirse suyla açın.",
+        "en": "Adjust texture with water if needed."
+      }
+    ],
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/bebeks-44765.firebasestorage.app/o/bagisiklik%2Fbagisiklik_013_1785315722636_1200x675.webp?alt=media&token=c55f76a4-efdb-40c8-8edb-5829e012e6b2"
+  },
+  {
+    "id": "bagisiklik_014",
+    "title": {
+      "tr": "İrmikli Sütlaçsız Muhallebi",
+      "en": "Semolina Pudding Without Rice Pudding"
+    },
+    "description": {
+      "tr": "Nazik kıvamlı, sade ve ev usulü tatlı bir ara öğün.",
+      "en": "A gentle, plain, homemade-style snack."
+    },
+    "category": 17,
+    "ingredients": [
+      {
+        "amount": 2,
+        "unit": {
+          "tr": "yemek kaşığı",
+          "en": "tbsp"
+        },
+        "baseName": {
+          "tr": "irmik",
+          "en": "semolina"
+        },
+        "shoppingLabel": {
+          "tr": "irmik",
+          "en": "semolina"
+        }
+      },
+      {
+        "amount": 200,
+        "unit": {
+          "tr": "ml",
+          "en": "ml"
+        },
+        "baseName": {
+          "tr": "pastörize süt",
+          "en": "pasteurized milk"
+        },
+        "shoppingLabel": {
+          "tr": "pastörize süt",
+          "en": "pasteurized milk"
+        }
+      },
+      {
+        "amount": 50,
+        "unit": {
+          "tr": "ml",
+          "en": "ml"
+        },
+        "baseName": {
+          "tr": "su",
+          "en": "water"
+        },
+        "shoppingLabel": {
+          "tr": "su",
+          "en": "water"
+        }
+      }
+    ],
+    "preparationTime": 15,
+    "calories": 140,
+    "suitableAgeInMonths": 16,
+    "allergicIngredients": [
+      {
+        "tr": "süt",
+        "en": "milk"
+      },
+      {
+        "tr": "gluten",
+        "en": "gluten"
+      }
+    ],
+    "instructions": [
+      {
+        "tr": "Süt ve suyu tencereye alın, irmiği ekleyin.",
+        "en": "Add milk and water to a pot, then add the semolina."
+      },
+      {
+        "tr": "Kısık ateşte sürekli karıştırarak pişirin.",
+        "en": "Cook on low heat, stirring constantly."
+      },
+      {
+        "tr": "Koyulaşınca ocaktan alın ve ılıtın.",
+        "en": "Remove when thickened and let warm slightly."
+      },
+      {
+        "tr": "Pürüzsüz ve yumuşak servis edin.",
+        "en": "Serve smooth and soft."
+      }
+    ],
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/bebeks-44765.firebasestorage.app/o/bagisiklik%2Fbagisiklik_014_1785315746267_1200x675.webp?alt=media&token=150f4a16-f525-4cc0-9304-0f498b1e9986"
+  },
+  {
+    "id": "bagisiklik_015",
+    "title": {
+      "tr": "Şeftalili Yoğurt Kasesi",
+      "en": "Peach Yogurt Bowl"
+    },
+    "description": {
+      "tr": "Fermente süt ürününü meyveyle yumuşakça buluşturan bir kase.",
+      "en": "A gentle bowl combining yogurt with fruit."
+    },
+    "category": 17,
+    "ingredients": [
+      {
+        "amount": 4,
+        "unit": {
+          "tr": "yemek kaşığı",
+          "en": "tbsp"
+        },
+        "baseName": {
+          "tr": "pastörize yoğurt",
+          "en": "pasteurized yogurt"
+        },
+        "shoppingLabel": {
+          "tr": "pastörize yoğurt",
+          "en": "pasteurized yogurt"
+        }
+      },
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "adet",
+          "en": "pcs"
+        },
+        "baseName": {
+          "tr": "şeftali",
+          "en": "peach"
+        },
+        "shoppingLabel": {
+          "tr": "şeftali",
+          "en": "peach"
+        }
+      }
+    ],
+    "preparationTime": 10,
+    "calories": 95,
+    "suitableAgeInMonths": 11,
+    "allergicIngredients": [
+      {
+        "tr": "süt",
+        "en": "milk"
+      }
+    ],
+    "instructions": [
+      {
+        "tr": "Şeftaliyi soyup çok küçük doğrayın ve yumuşayıncaya kadar pişirin.",
+        "en": "Peel the peach, chop it very small, and cook until soft."
+      },
+      {
+        "tr": "Soğutup yoğurtla karıştırın.",
+        "en": "Cool it, then mix with yogurt."
+      },
+      {
+        "tr": "Pürüzsüz kıvamda sunun.",
+        "en": "Serve in a smooth texture."
+      },
+      {
+        "tr": "Taze hazırlanmış olarak verin.",
+        "en": "Serve freshly made."
+      }
+    ],
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/bebeks-44765.firebasestorage.app/o/bagisiklik%2Fbagisiklik_015_1785315767115_1200x675.webp?alt=media&token=f4228ae6-d8e9-4a0d-a17d-190437ffd8c3"
+  },
+  {
+    "id": "bagisiklik_016",
+    "title": {
+      "tr": "Hindi ve Kuskuslu Sebze Tenceresi",
+      "en": "Turkey and Couscous Vegetable Pot"
+    },
+    "description": {
+      "tr": "Yumuşak taneli, kaşıkla kolay yenir bir tek tencere yemeği.",
+      "en": "A soft-textured one-pot meal."
+    },
+    "category": 17,
+    "ingredients": [
+      {
+        "amount": 40,
+        "unit": {
+          "tr": "g",
+          "en": "g"
+        },
+        "baseName": {
+          "tr": "hindi kıyması",
+          "en": "ground turkey"
+        },
+        "shoppingLabel": {
+          "tr": "hindi kıyması",
+          "en": "ground turkey"
+        }
+      },
+      {
+        "amount": 2,
+        "unit": {
+          "tr": "yemek kaşığı",
+          "en": "tbsp"
+        },
+        "baseName": {
+          "tr": "kuskus",
+          "en": "couscous"
+        },
+        "shoppingLabel": {
+          "tr": "kuskus",
+          "en": "couscous"
+        }
+      },
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "adet",
+          "en": "pcs"
+        },
+        "baseName": {
+          "tr": "havuç",
+          "en": "carrot"
+        },
+        "shoppingLabel": {
+          "tr": "havuç",
+          "en": "carrot"
+        }
+      },
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "adet",
+          "en": "pcs"
+        },
+        "baseName": {
+          "tr": "kabak",
+          "en": "zucchini"
+        },
+        "shoppingLabel": {
+          "tr": "kabak",
+          "en": "zucchini"
+        }
+      },
+      {
+        "amount": 220,
+        "unit": {
+          "tr": "ml",
+          "en": "ml"
+        },
+        "baseName": {
+          "tr": "su",
+          "en": "water"
+        },
+        "shoppingLabel": {
+          "tr": "su",
+          "en": "water"
+        }
+      }
+    ],
+    "preparationTime": 32,
+    "calories": 175,
+    "suitableAgeInMonths": 13,
+    "allergicIngredients": [
+      {
+        "tr": "hindi",
+        "en": "turkey"
+      },
+      {
+        "tr": "gluten",
+        "en": "gluten"
+      }
+    ],
+    "instructions": [
+      {
+        "tr": "Sebzeleri çok küçük doğrayın, hindiyi ekleyin.",
+        "en": "Cut the vegetables very small and add the turkey."
+      },
+      {
+        "tr": "Su ile iyice pişirin.",
+        "en": "Cook thoroughly with water."
+      },
+      {
+        "tr": "Kuskusu son dakikalarda ekleyip yumuşatın.",
+        "en": "Add couscous near the end and soften it."
+      },
+      {
+        "tr": "Kaşıkla rahat alınacak kıvamda sunun.",
+        "en": "Serve in a spoonable texture."
+      }
+    ],
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/bebeks-44765.firebasestorage.app/o/bagisiklik%2Fbagisiklik_016_1785315791748_1200x675.webp?alt=media&token=b4e1961c-b396-45af-ab42-608cc81fb36f"
+  },
+  {
+    "id": "bagisiklik_017",
+    "title": {
+      "tr": "Armutlu Havuçlu Bulgur Pilavı",
+      "en": "Pear and Carrot Bulgur Pilaf"
+    },
+    "description": {
+      "tr": "Tatlımsı sebze ve meyveyle yumuşak bir pilav.",
+      "en": "A soft pilaf with sweet vegetables and fruit."
+    },
+    "category": 17,
+    "ingredients": [
+      {
+        "amount": 2,
+        "unit": {
+          "tr": "yemek kaşığı",
+          "en": "tbsp"
+        },
+        "baseName": {
+          "tr": "ince bulgur",
+          "en": "fine bulgur"
+        },
+        "shoppingLabel": {
+          "tr": "ince bulgur",
+          "en": "fine bulgur"
+        }
+      },
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "adet",
+          "en": "pcs"
+        },
+        "baseName": {
+          "tr": "armut",
+          "en": "pear"
+        },
+        "shoppingLabel": {
+          "tr": "armut",
+          "en": "pear"
+        }
+      },
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "adet",
+          "en": "pcs"
+        },
+        "baseName": {
+          "tr": "havuç",
+          "en": "carrot"
+        },
+        "shoppingLabel": {
+          "tr": "havuç",
+          "en": "carrot"
+        }
+      },
+      {
+        "amount": 220,
+        "unit": {
+          "tr": "ml",
+          "en": "ml"
+        },
+        "baseName": {
+          "tr": "su",
+          "en": "water"
+        },
+        "shoppingLabel": {
+          "tr": "su",
+          "en": "water"
+        }
+      }
+    ],
+    "preparationTime": 22,
+    "calories": 135,
+    "suitableAgeInMonths": 10,
+    "allergicIngredients": [
+      {
+        "tr": "gluten",
+        "en": "gluten"
+      }
+    ],
+    "instructions": [
+      {
+        "tr": "Havuç ve armudu çok küçük doğrayın.",
+        "en": "Dice the carrot and pear very small."
+      },
+      {
+        "tr": "Bulgurla birlikte suda iyice yumuşatın.",
+        "en": "Soften well in water with the bulgur."
+      },
+      {
+        "tr": "Gerekiyorsa hafifçe ezin.",
+        "en": "Mash lightly if needed."
+      },
+      {
+        "tr": "Yumuşak ve nemli servis edin.",
+        "en": "Serve soft and moist."
+      }
+    ],
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/bebeks-44765.firebasestorage.app/o/bagisiklik%2Fbagisiklik_017_1785315811219_1200x675.webp?alt=media&token=aa162f96-f3f8-4d9d-8a6c-25ea8a5883a7"
+  },
+  {
+    "id": "bagisiklik_018",
+    "title": {
+      "tr": "Ispanaklı Patates Ezmesi",
+      "en": "Spinach Potato Mash"
+    },
+    "description": {
+      "tr": "Yumuşak dokulu, kolay yenir bir sebze eşliği.",
+      "en": "A soft, easy-to-eat vegetable side."
+    },
+    "category": 17,
+    "ingredients": [
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "adet",
+          "en": "pcs"
+        },
+        "baseName": {
+          "tr": "patates",
+          "en": "potato"
+        },
+        "shoppingLabel": {
+          "tr": "patates",
+          "en": "potato"
+        }
+      },
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "demet",
+          "en": "bunch"
+        },
+        "baseName": {
+          "tr": "ıspanak yaprağı",
+          "en": "spinach leaves"
+        },
+        "shoppingLabel": {
+          "tr": "ıspanak yaprağı",
+          "en": "spinach leaves"
+        }
+      },
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "yemek kaşığı",
+          "en": "tbsp"
+        },
+        "baseName": {
+          "tr": "pastörize yoğurt",
+          "en": "pasteurized yogurt"
+        },
+        "shoppingLabel": {
+          "tr": "pastörize yoğurt",
+          "en": "pasteurized yogurt"
+        }
+      }
+    ],
+    "preparationTime": 18,
+    "calories": 105,
+    "suitableAgeInMonths": 14,
+    "allergicIngredients": [
+      {
+        "tr": "süt",
+        "en": "milk"
+      }
+    ],
+    "instructions": [
+      {
+        "tr": "Patatesi ve ıspanağı ayrı ayrı yumuşayana kadar pişirin.",
+        "en": "Cook the potato and spinach separately until soft."
+      },
+      {
+        "tr": "Patatesi ezin, ıspanağı çok ince doğrayın.",
+        "en": "Mash the potato and chop the spinach very finely."
+      },
+      {
+        "tr": "Yoğurtla birleştirip karıştırın.",
+        "en": "Combine with yogurt and mix."
+      },
+      {
+        "tr": "Küçük, yumuşak kıvamda sunun.",
+        "en": "Serve in a small, soft texture."
+      }
+    ],
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/bebeks-44765.firebasestorage.app/o/bagisiklik%2Fbagisiklik_018_1785315829782_1200x675.webp?alt=media&token=1e314429-c5dd-4dc5-bc12-cf31312e6de2"
+  },
+  {
+    "id": "bagisiklik_019",
+    "title": {
+      "tr": "Muzlu Tahinli Yulaf Kreması",
+      "en": "Banana Tahini Oat Cream"
+    },
+    "description": {
+      "tr": "Akıcı, tok tutan ve kaşıkla kolay alınan bir krema.",
+      "en": "A spoonable, smooth cream."
+    },
+    "category": 17,
+    "ingredients": [
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "adet",
+          "en": "pcs"
+        },
+        "baseName": {
+          "tr": "muz",
+          "en": "banana"
+        },
+        "shoppingLabel": {
+          "tr": "muz",
+          "en": "banana"
+        }
+      },
+      {
+        "amount": 2,
+        "unit": {
+          "tr": "yemek kaşığı",
+          "en": "tbsp"
+        },
+        "baseName": {
+          "tr": "ince yulaf",
+          "en": "rolled oats"
+        },
+        "shoppingLabel": {
+          "tr": "ince yulaf",
+          "en": "rolled oats"
+        }
+      },
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "çay kaşığı",
+          "en": "tsp"
+        },
+        "baseName": {
+          "tr": "tahin",
+          "en": "tahini"
+        },
+        "shoppingLabel": {
+          "tr": "tahin",
+          "en": "tahini"
+        }
+      },
+      {
+        "amount": 180,
+        "unit": {
+          "tr": "ml",
+          "en": "ml"
+        },
+        "baseName": {
+          "tr": "su",
+          "en": "water"
+        },
+        "shoppingLabel": {
+          "tr": "su",
+          "en": "water"
+        }
+      }
+    ],
+    "preparationTime": 12,
+    "calories": 150,
+    "suitableAgeInMonths": 9,
+    "allergicIngredients": [
+      {
+        "tr": "susam",
+        "en": "sesame"
+      },
+      {
+        "tr": "yulaf",
+        "en": "oats"
+      }
+    ],
+    "instructions": [
+      {
+        "tr": "Yulafı suda iyice pişirip yumuşatın.",
+        "en": "Cook the oats well in water until soft."
+      },
+      {
+        "tr": "Muzu ezin, tahinle birlikte ekleyin.",
+        "en": "Mash the banana and add it with tahini."
+      },
+      {
+        "tr": "Pürüzsüz olana kadar karıştırın.",
+        "en": "Stir until smooth."
+      },
+      {
+        "tr": "Ilık servis edin.",
+        "en": "Serve warm."
+      }
+    ],
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/bebeks-44765.firebasestorage.app/o/bagisiklik%2Fbagisiklik_019_1785315850426_1200x675.webp?alt=media&token=3e83df04-c673-4931-b93e-0f95627af51d"
   }
 ]

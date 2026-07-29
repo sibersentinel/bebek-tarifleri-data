@@ -557,5 +557,2561 @@
       }
     ],
     "imageUrl": "https://firebasestorage.googleapis.com/v0/b/bebeks-44765.firebasestorage.app/o/mevsimsel%2FTaze_Bo%CC%88ru%CC%88lce_Pu%CC%88resi_202607031455_1200x675.webp?alt=media&token=605d0b4d-7a3f-46ff-8ad0-ca21f41d808a"
+  },
+  {
+    "id": "mevsimsel_001",
+    "title": {
+      "tr": "Ilık Sebzeli Şehriye Tabağı",
+      "en": "Warm Veggie Orzo Bowl"
+    },
+    "description": {
+      "tr": "Yumuşak pişmiş sebzelerle hazırlanan, minik şehriyeli sıcak bir tabak.",
+      "en": "A warm bowl with soft-cooked vegetables and tiny orzo."
+    },
+    "category": 14,
+    "ingredients": [
+      {
+        "amount": 2,
+        "unit": {
+          "tr": "yemek kaşığı",
+          "en": "tbsp"
+        },
+        "baseName": {
+          "tr": "ince şehriye",
+          "en": "orzo"
+        },
+        "shoppingLabel": {
+          "tr": "ince şehriye",
+          "en": "orzo"
+        }
+      },
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "adet",
+          "en": "piece"
+        },
+        "baseName": {
+          "tr": "havuç",
+          "en": "carrot"
+        },
+        "shoppingLabel": {
+          "tr": "havuç",
+          "en": "carrot"
+        }
+      },
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "adet",
+          "en": "piece"
+        },
+        "baseName": {
+          "tr": "kabak",
+          "en": "zucchini"
+        },
+        "shoppingLabel": {
+          "tr": "kabak",
+          "en": "zucchini"
+        }
+      },
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "çay kaşığı",
+          "en": "tsp"
+        },
+        "baseName": {
+          "tr": "zeytinyağı",
+          "en": "olive oil"
+        },
+        "shoppingLabel": {
+          "tr": "zeytinyağı",
+          "en": "olive oil"
+        }
+      }
+    ],
+    "preparationTime": 20,
+    "calories": 95,
+    "suitableAgeInMonths": 11,
+    "allergicIngredients": [],
+    "instructions": [
+      {
+        "tr": "Şehriyeyi yumuşayana kadar haşlayın.",
+        "en": "Boil the orzo until very soft."
+      },
+      {
+        "tr": "Havuç ve kabağı buharda pişirin, sonra çok küçük doğrayın.",
+        "en": "Steam the carrot and zucchini, then chop very finely."
+      },
+      {
+        "tr": "Hepsini az zeytinyağıyla karıştırıp ılık servis edin.",
+        "en": "Mix everything with a little olive oil and serve warm."
+      }
+    ],
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/bebeks-44765.firebasestorage.app/o/mevsimsel%2Fmevsimsel_001_1785317845289_1200x675.webp?alt=media&token=365c2cfe-e6fb-4b12-89c8-6b2ea619fab2"
+  },
+  {
+    "id": "mevsimsel_002",
+    "title": {
+      "tr": "Tavuklu Pirinçli Sebze Yemeği",
+      "en": "Chicken Rice and Vegetable Dish"
+    },
+    "description": {
+      "tr": "İyi pişmiş tavuk, pirinç ve sebzelerle yumuşak bir öğün.",
+      "en": "A soft meal with well-cooked chicken, rice, and vegetables."
+    },
+    "category": 14,
+    "ingredients": [
+      {
+        "amount": 2,
+        "unit": {
+          "tr": "yemek kaşığı",
+          "en": "tbsp"
+        },
+        "baseName": {
+          "tr": "pirinç",
+          "en": "rice"
+        },
+        "shoppingLabel": {
+          "tr": "pirinç",
+          "en": "rice"
+        }
+      },
+      {
+        "amount": 30,
+        "unit": {
+          "tr": "gram",
+          "en": "g"
+        },
+        "baseName": {
+          "tr": "tavuk göğsü",
+          "en": "chicken breast"
+        },
+        "shoppingLabel": {
+          "tr": "tavuk göğsü",
+          "en": "chicken breast"
+        }
+      },
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "adet",
+          "en": "piece"
+        },
+        "baseName": {
+          "tr": "havuç",
+          "en": "carrot"
+        },
+        "shoppingLabel": {
+          "tr": "havuç",
+          "en": "carrot"
+        }
+      },
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "küçük",
+          "en": "small"
+        },
+        "baseName": {
+          "tr": "kabak",
+          "en": "zucchini"
+        },
+        "shoppingLabel": {
+          "tr": "kabak",
+          "en": "zucchini"
+        }
+      },
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "çay kaşığı",
+          "en": "tsp"
+        },
+        "baseName": {
+          "tr": "zeytinyağı",
+          "en": "olive oil"
+        },
+        "shoppingLabel": {
+          "tr": "zeytinyağı",
+          "en": "olive oil"
+        }
+      }
+    ],
+    "preparationTime": 30,
+    "calories": 140,
+    "suitableAgeInMonths": 15,
+    "allergicIngredients": [],
+    "instructions": [
+      {
+        "tr": "Pirinç, tavuk ve sebzeleri ayrı ayrı iyice pişirin.",
+        "en": "Cook the rice, chicken, and vegetables well, each separately."
+      },
+      {
+        "tr": "Tavuğu çok ince didikleyin, sebzeleri minik küp yapın.",
+        "en": "Shred the chicken very finely and dice the vegetables very small."
+      },
+      {
+        "tr": "Az zeytinyağıyla karıştırıp yumuşak kıvamda sunun.",
+        "en": "Combine with a little olive oil and serve soft."
+      }
+    ],
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/bebeks-44765.firebasestorage.app/o/mevsimsel%2Fmevsimsel_002_1785317877391_1200x675.webp?alt=media&token=5aeb3067-3899-4de0-8940-d7847ccd78fc"
+  },
+  {
+    "id": "mevsimsel_003",
+    "title": {
+      "tr": "Kıymalı Ispanak Sote",
+      "en": "Minced Meat and Spinach Sauté"
+    },
+    "description": {
+      "tr": "İncecik kıyılmış kıyma ve çok yumuşak ıspanakla hazırlanan sıcak yemek.",
+      "en": "A warm dish with finely minced meat and very soft spinach."
+    },
+    "category": 14,
+    "ingredients": [
+      {
+        "amount": 40,
+        "unit": {
+          "tr": "gram",
+          "en": "g"
+        },
+        "baseName": {
+          "tr": "dana kıyma",
+          "en": "ground beef"
+        },
+        "shoppingLabel": {
+          "tr": "dana kıyma",
+          "en": "ground beef"
+        }
+      },
+      {
+        "amount": 2,
+        "unit": {
+          "tr": "yemek kaşığı",
+          "en": "tbsp"
+        },
+        "baseName": {
+          "tr": "ıspanak",
+          "en": "spinach"
+        },
+        "shoppingLabel": {
+          "tr": "ıspanak",
+          "en": "spinach"
+        }
+      },
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "küçük",
+          "en": "small"
+        },
+        "baseName": {
+          "tr": "soğan",
+          "en": "onion"
+        },
+        "shoppingLabel": {
+          "tr": "soğan",
+          "en": "onion"
+        }
+      },
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "çay kaşığı",
+          "en": "tsp"
+        },
+        "baseName": {
+          "tr": "zeytinyağı",
+          "en": "olive oil"
+        },
+        "shoppingLabel": {
+          "tr": "zeytinyağı",
+          "en": "olive oil"
+        }
+      }
+    ],
+    "preparationTime": 25,
+    "calories": 155,
+    "suitableAgeInMonths": 16,
+    "allergicIngredients": [],
+    "instructions": [
+      {
+        "tr": "Soğanı çok az yağda yumuşatın.",
+        "en": "Soften the onion in a little oil."
+      },
+      {
+        "tr": "Kıymayı ekleyip tamamen pişirin, sonra ıspanağı ekleyin.",
+        "en": "Add the meat, cook through fully, then add the spinach."
+      },
+      {
+        "tr": "Yemeği çatalla ezilebilir, çok yumuşak kıvamda bırakın.",
+        "en": "Leave it very soft and mashable with a fork."
+      }
+    ],
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/bebeks-44765.firebasestorage.app/o/mevsimsel%2Fmevsimsel_003_1785317901732_1200x675.webp?alt=media&token=a56cfa3a-2fb4-4b26-9e6e-6a0e9a4f95fe"
+  },
+  {
+    "id": "mevsimsel_004",
+    "title": {
+      "tr": "Fırınlanmış Karnabahar ve Patates Ezmesi",
+      "en": "Baked Cauliflower and Potato Mash"
+    },
+    "description": {
+      "tr": "Fırında yumuşayan sebzelerle hazırlanan pürüzsüz bir ezme.",
+      "en": "A smooth mash made from oven-softened vegetables."
+    },
+    "category": 14,
+    "ingredients": [
+      {
+        "amount": 3,
+        "unit": {
+          "tr": "yemek kaşığı",
+          "en": "tbsp"
+        },
+        "baseName": {
+          "tr": "patates",
+          "en": "potato"
+        },
+        "shoppingLabel": {
+          "tr": "patates",
+          "en": "potato"
+        }
+      },
+      {
+        "amount": 3,
+        "unit": {
+          "tr": "yemek kaşığı",
+          "en": "tbsp"
+        },
+        "baseName": {
+          "tr": "karnabahar",
+          "en": "cauliflower"
+        },
+        "shoppingLabel": {
+          "tr": "karnabahar",
+          "en": "cauliflower"
+        }
+      },
+      {
+        "amount": 2,
+        "unit": {
+          "tr": "yemek kaşığı",
+          "en": "tbsp"
+        },
+        "baseName": {
+          "tr": "yoğurt",
+          "en": "yogurt"
+        },
+        "shoppingLabel": {
+          "tr": "yoğurt",
+          "en": "yogurt"
+        }
+      },
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "çay kaşığı",
+          "en": "tsp"
+        },
+        "baseName": {
+          "tr": "zeytinyağı",
+          "en": "olive oil"
+        },
+        "shoppingLabel": {
+          "tr": "zeytinyağı",
+          "en": "olive oil"
+        }
+      }
+    ],
+    "preparationTime": 35,
+    "calories": 120,
+    "suitableAgeInMonths": 17,
+    "allergicIngredients": [
+      {
+        "tr": "süt ürünü",
+        "en": "dairy"
+      }
+    ],
+    "instructions": [
+      {
+        "tr": "Patates ve karnabaharı yumuşayana kadar fırınlayın.",
+        "en": "Bake the potato and cauliflower until tender."
+      },
+      {
+        "tr": "Ezerek pürüzsüzleştirin, yoğurt ve yağı ekleyin.",
+        "en": "Mash until smooth, then add yogurt and oil."
+      },
+      {
+        "tr": "İster kaşıkla, ister daha yoğun kıvamda servis edin.",
+        "en": "Serve with a spoon, or keep it slightly thicker."
+      }
+    ],
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/bebeks-44765.firebasestorage.app/o/mevsimsel%2Fmevsimsel_004_1785317930490_1200x675.webp?alt=media&token=51388273-ed05-408e-8e0a-65fd787a9cc6"
+  },
+  {
+    "id": "mevsimsel_005",
+    "title": {
+      "tr": "Zeytinyağlı Bezelyeli Bulgur",
+      "en": "Olive Oil Bulgur with Peas"
+    },
+    "description": {
+      "tr": "İyi pişmiş bulgur, bezelye ve dereotuyla hafif bir tabak.",
+      "en": "A light dish with well-cooked bulgur, peas, and dill."
+    },
+    "category": 14,
+    "ingredients": [
+      {
+        "amount": 3,
+        "unit": {
+          "tr": "yemek kaşığı",
+          "en": "tbsp"
+        },
+        "baseName": {
+          "tr": "ince bulgur",
+          "en": "fine bulgur"
+        },
+        "shoppingLabel": {
+          "tr": "ince bulgur",
+          "en": "fine bulgur"
+        }
+      },
+      {
+        "amount": 2,
+        "unit": {
+          "tr": "yemek kaşığı",
+          "en": "tbsp"
+        },
+        "baseName": {
+          "tr": "bezelye",
+          "en": "peas"
+        },
+        "shoppingLabel": {
+          "tr": "bezelye",
+          "en": "peas"
+        }
+      },
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "yemek kaşığı",
+          "en": "tbsp"
+        },
+        "baseName": {
+          "tr": "dereotu",
+          "en": "dill"
+        },
+        "shoppingLabel": {
+          "tr": "dereotu",
+          "en": "dill"
+        }
+      },
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "çay kaşığı",
+          "en": "tsp"
+        },
+        "baseName": {
+          "tr": "zeytinyağı",
+          "en": "olive oil"
+        },
+        "shoppingLabel": {
+          "tr": "zeytinyağı",
+          "en": "olive oil"
+        }
+      }
+    ],
+    "preparationTime": 25,
+    "calories": 110,
+    "suitableAgeInMonths": 13,
+    "allergicIngredients": [],
+    "instructions": [
+      {
+        "tr": "Bulguru suyla iyice yumuşatın.",
+        "en": "Soften the bulgur well with water."
+      },
+      {
+        "tr": "Bezelyeyi çok yumuşayana kadar pişirin.",
+        "en": "Cook the peas until very soft."
+      },
+      {
+        "tr": "Dereotunu ince kıyıp karıştırın ve hafifçe ezin.",
+        "en": "Finely chop the dill, mix in, and lightly mash."
+      }
+    ],
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/bebeks-44765.firebasestorage.app/o/mevsimsel%2Fmevsimsel_005_1785317947818_1200x675.webp?alt=media&token=4abd6d4b-b7af-41c6-a449-8a36473e428d"
+  },
+  {
+    "id": "mevsimsel_006",
+    "title": {
+      "tr": "Yumuşak Tarhana Sebze Çorbası",
+      "en": "Soft Tarhana Vegetable Soup"
+    },
+    "description": {
+      "tr": "Tarhana ile sebzelerin birleştiği, kaşıklaması kolay bir çorba.",
+      "en": "An easy-to-spoon soup with tarhana and vegetables."
+    },
+    "category": 14,
+    "ingredients": [
+      {
+        "amount": 1.5,
+        "unit": {
+          "tr": "yemek kaşığı",
+          "en": "tbsp"
+        },
+        "baseName": {
+          "tr": "tarhana",
+          "en": "tarhana"
+        },
+        "shoppingLabel": {
+          "tr": "tarhana",
+          "en": "tarhana"
+        }
+      },
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "adet",
+          "en": "piece"
+        },
+        "baseName": {
+          "tr": "havuç",
+          "en": "carrot"
+        },
+        "shoppingLabel": {
+          "tr": "havuç",
+          "en": "carrot"
+        }
+      },
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "küçük",
+          "en": "small"
+        },
+        "baseName": {
+          "tr": "patates",
+          "en": "potato"
+        },
+        "shoppingLabel": {
+          "tr": "patates",
+          "en": "potato"
+        }
+      },
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "çay kaşığı",
+          "en": "tsp"
+        },
+        "baseName": {
+          "tr": "zeytinyağı",
+          "en": "olive oil"
+        },
+        "shoppingLabel": {
+          "tr": "zeytinyağı",
+          "en": "olive oil"
+        }
+      }
+    ],
+    "preparationTime": 20,
+    "calories": 90,
+    "suitableAgeInMonths": 12,
+    "allergicIngredients": [
+      {
+        "tr": "gluten",
+        "en": "gluten"
+      }
+    ],
+    "instructions": [
+      {
+        "tr": "Tarhanayı topak kalmayacak şekilde suyla açın.",
+        "en": "Whisk the tarhana with water so no lumps remain."
+      },
+      {
+        "tr": "Havuç ve patatesi çok yumuşayana kadar pişirin.",
+        "en": "Cook the carrot and potato until very soft."
+      },
+      {
+        "tr": "Çorbayı hafif koyu kıvamda, ılık servis edin.",
+        "en": "Serve the soup warm with a slightly thick texture."
+      }
+    ],
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/bebeks-44765.firebasestorage.app/o/mevsimsel%2Fmevsimsel_006_1785317971899_1200x675.webp?alt=media&token=be41a62b-aca5-426f-b0a0-3d5621c9a175"
+  },
+  {
+    "id": "mevsimsel_007",
+    "title": {
+      "tr": "Hindi Köfteli Sebze Püresi",
+      "en": "Turkey Meatball Vegetable Purée"
+    },
+    "description": {
+      "tr": "İyi pişmiş hindi köftesi ve yumuşak sebze püresiyle dengeli bir öğün.",
+      "en": "A balanced meal with well-cooked turkey meatballs and soft vegetable purée."
+    },
+    "category": 14,
+    "ingredients": [
+      {
+        "amount": 40,
+        "unit": {
+          "tr": "gram",
+          "en": "g"
+        },
+        "baseName": {
+          "tr": "hindi kıyma",
+          "en": "ground turkey"
+        },
+        "shoppingLabel": {
+          "tr": "hindi kıyma",
+          "en": "ground turkey"
+        }
+      },
+      {
+        "amount": 2,
+        "unit": {
+          "tr": "yemek kaşığı",
+          "en": "tbsp"
+        },
+        "baseName": {
+          "tr": "karnabahar",
+          "en": "cauliflower"
+        },
+        "shoppingLabel": {
+          "tr": "karnabahar",
+          "en": "cauliflower"
+        }
+      },
+      {
+        "amount": 2,
+        "unit": {
+          "tr": "yemek kaşığı",
+          "en": "tbsp"
+        },
+        "baseName": {
+          "tr": "havuç",
+          "en": "carrot"
+        },
+        "shoppingLabel": {
+          "tr": "havuç",
+          "en": "carrot"
+        }
+      },
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "çay kaşığı",
+          "en": "tsp"
+        },
+        "baseName": {
+          "tr": "zeytinyağı",
+          "en": "olive oil"
+        },
+        "shoppingLabel": {
+          "tr": "zeytinyağı",
+          "en": "olive oil"
+        }
+      }
+    ],
+    "preparationTime": 30,
+    "calories": 135,
+    "suitableAgeInMonths": 14,
+    "allergicIngredients": [],
+    "instructions": [
+      {
+        "tr": "Hindi kıymadan küçük köfteler yapın ve tamamen pişirin.",
+        "en": "Form tiny meatballs from the turkey and cook through fully."
+      },
+      {
+        "tr": "Sebzeleri buharda yumuşatıp püre haline getirin.",
+        "en": "Steam the vegetables until soft, then purée them."
+      },
+      {
+        "tr": "Köfteleri çok küçük parçalarla pürenin üstüne ekleyin.",
+        "en": "Add the meatballs in very small pieces over the purée."
+      }
+    ],
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/bebeks-44765.firebasestorage.app/o/mevsimsel%2Fmevsimsel_007_1785317995071_1200x675.webp?alt=media&token=fe05269d-add9-453d-ad60-f1298eb5e79a"
+  },
+  {
+    "id": "mevsimsel_008",
+    "title": {
+      "tr": "Armutlu İrmik Muhallebisi",
+      "en": "Pear Semolina Pudding"
+    },
+    "description": {
+      "tr": "Yumuşak armut ve çok hafif irmikle hazırlanan ılık tatlı bir ara öğün.",
+      "en": "A warm, lightly sweet snack with soft pear and fine semolina."
+    },
+    "category": 14,
+    "ingredients": [
+      {
+        "amount": 2,
+        "unit": {
+          "tr": "yemek kaşığı",
+          "en": "tbsp"
+        },
+        "baseName": {
+          "tr": "irmik",
+          "en": "semolina"
+        },
+        "shoppingLabel": {
+          "tr": "irmik",
+          "en": "semolina"
+        }
+      },
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "küçük",
+          "en": "small"
+        },
+        "baseName": {
+          "tr": "armut",
+          "en": "pear"
+        },
+        "shoppingLabel": {
+          "tr": "armut",
+          "en": "pear"
+        }
+      },
+      {
+        "amount": 90,
+        "unit": {
+          "tr": "mililitre",
+          "en": "ml"
+        },
+        "baseName": {
+          "tr": "su",
+          "en": "water"
+        },
+        "shoppingLabel": {
+          "tr": "su",
+          "en": "water"
+        }
+      },
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "çay kaşığı",
+          "en": "tsp"
+        },
+        "baseName": {
+          "tr": "zeytinyağı",
+          "en": "olive oil"
+        },
+        "shoppingLabel": {
+          "tr": "zeytinyağı",
+          "en": "olive oil"
+        }
+      }
+    ],
+    "preparationTime": 18,
+    "calories": 95,
+    "suitableAgeInMonths": 10,
+    "allergicIngredients": [
+      {
+        "tr": "gluten",
+        "en": "gluten"
+      }
+    ],
+    "instructions": [
+      {
+        "tr": "Armudu rendeleyip suyla yumuşatın.",
+        "en": "Grate the pear and soften it with water."
+      },
+      {
+        "tr": "İrmiği ekleyip karıştırarak pişirin.",
+        "en": "Add the semolina and cook while stirring."
+      },
+      {
+        "tr": "Ilıyınca çok akıcı olmayan, yumuşak bir kıvam verin.",
+        "en": "Let it cool to a soft, not runny texture."
+      }
+    ],
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/bebeks-44765.firebasestorage.app/o/mevsimsel%2Fmevsimsel_008_1785318012574_1200x675.webp?alt=media&token=9b178784-cb95-4301-a931-63dbc4f3f0e3"
+  },
+  {
+    "id": "mevsimsel_009",
+    "title": {
+      "tr": "Havuçlu Kabak Çorbası",
+      "en": "Carrot and Zucchini Soup"
+    },
+    "description": {
+      "tr": "Sebzeleri iyice yumuşatarak hazırlanan hafif ve sıcak bir çorba.",
+      "en": "A light, warm soup with vegetables cooked until very soft."
+    },
+    "category": 14,
+    "ingredients": [
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "adet",
+          "en": "piece"
+        },
+        "baseName": {
+          "tr": "havuç",
+          "en": "carrot"
+        },
+        "shoppingLabel": {
+          "tr": "havuç",
+          "en": "carrot"
+        }
+      },
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "küçük",
+          "en": "small"
+        },
+        "baseName": {
+          "tr": "kabak",
+          "en": "zucchini"
+        },
+        "shoppingLabel": {
+          "tr": "kabak",
+          "en": "zucchini"
+        }
+      },
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "küçük",
+          "en": "small"
+        },
+        "baseName": {
+          "tr": "patates",
+          "en": "potato"
+        },
+        "shoppingLabel": {
+          "tr": "patates",
+          "en": "potato"
+        }
+      },
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "çay kaşığı",
+          "en": "tsp"
+        },
+        "baseName": {
+          "tr": "zeytinyağı",
+          "en": "olive oil"
+        },
+        "shoppingLabel": {
+          "tr": "zeytinyağı",
+          "en": "olive oil"
+        }
+      }
+    ],
+    "preparationTime": 20,
+    "calories": 80,
+    "suitableAgeInMonths": 9,
+    "allergicIngredients": [],
+    "instructions": [
+      {
+        "tr": "Sebzeleri küçük doğrayıp çok yumuşayana kadar pişirin.",
+        "en": "Cut the vegetables small and cook until very soft."
+      },
+      {
+        "tr": "Blenderdan geçirip pürüzsüz çorba yapın.",
+        "en": "Blend into a smooth soup."
+      },
+      {
+        "tr": "Ilık servis edin, gerekirse suyla inceltin.",
+        "en": "Serve warm and thin with a little water if needed."
+      }
+    ],
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/bebeks-44765.firebasestorage.app/o/mevsimsel%2Fmevsimsel_009_1785318032164_1200x675.webp?alt=media&token=5f32db62-de48-42b1-91d0-6ab85afbf9ba"
+  },
+  {
+    "id": "mevsimsel_010",
+    "title": {
+      "tr": "Şefkatli Kabaklı Tavuk Çorbası",
+      "en": "Warm Courgette Chicken Soup"
+    },
+    "description": {
+      "tr": "Yumuşak dokulu, 7 aylık bebekler için hafif bir çorba.",
+      "en": "A smooth, mild soup for 7-month-olds."
+    },
+    "category": 14,
+    "ingredients": [
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "adet",
+          "en": "piece"
+        },
+        "baseName": {
+          "tr": "küçük kabak",
+          "en": "small courgette"
+        },
+        "shoppingLabel": {
+          "tr": "küçük kabak",
+          "en": "small courgette"
+        }
+      },
+      {
+        "amount": 2,
+        "unit": {
+          "tr": "yemek kaşığı",
+          "en": "tbsp"
+        },
+        "baseName": {
+          "tr": "haşlanmış tavuk göğsü",
+          "en": "cooked chicken breast"
+        },
+        "shoppingLabel": {
+          "tr": "haşlanmış tavuk göğsü",
+          "en": "cooked chicken breast"
+        }
+      },
+      {
+        "amount": 2,
+        "unit": {
+          "tr": "su bardağı",
+          "en": "cups"
+        },
+        "baseName": {
+          "tr": "su",
+          "en": "water"
+        },
+        "shoppingLabel": {
+          "tr": "içme suyu",
+          "en": "drinking water"
+        }
+      },
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "çay kaşığı",
+          "en": "tsp"
+        },
+        "baseName": {
+          "tr": "zeytinyağı",
+          "en": "olive oil"
+        },
+        "shoppingLabel": {
+          "tr": "zeytinyağı",
+          "en": "olive oil"
+        }
+      }
+    ],
+    "preparationTime": 25,
+    "calories": 85,
+    "suitableAgeInMonths": 7,
+    "allergicIngredients": [
+      {
+        "tr": "yok",
+        "en": "none"
+      }
+    ],
+    "instructions": [
+      {
+        "tr": "Kabağı doğrayıp suyla yumuşayana dek pişirin.",
+        "en": "Cook the courgette in water until soft."
+      },
+      {
+        "tr": "Tavukla birlikte pürüzsüz olana kadar ezin ya da blenderdan geçirin.",
+        "en": "Mash or blend with the chicken until smooth."
+      },
+      {
+        "tr": "Zeytinyağını ekleyip ılıtarak servis edin.",
+        "en": "Add olive oil and serve warm."
+      }
+    ],
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/bebeks-44765.firebasestorage.app/o/mevsimsel%2Fmevsimsel_010_1785318057188_1200x675.webp?alt=media&token=9da475f2-7f97-45ab-b022-3b1d5b67ec90"
+  },
+  {
+    "id": "mevsimsel_011",
+    "title": {
+      "tr": "Fırında Hindi Sebze Lokmaları",
+      "en": "Baked Turkey Veggie Bites"
+    },
+    "description": {
+      "tr": "12 aylık bebekler için yumuşak, küçük parçalı bir ana öğün.",
+      "en": "A soft, small-piece main dish for 12-month-olds."
+    },
+    "category": 14,
+    "ingredients": [
+      {
+        "amount": 80,
+        "unit": {
+          "tr": "gram",
+          "en": "g"
+        },
+        "baseName": {
+          "tr": "hindi kıyması",
+          "en": "ground turkey"
+        },
+        "shoppingLabel": {
+          "tr": "hindi kıyması",
+          "en": "ground turkey"
+        }
+      },
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "adet",
+          "en": "piece"
+        },
+        "baseName": {
+          "tr": "havuç",
+          "en": "carrot"
+        },
+        "shoppingLabel": {
+          "tr": "havuç",
+          "en": "carrot"
+        }
+      },
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "adet",
+          "en": "piece"
+        },
+        "baseName": {
+          "tr": "kabak",
+          "en": "courgette"
+        },
+        "shoppingLabel": {
+          "tr": "kabak",
+          "en": "courgette"
+        }
+      },
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "yemek kaşığı",
+          "en": "tbsp"
+        },
+        "baseName": {
+          "tr": "ince yulaf unu",
+          "en": "fine oat flour"
+        },
+        "shoppingLabel": {
+          "tr": "ince yulaf unu",
+          "en": "fine oat flour"
+        }
+      },
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "çay kaşığı",
+          "en": "tsp"
+        },
+        "baseName": {
+          "tr": "zeytinyağı",
+          "en": "olive oil"
+        },
+        "shoppingLabel": {
+          "tr": "zeytinyağı",
+          "en": "olive oil"
+        }
+      }
+    ],
+    "preparationTime": 35,
+    "calories": 145,
+    "suitableAgeInMonths": 12,
+    "allergicIngredients": [
+      {
+        "tr": "yulaf",
+        "en": "oats"
+      }
+    ],
+    "instructions": [
+      {
+        "tr": "Sebzeleri rendeleyip suyunu hafifçe sıkın.",
+        "en": "Grate the vegetables and lightly squeeze out excess water."
+      },
+      {
+        "tr": "Hindi ve yulaf unu ile karıştırıp minik lokmalar yapın.",
+        "en": "Mix with turkey and oat flour, then shape into small bites."
+      },
+      {
+        "tr": "Fırında iyice pişirin; yumuşak ve kolay ezilir olsun.",
+        "en": "Bake until fully cooked; keep them soft and easy to mash."
+      }
+    ],
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/bebeks-44765.firebasestorage.app/o/mevsimsel%2Fmevsimsel_011_1785318078012_1200x675.webp?alt=media&token=95f2c461-8047-40e3-a220-1ec5b89a5d8a"
+  },
+  {
+    "id": "mevsimsel_012",
+    "title": {
+      "tr": "Patatesli Bezelye Köftesi",
+      "en": "Potato Pea Patties"
+    },
+    "description": {
+      "tr": "10 aylık bebekler için ezilebilir, yumuşak sebze köftesi.",
+      "en": "Mashable soft vegetable patties for 10-month-olds."
+    },
+    "category": 14,
+    "ingredients": [
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "adet",
+          "en": "piece"
+        },
+        "baseName": {
+          "tr": "patates",
+          "en": "potato"
+        },
+        "shoppingLabel": {
+          "tr": "patates",
+          "en": "potato"
+        }
+      },
+      {
+        "amount": 4,
+        "unit": {
+          "tr": "yemek kaşığı",
+          "en": "tbsp"
+        },
+        "baseName": {
+          "tr": "haşlanmış bezelye",
+          "en": "cooked peas"
+        },
+        "shoppingLabel": {
+          "tr": "bezelye",
+          "en": "peas"
+        }
+      },
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "yemek kaşığı",
+          "en": "tbsp"
+        },
+        "baseName": {
+          "tr": "ince doğranmış dereotu",
+          "en": "finely chopped dill"
+        },
+        "shoppingLabel": {
+          "tr": "dereotu",
+          "en": "dill"
+        }
+      },
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "çay kaşığı",
+          "en": "tsp"
+        },
+        "baseName": {
+          "tr": "zeytinyağı",
+          "en": "olive oil"
+        },
+        "shoppingLabel": {
+          "tr": "zeytinyağı",
+          "en": "olive oil"
+        }
+      }
+    ],
+    "preparationTime": 25,
+    "calories": 95,
+    "suitableAgeInMonths": 10,
+    "allergicIngredients": [
+      {
+        "tr": "yok",
+        "en": "none"
+      }
+    ],
+    "instructions": [
+      {
+        "tr": "Patatesi haşlayıp ezin.",
+        "en": "Boil and mash the potato."
+      },
+      {
+        "tr": "Bezelye ve dereotunu ekleyip karıştırın.",
+        "en": "Add the peas and dill, then mix."
+      },
+      {
+        "tr": "Minik köfteler yapıp az yağlı tavada yumuşatın.",
+        "en": "Shape tiny patties and soften them in a lightly oiled pan."
+      }
+    ],
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/bebeks-44765.firebasestorage.app/o/mevsimsel%2Fmevsimsel_012_1785318100899_1200x675.webp?alt=media&token=9caa57b5-4875-4a16-acfa-7b0c3bcf052d"
+  },
+  {
+    "id": "mevsimsel_013",
+    "title": {
+      "tr": "Nohutlu Sebzeli Güveç",
+      "en": "Vegetable Chickpea Stew"
+    },
+    "description": {
+      "tr": "19 aylık çocuklar için yumuşak sebze ve nohutlu sıcak bir yemek.",
+      "en": "A warm vegetable and chickpea dish for 19-month-olds."
+    },
+    "category": 14,
+    "ingredients": [
+      {
+        "amount": 4,
+        "unit": {
+          "tr": "yemek kaşığı",
+          "en": "tbsp"
+        },
+        "baseName": {
+          "tr": "haşlanmış nohut",
+          "en": "cooked chickpeas"
+        },
+        "shoppingLabel": {
+          "tr": "nohut",
+          "en": "chickpeas"
+        }
+      },
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "adet",
+          "en": "piece"
+        },
+        "baseName": {
+          "tr": "havuç",
+          "en": "carrot"
+        },
+        "shoppingLabel": {
+          "tr": "havuç",
+          "en": "carrot"
+        }
+      },
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "adet",
+          "en": "piece"
+        },
+        "baseName": {
+          "tr": "patates",
+          "en": "potato"
+        },
+        "shoppingLabel": {
+          "tr": "patates",
+          "en": "potato"
+        }
+      },
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "adet",
+          "en": "piece"
+        },
+        "baseName": {
+          "tr": "kabak",
+          "en": "courgette"
+        },
+        "shoppingLabel": {
+          "tr": "kabak",
+          "en": "courgette"
+        }
+      },
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "yemek kaşığı",
+          "en": "tbsp"
+        },
+        "baseName": {
+          "tr": "zeytinyağı",
+          "en": "olive oil"
+        },
+        "shoppingLabel": {
+          "tr": "zeytinyağı",
+          "en": "olive oil"
+        }
+      }
+    ],
+    "preparationTime": 35,
+    "calories": 150,
+    "suitableAgeInMonths": 19,
+    "allergicIngredients": [
+      {
+        "tr": "yok",
+        "en": "none"
+      }
+    ],
+    "instructions": [
+      {
+        "tr": "Sebzeleri küçük küpler halinde yumuşayana dek pişirin.",
+        "en": "Cook the vegetables in small cubes until soft."
+      },
+      {
+        "tr": "Nohudu ekleyip birkaç dakika birlikte ısıtın.",
+        "en": "Add the chickpeas and warm through for a few minutes."
+      },
+      {
+        "tr": "Yutması kolay olacak şekilde hafif ezin.",
+        "en": "Lightly mash so it is easy to eat."
+      }
+    ],
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/bebeks-44765.firebasestorage.app/o/mevsimsel%2Fmevsimsel_013_1785318121292_1200x675.webp?alt=media&token=463f4c16-17f0-44e4-9d2e-d2111b8b0fa2"
+  },
+  {
+    "id": "mevsimsel_014",
+    "title": {
+      "tr": "Fırın Hamsili Mısır Unlu Mücver",
+      "en": "Baked Anchovy Cornmeal Fritters"
+    },
+    "description": {
+      "tr": "20 aylık çocuklar için küçük, yumuşak ve fırınlanmış balık mücveri.",
+      "en": "Small, soft baked fish fritters for 20-month-olds."
+    },
+    "category": 14,
+    "ingredients": [
+      {
+        "amount": 80,
+        "unit": {
+          "tr": "gram",
+          "en": "g"
+        },
+        "baseName": {
+          "tr": "hamsi fileto",
+          "en": "anchovy fillets"
+        },
+        "shoppingLabel": {
+          "tr": "hamsi fileto",
+          "en": "anchovy fillets"
+        }
+      },
+      {
+        "amount": 2,
+        "unit": {
+          "tr": "yemek kaşığı",
+          "en": "tbsp"
+        },
+        "baseName": {
+          "tr": "ince mısır unu",
+          "en": "fine cornmeal"
+        },
+        "shoppingLabel": {
+          "tr": "ince mısır unu",
+          "en": "fine cornmeal"
+        }
+      },
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "adet",
+          "en": "piece"
+        },
+        "baseName": {
+          "tr": "kabak",
+          "en": "courgette"
+        },
+        "shoppingLabel": {
+          "tr": "kabak",
+          "en": "courgette"
+        }
+      },
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "adet",
+          "en": "piece"
+        },
+        "baseName": {
+          "tr": "yumurta",
+          "en": "egg"
+        },
+        "shoppingLabel": {
+          "tr": "yumurta",
+          "en": "egg"
+        }
+      },
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "çay kaşığı",
+          "en": "tsp"
+        },
+        "baseName": {
+          "tr": "zeytinyağı",
+          "en": "olive oil"
+        },
+        "shoppingLabel": {
+          "tr": "zeytinyağı",
+          "en": "olive oil"
+        }
+      }
+    ],
+    "preparationTime": 30,
+    "calories": 170,
+    "suitableAgeInMonths": 20,
+    "allergicIngredients": [
+      {
+        "tr": "balık",
+        "en": "fish"
+      },
+      {
+        "tr": "yumurta",
+        "en": "egg"
+      }
+    ],
+    "instructions": [
+      {
+        "tr": "Kabağı rendeleyip suyunu hafifçe sıkın.",
+        "en": "Grate the courgette and lightly squeeze out the water."
+      },
+      {
+        "tr": "Hamsi, yumurta ve mısır unuyla karıştırın.",
+        "en": "Mix the anchovies with egg and cornmeal."
+      },
+      {
+        "tr": "Küçük parçalar halinde fırınlayın ve iyice pişirin.",
+        "en": "Bake in small pieces and cook through fully."
+      }
+    ],
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/bebeks-44765.firebasestorage.app/o/mevsimsel%2Fmevsimsel_014_1785318145413_1200x675.webp?alt=media&token=8327b98f-4772-41eb-82fe-eef088521d24"
+  },
+  {
+    "id": "mevsimsel_015",
+    "title": {
+      "tr": "Yoğurtlu Havuç Ezmesi",
+      "en": "Yoghurt Carrot Mash"
+    },
+    "description": {
+      "tr": "8 aylık bebekler için yumuşak, sade bir ara öğün.",
+      "en": "A soft, simple snack for 8-month-olds."
+    },
+    "category": 14,
+    "ingredients": [
+      {
+        "amount": 2,
+        "unit": {
+          "tr": "adet",
+          "en": "pieces"
+        },
+        "baseName": {
+          "tr": "havuç",
+          "en": "carrots"
+        },
+        "shoppingLabel": {
+          "tr": "havuç",
+          "en": "carrots"
+        }
+      },
+      {
+        "amount": 3,
+        "unit": {
+          "tr": "yemek kaşığı",
+          "en": "tbsp"
+        },
+        "baseName": {
+          "tr": "pastörize yoğurt",
+          "en": "pasteurised yoghurt"
+        },
+        "shoppingLabel": {
+          "tr": "pastörize yoğurt",
+          "en": "pasteurised yoghurt"
+        }
+      },
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "çay kaşığı",
+          "en": "tsp"
+        },
+        "baseName": {
+          "tr": "zeytinyağı",
+          "en": "olive oil"
+        },
+        "shoppingLabel": {
+          "tr": "zeytinyağı",
+          "en": "olive oil"
+        }
+      }
+    ],
+    "preparationTime": 20,
+    "calories": 70,
+    "suitableAgeInMonths": 8,
+    "allergicIngredients": [
+      {
+        "tr": "süt",
+        "en": "milk"
+      }
+    ],
+    "instructions": [
+      {
+        "tr": "Havuçları iyice haşlayıp ezin.",
+        "en": "Boil the carrots until very soft and mash."
+      },
+      {
+        "tr": "Yoğurtla karıştırıp pürüzsüz hale getirin.",
+        "en": "Mix with yoghurt until smooth."
+      },
+      {
+        "tr": "Ilıtarak servis edin.",
+        "en": "Serve warm."
+      }
+    ],
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/bebeks-44765.firebasestorage.app/o/mevsimsel%2Fmevsimsel_015_1785318165608_1200x675.webp?alt=media&token=bfd4fc79-7f2a-47b1-8bb1-142dfd78babb"
+  },
+  {
+    "id": "mevsimsel_016",
+    "title": {
+      "tr": "Kıymalı Kabak Dolgu",
+      "en": "Stuffed Courgette with Mince"
+    },
+    "description": {
+      "tr": "15 aylık çocuklar için küçük doğranmış, yumuşak ve sulu bir öğün.",
+      "en": "A soft, juicy meal with small pieces for 15-month-olds."
+    },
+    "category": 14,
+    "ingredients": [
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "adet",
+          "en": "piece"
+        },
+        "baseName": {
+          "tr": "kabak",
+          "en": "courgette"
+        },
+        "shoppingLabel": {
+          "tr": "kabak",
+          "en": "courgette"
+        }
+      },
+      {
+        "amount": 60,
+        "unit": {
+          "tr": "gram",
+          "en": "g"
+        },
+        "baseName": {
+          "tr": "az yağlı dana kıyma",
+          "en": "lean beef mince"
+        },
+        "shoppingLabel": {
+          "tr": "az yağlı dana kıyma",
+          "en": "lean beef mince"
+        }
+      },
+      {
+        "amount": 2,
+        "unit": {
+          "tr": "yemek kaşığı",
+          "en": "tbsp"
+        },
+        "baseName": {
+          "tr": "ince bulgur",
+          "en": "fine bulgur"
+        },
+        "shoppingLabel": {
+          "tr": "ince bulgur",
+          "en": "fine bulgur"
+        }
+      },
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "çay kaşığı",
+          "en": "tsp"
+        },
+        "baseName": {
+          "tr": "zeytinyağı",
+          "en": "olive oil"
+        },
+        "shoppingLabel": {
+          "tr": "zeytinyağı",
+          "en": "olive oil"
+        }
+      }
+    ],
+    "preparationTime": 35,
+    "calories": 155,
+    "suitableAgeInMonths": 15,
+    "allergicIngredients": [
+      {
+        "tr": "buğday",
+        "en": "wheat"
+      }
+    ],
+    "instructions": [
+      {
+        "tr": "Kabağı ortadan bölüp içini hafifçe açın.",
+        "en": "Halve the courgette and gently hollow it out."
+      },
+      {
+        "tr": "Kıyma ve bulguru yumuşayana kadar pişirin.",
+        "en": "Cook the mince and bulgur until soft."
+      },
+      {
+        "tr": "Kabağın içine doldurup tamamen pişirin.",
+        "en": "Fill the courgette and cook through fully."
+      }
+    ],
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/bebeks-44765.firebasestorage.app/o/mevsimsel%2Fmevsimsel_016_1785318188497_1200x675.webp?alt=media&token=81b9698f-7a38-48be-8988-3cba8c8b6c7e"
+  },
+  {
+    "id": "mevsimsel_017",
+    "title": {
+      "tr": "Sebzeli Tavuklu Arpa Şehriye",
+      "en": "Chicken and Vegetable Orzo"
+    },
+    "description": {
+      "tr": "10 aylık bebekler için yumuşak, kaşıkla yenebilen sıcak bir tabak.",
+      "en": "A soft spoonable warm dish for 10-month-olds."
+    },
+    "category": 14,
+    "ingredients": [
+      {
+        "amount": 2,
+        "unit": {
+          "tr": "yemek kaşığı",
+          "en": "tbsp"
+        },
+        "baseName": {
+          "tr": "arpa şehriye",
+          "en": "orzo"
+        },
+        "shoppingLabel": {
+          "tr": "arpa şehriye",
+          "en": "orzo"
+        }
+      },
+      {
+        "amount": 40,
+        "unit": {
+          "tr": "gram",
+          "en": "g"
+        },
+        "baseName": {
+          "tr": "haşlanmış tavuk",
+          "en": "cooked chicken"
+        },
+        "shoppingLabel": {
+          "tr": "haşlanmış tavuk",
+          "en": "cooked chicken"
+        }
+      },
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "adet",
+          "en": "piece"
+        },
+        "baseName": {
+          "tr": "havuç",
+          "en": "carrot"
+        },
+        "shoppingLabel": {
+          "tr": "havuç",
+          "en": "carrot"
+        }
+      },
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "adet",
+          "en": "piece"
+        },
+        "baseName": {
+          "tr": "kabak",
+          "en": "courgette"
+        },
+        "shoppingLabel": {
+          "tr": "kabak",
+          "en": "courgette"
+        }
+      },
+      {
+        "amount": 2,
+        "unit": {
+          "tr": "su bardağı",
+          "en": "cups"
+        },
+        "baseName": {
+          "tr": "su",
+          "en": "water"
+        },
+        "shoppingLabel": {
+          "tr": "içme suyu",
+          "en": "drinking water"
+        }
+      }
+    ],
+    "preparationTime": 25,
+    "calories": 120,
+    "suitableAgeInMonths": 10,
+    "allergicIngredients": [
+      {
+        "tr": "buğday",
+        "en": "wheat"
+      }
+    ],
+    "instructions": [
+      {
+        "tr": "Sebzeleri minik doğrayıp yumuşatın.",
+        "en": "Dice the vegetables very small and soften them."
+      },
+      {
+        "tr": "Arpa şehriyeyi ve tavuğu ekleyip pişirin.",
+        "en": "Add the orzo and chicken, then cook."
+      },
+      {
+        "tr": "Yumuşak kıvamda servis edin.",
+        "en": "Serve with a soft texture."
+      }
+    ],
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/bebeks-44765.firebasestorage.app/o/mevsimsel%2Fmevsimsel_017_1785318212687_1200x675.webp?alt=media&token=022188ee-7ab6-4ed9-8f9f-9f282e216d61"
+  },
+  {
+    "id": "mevsimsel_018",
+    "title": {
+      "tr": "Pırasa ve Kırmızı Mercimek Çorbası",
+      "en": "Leek and Red Lentil Soup"
+    },
+    "description": {
+      "tr": "18 aylık çocuklar için hafif taneli, sıcak bir çorba.",
+      "en": "A warm, lightly textured soup for 18-month-olds."
+    },
+    "category": 14,
+    "ingredients": [
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "adet",
+          "en": "piece"
+        },
+        "baseName": {
+          "tr": "pırasa",
+          "en": "leek"
+        },
+        "shoppingLabel": {
+          "tr": "pırasa",
+          "en": "leek"
+        }
+      },
+      {
+        "amount": 4,
+        "unit": {
+          "tr": "yemek kaşığı",
+          "en": "tbsp"
+        },
+        "baseName": {
+          "tr": "kırmızı mercimek",
+          "en": "red lentils"
+        },
+        "shoppingLabel": {
+          "tr": "kırmızı mercimek",
+          "en": "red lentils"
+        }
+      },
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "adet",
+          "en": "piece"
+        },
+        "baseName": {
+          "tr": "havuç",
+          "en": "carrot"
+        },
+        "shoppingLabel": {
+          "tr": "havuç",
+          "en": "carrot"
+        }
+      },
+      {
+        "amount": 2,
+        "unit": {
+          "tr": "su bardağı",
+          "en": "cups"
+        },
+        "baseName": {
+          "tr": "su",
+          "en": "water"
+        },
+        "shoppingLabel": {
+          "tr": "içme suyu",
+          "en": "drinking water"
+        }
+      },
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "çay kaşığı",
+          "en": "tsp"
+        },
+        "baseName": {
+          "tr": "zeytinyağı",
+          "en": "olive oil"
+        },
+        "shoppingLabel": {
+          "tr": "zeytinyağı",
+          "en": "olive oil"
+        }
+      }
+    ],
+    "preparationTime": 30,
+    "calories": 100,
+    "suitableAgeInMonths": 18,
+    "allergicIngredients": [
+      {
+        "tr": "yok",
+        "en": "none"
+      }
+    ],
+    "instructions": [
+      {
+        "tr": "Pırasa ve havucu yumuşayana dek pişirin.",
+        "en": "Cook the leek and carrot until soft."
+      },
+      {
+        "tr": "Mercimeği ekleyip tamamen dağılana kadar pişirin.",
+        "en": "Add the lentils and cook until they fully soften."
+      },
+      {
+        "tr": "Hafif taneli bırakıp servis edin.",
+        "en": "Serve with a light texture."
+      }
+    ],
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/bebeks-44765.firebasestorage.app/o/mevsimsel%2Fmevsimsel_018_1785318233641_1200x675.webp?alt=media&token=9c864118-0e65-4b52-afcf-bd5c25bc7c71"
+  },
+  {
+    "id": "mevsimsel_019",
+    "title": {
+      "tr": "Köfteli Karnabahar Beşamel",
+      "en": "Meatball Cauliflower Bake with Béchamel"
+    },
+    "description": {
+      "tr": "14 aylık çocuklar için yumuşak parçalı, fırında hafif bir tabak.",
+      "en": "A soft, baked dish with small pieces for 14-month-olds."
+    },
+    "category": 14,
+    "ingredients": [
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "küçük baş",
+          "en": "small head"
+        },
+        "baseName": {
+          "tr": "karnabahar",
+          "en": "cauliflower"
+        },
+        "shoppingLabel": {
+          "tr": "karnabahar",
+          "en": "cauliflower"
+        }
+      },
+      {
+        "amount": 60,
+        "unit": {
+          "tr": "gram",
+          "en": "g"
+        },
+        "baseName": {
+          "tr": "dana kıyma",
+          "en": "beef mince"
+        },
+        "shoppingLabel": {
+          "tr": "dana kıyma",
+          "en": "beef mince"
+        }
+      },
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "yemek kaşığı",
+          "en": "tbsp"
+        },
+        "baseName": {
+          "tr": "un",
+          "en": "flour"
+        },
+        "shoppingLabel": {
+          "tr": "un",
+          "en": "flour"
+        }
+      },
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "su bardağı",
+          "en": "cup"
+        },
+        "baseName": {
+          "tr": "pastörize süt",
+          "en": "pasteurised milk"
+        },
+        "shoppingLabel": {
+          "tr": "pastörize süt",
+          "en": "pasteurised milk"
+        }
+      },
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "çay kaşığı",
+          "en": "tsp"
+        },
+        "baseName": {
+          "tr": "zeytinyağı",
+          "en": "olive oil"
+        },
+        "shoppingLabel": {
+          "tr": "zeytinyağı",
+          "en": "olive oil"
+        }
+      }
+    ],
+    "preparationTime": 40,
+    "calories": 180,
+    "suitableAgeInMonths": 14,
+    "allergicIngredients": [
+      {
+        "tr": "süt",
+        "en": "milk"
+      },
+      {
+        "tr": "buğday",
+        "en": "wheat"
+      }
+    ],
+    "instructions": [
+      {
+        "tr": "Karnabaharı yumuşayana dek haşlayın.",
+        "en": "Boil the cauliflower until soft."
+      },
+      {
+        "tr": "Kıymadan minik köfteler yapıp iyice pişirin.",
+        "en": "Shape tiny meatballs and cook them through."
+      },
+      {
+        "tr": "Sosla birleştirip fırında kısa süre pişirin.",
+        "en": "Combine with the sauce and bake briefly."
+      }
+    ],
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/bebeks-44765.firebasestorage.app/o/mevsimsel%2Fmevsimsel_019_1785318258013_1200x675.webp?alt=media&token=5da96745-415c-4a0c-a0b5-c939266e2b72"
+  },
+  {
+    "id": "mevsimsel_020",
+    "title": {
+      "tr": "Kabaklı Nohut Ezmesi",
+      "en": "Courgette Chickpea Purée"
+    },
+    "description": {
+      "tr": "13 aylık çocuklar için ezilebilir, hafif pütürlü bir öğün.",
+      "en": "A mashable, lightly textured meal for 13-month-olds."
+    },
+    "category": 14,
+    "ingredients": [
+      {
+        "amount": 4,
+        "unit": {
+          "tr": "yemek kaşığı",
+          "en": "tbsp"
+        },
+        "baseName": {
+          "tr": "haşlanmış nohut",
+          "en": "cooked chickpeas"
+        },
+        "shoppingLabel": {
+          "tr": "nohut",
+          "en": "chickpeas"
+        }
+      },
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "adet",
+          "en": "piece"
+        },
+        "baseName": {
+          "tr": "kabak",
+          "en": "courgette"
+        },
+        "shoppingLabel": {
+          "tr": "kabak",
+          "en": "courgette"
+        }
+      },
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "çay kaşığı",
+          "en": "tsp"
+        },
+        "baseName": {
+          "tr": "zeytinyağı",
+          "en": "olive oil"
+        },
+        "shoppingLabel": {
+          "tr": "zeytinyağı",
+          "en": "olive oil"
+        }
+      }
+    ],
+    "preparationTime": 20,
+    "calories": 95,
+    "suitableAgeInMonths": 13,
+    "allergicIngredients": [
+      {
+        "tr": "yok",
+        "en": "none"
+      }
+    ],
+    "instructions": [
+      {
+        "tr": "Kabağı yumuşayana kadar pişirin.",
+        "en": "Cook the courgette until soft."
+      },
+      {
+        "tr": "Nohutla birlikte ezerek karıştırın.",
+        "en": "Mash and mix with the chickpeas."
+      },
+      {
+        "tr": "Hafif pütürlü kıvamda servis edin.",
+        "en": "Serve with a lightly textured consistency."
+      }
+    ],
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/bebeks-44765.firebasestorage.app/o/mevsimsel%2Fmevsimsel_020_1785318274074_1200x675.webp?alt=media&token=0883a153-acf6-43c9-8c58-46b51aae5283"
+  },
+  {
+    "id": "mevsimsel_021",
+    "title": {
+      "tr": "Ispanaklı Pirinç Pilavı",
+      "en": "Spinach Rice Pilaf"
+    },
+    "description": {
+      "tr": "16 aylık çocuklar için yumuşak, tane tane ama kolay çiğnenen bir pilav.",
+      "en": "A soft, separate-grain but easy-to-chew pilaf for 16-month-olds."
+    },
+    "category": 14,
+    "ingredients": [
+      {
+        "amount": 4,
+        "unit": {
+          "tr": "yemek kaşığı",
+          "en": "tbsp"
+        },
+        "baseName": {
+          "tr": "pirinç",
+          "en": "rice"
+        },
+        "shoppingLabel": {
+          "tr": "pirinç",
+          "en": "rice"
+        }
+      },
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "avuç",
+          "en": "handful"
+        },
+        "baseName": {
+          "tr": "ıspanak",
+          "en": "spinach"
+        },
+        "shoppingLabel": {
+          "tr": "ıspanak",
+          "en": "spinach"
+        }
+      },
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "adet",
+          "en": "piece"
+        },
+        "baseName": {
+          "tr": "küçük havuç",
+          "en": "small carrot"
+        },
+        "shoppingLabel": {
+          "tr": "küçük havuç",
+          "en": "small carrot"
+        }
+      },
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "yemek kaşığı",
+          "en": "tbsp"
+        },
+        "baseName": {
+          "tr": "zeytinyağı",
+          "en": "olive oil"
+        },
+        "shoppingLabel": {
+          "tr": "zeytinyağı",
+          "en": "olive oil"
+        }
+      }
+    ],
+    "preparationTime": 25,
+    "calories": 125,
+    "suitableAgeInMonths": 16,
+    "allergicIngredients": [
+      {
+        "tr": "yok",
+        "en": "none"
+      }
+    ],
+    "instructions": [
+      {
+        "tr": "Pirinci ve rendelenmiş havucu birlikte pişirin.",
+        "en": "Cook the rice with the grated carrot."
+      },
+      {
+        "tr": "Ispanağı ekleyip yumuşayınca ocaktan alın.",
+        "en": "Add the spinach and remove from heat once soft."
+      },
+      {
+        "tr": "Taneler yumuşak kalacak şekilde servis edin.",
+        "en": "Serve with very soft grains."
+      }
+    ],
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/bebeks-44765.firebasestorage.app/o/mevsimsel%2Fmevsimsel_021_1785318296792_1200x675.webp?alt=media&token=2a1cd351-c181-42fd-a052-b83110bcda07"
+  },
+  {
+    "id": "mevsimsel_022",
+    "title": {
+      "tr": "Armutlu İrmik Lapası",
+      "en": "Pear Semolina Porridge"
+    },
+    "description": {
+      "tr": "6 aylık bebekler için çok yumuşak, akışkan bir başlangıç öğünü.",
+      "en": "A very soft, spoonable starter meal for 6-month-olds."
+    },
+    "category": 14,
+    "ingredients": [
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "adet",
+          "en": "piece"
+        },
+        "baseName": {
+          "tr": "armut",
+          "en": "pear"
+        },
+        "shoppingLabel": {
+          "tr": "armut",
+          "en": "pear"
+        }
+      },
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "yemek kaşığı",
+          "en": "tbsp"
+        },
+        "baseName": {
+          "tr": "ince irmik",
+          "en": "fine semolina"
+        },
+        "shoppingLabel": {
+          "tr": "ince irmik",
+          "en": "fine semolina"
+        }
+      },
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "su bardağı",
+          "en": "cup"
+        },
+        "baseName": {
+          "tr": "su",
+          "en": "water"
+        },
+        "shoppingLabel": {
+          "tr": "içme suyu",
+          "en": "drinking water"
+        }
+      }
+    ],
+    "preparationTime": 15,
+    "calories": 60,
+    "suitableAgeInMonths": 6,
+    "allergicIngredients": [
+      {
+        "tr": "buğday",
+        "en": "wheat"
+      }
+    ],
+    "instructions": [
+      {
+        "tr": "Armutu soyup çok yumuşayana kadar pişirin.",
+        "en": "Peel the pear and cook until very soft."
+      },
+      {
+        "tr": "İrmiği suyla kısa süre pişirip yumuşatın.",
+        "en": "Cook the semolina briefly with water until soft."
+      },
+      {
+        "tr": "İkisini pürüzsüz hale getirip ılıtarak verin.",
+        "en": "Blend or mash until smooth and serve warm."
+      }
+    ],
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/bebeks-44765.firebasestorage.app/o/mevsimsel%2Fmevsimsel_022_1785318316408_1200x675.webp?alt=media&token=8dd8f62c-1099-4c07-9c79-87ae345e8405"
+  },
+  {
+    "id": "mevsimsel_023",
+    "title": {
+      "tr": "Mercimekli Havuç Püresi",
+      "en": "Lentil Carrot Purée"
+    },
+    "description": {
+      "tr": "7 aylık bebekler için yumuşak, tek kaşıkla kolay alınan bir püre.",
+      "en": "A soft purée for 7-month-olds, easy to spoon up."
+    },
+    "category": 14,
+    "ingredients": [
+      {
+        "amount": 3,
+        "unit": {
+          "tr": "yemek kaşığı",
+          "en": "tbsp"
+        },
+        "baseName": {
+          "tr": "kırmızı mercimek",
+          "en": "red lentils"
+        },
+        "shoppingLabel": {
+          "tr": "kırmızı mercimek",
+          "en": "red lentils"
+        }
+      },
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "adet",
+          "en": "piece"
+        },
+        "baseName": {
+          "tr": "havuç",
+          "en": "carrot"
+        },
+        "shoppingLabel": {
+          "tr": "havuç",
+          "en": "carrot"
+        }
+      },
+      {
+        "amount": 2,
+        "unit": {
+          "tr": "su bardağı",
+          "en": "cups"
+        },
+        "baseName": {
+          "tr": "su",
+          "en": "water"
+        },
+        "shoppingLabel": {
+          "tr": "içme suyu",
+          "en": "drinking water"
+        }
+      },
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "çay kaşığı",
+          "en": "tsp"
+        },
+        "baseName": {
+          "tr": "zeytinyağı",
+          "en": "olive oil"
+        },
+        "shoppingLabel": {
+          "tr": "zeytinyağı",
+          "en": "olive oil"
+        }
+      }
+    ],
+    "preparationTime": 25,
+    "calories": 90,
+    "suitableAgeInMonths": 7,
+    "allergicIngredients": [
+      {
+        "tr": "yok",
+        "en": "none"
+      }
+    ],
+    "instructions": [
+      {
+        "tr": "Mercimek ve havucu çok yumuşayana kadar pişirin.",
+        "en": "Cook the lentils and carrot until very soft."
+      },
+      {
+        "tr": "Pürüzsüz bir püre haline getirin.",
+        "en": "Blend into a smooth purée."
+      },
+      {
+        "tr": "Zeytinyağı ekleyip ılıtın.",
+        "en": "Add olive oil and let it warm slightly."
+      }
+    ],
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/bebeks-44765.firebasestorage.app/o/mevsimsel%2Fmevsimsel_023_1785318344015_1200x675.webp?alt=media&token=c0d2f411-a698-4c65-8d0a-016aec8c273f"
+  },
+  {
+    "id": "mevsimsel_024",
+    "title": {
+      "tr": "Fırında Elmalı Balkabağı Dilimleri",
+      "en": "Baked Apple Pumpkin Slices"
+    },
+    "description": {
+      "tr": "11 aylık bebekler için çok yumuşak, ezilebilir meyve-sebze atıştırması.",
+      "en": "Very soft, mashable fruit and vegetable snack for 11-month-olds."
+    },
+    "category": 14,
+    "ingredients": [
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "su bardağı",
+          "en": "cup"
+        },
+        "baseName": {
+          "tr": "balkabağı",
+          "en": "pumpkin"
+        },
+        "shoppingLabel": {
+          "tr": "balkabağı",
+          "en": "pumpkin"
+        }
+      },
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "adet",
+          "en": "piece"
+        },
+        "baseName": {
+          "tr": "elma",
+          "en": "apple"
+        },
+        "shoppingLabel": {
+          "tr": "elma",
+          "en": "apple"
+        }
+      },
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "çay kaşığı",
+          "en": "tsp"
+        },
+        "baseName": {
+          "tr": "zeytinyağı",
+          "en": "olive oil"
+        },
+        "shoppingLabel": {
+          "tr": "zeytinyağı",
+          "en": "olive oil"
+        }
+      }
+    ],
+    "preparationTime": 25,
+    "calories": 55,
+    "suitableAgeInMonths": 11,
+    "allergicIngredients": [
+      {
+        "tr": "yok",
+        "en": "none"
+      }
+    ],
+    "instructions": [
+      {
+        "tr": "Balkabağı ve elmayı ince dilimleyin.",
+        "en": "Slice the pumpkin and apple thinly."
+      },
+      {
+        "tr": "Fırında çok yumuşayana kadar pişirin.",
+        "en": "Bake until very soft."
+      },
+      {
+        "tr": "Parçaları çatalla ezerek servis edin.",
+        "en": "Mash lightly with a fork and serve."
+      }
+    ],
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/bebeks-44765.firebasestorage.app/o/mevsimsel%2Fmevsimsel_024_1785318369073_1200x675.webp?alt=media&token=7176dea5-9961-4046-ba0d-eaa66a311949"
+  },
+  {
+    "id": "mevsimsel_025",
+    "title": {
+      "tr": "Balkabağı ve Kıymalı Fırın Oturtma",
+      "en": "Pumpkin and Mince Oven Bake"
+    },
+    "description": {
+      "tr": "17 aylık çocuklar için yumuşak, küçük parçalı doyurucu bir yemek.",
+      "en": "A filling soft dish with small pieces for 17-month-olds."
+    },
+    "category": 14,
+    "ingredients": [
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "su bardağı",
+          "en": "cup"
+        },
+        "baseName": {
+          "tr": "balkabağı",
+          "en": "pumpkin"
+        },
+        "shoppingLabel": {
+          "tr": "balkabağı",
+          "en": "pumpkin"
+        }
+      },
+      {
+        "amount": 60,
+        "unit": {
+          "tr": "gram",
+          "en": "g"
+        },
+        "baseName": {
+          "tr": "dana kıyma",
+          "en": "beef mince"
+        },
+        "shoppingLabel": {
+          "tr": "dana kıyma",
+          "en": "beef mince"
+        }
+      },
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "adet",
+          "en": "piece"
+        },
+        "baseName": {
+          "tr": "soğan",
+          "en": "onion"
+        },
+        "shoppingLabel": {
+          "tr": "soğan",
+          "en": "onion"
+        }
+      },
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "yemek kaşığı",
+          "en": "tbsp"
+        },
+        "baseName": {
+          "tr": "zeytinyağı",
+          "en": "olive oil"
+        },
+        "shoppingLabel": {
+          "tr": "zeytinyağı",
+          "en": "olive oil"
+        }
+      }
+    ],
+    "preparationTime": 40,
+    "calories": 160,
+    "suitableAgeInMonths": 17,
+    "allergicIngredients": [
+      {
+        "tr": "yok",
+        "en": "none"
+      }
+    ],
+    "instructions": [
+      {
+        "tr": "Soğanı çok yumuşatıp kıymayla pişirin.",
+        "en": "Soften the onion well and cook with the mince."
+      },
+      {
+        "tr": "Balkabağını ayrı pişirip küçük parçalara ayırın.",
+        "en": "Cook the pumpkin separately and break into small pieces."
+      },
+      {
+        "tr": "Birleştirip fırında kısa süre tamamlayın.",
+        "en": "Combine and finish briefly in the oven."
+      }
+    ],
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/bebeks-44765.firebasestorage.app/o/mevsimsel%2Fmevsimsel_025_1785318393487_1200x675.webp?alt=media&token=ddc4edab-3538-47c4-87e0-fc75f60420ce"
+  },
+  {
+    "id": "mevsimsel_026",
+    "title": {
+      "tr": "Pancar ve Elma Püresi",
+      "en": "Beetroot and Apple Purée"
+    },
+    "description": {
+      "tr": "9 aylık bebekler için yumuşak, parlak renkli bir püre.",
+      "en": "A soft, brightly coloured purée for 9-month-olds."
+    },
+    "category": 14,
+    "ingredients": [
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "adet",
+          "en": "piece"
+        },
+        "baseName": {
+          "tr": "küçük pancar",
+          "en": "small beetroot"
+        },
+        "shoppingLabel": {
+          "tr": "küçük pancar",
+          "en": "small beetroot"
+        }
+      },
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "adet",
+          "en": "piece"
+        },
+        "baseName": {
+          "tr": "elma",
+          "en": "apple"
+        },
+        "shoppingLabel": {
+          "tr": "elma",
+          "en": "apple"
+        }
+      },
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "çay kaşığı",
+          "en": "tsp"
+        },
+        "baseName": {
+          "tr": "zeytinyağı",
+          "en": "olive oil"
+        },
+        "shoppingLabel": {
+          "tr": "zeytinyağı",
+          "en": "olive oil"
+        }
+      }
+    ],
+    "preparationTime": 25,
+    "calories": 50,
+    "suitableAgeInMonths": 9,
+    "allergicIngredients": [
+      {
+        "tr": "yok",
+        "en": "none"
+      }
+    ],
+    "instructions": [
+      {
+        "tr": "Pancar ve elmayı çok yumuşayana kadar pişirin.",
+        "en": "Cook the beetroot and apple until very soft."
+      },
+      {
+        "tr": "Pürüzsüz bir püre haline getirin.",
+        "en": "Blend into a smooth purée."
+      },
+      {
+        "tr": "Ilıtarak servis edin.",
+        "en": "Serve warm."
+      }
+    ],
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/bebeks-44765.firebasestorage.app/o/mevsimsel%2Fmevsimsel_026_1785318416974_1200x675.webp?alt=media&token=4695a239-4de9-4465-84be-2b61809760ac"
   }
 ]

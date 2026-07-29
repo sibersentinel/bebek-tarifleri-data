@@ -520,5 +520,1094 @@
       }
     ],
     "imageUrl": "https://firebasestorage.googleapis.com/v0/b/bebeks-44765.firebasestorage.app/o/gazsiz%2FZencefil_C%CC%A7ay%C4%B1_(2)_202607031356_1200x675.webp?alt=media&token=805a9bb3-c366-4295-ad1c-960148c3aa54"
+  },
+  {
+    "id": "gazsiz_011",
+    "title": {
+      "tr": "Fırın Kabağı ve Yumurta Sarısı",
+      "en": "Baked Pumpkin and Egg Yolk"
+    },
+    "description": {
+      "tr": "Yumuşak dokulu, küçük parçalara uygun sıcak bir ara öğün.",
+      "en": "A warm snack with a soft texture, suitable for small pieces."
+    },
+    "category": 18,
+    "ingredients": [
+      {
+        "amount": 80,
+        "unit": {
+          "tr": "g",
+          "en": "g"
+        },
+        "baseName": {
+          "tr": "kabak",
+          "en": "pumpkin"
+        },
+        "shoppingLabel": {
+          "tr": "kabak",
+          "en": "pumpkin"
+        }
+      },
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "adet",
+          "en": "pc"
+        },
+        "baseName": {
+          "tr": "yumurta sarısı",
+          "en": "egg yolk"
+        },
+        "shoppingLabel": {
+          "tr": "yumurta",
+          "en": "egg"
+        }
+      },
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "tatlı kaşığı",
+          "en": "tsp"
+        },
+        "baseName": {
+          "tr": "zeytinyağı",
+          "en": "olive oil"
+        },
+        "shoppingLabel": {
+          "tr": "zeytinyağı",
+          "en": "olive oil"
+        }
+      }
+    ],
+    "preparationTime": 20,
+    "calories": 85,
+    "suitableAgeInMonths": 10,
+    "allergicIngredients": [
+      {
+        "tr": "yumurta",
+        "en": "egg"
+      }
+    ],
+    "instructions": [
+      {
+        "tr": "Kabağı küp doğrayıp buharda yumuşatın.",
+        "en": "Cut the pumpkin into cubes and steam until soft."
+      },
+      {
+        "tr": "Yumurta sarısını ayrı pişirin ve ezin.",
+        "en": "Cook the egg yolk separately and mash it."
+      },
+      {
+        "tr": "Kabağı çatalla hafif parçalı bırakın, sarı ve zeytinyağıyla karıştırın.",
+        "en": "Leave the pumpkin slightly chunky, then mix with the yolk and olive oil."
+      }
+    ],
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/bebeks-44765.firebasestorage.app/o/gazsiz%2Fgazsiz_011_1785315221235_1200x675.webp?alt=media&token=f4491493-cf8e-4bd6-8c52-b677c111cfa2"
+  },
+  {
+    "id": "gazsiz_012",
+    "title": {
+      "tr": "Kıymalı Karnabahar Yemeği",
+      "en": "Cauliflower with Minced Meat"
+    },
+    "description": {
+      "tr": "Küçük yumuşak parçalarla sunulan doyurucu bir ev yemeği.",
+      "en": "A filling home meal served in small, soft pieces."
+    },
+    "category": 18,
+    "ingredients": [
+      {
+        "amount": 80,
+        "unit": {
+          "tr": "g",
+          "en": "g"
+        },
+        "baseName": {
+          "tr": "karnabahar",
+          "en": "cauliflower"
+        },
+        "shoppingLabel": {
+          "tr": "karnabahar",
+          "en": "cauliflower"
+        }
+      },
+      {
+        "amount": 40,
+        "unit": {
+          "tr": "g",
+          "en": "g"
+        },
+        "baseName": {
+          "tr": "dana kıyma",
+          "en": "ground beef"
+        },
+        "shoppingLabel": {
+          "tr": "dana kıyma",
+          "en": "ground beef"
+        }
+      },
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "çay kaşığı",
+          "en": "tsp"
+        },
+        "baseName": {
+          "tr": "zeytinyağı",
+          "en": "olive oil"
+        },
+        "shoppingLabel": {
+          "tr": "zeytinyağı",
+          "en": "olive oil"
+        }
+      },
+      {
+        "amount": 40,
+        "unit": {
+          "tr": "ml",
+          "en": "ml"
+        },
+        "baseName": {
+          "tr": "su",
+          "en": "water"
+        },
+        "shoppingLabel": {
+          "tr": "su",
+          "en": "water"
+        }
+      }
+    ],
+    "preparationTime": 25,
+    "calories": 145,
+    "suitableAgeInMonths": 16,
+    "allergicIngredients": [],
+    "instructions": [
+      {
+        "tr": "Karnabaharı çok küçük çiçeklere ayırın.",
+        "en": "Break the cauliflower into very small florets."
+      },
+      {
+        "tr": "Kıymayı az suda iyice pişirin.",
+        "en": "Cook the minced meat thoroughly with a little water."
+      },
+      {
+        "tr": "Karnabaharı ekleyip tamamen yumuşayana kadar pişirin.",
+        "en": "Add the cauliflower and cook until fully soft."
+      }
+    ],
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/bebeks-44765.firebasestorage.app/o/gazsiz%2Fgazsiz_012_1785315253906_1200x675.webp?alt=media&token=7672146c-f67e-4440-adbf-5fcb22b0bf98"
+  },
+  {
+    "id": "gazsiz_013",
+    "title": {
+      "tr": "Fırında Balkabaklı Yulaf Ezmesi",
+      "en": "Baked Oats with Pumpkin"
+    },
+    "description": {
+      "tr": "Kaşıkla kolay yenebilen sıcak ve yumuşak bir karışım.",
+      "en": "A warm, soft mix that is easy to eat with a spoon."
+    },
+    "category": 18,
+    "ingredients": [
+      {
+        "amount": 70,
+        "unit": {
+          "tr": "g",
+          "en": "g"
+        },
+        "baseName": {
+          "tr": "balkabağı",
+          "en": "pumpkin"
+        },
+        "shoppingLabel": {
+          "tr": "balkabağı",
+          "en": "pumpkin"
+        }
+      },
+      {
+        "amount": 3,
+        "unit": {
+          "tr": "yemek kaşığı",
+          "en": "tbsp"
+        },
+        "baseName": {
+          "tr": "yulaf ezmesi",
+          "en": "oat flakes"
+        },
+        "shoppingLabel": {
+          "tr": "yulaf ezmesi",
+          "en": "oat flakes"
+        }
+      },
+      {
+        "amount": 90,
+        "unit": {
+          "tr": "ml",
+          "en": "ml"
+        },
+        "baseName": {
+          "tr": "anne sütü veya su",
+          "en": "breast milk or water"
+        },
+        "shoppingLabel": {
+          "tr": "anne sütü veya su",
+          "en": "breast milk or water"
+        }
+      },
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "çay kaşığı",
+          "en": "tsp"
+        },
+        "baseName": {
+          "tr": "zeytinyağı",
+          "en": "olive oil"
+        },
+        "shoppingLabel": {
+          "tr": "zeytinyağı",
+          "en": "olive oil"
+        }
+      }
+    ],
+    "preparationTime": 20,
+    "calories": 120,
+    "suitableAgeInMonths": 10,
+    "allergicIngredients": [
+      {
+        "tr": "glüten",
+        "en": "gluten"
+      }
+    ],
+    "instructions": [
+      {
+        "tr": "Balkabağını haşlayıp ezin.",
+        "en": "Boil the pumpkin and mash it."
+      },
+      {
+        "tr": "Yulaf ve sıvıyla karıştırıp kısa süre fırınlayın.",
+        "en": "Mix with oats and liquid, then bake briefly."
+      },
+      {
+        "tr": "Ilıkken yumuşak kıvamda servis edin.",
+        "en": "Serve warm with a soft texture."
+      }
+    ],
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/bebeks-44765.firebasestorage.app/o/gazsiz%2Fgazsiz_013_1785315274777_1200x675.webp?alt=media&token=9472e377-1d02-4892-bdda-2f1e90c70e32"
+  },
+  {
+    "id": "gazsiz_014",
+    "title": {
+      "tr": "Fırında Elmalı Yulaf Topları",
+      "en": "Baked Apple Oat Bites"
+    },
+    "description": {
+      "tr": "Küçük, yumuşak ve elde tutmaya uygun minik atıştırmalıklar.",
+      "en": "Small, soft bites suitable for holding by hand."
+    },
+    "category": 18,
+    "ingredients": [
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "adet",
+          "en": "pc"
+        },
+        "baseName": {
+          "tr": "elma",
+          "en": "apple"
+        },
+        "shoppingLabel": {
+          "tr": "elma",
+          "en": "apple"
+        }
+      },
+      {
+        "amount": 4,
+        "unit": {
+          "tr": "yemek kaşığı",
+          "en": "tbsp"
+        },
+        "baseName": {
+          "tr": "yulaf unu",
+          "en": "oat flour"
+        },
+        "shoppingLabel": {
+          "tr": "yulaf unu",
+          "en": "oat flour"
+        }
+      },
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "adet",
+          "en": "pc"
+        },
+        "baseName": {
+          "tr": "yumurta",
+          "en": "egg"
+        },
+        "shoppingLabel": {
+          "tr": "yumurta",
+          "en": "egg"
+        }
+      }
+    ],
+    "preparationTime": 20,
+    "calories": 95,
+    "suitableAgeInMonths": 15,
+    "allergicIngredients": [
+      {
+        "tr": "yumurta",
+        "en": "egg"
+      },
+      {
+        "tr": "glüten",
+        "en": "gluten"
+      }
+    ],
+    "instructions": [
+      {
+        "tr": "Elmayı rendeleyip suyunu hafifçe çekene kadar pişirin.",
+        "en": "Grate the apple and cook until some moisture is lost."
+      },
+      {
+        "tr": "Yulaf unu ve yumurta ile karıştırın.",
+        "en": "Mix with oat flour and egg."
+      },
+      {
+        "tr": "Minik toplar yapıp tamamen pişene kadar fırınlayın.",
+        "en": "Shape small bites and bake until fully cooked."
+      }
+    ],
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/bebeks-44765.firebasestorage.app/o/gazsiz%2Fgazsiz_014_1785315298044_1200x675.webp?alt=media&token=86e64ae3-fbb4-4cc4-b88c-16553454ecd2"
+  },
+  {
+    "id": "gazsiz_015",
+    "title": {
+      "tr": "Tarhunlu Pırasa Tenceresi",
+      "en": "Leek Pot with Tarragon"
+    },
+    "description": {
+      "tr": "Lifleri yumuşatılmış, hafif aromalı bir sebze yemeği.",
+      "en": "A lightly aromatic vegetable dish with softened fibers."
+    },
+    "category": 18,
+    "ingredients": [
+      {
+        "amount": 90,
+        "unit": {
+          "tr": "g",
+          "en": "g"
+        },
+        "baseName": {
+          "tr": "pırasa",
+          "en": "leek"
+        },
+        "shoppingLabel": {
+          "tr": "pırasa",
+          "en": "leek"
+        }
+      },
+      {
+        "amount": 40,
+        "unit": {
+          "tr": "g",
+          "en": "g"
+        },
+        "baseName": {
+          "tr": "patates",
+          "en": "potato"
+        },
+        "shoppingLabel": {
+          "tr": "patates",
+          "en": "potato"
+        }
+      },
+      {
+        "amount": 40,
+        "unit": {
+          "tr": "ml",
+          "en": "ml"
+        },
+        "baseName": {
+          "tr": "su",
+          "en": "water"
+        },
+        "shoppingLabel": {
+          "tr": "su",
+          "en": "water"
+        }
+      },
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "çay kaşığı",
+          "en": "tsp"
+        },
+        "baseName": {
+          "tr": "zeytinyağı",
+          "en": "olive oil"
+        },
+        "shoppingLabel": {
+          "tr": "zeytinyağı",
+          "en": "olive oil"
+        }
+      }
+    ],
+    "preparationTime": 25,
+    "calories": 105,
+    "suitableAgeInMonths": 12,
+    "allergicIngredients": [],
+    "instructions": [
+      {
+        "tr": "Pırasayı ince ince doğrayıp iyice yumuşatın.",
+        "en": "Slice the leek thinly and cook until very soft."
+      },
+      {
+        "tr": "Patatesi ekleyip birlikte pişirin.",
+        "en": "Add the potato and cook together."
+      },
+      {
+        "tr": "İsterseniz çok az tarhunla kokulandırıp ezerek verin.",
+        "en": "If desired, scent lightly with a little tarragon and mash before serving."
+      }
+    ],
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/bebeks-44765.firebasestorage.app/o/gazsiz%2Fgazsiz_015_1785315324945_1200x675.webp?alt=media&token=e17a6dfb-d102-4ae8-a639-ae72645cee3c"
+  },
+  {
+    "id": "gazsiz_016",
+    "title": {
+      "tr": "Şeftalili Sütlaç Kıvamı",
+      "en": "Rice Pudding Texture with Peach"
+    },
+    "description": {
+      "tr": "Pürüzsüz ve yumuşak, kaşıkla yenebilen hafif bir karışım.",
+      "en": "A smooth and soft spoonable mix."
+    },
+    "category": 18,
+    "ingredients": [
+      {
+        "amount": 120,
+        "unit": {
+          "tr": "ml",
+          "en": "ml"
+        },
+        "baseName": {
+          "tr": "pastörize süt",
+          "en": "pasteurized milk"
+        },
+        "shoppingLabel": {
+          "tr": "pastörize süt",
+          "en": "pasteurized milk"
+        }
+      },
+      {
+        "amount": 2,
+        "unit": {
+          "tr": "yemek kaşığı",
+          "en": "tbsp"
+        },
+        "baseName": {
+          "tr": "pirinç unu",
+          "en": "rice flour"
+        },
+        "shoppingLabel": {
+          "tr": "pirinç unu",
+          "en": "rice flour"
+        }
+      },
+      {
+        "amount": 70,
+        "unit": {
+          "tr": "g",
+          "en": "g"
+        },
+        "baseName": {
+          "tr": "şeftali",
+          "en": "peach"
+        },
+        "shoppingLabel": {
+          "tr": "şeftali",
+          "en": "peach"
+        }
+      }
+    ],
+    "preparationTime": 15,
+    "calories": 125,
+    "suitableAgeInMonths": 9,
+    "allergicIngredients": [
+      {
+        "tr": "süt",
+        "en": "milk"
+      }
+    ],
+    "instructions": [
+      {
+        "tr": "Sütle pirinç ununu karıştırıp pişirin.",
+        "en": "Cook the rice flour with milk, stirring well."
+      },
+      {
+        "tr": "Şeftaliyi ayrı yumuşatıp püre yapın.",
+        "en": "Softly cook the peach separately and puree it."
+      },
+      {
+        "tr": "İkisini birleştirip ılık servis edin.",
+        "en": "Combine both and serve warm."
+      }
+    ],
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/bebeks-44765.firebasestorage.app/o/gazsiz%2Fgazsiz_016_1785315348856_1200x675.webp?alt=media&token=1209140c-4098-458c-9050-41705379a4ef"
+  },
+  {
+    "id": "gazsiz_017",
+    "title": {
+      "tr": "Mercimekli Kabak Ezmesi",
+      "en": "Mashed Pumpkin with Lentils"
+    },
+    "description": {
+      "tr": "Yumuşak, hafif taneli ve besleyici bir öğün.",
+      "en": "A soft, slightly textured, nourishing meal."
+    },
+    "category": 18,
+    "ingredients": [
+      {
+        "amount": 70,
+        "unit": {
+          "tr": "g",
+          "en": "g"
+        },
+        "baseName": {
+          "tr": "kabak",
+          "en": "pumpkin"
+        },
+        "shoppingLabel": {
+          "tr": "kabak",
+          "en": "pumpkin"
+        }
+      },
+      {
+        "amount": 2,
+        "unit": {
+          "tr": "yemek kaşığı",
+          "en": "tbsp"
+        },
+        "baseName": {
+          "tr": "kırmızı mercimek",
+          "en": "red lentils"
+        },
+        "shoppingLabel": {
+          "tr": "kırmızı mercimek",
+          "en": "red lentils"
+        }
+      },
+      {
+        "amount": 90,
+        "unit": {
+          "tr": "ml",
+          "en": "ml"
+        },
+        "baseName": {
+          "tr": "su",
+          "en": "water"
+        },
+        "shoppingLabel": {
+          "tr": "su",
+          "en": "water"
+        }
+      },
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "çay kaşığı",
+          "en": "tsp"
+        },
+        "baseName": {
+          "tr": "zeytinyağı",
+          "en": "olive oil"
+        },
+        "shoppingLabel": {
+          "tr": "zeytinyağı",
+          "en": "olive oil"
+        }
+      }
+    ],
+    "preparationTime": 25,
+    "calories": 115,
+    "suitableAgeInMonths": 8,
+    "allergicIngredients": [],
+    "instructions": [
+      {
+        "tr": "Mercimeği iyice yıkayıp yumuşayana kadar pişirin.",
+        "en": "Wash the lentils well and cook until soft."
+      },
+      {
+        "tr": "Kabağı ekleyip birlikte ezin.",
+        "en": "Add the pumpkin and mash together."
+      },
+      {
+        "tr": "Pütürlü ama kolay yenir kıvamda sunun.",
+        "en": "Serve with a soft, slightly textured consistency."
+      }
+    ],
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/bebeks-44765.firebasestorage.app/o/gazsiz%2Fgazsiz_017_1785315369979_1200x675.webp?alt=media&token=bdd1c640-6334-4cfa-9e23-1089985155d9"
+  },
+  {
+    "id": "gazsiz_018",
+    "title": {
+      "tr": "Yoğurtlu Ispanak Çorbası",
+      "en": "Yogurt Spinach Soup"
+    },
+    "description": {
+      "tr": "Ilık servis edilen, yumuşak ve kısa süreli pişmiş bir çorba.",
+      "en": "A warm soup cooked briefly and served soft."
+    },
+    "category": 18,
+    "ingredients": [
+      {
+        "amount": 60,
+        "unit": {
+          "tr": "g",
+          "en": "g"
+        },
+        "baseName": {
+          "tr": "ıspanak",
+          "en": "spinach"
+        },
+        "shoppingLabel": {
+          "tr": "ıspanak",
+          "en": "spinach"
+        }
+      },
+      {
+        "amount": 80,
+        "unit": {
+          "tr": "g",
+          "en": "g"
+        },
+        "baseName": {
+          "tr": "pastörize yoğurt",
+          "en": "pasteurized yogurt"
+        },
+        "shoppingLabel": {
+          "tr": "pastörize yoğurt",
+          "en": "pasteurized yogurt"
+        }
+      },
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "yemek kaşığı",
+          "en": "tbsp"
+        },
+        "baseName": {
+          "tr": "un",
+          "en": "flour"
+        },
+        "shoppingLabel": {
+          "tr": "un",
+          "en": "flour"
+        }
+      },
+      {
+        "amount": 120,
+        "unit": {
+          "tr": "ml",
+          "en": "ml"
+        },
+        "baseName": {
+          "tr": "su",
+          "en": "water"
+        },
+        "shoppingLabel": {
+          "tr": "su",
+          "en": "water"
+        }
+      }
+    ],
+    "preparationTime": 20,
+    "calories": 100,
+    "suitableAgeInMonths": 13,
+    "allergicIngredients": [
+      {
+        "tr": "süt",
+        "en": "milk"
+      },
+      {
+        "tr": "glüten",
+        "en": "gluten"
+      }
+    ],
+    "instructions": [
+      {
+        "tr": "Ispanağı iyice yıkayıp çok kısa pişirin.",
+        "en": "Wash the spinach well and cook it very briefly."
+      },
+      {
+        "tr": "Yoğurt ve unu pürüzsüz karıştırın.",
+        "en": "Whisk the yogurt and flour until smooth."
+      },
+      {
+        "tr": "Çorbaya az az ekleyip kısık ateşte pişirin.",
+        "en": "Add to the soup little by little and cook on low heat."
+      }
+    ],
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/bebeks-44765.firebasestorage.app/o/gazsiz%2Fgazsiz_018_1785315390956_1200x675.webp?alt=media&token=733ec361-0928-46b0-80a8-82b4c9293ea1"
+  },
+  {
+    "id": "gazsiz_019",
+    "title": {
+      "tr": "Kabaklı Mini Şehriye Pilavı",
+      "en": "Mini Vermicelli Pilaf with Zucchini"
+    },
+    "description": {
+      "tr": "Yumuşak taneli, küçük kaşık lokmalarına uygun bir pilav.",
+      "en": "A soft-grained pilaf suitable for small spoonfuls."
+    },
+    "category": 18,
+    "ingredients": [
+      {
+        "amount": 50,
+        "unit": {
+          "tr": "g",
+          "en": "g"
+        },
+        "baseName": {
+          "tr": "kabak",
+          "en": "zucchini"
+        },
+        "shoppingLabel": {
+          "tr": "kabak",
+          "en": "zucchini"
+        }
+      },
+      {
+        "amount": 2,
+        "unit": {
+          "tr": "yemek kaşığı",
+          "en": "tbsp"
+        },
+        "baseName": {
+          "tr": "tel şehriye",
+          "en": "vermicelli"
+        },
+        "shoppingLabel": {
+          "tr": "tel şehriye",
+          "en": "vermicelli"
+        }
+      },
+      {
+        "amount": 100,
+        "unit": {
+          "tr": "ml",
+          "en": "ml"
+        },
+        "baseName": {
+          "tr": "su",
+          "en": "water"
+        },
+        "shoppingLabel": {
+          "tr": "su",
+          "en": "water"
+        }
+      },
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "çay kaşığı",
+          "en": "tsp"
+        },
+        "baseName": {
+          "tr": "zeytinyağı",
+          "en": "olive oil"
+        },
+        "shoppingLabel": {
+          "tr": "zeytinyağı",
+          "en": "olive oil"
+        }
+      }
+    ],
+    "preparationTime": 20,
+    "calories": 105,
+    "suitableAgeInMonths": 8,
+    "allergicIngredients": [
+      {
+        "tr": "glüten",
+        "en": "gluten"
+      }
+    ],
+    "instructions": [
+      {
+        "tr": "Kabağı çok küçük küp doğrayın.",
+        "en": "Dice the zucchini very small."
+      },
+      {
+        "tr": "Şehriyeyi az yağla hafifçe çevirin.",
+        "en": "Lightly toast the vermicelli with a little oil."
+      },
+      {
+        "tr": "Su ve kabak ekleyip iyice yumuşatın.",
+        "en": "Add water and zucchini, then cook until very soft."
+      }
+    ],
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/bebeks-44765.firebasestorage.app/o/gazsiz%2Fgazsiz_019_1785315411916_1200x675.webp?alt=media&token=a5a1c429-45b0-4f15-8397-3893d857e95b"
+  },
+  {
+    "id": "gazsiz_020",
+    "title": {
+      "tr": "Bal Kabağı ve Nohut Ezmesi",
+      "en": "Pumpkin and Chickpea Mash"
+    },
+    "description": {
+      "tr": "Yumuşak, tok tutan ve kolay ezilen bir karışım.",
+      "en": "A soft, filling mix that mashes easily."
+    },
+    "category": 18,
+    "ingredients": [
+      {
+        "amount": 80,
+        "unit": {
+          "tr": "g",
+          "en": "g"
+        },
+        "baseName": {
+          "tr": "bal kabağı",
+          "en": "pumpkin"
+        },
+        "shoppingLabel": {
+          "tr": "bal kabağı",
+          "en": "pumpkin"
+        }
+      },
+      {
+        "amount": 3,
+        "unit": {
+          "tr": "yemek kaşığı",
+          "en": "tbsp"
+        },
+        "baseName": {
+          "tr": "haşlanmış nohut",
+          "en": "boiled chickpeas"
+        },
+        "shoppingLabel": {
+          "tr": "nohut",
+          "en": "chickpeas"
+        }
+      },
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "çay kaşığı",
+          "en": "tsp"
+        },
+        "baseName": {
+          "tr": "zeytinyağı",
+          "en": "olive oil"
+        },
+        "shoppingLabel": {
+          "tr": "zeytinyağı",
+          "en": "olive oil"
+        }
+      }
+    ],
+    "preparationTime": 20,
+    "calories": 125,
+    "suitableAgeInMonths": 14,
+    "allergicIngredients": [],
+    "instructions": [
+      {
+        "tr": "Kabak ve nohutu çok iyi yumuşatın.",
+        "en": "Soften the pumpkin and chickpeas very well."
+      },
+      {
+        "tr": "Kabuk kalmayacak şekilde ezin.",
+        "en": "Mash until no skins remain."
+      },
+      {
+        "tr": "İsterseniz biraz suyla açıp servis edin.",
+        "en": "Add a little water if needed and serve."
+      }
+    ],
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/bebeks-44765.firebasestorage.app/o/gazsiz%2Fgazsiz_020_1785315427410_1200x675.webp?alt=media&token=707732d2-92ce-4658-a9ae-44a6f6e1989c"
+  },
+  {
+    "id": "gazsiz_021",
+    "title": {
+      "tr": "Bal Kabağı ve Hindi Köftesi",
+      "en": "Pumpkin and Turkey Meatballs"
+    },
+    "description": {
+      "tr": "Fırında pişmiş, yumuşak ve minik köfte formunda bir öğün.",
+      "en": "An oven-baked meal in soft, tiny meatball form."
+    },
+    "category": 18,
+    "ingredients": [
+      {
+        "amount": 70,
+        "unit": {
+          "tr": "g",
+          "en": "g"
+        },
+        "baseName": {
+          "tr": "hindi kıyma",
+          "en": "ground turkey"
+        },
+        "shoppingLabel": {
+          "tr": "hindi kıyma",
+          "en": "ground turkey"
+        }
+      },
+      {
+        "amount": 50,
+        "unit": {
+          "tr": "g",
+          "en": "g"
+        },
+        "baseName": {
+          "tr": "bal kabağı püresi",
+          "en": "pumpkin puree"
+        },
+        "shoppingLabel": {
+          "tr": "bal kabağı",
+          "en": "pumpkin"
+        }
+      },
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "yemek kaşığı",
+          "en": "tbsp"
+        },
+        "baseName": {
+          "tr": "yulaf unu",
+          "en": "oat flour"
+        },
+        "shoppingLabel": {
+          "tr": "yulaf unu",
+          "en": "oat flour"
+        }
+      }
+    ],
+    "preparationTime": 25,
+    "calories": 140,
+    "suitableAgeInMonths": 17,
+    "allergicIngredients": [
+      {
+        "tr": "glüten",
+        "en": "gluten"
+      }
+    ],
+    "instructions": [
+      {
+        "tr": "Malzemeleri karıştırıp minik köfteler yapın.",
+        "en": "Mix the ingredients and shape tiny meatballs."
+      },
+      {
+        "tr": "Fırında tamamen pişene kadar bekletin.",
+        "en": "Bake until fully cooked."
+      },
+      {
+        "tr": "Yumuşak kalacak şekilde kısa süre dinlendirip servis edin.",
+        "en": "Let rest briefly and serve while soft."
+      }
+    ],
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/bebeks-44765.firebasestorage.app/o/gazsiz%2Fgazsiz_021_1785315446742_1200x675.webp?alt=media&token=c47c8dd7-6973-4b3f-8fe5-d0c56ea464b4"
+  },
+  {
+    "id": "gazsiz_022",
+    "title": {
+      "tr": "Tavuklu Arpa Şehriye Çorbası",
+      "en": "Chicken Orzo Soup"
+    },
+    "description": {
+      "tr": "Yumuşak taneli, sıcak ve kaşıkla kolay yenebilen bir çorba.",
+      "en": "A warm soup with soft grains, easy to eat by spoon."
+    },
+    "category": 18,
+    "ingredients": [
+      {
+        "amount": 35,
+        "unit": {
+          "tr": "g",
+          "en": "g"
+        },
+        "baseName": {
+          "tr": "haşlanmış tavuk",
+          "en": "boiled chicken"
+        },
+        "shoppingLabel": {
+          "tr": "tavuk",
+          "en": "chicken"
+        }
+      },
+      {
+        "amount": 2,
+        "unit": {
+          "tr": "yemek kaşığı",
+          "en": "tbsp"
+        },
+        "baseName": {
+          "tr": "arpa şehriye",
+          "en": "orzo"
+        },
+        "shoppingLabel": {
+          "tr": "arpa şehriye",
+          "en": "orzo"
+        }
+      },
+      {
+        "amount": 150,
+        "unit": {
+          "tr": "ml",
+          "en": "ml"
+        },
+        "baseName": {
+          "tr": "su",
+          "en": "water"
+        },
+        "shoppingLabel": {
+          "tr": "su",
+          "en": "water"
+        }
+      },
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "çay kaşığı",
+          "en": "tsp"
+        },
+        "baseName": {
+          "tr": "zeytinyağı",
+          "en": "olive oil"
+        },
+        "shoppingLabel": {
+          "tr": "zeytinyağı",
+          "en": "olive oil"
+        }
+      }
+    ],
+    "preparationTime": 20,
+    "calories": 130,
+    "suitableAgeInMonths": 18,
+    "allergicIngredients": [
+      {
+        "tr": "glüten",
+        "en": "gluten"
+      }
+    ],
+    "instructions": [
+      {
+        "tr": "Tavuğu didikleyin ve şehriye ile pişirin.",
+        "en": "Shred the chicken and cook with the orzo."
+      },
+      {
+        "tr": "Taneler çok yumuşayınca suyu biraz koyulaştırın.",
+        "en": "Cook until the grains are very soft and the soup slightly thickens."
+      },
+      {
+        "tr": "Ilık ve yumuşak biçimde servis edin.",
+        "en": "Serve warm with a soft texture."
+      }
+    ],
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/bebeks-44765.firebasestorage.app/o/gazsiz%2Fgazsiz_022_1785315469706_1200x675.webp?alt=media&token=9a25146f-9688-4aa1-9043-b1925cddf76b"
   }
 ]
