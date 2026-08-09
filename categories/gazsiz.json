@@ -1609,5 +1609,1142 @@
       }
     ],
     "imageUrl": "https://firebasestorage.googleapis.com/v0/b/bebeks-44765.firebasestorage.app/o/gazsiz%2Fgazsiz_022_1785315469706_1200x675.webp?alt=media&token=9a25146f-9688-4aa1-9043-b1925cddf76b"
+  },
+  {
+    "id": "gazsiz_023",
+    "title": {
+      "tr": "Sebzeli Tavuk Suyunda İrmik Çorbası",
+      "en": "Semolina Soup with Vegetables and Chicken Broth"
+    },
+    "description": {
+      "tr": "Yumuşak sebzeler ve azıcık tavuk suyu ile ılık bir çorba.",
+      "en": "A gentle warm soup with soft vegetables and a little chicken broth."
+    },
+    "category": 18,
+    "ingredients": [
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "yemek kaşığı",
+          "en": "tbsp"
+        },
+        "baseName": {
+          "tr": "irmik",
+          "en": "semolina"
+        },
+        "shoppingLabel": {
+          "tr": "irmik",
+          "en": "semolina"
+        }
+      },
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "adet",
+          "en": "piece"
+        },
+        "baseName": {
+          "tr": "küçük havuç",
+          "en": "small carrot"
+        },
+        "shoppingLabel": {
+          "tr": "küçük havuç",
+          "en": "small carrot"
+        }
+      },
+      {
+        "amount": 2,
+        "unit": {
+          "tr": "yemek kaşığı",
+          "en": "tbsp"
+        },
+        "baseName": {
+          "tr": "kabak",
+          "en": "zucchini"
+        },
+        "shoppingLabel": {
+          "tr": "kabak",
+          "en": "zucchini"
+        }
+      },
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "su bardağı",
+          "en": "cup"
+        },
+        "baseName": {
+          "tr": "tuzsuz tavuk suyu",
+          "en": "unsalted chicken broth"
+        },
+        "shoppingLabel": {
+          "tr": "tuzsuz tavuk suyu",
+          "en": "unsalted chicken broth"
+        }
+      }
+    ],
+    "preparationTime": 25,
+    "calories": 95,
+    "suitableAgeInMonths": 15,
+    "allergicIngredients": [
+      {
+        "tr": "glüten",
+        "en": "gluten"
+      }
+    ],
+    "instructions": [
+      {
+        "tr": "Sebzeleri çok küçük doğrayıp tavuk suyunda iyice yumuşayana kadar pişir.",
+        "en": "Dice the vegetables very small and cook in chicken broth until very soft."
+      },
+      {
+        "tr": "İrmiği ekleyip kısa süre daha karıştırarak pişir.",
+        "en": "Add the semolina and cook briefly while stirring."
+      },
+      {
+        "tr": "Ilıtıp gerekirse çatalla hafif ezerek servis et.",
+        "en": "Cool slightly and serve, lightly mashing if needed."
+      }
+    ],
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/bebeks-44765.firebasestorage.app/o/gazsiz%2Fgazsiz_023_1785741606222_1200x675.webp?alt=media&token=7c7bcd6c-5e49-49ca-b4a5-9d136997b0e8"
+  },
+  {
+    "id": "gazsiz_024",
+    "title": {
+      "tr": "Elmalı Kinoa Lapası",
+      "en": "Apple Quinoa Porridge"
+    },
+    "description": {
+      "tr": "Hafif kinoa ve yumuşak elma ile pürüzsüz bir ara öğün.",
+      "en": "A smooth snack with light quinoa and soft apple."
+    },
+    "category": 18,
+    "ingredients": [
+      {
+        "amount": 2,
+        "unit": {
+          "tr": "yemek kaşığı",
+          "en": "tbsp"
+        },
+        "baseName": {
+          "tr": "kinoa",
+          "en": "quinoa"
+        },
+        "shoppingLabel": {
+          "tr": "kinoa",
+          "en": "quinoa"
+        }
+      },
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "adet",
+          "en": "piece"
+        },
+        "baseName": {
+          "tr": "küçük elma",
+          "en": "small apple"
+        },
+        "shoppingLabel": {
+          "tr": "küçük elma",
+          "en": "small apple"
+        }
+      },
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "su bardağı",
+          "en": "cup"
+        },
+        "baseName": {
+          "tr": "su",
+          "en": "water"
+        },
+        "shoppingLabel": {
+          "tr": "su",
+          "en": "water"
+        }
+      }
+    ],
+    "preparationTime": 20,
+    "calories": 88,
+    "suitableAgeInMonths": 10,
+    "allergicIngredients": [],
+    "instructions": [
+      {
+        "tr": "Kinoayı iyice yıkayıp suda yumuşayana kadar pişir.",
+        "en": "Rinse the quinoa well and cook in water until soft."
+      },
+      {
+        "tr": "Elmayı soyup rendeleyerek ekle ve kısa süre pişir.",
+        "en": "Peel and grate the apple, then add and cook briefly."
+      },
+      {
+        "tr": "Pütürsüzleştirip ılıtarak servis et.",
+        "en": "Blend smooth if needed and serve lukewarm."
+      }
+    ],
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/bebeks-44765.firebasestorage.app/o/gazsiz%2Fgazsiz_024_1785741633140_1200x675.webp?alt=media&token=0518db8f-e04e-4e1a-ac65-8acfdb3ffcf6"
+  },
+  {
+    "id": "gazsiz_025",
+    "title": {
+      "tr": "Brokolili Yumuşak Mısır Ezmesi",
+      "en": "Soft Corn Mash with Broccoli"
+    },
+    "description": {
+      "tr": "Brokoli ve mısırın yumuşacık birleşimi.",
+      "en": "A very soft blend of broccoli and corn."
+    },
+    "category": 18,
+    "ingredients": [
+      {
+        "amount": 3,
+        "unit": {
+          "tr": "yemek kaşığı",
+          "en": "tbsp"
+        },
+        "baseName": {
+          "tr": "mısır püresi",
+          "en": "corn purée"
+        },
+        "shoppingLabel": {
+          "tr": "mısır püresi",
+          "en": "corn purée"
+        }
+      },
+      {
+        "amount": 3,
+        "unit": {
+          "tr": "yemek kaşığı",
+          "en": "tbsp"
+        },
+        "baseName": {
+          "tr": "brokoli",
+          "en": "broccoli"
+        },
+        "shoppingLabel": {
+          "tr": "brokoli",
+          "en": "broccoli"
+        }
+      },
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "çay bardağı",
+          "en": "small tea glass"
+        },
+        "baseName": {
+          "tr": "su",
+          "en": "water"
+        },
+        "shoppingLabel": {
+          "tr": "su",
+          "en": "water"
+        }
+      }
+    ],
+    "preparationTime": 18,
+    "calories": 72,
+    "suitableAgeInMonths": 11,
+    "allergicIngredients": [],
+    "instructions": [
+      {
+        "tr": "Brokoliyi çok iyi yumuşayana kadar buharda pişir.",
+        "en": "Steam the broccoli until very soft."
+      },
+      {
+        "tr": "Mısır püresi ve suyla birlikte kısa süre ısıtıp ezin.",
+        "en": "Warm with corn purée and water, then mash."
+      },
+      {
+        "tr": "Parça kalmayacak şekilde kontrol edip servis et.",
+        "en": "Check that there are no firm pieces before serving."
+      }
+    ],
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/bebeks-44765.firebasestorage.app/o/gazsiz%2Fgazsiz_025_1785741652197_1200x675.webp?alt=media&token=6ec8fdb1-ba4e-46bd-80c3-4a6bd24e08a8"
+  },
+  {
+    "id": "gazsiz_026",
+    "title": {
+      "tr": "Tatlı Patatesli Hindi Sote",
+      "en": "Sweet Potato and Turkey Sauté"
+    },
+    "description": {
+      "tr": "İnce didiklenmiş hindi ve yumuşak tatlı patates.",
+      "en": "Finely shredded turkey with soft sweet potato."
+    },
+    "category": 18,
+    "ingredients": [
+      {
+        "amount": 40,
+        "unit": {
+          "tr": "gram",
+          "en": "g"
+        },
+        "baseName": {
+          "tr": "hindi göğsü",
+          "en": "turkey breast"
+        },
+        "shoppingLabel": {
+          "tr": "hindi göğsü",
+          "en": "turkey breast"
+        }
+      },
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "adet",
+          "en": "piece"
+        },
+        "baseName": {
+          "tr": "tatlı patates",
+          "en": "sweet potato"
+        },
+        "shoppingLabel": {
+          "tr": "tatlı patates",
+          "en": "sweet potato"
+        }
+      },
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "yemek kaşığı",
+          "en": "tbsp"
+        },
+        "baseName": {
+          "tr": "zeytinyağı",
+          "en": "olive oil"
+        },
+        "shoppingLabel": {
+          "tr": "zeytinyağı",
+          "en": "olive oil"
+        }
+      }
+    ],
+    "preparationTime": 30,
+    "calories": 120,
+    "suitableAgeInMonths": 12,
+    "allergicIngredients": [],
+    "instructions": [
+      {
+        "tr": "Tatlı patatesi küçük küpler halinde iyice yumuşayana kadar pişir.",
+        "en": "Cook the sweet potato in tiny cubes until very soft."
+      },
+      {
+        "tr": "Hindi etini tamamen pişirip çok ince didikle.",
+        "en": "Cook the turkey fully and shred it very finely."
+      },
+      {
+        "tr": "Az zeytinyağıyla birleştirip yumuşak kıvamda servis et.",
+        "en": "Combine with a little olive oil and serve soft."
+      }
+    ],
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/bebeks-44765.firebasestorage.app/o/gazsiz%2Fgazsiz_026_1785741669883_1200x675.webp?alt=media&token=03adaec5-7afe-47a3-b96c-1aefc6d686c4"
+  },
+  {
+    "id": "gazsiz_027",
+    "title": {
+      "tr": "Armutlu Yulaflı Püre",
+      "en": "Pear and Oat Purée"
+    },
+    "description": {
+      "tr": "Armutun doğal tatlılığıyla yumuşak bir püre.",
+      "en": "A soft purée with the natural sweetness of pear."
+    },
+    "category": 18,
+    "ingredients": [
+      {
+        "amount": 2,
+        "unit": {
+          "tr": "yemek kaşığı",
+          "en": "tbsp"
+        },
+        "baseName": {
+          "tr": "yulaf ezmesi",
+          "en": "oats"
+        },
+        "shoppingLabel": {
+          "tr": "yulaf ezmesi",
+          "en": "oats"
+        }
+      },
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "adet",
+          "en": "piece"
+        },
+        "baseName": {
+          "tr": "armut",
+          "en": "pear"
+        },
+        "shoppingLabel": {
+          "tr": "armut",
+          "en": "pear"
+        }
+      },
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "çay bardağı",
+          "en": "small tea glass"
+        },
+        "baseName": {
+          "tr": "su",
+          "en": "water"
+        },
+        "shoppingLabel": {
+          "tr": "su",
+          "en": "water"
+        }
+      }
+    ],
+    "preparationTime": 15,
+    "calories": 80,
+    "suitableAgeInMonths": 8,
+    "allergicIngredients": [
+      {
+        "tr": "glüten izi olabilir",
+        "en": "may contain gluten traces"
+      }
+    ],
+    "instructions": [
+      {
+        "tr": "Armutu soyup küp küp doğra ve suda yumuşat.",
+        "en": "Peel and dice the pear, then soften it in water."
+      },
+      {
+        "tr": "Yulafı ekleyip kısa süre pişir.",
+        "en": "Add the oats and cook briefly."
+      },
+      {
+        "tr": "İyice ezip pürüzsüz hale getir.",
+        "en": "Mash well until smooth."
+      }
+    ],
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/bebeks-44765.firebasestorage.app/o/gazsiz%2Fgazsiz_027_1785741691539_1200x675.webp?alt=media&token=969a00e5-25ba-4337-a895-6fa57f4277d8"
+  },
+  {
+    "id": "gazsiz_028",
+    "title": {
+      "tr": "Kabaklı Nohut Unu Kıvamı",
+      "en": "Zucchini with Chickpea Flour Thickening"
+    },
+    "description": {
+      "tr": "Kabakla yumuşayan, çok hafif bir kıvam yemeği.",
+      "en": "A very light dish thickened with zucchini."
+    },
+    "category": 18,
+    "ingredients": [
+      {
+        "amount": 3,
+        "unit": {
+          "tr": "yemek kaşığı",
+          "en": "tbsp"
+        },
+        "baseName": {
+          "tr": "kabak",
+          "en": "zucchini"
+        },
+        "shoppingLabel": {
+          "tr": "kabak",
+          "en": "zucchini"
+        }
+      },
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "yemek kaşığı",
+          "en": "tbsp"
+        },
+        "baseName": {
+          "tr": "nohut unu",
+          "en": "chickpea flour"
+        },
+        "shoppingLabel": {
+          "tr": "nohut unu",
+          "en": "chickpea flour"
+        }
+      },
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "su bardağı",
+          "en": "cup"
+        },
+        "baseName": {
+          "tr": "su",
+          "en": "water"
+        },
+        "shoppingLabel": {
+          "tr": "su",
+          "en": "water"
+        }
+      }
+    ],
+    "preparationTime": 18,
+    "calories": 78,
+    "suitableAgeInMonths": 8,
+    "allergicIngredients": [],
+    "instructions": [
+      {
+        "tr": "Kabağı çok küçük doğrayıp suda iyice yumuşat.",
+        "en": "Dice the zucchini very small and soften it in water."
+      },
+      {
+        "tr": "Nohut ununu azar azar ekleyip topak bırakmadan karıştır.",
+        "en": "Add the chickpea flour gradually, stirring to avoid lumps."
+      },
+      {
+        "tr": "Kıvam alınca ılıtarak servis et.",
+        "en": "Once thickened, cool slightly and serve."
+      }
+    ],
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/bebeks-44765.firebasestorage.app/o/gazsiz%2Fgazsiz_028_1785741713431_1200x675.webp?alt=media&token=325bb89d-1373-46f8-9be8-ff9b763ab5b6"
+  },
+  {
+    "id": "gazsiz_029",
+    "title": {
+      "tr": "Ispanaklı İnce Bulgur Çorbası",
+      "en": "Spinach and Fine Bulgur Soup"
+    },
+    "description": {
+      "tr": "Yumuşak ıspanak ve çok ince bulgurla sıcak bir çorba.",
+      "en": "A warm soup with soft spinach and fine bulgur."
+    },
+    "category": 18,
+    "ingredients": [
+      {
+        "amount": 2,
+        "unit": {
+          "tr": "yemek kaşığı",
+          "en": "tbsp"
+        },
+        "baseName": {
+          "tr": "ince bulgur",
+          "en": "fine bulgur"
+        },
+        "shoppingLabel": {
+          "tr": "ince bulgur",
+          "en": "fine bulgur"
+        }
+      },
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "avuç",
+          "en": "handful"
+        },
+        "baseName": {
+          "tr": "ıspanak",
+          "en": "spinach"
+        },
+        "shoppingLabel": {
+          "tr": "ıspanak",
+          "en": "spinach"
+        }
+      },
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "su bardağı",
+          "en": "cup"
+        },
+        "baseName": {
+          "tr": "su",
+          "en": "water"
+        },
+        "shoppingLabel": {
+          "tr": "su",
+          "en": "water"
+        }
+      }
+    ],
+    "preparationTime": 20,
+    "calories": 84,
+    "suitableAgeInMonths": 13,
+    "allergicIngredients": [
+      {
+        "tr": "glüten",
+        "en": "gluten"
+      }
+    ],
+    "instructions": [
+      {
+        "tr": "Ispanağı çok iyi yıka ve ince ince doğra.",
+        "en": "Wash the spinach very well and chop it finely."
+      },
+      {
+        "tr": "Bulgurla birlikte suda tamamen yumuşayana kadar pişir.",
+        "en": "Cook with bulgur in water until fully soft."
+      },
+      {
+        "tr": "Gerekirse hafifçe ezerek servis et.",
+        "en": "Mash lightly if needed before serving."
+      }
+    ],
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/bebeks-44765.firebasestorage.app/o/gazsiz%2Fgazsiz_029_1785741734986_1200x675.webp?alt=media&token=d564b982-1eda-4274-b437-1ddec9c3af6f"
+  },
+  {
+    "id": "gazsiz_030",
+    "title": {
+      "tr": "Karnabahar ve Bezelye Ezmesi",
+      "en": "Cauliflower and Pea Mash"
+    },
+    "description": {
+      "tr": "Mini taneli bezelye ve yumuşak karnabahar ezmesi.",
+      "en": "A mash of soft cauliflower and tiny peas."
+    },
+    "category": 18,
+    "ingredients": [
+      {
+        "amount": 4,
+        "unit": {
+          "tr": "yemek kaşığı",
+          "en": "tbsp"
+        },
+        "baseName": {
+          "tr": "karnabahar",
+          "en": "cauliflower"
+        },
+        "shoppingLabel": {
+          "tr": "karnabahar",
+          "en": "cauliflower"
+        }
+      },
+      {
+        "amount": 2,
+        "unit": {
+          "tr": "yemek kaşığı",
+          "en": "tbsp"
+        },
+        "baseName": {
+          "tr": "bezelye",
+          "en": "peas"
+        },
+        "shoppingLabel": {
+          "tr": "bezelye",
+          "en": "peas"
+        }
+      },
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "yemek kaşığı",
+          "en": "tbsp"
+        },
+        "baseName": {
+          "tr": "zeytinyağı",
+          "en": "olive oil"
+        },
+        "shoppingLabel": {
+          "tr": "zeytinyağı",
+          "en": "olive oil"
+        }
+      }
+    ],
+    "preparationTime": 22,
+    "calories": 70,
+    "suitableAgeInMonths": 11,
+    "allergicIngredients": [],
+    "instructions": [
+      {
+        "tr": "Karnabaharı ve bezelyeyi çok yumuşayana kadar pişir.",
+        "en": "Cook the cauliflower and peas until very soft."
+      },
+      {
+        "tr": "İnce püre yapıp istersen minicik taneli bırak.",
+        "en": "Purée finely, or leave tiny soft bits if desired."
+      },
+      {
+        "tr": "Zeytinyağıyla karıştırıp ılık ver.",
+        "en": "Mix with olive oil and serve warm."
+      }
+    ],
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/bebeks-44765.firebasestorage.app/o/gazsiz%2Fgazsiz_030_1785741760160_1200x675.webp?alt=media&token=9275e45c-e3b5-404e-a916-6cbafb2a61c8"
+  },
+  {
+    "id": "gazsiz_031",
+    "title": {
+      "tr": "Kırmızı Mercimekli Havuçsuz Sebze Çorbası",
+      "en": "Red Lentil Vegetable Soup without Carrot"
+    },
+    "description": {
+      "tr": "Kırmızı mercimek ve yumuşak sebzelerle sade çorba.",
+      "en": "A simple soup with red lentils and soft vegetables."
+    },
+    "category": 18,
+    "ingredients": [
+      {
+        "amount": 2,
+        "unit": {
+          "tr": "yemek kaşığı",
+          "en": "tbsp"
+        },
+        "baseName": {
+          "tr": "kırmızı mercimek",
+          "en": "red lentils"
+        },
+        "shoppingLabel": {
+          "tr": "kırmızı mercimek",
+          "en": "red lentils"
+        }
+      },
+      {
+        "amount": 2,
+        "unit": {
+          "tr": "yemek kaşığı",
+          "en": "tbsp"
+        },
+        "baseName": {
+          "tr": "kabak",
+          "en": "zucchini"
+        },
+        "shoppingLabel": {
+          "tr": "kabak",
+          "en": "zucchini"
+        }
+      },
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "çay bardağı",
+          "en": "small tea glass"
+        },
+        "baseName": {
+          "tr": "su",
+          "en": "water"
+        },
+        "shoppingLabel": {
+          "tr": "su",
+          "en": "water"
+        }
+      }
+    ],
+    "preparationTime": 25,
+    "calories": 92,
+    "suitableAgeInMonths": 9,
+    "allergicIngredients": [],
+    "instructions": [
+      {
+        "tr": "Mercimeği iyice yıkayıp kabakla birlikte pişir.",
+        "en": "Rinse the lentils well and cook with zucchini."
+      },
+      {
+        "tr": "Tamamen yumuşayınca püre haline getir.",
+        "en": "Purée once everything is fully soft."
+      },
+      {
+        "tr": "Ilıtıp küçük kaşıklarla sun.",
+        "en": "Cool slightly and serve in small spoonfuls."
+      }
+    ],
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/bebeks-44765.firebasestorage.app/o/gazsiz%2Fgazsiz_031_1785741782777_1200x675.webp?alt=media&token=9a0c17b9-2e97-4a84-ba36-de452b51be02"
+  },
+  {
+    "id": "gazsiz_032",
+    "title": {
+      "tr": "Kıymalı Patates Köfte Yumuşatması",
+      "en": "Minced Meat and Potato Soft Mix"
+    },
+    "description": {
+      "tr": "İyi pişmiş kıyma ve yumuşak patatesle küçük lokmalar.",
+      "en": "Well-cooked mince with soft potato in tiny bites."
+    },
+    "category": 18,
+    "ingredients": [
+      {
+        "amount": 35,
+        "unit": {
+          "tr": "gram",
+          "en": "g"
+        },
+        "baseName": {
+          "tr": "dana kıyma",
+          "en": "beef mince"
+        },
+        "shoppingLabel": {
+          "tr": "dana kıyma",
+          "en": "beef mince"
+        }
+      },
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "adet",
+          "en": "piece"
+        },
+        "baseName": {
+          "tr": "patates",
+          "en": "potato"
+        },
+        "shoppingLabel": {
+          "tr": "patates",
+          "en": "potato"
+        }
+      },
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "yemek kaşığı",
+          "en": "tbsp"
+        },
+        "baseName": {
+          "tr": "su",
+          "en": "water"
+        },
+        "shoppingLabel": {
+          "tr": "su",
+          "en": "water"
+        }
+      }
+    ],
+    "preparationTime": 30,
+    "calories": 130,
+    "suitableAgeInMonths": 12,
+    "allergicIngredients": [],
+    "instructions": [
+      {
+        "tr": "Kıymayı tamamen pişir ve çok küçük parçalara ayır.",
+        "en": "Cook the mince fully and break it into very small pieces."
+      },
+      {
+        "tr": "Patatesi iyice yumuşatıp ez.",
+        "en": "Soften the potato well and mash it."
+      },
+      {
+        "tr": "İkisini suyla birleştirip nemli bir kıvamda servis et.",
+        "en": "Combine with water and serve moist."
+      }
+    ],
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/bebeks-44765.firebasestorage.app/o/gazsiz%2Fgazsiz_032_1785741801261_1200x675.webp?alt=media&token=b9832641-cf11-4afb-8387-f99a1da8191a"
+  },
+  {
+    "id": "gazsiz_033",
+    "title": {
+      "tr": "Tavuklu Kabak Suyuna Tel Şehriye",
+      "en": "Tiny Vermicelli in Chicken and Zucchini Broth"
+    },
+    "description": {
+      "tr": "İnce tel şehriye ve çok yumuşak kabakla hafif bir kase.",
+      "en": "A light bowl with tiny vermicelli and very soft zucchini."
+    },
+    "category": 18,
+    "ingredients": [
+      {
+        "amount": 2,
+        "unit": {
+          "tr": "yemek kaşığı",
+          "en": "tbsp"
+        },
+        "baseName": {
+          "tr": "tel şehriye",
+          "en": "tiny vermicelli"
+        },
+        "shoppingLabel": {
+          "tr": "tel şehriye",
+          "en": "tiny vermicelli"
+        }
+      },
+      {
+        "amount": 3,
+        "unit": {
+          "tr": "yemek kaşığı",
+          "en": "tbsp"
+        },
+        "baseName": {
+          "tr": "kabak",
+          "en": "zucchini"
+        },
+        "shoppingLabel": {
+          "tr": "kabak",
+          "en": "zucchini"
+        }
+      },
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "su bardağı",
+          "en": "cup"
+        },
+        "baseName": {
+          "tr": "tuzsuz tavuk suyu",
+          "en": "unsalted chicken broth"
+        },
+        "shoppingLabel": {
+          "tr": "tuzsuz tavuk suyu",
+          "en": "unsalted chicken broth"
+        }
+      }
+    ],
+    "preparationTime": 18,
+    "calories": 98,
+    "suitableAgeInMonths": 10,
+    "allergicIngredients": [
+      {
+        "tr": "glüten",
+        "en": "gluten"
+      }
+    ],
+    "instructions": [
+      {
+        "tr": "Kabağı çok küçük doğrayıp tavuk suyunda pişir.",
+        "en": "Dice the zucchini very small and cook in chicken broth."
+      },
+      {
+        "tr": "Tel şehriyeyi ekleyip iyice yumuşat.",
+        "en": "Add the vermicelli and cook until very soft."
+      },
+      {
+        "tr": "Gerekiyorsa ezip ılıtarak ver.",
+        "en": "Mash if needed and serve lukewarm."
+      }
+    ],
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/bebeks-44765.firebasestorage.app/o/gazsiz%2Fgazsiz_033_1785741825978_1200x675.webp?alt=media&token=5c3571f5-bf02-4f1d-8844-6ff0df7af57b"
+  },
+  {
+    "id": "gazsiz_034",
+    "title": {
+      "tr": "Balkabaklı Kuskus Ezmesi",
+      "en": "Pumpkin Couscous Mash"
+    },
+    "description": {
+      "tr": "Yumuşak balkabağı ve minik kuskusla hafif bir öğün.",
+      "en": "A light meal with soft pumpkin and tiny couscous."
+    },
+    "category": 18,
+    "ingredients": [
+      {
+        "amount": 3,
+        "unit": {
+          "tr": "yemek kaşığı",
+          "en": "tbsp"
+        },
+        "baseName": {
+          "tr": "balkabağı",
+          "en": "pumpkin"
+        },
+        "shoppingLabel": {
+          "tr": "balkabağı",
+          "en": "pumpkin"
+        }
+      },
+      {
+        "amount": 2,
+        "unit": {
+          "tr": "yemek kaşığı",
+          "en": "tbsp"
+        },
+        "baseName": {
+          "tr": "kuskus",
+          "en": "couscous"
+        },
+        "shoppingLabel": {
+          "tr": "kuskus",
+          "en": "couscous"
+        }
+      },
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "çay bardağı",
+          "en": "small tea glass"
+        },
+        "baseName": {
+          "tr": "su",
+          "en": "water"
+        },
+        "shoppingLabel": {
+          "tr": "su",
+          "en": "water"
+        }
+      }
+    ],
+    "preparationTime": 16,
+    "calories": 83,
+    "suitableAgeInMonths": 7,
+    "allergicIngredients": [
+      {
+        "tr": "glüten",
+        "en": "gluten"
+      }
+    ],
+    "instructions": [
+      {
+        "tr": "Balkabağını çok yumuşayana kadar pişir.",
+        "en": "Cook the pumpkin until very soft."
+      },
+      {
+        "tr": "Kuskusu ekleyip suyu çekene kadar pişir.",
+        "en": "Add the couscous and cook until it absorbs the water."
+      },
+      {
+        "tr": "Çatalla ezip minik taneleri yumuşat.",
+        "en": "Mash with a fork to soften the tiny grains."
+      }
+    ],
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/bebeks-44765.firebasestorage.app/o/gazsiz%2Fgazsiz_034_1785741848032_1200x675.webp?alt=media&token=9bd32056-a821-4fda-82af-aa2ecf442205"
+  },
+  {
+    "id": "gazsiz_035",
+    "title": {
+      "tr": "Kabak Çiçeği ve Patates Kıvamı",
+      "en": "Zucchini Blossom and Potato Soft Blend"
+    },
+    "description": {
+      "tr": "Çok iyi pişmiş sebzelerle narin bir püre.",
+      "en": "A delicate purée of very well-cooked vegetables."
+    },
+    "category": 18,
+    "ingredients": [
+      {
+        "amount": 4,
+        "unit": {
+          "tr": "adet",
+          "en": "pieces"
+        },
+        "baseName": {
+          "tr": "kabak çiçeği",
+          "en": "zucchini blossom"
+        },
+        "shoppingLabel": {
+          "tr": "kabak çiçeği",
+          "en": "zucchini blossom"
+        }
+      },
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "adet",
+          "en": "piece"
+        },
+        "baseName": {
+          "tr": "küçük patates",
+          "en": "small potato"
+        },
+        "shoppingLabel": {
+          "tr": "küçük patates",
+          "en": "small potato"
+        }
+      },
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "yemek kaşığı",
+          "en": "tbsp"
+        },
+        "baseName": {
+          "tr": "su",
+          "en": "water"
+        },
+        "shoppingLabel": {
+          "tr": "su",
+          "en": "water"
+        }
+      }
+    ],
+    "preparationTime": 20,
+    "calories": 66,
+    "suitableAgeInMonths": 7,
+    "allergicIngredients": [],
+    "instructions": [
+      {
+        "tr": "Kabak çiçeklerini dikkatle temizleyip patatesle birlikte iyice yumuşat.",
+        "en": "Clean the zucchini blossoms carefully and cook them with potato until very soft."
+      },
+      {
+        "tr": "Pürüzsüz olacak şekilde ezin.",
+        "en": "Mash until smooth."
+      },
+      {
+        "tr": "Ilık halde minik porsiyonlarla servis et.",
+        "en": "Serve lukewarm in small portions."
+      }
+    ],
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/bebeks-44765.firebasestorage.app/o/gazsiz%2Fgazsiz_035_1785741878564_1200x675.webp?alt=media&token=57ad6360-971e-4079-933c-fc3ea5374e18"
+  },
+  {
+    "id": "gazsiz_036",
+    "title": {
+      "tr": "Şeftalili Sütlü Krem Kıvamı",
+      "en": "Peach and Milk Cream"
+    },
+    "description": {
+      "tr": "Pastörize sütle hazırlanmış, yumuşak ve sade bir tat.",
+      "en": "A soft, simple treat made with pasteurized milk."
+    },
+    "category": 18,
+    "ingredients": [
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "adet",
+          "en": "piece"
+        },
+        "baseName": {
+          "tr": "şeftali",
+          "en": "peach"
+        },
+        "shoppingLabel": {
+          "tr": "şeftali",
+          "en": "peach"
+        }
+      },
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "yemek kaşığı",
+          "en": "tbsp"
+        },
+        "baseName": {
+          "tr": "pirinç unu",
+          "en": "rice flour"
+        },
+        "shoppingLabel": {
+          "tr": "pirinç unu",
+          "en": "rice flour"
+        }
+      },
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "su bardağı",
+          "en": "cup"
+        },
+        "baseName": {
+          "tr": "pastörize süt",
+          "en": "pasteurized milk"
+        },
+        "shoppingLabel": {
+          "tr": "pastörize süt",
+          "en": "pasteurized milk"
+        }
+      }
+    ],
+    "preparationTime": 15,
+    "calories": 96,
+    "suitableAgeInMonths": 9,
+    "allergicIngredients": [
+      {
+        "tr": "süt",
+        "en": "milk"
+      }
+    ],
+    "instructions": [
+      {
+        "tr": "Şeftaliyi soyup çok yumuşayana kadar pişir.",
+        "en": "Peel the peach and cook until very soft."
+      },
+      {
+        "tr": "Süt ve pirinç ununu karıştırarak kısa süre pişir.",
+        "en": "Cook the milk and rice flour briefly while stirring."
+      },
+      {
+        "tr": "Şeftaliyi ekleyip pürüzsüz kıvam ver.",
+        "en": "Add the peach and make it smooth."
+      }
+    ],
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/bebeks-44765.firebasestorage.app/o/gazsiz%2Fgazsiz_036_1785741902055_1200x675.webp?alt=media&token=2e641a62-97fa-434e-b283-ac1a324380ad"
   }
 ]
