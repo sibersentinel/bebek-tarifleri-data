@@ -1168,5 +1168,326 @@
       }
     ],
     "imageUrl": "https://firebasestorage.googleapis.com/v0/b/bebeks-44765.firebasestorage.app/o/baslangic%2Fbaslangic_020_1785320291527_1200x675.webp?alt=media&token=6692005e-583f-4a64-9ed9-1caf1c622986"
+  },
+  {
+    "id": "baslangic_AI_DRAFT_4",
+    "title": {
+      "tr": "Hindi Köfteli Şehriyeli Sebze Sote",
+      "en": "Turkey Meatballs with Vermicelli and Soft Vegetables"
+    },
+    "description": {
+      "tr": "Yumuşak köfte ve küçük sebze parçalarıyla doyurucu bir tabak.",
+      "en": "A filling plate with soft meatballs and tiny vegetable pieces."
+    },
+    "category": 1,
+    "ingredients": [
+      {
+        "amount": 80,
+        "unit": {
+          "tr": "gram",
+          "en": "grams"
+        },
+        "baseName": {
+          "tr": "hindi kıyması",
+          "en": "ground turkey"
+        },
+        "shoppingLabel": {
+          "tr": "hindi kıyması",
+          "en": "ground turkey"
+        }
+      },
+      {
+        "amount": 2,
+        "unit": {
+          "tr": "yemek kaşığı",
+          "en": "tablespoons"
+        },
+        "baseName": {
+          "tr": "ince arpa şehriye",
+          "en": "fine vermicelli"
+        },
+        "shoppingLabel": {
+          "tr": "ince arpa şehriye",
+          "en": "fine vermicelli"
+        }
+      },
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "küçük",
+          "en": "small"
+        },
+        "baseName": {
+          "tr": "kabak",
+          "en": "zucchini"
+        },
+        "shoppingLabel": {
+          "tr": "kabak",
+          "en": "zucchini"
+        }
+      },
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "su bardağı",
+          "en": "cup"
+        },
+        "baseName": {
+          "tr": "su",
+          "en": "water"
+        },
+        "shoppingLabel": {
+          "tr": "içme suyu",
+          "en": "drinking water"
+        }
+      },
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "çay kaşığı",
+          "en": "teaspoon"
+        },
+        "baseName": {
+          "tr": "zeytinyağı",
+          "en": "olive oil"
+        },
+        "shoppingLabel": {
+          "tr": "zeytinyağı",
+          "en": "olive oil"
+        }
+      }
+    ],
+    "preparationTime": 30,
+    "calories": 120,
+    "suitableAgeInMonths": 9,
+    "allergicIngredients": [],
+    "instructions": [
+      {
+        "tr": "Hindi kıymasını çok küçük minik köfteler halinde şekillendirin.",
+        "en": "Shape the turkey into very small meatballs."
+      },
+      {
+        "tr": "Tam pişene kadar haşlayın veya buharda pişirin.",
+        "en": "Boil or steam until fully cooked."
+      },
+      {
+        "tr": "Kabağı çok küçük küpler halinde yumuşatın, şehriyeyi de ayrı pişirin.",
+        "en": "Soften the zucchini in tiny cubes and cook the vermicelli separately."
+      },
+      {
+        "tr": "Hepsini birleştirip yaşına uygun küçük yumuşak parçalar halinde servis edin.",
+        "en": "Combine and serve as small, soft pieces suitable for the age."
+      }
+    ],
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/bebeks-44765.firebasestorage.app/o/baslangic%2Fbaslangic_a_draft_4_1794221612706_1200x675.webp?alt=media&token=21a398d4-ecb0-44ee-b089-c7bcde13d3ee"
+  },
+  {
+    "id": "baslangic_021",
+    "title": {
+      "tr": "Semizotlu Pirinç Lapası",
+      "en": "Purslane and Rice Porridge"
+    },
+    "description": {
+      "tr": "İpeksi, yumuşak ve ilk kaşıklar için uygun bir lapa.",
+      "en": "A silky, soft porridge for first spoonfuls."
+    },
+    "category": 1,
+    "ingredients": [
+      {
+        "amount": 2,
+        "unit": {
+          "tr": "yemek kaşığı",
+          "en": "tablespoons"
+        },
+        "baseName": {
+          "tr": "pirinç",
+          "en": "rice"
+        },
+        "shoppingLabel": {
+          "tr": "pirinç",
+          "en": "rice"
+        }
+      },
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "küçük demet",
+          "en": "small bunch"
+        },
+        "baseName": {
+          "tr": "semizotu",
+          "en": "purslane"
+        },
+        "shoppingLabel": {
+          "tr": "semizotu",
+          "en": "purslane"
+        }
+      },
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "çay kaşığı",
+          "en": "teaspoon"
+        },
+        "baseName": {
+          "tr": "zeytinyağı",
+          "en": "olive oil"
+        },
+        "shoppingLabel": {
+          "tr": "zeytinyağı",
+          "en": "olive oil"
+        }
+      },
+      {
+        "amount": 1.5,
+        "unit": {
+          "tr": "su bardağı",
+          "en": "cups"
+        },
+        "baseName": {
+          "tr": "su",
+          "en": "water"
+        },
+        "shoppingLabel": {
+          "tr": "içme suyu",
+          "en": "drinking water"
+        }
+      }
+    ],
+    "preparationTime": 20,
+    "calories": 70,
+    "suitableAgeInMonths": 6,
+    "allergicIngredients": [],
+    "instructions": [
+      {
+        "tr": "Pirinci iyice yıkayıp çok yumuşayana kadar pişirin.",
+        "en": "Rinse the rice well and cook until very soft."
+      },
+      {
+        "tr": "Semizotunu son dakikalarda ekleyin, iyice sönsün.",
+        "en": "Add the purslane in the last minutes and soften it well."
+      },
+      {
+        "tr": "Pürüzsüz bir lapa için tamamen ezin veya süzgeçten geçirin.",
+        "en": "Mash fully or pass through a fine sieve for a smooth porridge."
+      },
+      {
+        "tr": "Ilıyınca zeytinyağı ekleyin.",
+        "en": "Stir in the olive oil once warm."
+      }
+    ],
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/bebeks-44765.firebasestorage.app/o/baslangic%2Fbaslangic_021_1794221628979_1200x675.webp?alt=media&token=27d0fa26-d9a5-4f22-b119-9b7889aada44"
+  },
+  {
+    "id": "baslangic_022",
+    "title": {
+      "tr": "Fırında Yoğun Sebzeli Nohut Ezmesi",
+      "en": "Roasted Vegetable and Chickpea Mash"
+    },
+    "description": {
+      "tr": "Kaşıkla kolay alınan, tok ve yumuşak bir karışım.",
+      "en": "A thick, soft mix that is easy to scoop."
+    },
+    "category": 1,
+    "ingredients": [
+      {
+        "amount": 3,
+        "unit": {
+          "tr": "yemek kaşığı",
+          "en": "tablespoons"
+        },
+        "baseName": {
+          "tr": "haşlanmış nohut",
+          "en": "cooked chickpeas"
+        },
+        "shoppingLabel": {
+          "tr": "haşlanmış nohut",
+          "en": "cooked chickpeas"
+        }
+      },
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "küçük",
+          "en": "small"
+        },
+        "baseName": {
+          "tr": "havuç",
+          "en": "carrot"
+        },
+        "shoppingLabel": {
+          "tr": "havuç",
+          "en": "carrot"
+        }
+      },
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "küçük",
+          "en": "small"
+        },
+        "baseName": {
+          "tr": "pırasa",
+          "en": "leek"
+        },
+        "shoppingLabel": {
+          "tr": "pırasa",
+          "en": "leek"
+        }
+      },
+      {
+        "amount": 1,
+        "unit": {
+          "tr": "çay kaşığı",
+          "en": "teaspoon"
+        },
+        "baseName": {
+          "tr": "zeytinyağı",
+          "en": "olive oil"
+        },
+        "shoppingLabel": {
+          "tr": "zeytinyağı",
+          "en": "olive oil"
+        }
+      },
+      {
+        "amount": 2,
+        "unit": {
+          "tr": "yemek kaşığı",
+          "en": "tablespoons"
+        },
+        "baseName": {
+          "tr": "su",
+          "en": "water"
+        },
+        "shoppingLabel": {
+          "tr": "içme suyu",
+          "en": "drinking water"
+        }
+      }
+    ],
+    "preparationTime": 35,
+    "calories": 110,
+    "suitableAgeInMonths": 10,
+    "allergicIngredients": [],
+    "instructions": [
+      {
+        "tr": "Havuç ve pırasayı çok yumuşayana kadar fırında veya buharda pişirin.",
+        "en": "Cook the carrot and leek in the oven or by steaming until very soft."
+      },
+      {
+        "tr": "Nohutla birlikte ezerek koyu bir püre yapın.",
+        "en": "Mash with the chickpeas into a thick puree."
+      },
+      {
+        "tr": "Gerekiyorsa az su ekleyip yaşına uygun yumuşaklıkta açın.",
+        "en": "Add a little water if needed to reach an age-appropriate softness."
+      },
+      {
+        "tr": "Ilıyınca zeytinyağı ekleyin.",
+        "en": "Stir in the olive oil once warm."
+      }
+    ],
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/bebeks-44765.firebasestorage.app/o/baslangic%2Fbaslangic_022_1794221646245_1200x675.webp?alt=media&token=0f02a2bb-ac1f-486c-b1fd-9af96eb46f50"
   }
 ]
